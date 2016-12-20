@@ -132,7 +132,7 @@ $_SESSION['LAST_ACTIVITY'] = time();
 					<table>
 						<!-- done by Maryam -->
 						<tr>
-							<td class="desc">Enrichment p-value (mRNA/miRNA)</td>
+							<td class="desc">Enrichment p-value<br /> (mRNA/miRNA)</td>
 							<td>
 								<input class="chosen_border" title="Enter a treshold between 0 and 1" name="enrich_pvalue" type="text" size="6" value="<?php echo checkInput('orapvalue','0.05');?>" onchange="if (checkRange(0.0,1.0)) setCookie(this);">
 							</td>
@@ -217,8 +217,8 @@ $_SESSION['LAST_ACTIVITY'] = time();
 						</tr>
 						<tr>
 							<td class="desc">PPI threshold</td>
-							<td><input class="chosen_border" title="Enter a treshold between 0 and 1" name="ppIcut" type="text" size="6" value="<?php echo checkInput('ppIcut','0.8');?>" onchange="if (checkRange(0.0,1.0)) setCookie(this);"></td>
-							<td class="random">
+							<td><input class="chosen_border" id="ppIcut" title="Enter a treshold between 0 and 1" name="ppIcut" type="text" size="6" value="<?php echo checkInput('ppIcut','0.8');?>" onchange="if (checkRange(0.0,1.0)) setCookie(this);"></td>
+							<td class="desc"> <!-- random? -->
 								Randomization Method
 							</td>
 							<td>

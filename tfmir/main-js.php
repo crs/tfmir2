@@ -70,7 +70,7 @@ function initCookie(target, value) {
 		log("Initialize cookie " + target + " with " + value);
 		docCookies.setItem(target,value);
 	} else {
-		log("Cookie already set");
+		console.log(target + " cookie already set to " + value);
 	}
 }
 
@@ -501,9 +501,16 @@ function msieversion() {
             //alert(parseInt(ua.substring(msie + 5, ua.indexOf(".", msie))));
 }
 
+function eraseCookie(name) {
+    docCookies.setItem(name,"");
+}
+
 function clearSession() {
 	if (confirm('This will remove all generated results. Are you sure?')) {
 		console.log('delete');
+		var cookies = document.cookie.split(";");
+		for (var i = 0; i < cookies.length; i++)
+  			eraseCookie(cookies[i].split("=")[0]);
 		$.get('deleteSession.php', function(data) {
 			log('Deleted');
 			location.reload();
