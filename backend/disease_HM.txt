@@ -1,0 +1,5465 @@
+Hepatolenticular Degeneration
+Obesity
+"Diabetes Mellitus, Type 2"
+Cystic Fibrosis
+Rett Syndrome
+Alzheimer Disease
+Creutzfeldt-Jakob Syndrome
+Familial Mediterranean Fever
+Gastrointestinal Stromal Tumors
+Pheochromocytoma
+"Muscular Dystrophy, Duchenne"
+"Diabetes Insipidus, Neurogenic"
+Fragile X Syndrome
+Ornithine Carbamoyltransferase Deficiency Disease
+Brugada Syndrome
+Marfan Syndrome
+Polycythemia Vera
+"Polycystic Kidney, Autosomal Recessive"
+Malignant Hyperthermia
+Canavan Disease
+Noonan Syndrome
+Ataxia Telangiectasia
+Multiple Endocrine Neoplasia Type 1
+Mucopolysaccharidosis VI
+"Hyperkeratosis, Epidermolytic"
+Peutz-Jeghers Syndrome
+Chediak-Higashi Syndrome
+Androgen-Insensitivity Syndrome
+Fabry Disease
+Neurofibromatosis 1
+von Hippel-Lindau Disease
+Pseudoxanthoma Elasticum
+"Hamartoma Syndrome, Multiple"
+Alexander Disease
+Hemophilia B
+"Leukodystrophy, Metachromatic"
+"Telangiectasia, Hereditary Hemorrhagic"
+Wiskott-Aldrich Syndrome
+"Porphyria, Acute Intermittent"
+CADASIL
+Glycogen Storage Disease Type II
+Adrenoleukodystrophy
+Achondroplasia
+"Optic Atrophy, Autosomal Dominant"
+Progeria
+Pelizaeus-Merzbacher Disease
+Osteitis Deformans
+Cystinuria
+Basal Cell Nevus Syndrome
+Lesch-Nyhan Syndrome
+Wolfram Syndrome
+Gitelman Syndrome
+Smith-Lemli-Opitz Syndrome
+"Protoporphyria, Erythropoietic"
+Werner Syndrome
+Bruton type agammaglobulinemia
+Aniridia
+Menkes Kinky Hair Syndrome
+Cleidocranial Dysplasia
+Bloom Syndrome
+"Exostoses, Multiple Hereditary"
+Pendred syndrome
+"Myopathy, Central Core"
+Darier Disease
+Tangier Disease
+Multiple Endocrine Neoplasia Type 2b
+"von Willebrand Disease, Type 1"
+Hyperlipoproteinemia Type I
+Laron Syndrome
+Tay-Sachs Disease
+LEOPARD Syndrome
+"Hypophosphatemic Rickets, X-Linked Dominant"
+"Periodic fever, familial, autosomal dominant"
+Nail-Patella Syndrome
+DiGeorge Syndrome
+"Dysautonomia, Familial"
+Congenital central hypoventilation syndrome
+Medium chain acyl CoA dehydrogenase deficiency
+Rubinstein-Taybi Syndrome
+Pulmonary arterial hypertension
+De Lange Syndrome
+Coffin-Lowry Syndrome
+Lafora Disease
+"Leukodystrophy, Globoid Cell"
+CHARGE Syndrome
+"Myoclonic Epilepsy, Juvenile"
+"Ceroid lipofuscinosis, neuronal 3, Juvenile"
+Choroideremia
+Juvenile polyposis syndrome
+"Granulomatous Disease, Chronic, X-Linked"
+Jervell-Lange Nielsen Syndrome
+Lecithin Acyltransferase Deficiency
+Enlarged Vestibular Aqueduct
+Denys-Drash Syndrome
+"Leukemia, Myelomonocytic, Juvenile"
+Leigh Disease
+Cryptorchidism
+Bernard-Soulier Syndrome
+Glycogen Storage Disease Type IIb
+Sandhoff Disease
+Miyoshi myopathy
+Pseudoachondroplasia
+Recessive dystrophic epidermolysis bullosa
+"Optic Atrophy, Hereditary, Leber"
+"Jaundice, Chronic Idiopathic"
+Holt-Oram syndrome
+Mandibulofacial Dysostosis
+Glycogen Storage Disease Type I
+"Lamellar ichthyosis, type 1"
+Hypokalemic Periodic Paralysis
+Mucopolysaccharidosis VII
+"Ectodermal Dysplasia 1, Anhidrotic"
+Van der Woude syndrome
+Romano-Ward Syndrome
+Axenfeld-Rieger syndrome
+"Hemiplegic migraine, familial type 1"
+Autoimmune Lymphoproliferative Syndrome
+Campomelic Dysplasia
+"ALPORT SYNDROME, X-LINKED"
+Bardet-Biedl Syndrome
+Mucolipidosis Type IV
+Limb-girdle muscular dystrophy type 2A
+Oculocutaneous albinism type 1
+"Porphyria, Erythropoietic"
+Maple Syrup Urine Disease
+Biotinidase Deficiency
+Craniofacial Dysostosis
+Costello Syndrome
+"Carcinoma, Hepatocellular"
+Norrie disease
+Alkaptonuria
+Focal Dermal Hypoplasia
+"Myotubular myopathy, X-linked"
+Glycogen Storage Disease Type IV
+Citrullinemia
+"Limb-girdle muscular dystrophy, type 2B"
+"Blepharophimosis, Ptosis, and Epicanthus Inversus"
+Micropolygyria with Muscular Dystrophy
+Birt-Hogg-Dube Syndrome
+Stargardt disease 1
+Aspartylglucosaminuria
+Unverricht-Lundborg Syndrome
+"Charcot-Marie-Tooth disease, X-linked, 1"
+Inclusion Body Myopathy With Early-Onset Paget Disease And Frontotemporal Dementia
+Muckle-Wells syndrome
+"Keratitis, Ichthyosis, and Deafness (KID) Syndrome"
+"Diabetes Mellitus, Permanent Neonatal"
+"Spondyloepiphyseal dysplasia, congenita"
+Simpson-Golabi-Behmel syndrome
+"Hypophosphatemic Rickets, Autosomal Dominant"
+"Coproporphyria, Hereditary"
+Tomaculous neuropathy
+Cherubism
+Milroy's Disease
+Oculodentodigital Dysplasia
+Leukocyte adhesion deficiency type 1
+Papillorenal syndrome
+Refsum Disease
+"Insomnia, Fatal Familial"
+Juvenile gout
+ATR-X syndrome
+Cardiofaciocutaneous syndrome
+"Epilepsy, Lateral Temporal Lobe, Autosomal Dominant"
+Pycnodysostosis
+Poikiloderma of Kindler
+Ocular Albinism type 1
+Familial cold urticaria
+Polymorphic catecholergic ventricular tachycardia
+Neuraminidase deficiency with beta-galactosidase deficiency
+"Muscular dystrophy congenital, merosin negative"
+Pelger-Huet Anomaly
+"Paralysis, Hyperkalemic Periodic"
+Systemic carnitine deficiency
+Congenital contractural arachnodactyly
+"Hyperparathyroidism, Neonatal Severe Primary"
+"Xeroderma Pigmentosum, Complementation Group D"
+"Maturity-Onset Diabetes of the Young, Type 2"
+"Opitz GBBB Syndrome, X-Linked"
+Long Qt Syndrome 3
+Hay-Wells syndrome
+Mowat-Wilson syndrome
+Meckel syndrome type 1
+Greig cephalopolysyndactyly syndrome
+Osteoporosis-pseudoglioma syndrome
+Infantile Neuroaxonal Dystrophy
+Barakat syndrome
+"Maturity-Onset Diabetes of the Young, Type 3"
+Bethlem myopathy
+"HYPERCHOLESTEROLEMIA, FAMILIAL"
+Ulnar-mammary syndrome
+"NIGHT BLINDNESS, CONGENITAL STATIONARY, TYPE 2A"
+Smith-McCort Dysplasia
+Schimke immunoosseous dysplasia
+"Fundus Dystrophy, Pseudoinflammatory, Of Sorsby"
+Triglyceride storage disease with impaired long-chain fatty acid oxidation
+"Vitamin D Hydroxylation-Deficient Rickets, Type 1A"
+Kartagener Syndrome
+Enhanced S-Cone Syndrome
+"Myopathy, Myofibrillar, Desmin-Related"
+"Immunodysregulation, Polyendocrinopathy, and Enteropathy, X-Linked"
+Allan-Herndon-Dudley syndrome
+Thiamine responsive megaloblastic anemia syndrome
+Aicardi-Goutieres syndrome
+"Niemann-Pick Disease, Type B"
+"Episodic Ataxia, Type 1"
+Antithrombin III Deficiency
+Thiopurine S methyltranferase deficiency
+Glycogen Storage Disease Type VII
+Craniofrontonasal dysplasia
+Muenke Syndrome
+Myoclonic dystonia
+Ataxia with vitamin E deficiency
+Ossification of the posterior longitudinal ligament of the spine
+Giant Axonal Neuropathy
+Ichthyosis Bullosa of Siemens
+"MASA (Mental Retardation, Aphasia, Shuffling Gait, Adducted Thumbs) Syndrome"
+"Hypercholesterolemia, Autosomal Recessive"
+Purine Nucleoside Phosphorylase Deficiency
+"Carcinoma, squamous cell of head and neck"
+Argininosuccinic Aciduria
+Familial porencephaly
+Lymphedema distichiasis syndrome
+"Microphthalmia, syndromic 7"
+Popliteal Pterygium Syndrome
+alpha-Mannosidosis
+Waardenburg syndrome type 2A
+"Limb-girdle muscular dystrophy, type 2C"
+Glycogen Storage Disease IB
+Glucose/Galactose Malabsorption
+Short chain Acyl CoA dehydrogenase deficiency
+"USHER SYNDROME, TYPE IIIA"
+Wolcott-Rallison syndrome
+"Thanatophoric dysplasia, type 2"
+"Oto-palato-digital syndrome, type 2"
+Hand foot uterus syndrome
+Epidermolysis bullosa with pyloric atresia
+Myeloperoxidase Deficiency
+Ehlers-Danlos syndrome type 6
+Hyperargininemia
+"Lissencephaly, X-Linked, 2"
+Platelet Glycoprotein IV Deficiency
+Peters anomaly
+Hyperprolinemia
+"Xeroderma Pigmentosum, Complementation Group C"
+Ellis-Van Creveld Syndrome
+succinic semialdehyde dehydrogenase deficiency
+Bestrophinopathy
+"Polycythemia, primary familial and congenital"
+Developmental verbal dyspraxia
+Pierson syndrome
+"Robinow syndrome, autosomal recessive"
+Rigid spine syndrome
+Acrodermatitis enteropathica
+Hartnup Disease
+Cleft palate X-linked
+VLCAD deficiency
+Osteopetrosis with renal tubular acidosis
+Nance Sweeney chondrodysplasia
+Doyne honeycomb retinal dystrophy
+Ethylmalonic encephalopathy
+X-linked periventricular heterotopia
+Hyperglycerolemia
+Parietal Foramina
+Retinitis Pigmentosa 3
+"Limb-girdle muscular dystrophy, type 2D"
+Neuroacanthocytosis
+Metaphyseal chondrodysplasia Schmid type
+"Waardenburg syndrome, type 4"
+"Xeroderma Pigmentosum, Complementation Group G"
+Fraser Syndrome
+Methionine Adenosyltransferase Deficiency
+"LIPODYSTROPHY, FAMILIAL PARTIAL, TYPE 3"
+Liddle Syndrome
+Limb-girdle muscular dystrophy type 2H
+"Usher Syndrome, Type IIA"
+Timothy syndrome
+"Osteogenesis imperfecta, type 3"
+"Charcot-Marie-Tooth disease, Type 4E"
+Kleefstra Syndrome
+"Xeroderma Pigmentosum, Complementation Group B"
+Erythrokeratodermia Variabilis
+Clubfoot
+"Niemann-Pick Disease, Type A"
+Legius syndrome
+Multiple Sulfatase Deficiency Disease
+Johanson Blizzard syndrome
+Primary hyperoxaluria type 1
+"LIPODYSTROPHY, CONGENITAL GENERALIZED, TYPE 2"
+Jarcho-Levin syndrome
+Dyggve-Melchior-Clausen syndrome
+"Ectodermal Dysplasia, Hypohidrotic, Autosomal Recessive"
+Cutis Gyrata Syndrome of Beare And Stevenson
+"Muscular Dystrophy, Congenital, 1C"
+Hyperexplexia hereditary
+Convulsions benign familial neonatal dominant form
+"Charcot-Marie-Tooth disease, Type 4B1"
+N-acetyl glutamate synthetase deficiency
+"Creatine deficiency, X-linked"
+Lipoid congenital adrenal hyperplasia
+"Hemochromatosis, type 3"
+"Craniometaphyseal Dysplasia, Autosomal Dominant"
+Mosaic variegated aneuploidy syndrome
+"Osteogenesis imperfecta, type 2A"
+Achondrogenesis type 2
+Carbamoyl-Phosphate Synthase I Deficiency Disease
+"Chondrodysplasia punctata 2, X-linked dominant"
+"Maturity-Onset Diabetes of the Young, Type 1"
+Brachydactyly type A1
+Tietz syndrome
+"Craniosynostosis, Type 2"
+"Spinocerebellar ataxia, autosomal recessive, with axonal neuropathy"
+Char syndrome
+"Ceroid Lipofuscinosis, Neuronal, 2"
+Oculocutaneous albinism type 1B
+Tetralogy of Fallot
+"Renal tubular acidosis, distal, autosomal recessive"
+Finnish lethal neonatal metabolic syndrome
+Bare lymphocyte syndrome 2
+Ehlers-Danlos syndrome type 1
+"Cutis Laxa, Autosomal Recessive, Type I"
+Retinal cone dystrophy 2
+Trifunctional Protein Deficiency
+"Leukokeratosis, Hereditary Mucosal"
+LIG4 Syndrome
+Familial Glucocorticoid Deficiency 1
+Neuraminidase 1 deficiency
+Nephronophthisis 3
+"Rhizomelic chondrodysplasia punctata, type 1"
+Corticosteroid-Binding Globulin Deficiency
+"Charcot-Marie-Tooth disease, Type 4C"
+Ichthyosis prematurity syndrome
+"Hemochromatosis, type 4"
+"ACTH Deficiency, Isolated"
+Giedion syndrome
+Distal myopathy Markesbery-Griggs type
+"Ichthyosiform erythroderma, Brocq congenital, nonbullous form"
+"Amelogenesis imperfecta, hypoplastic/hypomaturation, X-linked 1"
+Hermansky Pudlak syndrome 2
+Late-Onset Retinal Degeneration
+"Ventricular Tachycardia, Catecholaminergic Polymorphic, 2"
+"Deafness, Autosomal Recessive 12"
+"Deafness, Autosomal Dominant 9"
+Ehlers-Danlos syndrome type 2
+"Epiphyseal dysplasia, multiple, 1"
+"Xeroderma Pigmentosum, Complementation Group F"
+"Charcot-Marie-Tooth Disease, Type 4j"
+"Charcot-Marie-Tooth disease, Type 2D"
+Synpolydactyly 1
+"Xeroderma pigmentosum, variant type"
+Retinitis Pigmentosa 11
+Retinitis pigmentosa 1
+"Spastic paraplegia 4, autosomal dominant"
+Peroxisomal ACYL-COA oxidase deficiency
+"Hypophosphatasia, Adult"
+"Stickler syndrome, type 2"
+"Cataract, Crystalline Aculeiform"
+"Xeroderma Pigmentosum, Complementation Group E"
+"Dentinogenesis imperfecta, shields type 3"
+"Diarrhea 5, With Tufting Enteropathy, Congenital"
+"Muscular Dystrophy, Limb-Girdle, Type 2I"
+Oto-Palato-digital syndrome type 1
+Exudative vitreoretinopathy 1
+Guanidinoacetate methyltransferase deficiency
+Nephronophthisis 2
+Cornea Plana 2
+"Microcephaly, Primary Autosomal Recessive, 1"
+"Maturity-Onset Diabetes of the Young, Type 4"
+"Spastic paraplegia 2, X-linked"
+"Amaurosis congenita of Leber, type 2"
+Limb-girdle muscular dystrophy type 2F
+Ter Haar syndrome
+Fuhrmann syndrome
+Osler-rendu-weber syndrome 2
+"LIPODYSTROPHY, CONGENITAL GENERALIZED, TYPE 1"
+Leber Congenital Amaurosis 4
+"Bartter Syndrome, Type 4A"
+"Muscular Dystrophy, Limb-Girdle, Type 1C"
+Dent disease 1
+Retinitis Pigmentosa 12
+"Neutrophilia, Hereditary"
+Bamforth syndrome
+"Tay-Sachs Disease, AB Variant"
+Mucolipidosis II Alpha Beta
+"Usher syndrome, type 2C"
+Hyaluronidase Deficiency
+Spinal muscular atrophy with respiratory distress 1
+Donnai-Barrow syndrome
+"Deafness, Autosomal Dominant 22"
+"Deafness, Autosomal Recessive 2"
+"Exudative Vitreoretinopathy, Familial, X-Linked Recessive"
+"Nephrotic syndrome, idiopathic, steroid-resistant"
+Progressive hearing loss stapes fixation
+"Ceroid Lipofuscinosis, Neuronal, 1"
+Retinitis Pigmentosa 18
+Lathosterolosis
+"Generalized Epilepsy With Febrile Seizures Plus, Type 1"
+"Limb-girdle muscular dystrophy, type 2E"
+Holoprosencephaly 2
+Hypotrichosis-Lymphedema-Telangiectasia Syndrome
+"Dystonia, Dopa-Responsive, due to Sepiapterin Reductase Deficiency"
+"Deafness, Autosomal Dominant 36"
+"Rhizomelic chondrodysplasia punctata, type 3"
+"Epileptic Encephalopathy, Early Infantile, 1"
+"Ceroid lipofuscinosis, neuronal 5"
+"Deafness, Autosomal Dominant 13"
+"Platyspondylic Lethal Skeletal Dysplasia, Torrance Type"
+"Corneal dystrophy, Fuchs' endothelial, 1"
+Dopamine beta hydroxylase deficiency
+"Short rib-polydactyly syndrome, Verma-Naumoff type"
+"FANCONI ANEMIA, COMPLEMENTATION GROUP D2"
+"Charcot-Marie-Tooth Disease, Type 4H"
+Anterior segment mesenchymal dysgenesis
+"Leukodystrophy, Hypomyelinating, 2"
+"Rhizomelic chondrodysplasia punctata, type 2"
+Cone Dystrophy 3
+"Glycogen Storage Disease 0, Liver"
+"Cataract, zonular"
+"Epiphyseal dysplasia, multiple, 5"
+Congenital disorder of glycosylation type 2A
+Lynch Syndrome II
+"TOOTH AGENESIS, SELECTIVE, 1"
+"NIGHT BLINDNESS, CONGENITAL STATIONARY, TYPE 1A"
+"Deafness, Autosomal Recessive 9"
+"Spondyloepimetaphyseal Dysplasia, Pakistani Type"
+"Parkinson Disease 7, Autosomal Recessive Early-Onset"
+"Parkinson Disease 6, Autosomal Recessive Early-Onset"
+"Polycystic kidney disease, type 2"
+"Plasminogen Deficiency, Type I"
+Retinitis Pigmentosa 13
+Metachromatic Leukodystrophy due to Saposin B Deficiency
+6-pyruvoyl-tetrahydropterin synthase deficiency
+"Hypokalemic Periodic Paralysis, Type 2"
+Hereditary bundle branch system defect
+Familial encephalopathy with neuroserpin inclusion bodies
+Amish lethal microcephaly
+"Oculocutaneous Albinism, Type IV"
+Retinitis Pigmentosa 14
+Harlequin type ichthyosis
+"Surfactant Metabolism Dysfunction, Pulmonary, 3"
+Cone-Rod Dystrophy 3
+"Diabetes Mellitus, Transient Neonatal, 2"
+Sitosterolemia
+Nemaline myopathy 3
+Congenital myasthenic syndrome ib
+Joubert syndrome 3
+"Spherocytosis, Type 1"
+"Cerebellar Ataxia, Cayman Type"
+"BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 1"
+"Fanconi Anemia, Complementation Group D1"
+Cerebral Cavernous Malformations 2
+Joubert syndrome 5
+"Myasthenic syndrome, congenital, type Id"
+"Osteopetrosis, Autosomal Recessive 4"
+"Ceroid Lipofuscinosis, Neuronal, 6"
+"Epidermolysis Bullosa, Junctional, Non-Herlitz Type"
+"Stickler Syndrome, Type I, Nonsyndromic Ocular"
+Alpha-B Crystallinopathy
+"Cardiomyopathy, Dilated, 1M"
+"CARDIOMYOPATHY, FAMILIAL HYPERTROPHIC, 12"
+"Ceroid Lipofuscinosis, Neuronal, 10"
+"Glaucoma 3, Primary Congenital, A"
+"Cardiomyopathy, Dilated, 1i"
+"Deafness, Autosomal Recessive 59"
+"Ciliary Dyskinesia, Primary, 7"
+"Primary ciliary dyskinesia, 3"
+"Immunodeficiency syndrome, variable"
+Thyroid Dyshormonogenesis 6
+Asphyxiating Thoracic Dystrophy 3
+"Waardenburg Syndrome, Type 4b"
+"TRICHOTHIODYSTROPHY, PHOTOSENSITIVE"
+"EXOSTOSES, MULTIPLE, TYPE II"
+Branchiootorenal syndrome 1
+"SPASTIC PARAPLEGIA 35, AUTOSOMAL RECESSIVE"
+"MUSCULAR DYSTROPHY-DYSTROGLYCANOPATHY (CONGENITAL WITH BRAIN AND EYE ANOMALIES), TYPE A, 5"
+"MUSCULAR DYSTROPHY-DYSTROGLYCANOPATHY (CONGENITAL WITHOUT MENTAL RETARDATION), TYPE B, 4"
+Atrial septal defect 2
+"Neutropenia, Severe Congenital, Autosomal Dominant 2"
+"Cataract, Zonular Pulverulent 1"
+"Deafness, Autosomal Recessive 1A"
+Glycine N-Methyltransferase Deficiency
+"HEMOLYTIC ANEMIA, NONSPHEROCYTIC, DUE TO GLUCOSE PHOSPHATE ISOMERASE DEFICIENCY"
+"Hemochromatosis, Type 2A"
+"HEMOLYTIC ANEMIA, NONSPHEROCYTIC, DUE TO HEXOKINASE DEFICIENCY"
+Bifunctional peroxisomal enzyme deficiency
+"PARKINSON DISEASE 13, AUTOSOMAL DOMINANT, SUSCEPTIBILITY TO"
+Asphyxiating Thoracic Dystrophy 2
+"Arrhythmogenic Right Ventricular Dysplasia, Familial, 12"
+Short QT Syndrome 1
+"Bartter syndrome, antenatal , type 2"
+"SEIZURES, BENIGN FAMILIAL NEONATAL, 1"
+"Charcot-Marie-Tooth Disease, Axonal, Type 2a1"
+"Epidermolysis Bullosa Simplex, Autosomal Recessive"
+"Palmoplantar Keratoderma, Nonepidermolytic, Focal"
+"Muscular Dystrophy, Congenital, Type 1D"
+"MUSCULAR DYSTROPHY-DYSTROGLYCANOPATHY (CONGENITAL WITH BRAIN AND EYE ANOMALIES), TYPE A, 6"
+Winkelman Bethge Pfeiffer syndrome
+"Muscular Dystrophy, Congenital, Lmna-Related"
+"Charcot-Marie-Tooth disease, Type 2B1"
+Syndactyly Cenani Lenz type
+Exudative Vitreoretinopathy 4
+"Deafness, Autosomal Recessive 63"
+"Cataract, Pulverulent, Juvenile-Onset"
+Orofacial Cleft 5
+Methylmalonic Aciduria due to Methylmalonyl-CoA Mutase Deficiency
+"Cardiomyopathy, Familial Hypertrophic, 4"
+"Cardiomyopathy, Familial Hypertrophic, 14"
+"Deafness, Autosomal Recessive 3"
+"Deafness, Autosomal Recessive 37"
+"Granulomatous Disease, Chronic, Autosomal Recessive, Cytochrome B-Positive, Type I"
+"AUTISM, SUSCEPTIBILITY TO, X-LINKED 1"
+"Acromesomelic dysplasia, Maroteaux type"
+"Parkinson disease, juvenile, autosomal recessive"
+"Hypothyroidism, Congenital, Nongoitrous, 2"
+"Tooth Agenesis, Selective, 3"
+"Night Blindness, Congenital Stationary, Autosomal Dominant 2"
+"Glycogen Storage Disease, Type IXD"
+"Epidermolysis bullosa simplex, Ogna type"
+"Hemophagocytic lymphohistiocytosis, familial, 2"
+"Pituitary Hormone Deficiency, Combined, 2"
+Retinitis Pigmentosa 7
+Alzheimer disease type 4
+Noonan Syndrome 5
+Retinitis Pigmentosa 4
+Bothnia Retinal Dystrophy
+"Arrhythmogenic Right Ventricular Dysplasia, Familial, 2"
+Brugada Syndrome 7
+"Cardiomyopathy, Dilated, 1l"
+Holoprosencephaly 3
+"Bartter syndrome, antenatal type 1"
+"Deafness, Autosomal Dominant 25"
+"Congenital disorder of glycosylation, type 2C"
+"Spherocytosis, Type 4"
+"PARKINSON DISEASE 1, AUTOSOMAL DOMINANT"
+Noonan Syndrome 4
+"Spastic Paraplegia 7, Autosomal Recessive"
+"Osteopetrosis, Autosomal Recessive 1"
+"Deafness, Autosomal Dominant 12"
+Congenital atransferrinemia
+Thyroid Dyshormonogenesis 3
+"Thyroid Hormone Resistance, Generalized, Autosomal Dominant"
+MITOCHONDRIAL DNA DEPLETION SYNDROME 2 (MYOPATHIC TYPE)
+"Deafness, Autosomal Recessive 7"
+"Cardiomyopathy, Dilated, 1D"
+"Ectrodactyly, Ectodermal Dysplasia, and Cleft Lip/Palate Syndrome 3"
+Exudative Vitreoretinopathy 5
+"Cardiomyopathy, Dilated, 1g"
+"Fibrosis Of Extraocular Muscles, Congenital, 3A, with or without Extraocular Involvement"
+"Usher Syndrome, Type IG"
+Neural Tube Defects
+"Vitamin D-Dependent Rickets, Type 2A"
+"Erythrocytosis, Familial, 2"
+Holoprosencephaly 5
+"Heterotaxy, visceral, X-linked"
+Multiple Endocrine Neoplasia Type 2a
+Huntington Disease
+Wilms Tumor
+Frontotemporal Dementia
+Congenital adrenal hyperplasia due to 21 hydroxylase deficiency
+Gilbert Disease
+Paraganglioma
+"Supranuclear Palsy, Progressive"
+Familial paroxysmal dystonia
+Amyotrophic lateral sclerosis 1
+"Amyloidosis, Hereditary, Transthyretin-Related"
+Familial medullary thyroid carcinoma
+"Pemphigus, Benign Familial"
+Neurofibromatosis 2
+Thrombasthenia
+Glycogen Storage Disease Type V
+Gerstmann-Straussler-Scheinker Disease
+Pick Disease of the Brain
+Congenital bilateral aplasia of vas deferens
+Thrombophilia due to Activated Protein C Resistance
+"Leukemia, Myeloid, Acute"
+Sjogren-Larsson Syndrome
+Papillon-Lefevre Disease
+"Xanthomatosis, Cerebrotendinous"
+"Ichthyosis, X-Linked"
+"Anemia, Diamond-Blackfan"
+"Hyper-IgM Immunodeficiency Syndrome, Type 1"
+Factor XI Deficiency
+Sotos Syndrome
+Andersen Syndrome
+Hereditary pancreatitis
+"PSEUDOHYPOPARATHYROIDISM, TYPE IA"
+Craniosynostoses
+Dihydropyrimidine Dehydrogenase Deficiency
+"Severe combined immunodeficiency, X-linked"
+Ovarian Hyperstimulation Syndrome
+Lewy Body Disease
+Leri-Weil syndrome
+Glycogen Storage Disease Type III
+Sudden Infant Death
+Abetalipoproteinemia
+Lymphangioleiomyomatosis
+Kallmann Syndrome
+Episodic ataxia with nystagmus
+"Crigler Najjar syndrome, type 1"
+Fundus Albipunctatus
+"Glaucoma, Primary Open Angle"
+Synovitis granulomatous with uveitis and cranial neuropathies
+Factor VII Deficiency
+Hypochondroplasia
+Oculocerebrorenal Syndrome
+"Stickler syndrome, type 1"
+"Leiomyomatosis and renal cell cancer, hereditary"
+"von Willebrand Disease, Type 3"
+"Hyperglycinemia, Nonketotic"
+Pantothenate Kinase-Associated Neurodegeneration
+Donohue Syndrome
+Lattice corneal dystrophy type 1
+Lipoprotein Glomerulopathy
+"Hydrocephalus, X-linked"
+Shwachman syndrome
+Mulibrey Nanism
+Hyperlipoproteinemia Type II
+"Corneal Dystrophy, Juvenile Epithelial of Meesmann"
+Achalasia Addisonianism Alacrimia syndrome
+Factor V Deficiency
+Fructose Intolerance
+Frasier Syndrome
+Retinitis Pigmentosa
+"Lupus Erythematosus, Systemic"
+Barth Syndrome
+Hypoprothrombinemias
+Myotonia congenita
+HYPERALPHALIPOPROTEINEMIA 1
+X-linked sideroblastic anemia
+"Cholestasis, progressive familial intrahepatic 1"
+Camurati-Engelmann Syndrome
+Scleroatonic muscular dystrophy
+"Lymphoma, Non-Hodgkin"
+Congenital disorder of glycosylation type 1A
+"von Willebrand Disease, Type 2"
+Dyschromatosis symmetrica hereditaria 1
+Spastic ataxia Charlevoix-Saguenay type
+Chondrosarcoma
+Klippel-Trenaunay-Weber Syndrome
+Tropical Calcific Pancreatitis
+Mohr-Tranebjaerg syndrome
+Kabuki syndrome
+Zellweger Syndrome
+Carpal Tunnel Syndrome
+Intervertebral disc disease
+Trimethylaminuria
+Glutaric aciduria 1
+Turcot syndrome
+"HOMOCYSTINURIA DUE TO DEFICIENCY OF N(5,10)-METHYLENETETRAHYDROFOLATE REDUCTASE ACTIVITY"
+Spastic paraplegia 17
+"Macular dystrophy, corneal type 1"
+Congenital adrenal hyperplasia due to 11-Beta-hydroxylase deficiency
+Aarskog syndrome
+Factor XII Deficiency
+"Dystonia, Dopa-responsive"
+Corneal dystrophy Avellino type
+"Hyperthyroidism, Nonautoimmune"
+Complement Component 7 Deficiency
+Severe congenital neutropenia
+Megalencephalic leukoencephalopathy with subcortical cysts
+Pitt-Hopkins syndrome
+Bietti's crystalline dystrophy
+Long Qt Syndrome 2
+Mandibuloacral dysplasia with type A lipodystrophy
+"Hydrocephalus, Agyria, And Retinal Dysplasia"
+Medulloblastoma
+Wolff-Parkinson-White Syndrome
+Parkinson disease 9
+Propionic Acidemia
+Fanconi-Bickel Syndrome
+Persistent Mullerian duct syndrome
+Dystonia 12
+"Ectodermal dysplasia, hypohidrotic, with immune deficiency"
+Iron-Refractory Iron Deficiency Anemia
+"Spondyloepiphyseal Dysplasia Tarda, X-Linked"
+Aromatase deficiency
+"Epidermolysis bullosa dystrophica, Pasini type"
+Cyclic neutropenia
+Arterial calcification of infancy
+Piebaldism
+Currarino triad
+Cohen syndrome
+Pyridoxine-dependent epilepsy
+"FRONTOTEMPORAL LOBAR DEGENERATION WITH TDP43 INCLUSIONS, GRN-RELATED"
+Cushing's symphalangism
+Langer mesomelic dysplasia
+Renal hypouricemia
+"Folate Malabsorption, Hereditary"
+Occipital horn syndrome
+Familial Testotoxicosis
+"Sarcoidosis, Early-Onset"
+"Nephronophthisis, familial juvenile"
+"Foveomacular Dystrophy, Adult-Onset"
+Aggressive Periodontitis
+"Osteoarthropathy, Primary Hypertrophic"
+"Osseous Heteroplasia, Progressive"
+"Acidemia, isovaleric"
+"Limb-girdle muscular dystrophy, type 1B"
+Neonatal-onset citrullinemia type 2
+Renal cysts and diabetes syndrome
+"Keratosis, Seborrheic"
+"Cholestasis, progressive familial intrahepatic 3"
+"Adrenal hyperplasia, congenital, type 5"
+"LISSENCEPHALY, X-LINKED, 1"
+"Polymicrogyria, Bilateral Frontoparietal"
+"Platelet Disorder, Familial, with Associated Myeloid Malignancy"
+De Vivo disease
+"Hyperostosis, Cortical, Congenital"
+Adenylosuccinate lyase deficiency
+Complement Factor H Deficiency
+"Ectodermal Dysplasia 3, Anhidrotic"
+"Gout, HPRT-Related"
+Neutral Lipid Storage Disease with Myopathy
+HHH syndrome
+Atelosteogenesis type 2
+Rapp-Hodgkin syndrome
+"Hypomagnesemia 1, Intestinal"
+"Arthropathy, progressive pseudorheumatoid, of childhood"
+Hallermann's Syndrome
+Beta ketothiolase deficiency
+"Spondyloepiphyseal dysplasia, Omani type"
+"Osteogenesis imperfecta, type 4"
+THREE M SYNDROME 1
+Childhood Ataxia with Central Nervous System Hypomyelinization
+"Isolated Growth Hormone Deficiency, Type II"
+Sebastian syndrome
+Pyruvate Dehydrogenase Complex Deficiency Disease
+dhpr deficiency
+Neuritis with brachial predilection
+Achondrogenesis type 1B
+"Corneal dystrophy of Bowman layer, type 1"
+"Corneal Dystrophy, Crystalline, of Schnyder"
+Hypoplastic Left Heart Syndrome
+Neutrophil Immunodeficiency Syndrome
+Roberts Syndrome
+"Nevus, Epidermal"
+Neuroferritinopathy
+Pachyonychia congenita Jackson Lawler type
+Fechtner syndrome
+Peroxisome biogenesis disorders
+Polycystic lipomembranous osteodysplasia with sclerosing leukoencephalopathy
+"Corneal Dystrophy, Posterior Polymorphous, 1"
+Early-onset ataxia with oculomotor apraxia and hypoalbuminemia
+Nephrogenic Syndrome of Inappropriate Antidiuresis
+"Bartter syndrome, type 3"
+Kniest dysplasia
+"Hematuria, Benign Familial"
+Pleuropulmonary blastoma
+"Charcot-Marie-Tooth disease, Type 4A"
+SeSAME syndrome
+"Keratoderma, Palmoplantar, Epidermolytic"
+"Myopathy, Myosin Storage"
+Borjeson-Forssman-Lehmann syndrome
+"Pyogenic arthritis, pyoderma gangrenosum, and acne"
+Griscelli syndrome type 2
+Paroxysmal Extreme Pain Disorder
+Histiocytosis with joint contractures and sensorineural deafness
+"Porphyria, Acute Hepatic"
+"Frontotemporal Dementia, Chromosome 3-Linked"
+Epidermolysis Bullosa Pruriginosa
+Crouzon Syndrome With Acanthosis Nigricans
+Brachydactyly type C
+Holocarboxylase Synthetase Deficiency
+"Charcot-Marie-Tooth disease, Type 1C"
+Opitz-Kaveggia syndrome
+Congenital disorder of glycosylation type 1B
+Ataxia Telangiectasia Like Disorder
+Epstein syndrome
+Carnitine-Acylcarnitine Translocase Deficiency
+Arterial Tortuosity Syndrome
+Propping Zerres syndrome
+Medullary Cystic Kidney Disease 2
+"Cholestasis, progressive familial intrahepatic 2"
+Imerslund-Grasbeck syndrome
+Frontometaphyseal dysplasia
+Vohwinkel syndrome
+"Hyperinsulinemic hypoglycemia, familial, 6"
+Sialic Acid Storage Disease
+McKusick Kaufman syndrome
+Osteolysis hereditary multicentric
+Oculocutaneous albinism type 2
+Pyruvate Carboxylase Deficiency Disease
+Hypoparathyroidism familial isolated
+Allanson Pantzar McLeod syndrome
+Chylomicron retention disease
+"Sucrase-isomaltase deficiency, congenital"
+Corneal endothelial dystrophy type 2
+Metatropic dwarfism
+"Crigler Najjar syndrome, type 2"
+"Xanthinuria, Type I"
+Desbuquois syndrome
+Multiple pterygium syndrome
+"Insulin-Like Growth Factor I, Resistance To"
+Epidermolysis bullosa simplex with mottled pigmentation
+"LIPODYSTROPHY, FAMILIAL PARTIAL, TYPE 2"
+Gray Platelet Syndrome
+Neurofibromatosis-Noonan syndrome
+Multiple synostoses syndrome 1
+Congenital Hemidysplasia with Ichthyosiform Erythroderma and Limb Defects
+Paroxysmal nonkinesigenic dyskinesia
+"Generalized Epilepsy With Febrile Seizures Plus, Type 2"
+"Spinocerebellar ataxia, autosomal recessive 1"
+Autosomal dominant distal renal tubular acidosis
+Pseudovaginal perineoscrotal hypospadias
+Coumarin Resistance
+Arthrogryposis renal dysfunction cholestasis syndrome
+Rokitansky Kuster Hauser syndrome
+"Hemiplegic migraine, familial type 2"
+North American Indian Childhood Cirrhosis
+"Myotonia Congenita, Autosomal Recessive"
+"Ceroid lipofuscinosis, neuronal 8"
+Perry Syndrome
+"Hyper-IgE Recurrent Infection Syndrome, Autosomal Recessive"
+"Dentin dysplasia, type II"
+Fucosidosis
+"Charcot-Marie-Tooth disease, Type 2K"
+"Polydactyly, Postaxial"
+Cortisone reductase deficiency
+L-2-HYDROXYGLUTARIC ACIDURIA
+Stuve-Wiedemann syndrome
+Majeed syndrome
+Prolidase Deficiency
+"Sensory ataxic neuropathy, dysarthria, and ophthalmoparesis"
+"Charcot-Marie-Tooth disease, Type 2B"
+OCCULT MACULAR DYSTROPHY
+Paramyotonia congenita of Von Eulenburg
+Pulmonary Alveolar Microlithiasis
+Corneal dystrophy and perceptive deafness
+"Glycosuria, Renal"
+"Spastic paraplegia 11, autosomal recessive"
+Groenouw type I corneal dystrophy
+"Spondylometaphyseal dysplasia, Kozlowski type"
+Mitochondrial neurogastrointestinal encephalopathy syndrome
+Congenital myopathy with fiber type disproportion
+Reticular dysgenesis
+"Osteogenesis imperfecta, Levin type"
+Brachydactyly type A2
+Juvenile macular degeneration and hypotrichosis
+Keratosis palmoplantaris with periodontopathia and onychogryposis
+Hoyeraal Hreidarsson syndrome
+Multiple Acyl Coenzyme A Dehydrogenase Deficiency
+Raine syndrome
+"Tumoral Calcinosis, Hyperphosphatemic, Familial"
+"Atelosteogenesis, type 1"
+Posterior column ataxia with retinitis pigmentosa
+"Hyperphenylalaninemia, BH4-Deficient, B"
+"Chondrodysplasia, Grebe type"
+Inclusion body myopathy autosomal recessive
+"Von Willebrand disease, platelet type"
+"Hydroxyacyl-coa dehydrogenase, type 2, deficiency"
+"Precocious Puberty, Central"
+Worth syndrome
+Freeman-Sheldon syndrome
+"NEUROPATHY, HEREDITARY SENSORY AND AUTONOMIC, TYPE V"
+Pyruvate Kinase Deficiency of Red Cells
+Craniosynostosis radial aplasia syndrome
+"EPILEPSY, PROGRESSIVE MYOCLONIC 4, WITH OR WITHOUT RENAL FAILURE"
+Single upper central incisor
+Juvenile Polyposis with Hereditary Hemorrhagic Telangiectasia
+Anophthalmia with pulmonary hypoplasia
+"Cardiomyopathy, Familial Restrictive, 1"
+Hereditary Myopathy with Early Respiratory Failure
+"Cardiac Arrhythmia, Ankyrin-B-Related"
+Chondrocalcinosis 2
+Hypotrichosis simplex
+"Chondrodysplasia punctata, brachytelephalangic"
+Vitreoretinochoroidopathy
+"Myopathy, Centronuclear, Autosomal Recessive"
+"Fanconi Anemia, Complementation Group J"
+Adducted thumb and clubfoot syndrome
+Strudwick syndrome
+"Epidermolysis bullosa, pretibial"
+Coenzyme Q10 Deficiency
+Desmosterolosis
+Congenital disorder of glycosylation type 1E
+Shprintzen Golberg craniosynostosis
+Jackson-Weiss syndrome
+"Pneumothorax, Primary Spontaneous"
+Marles Greenberg Persaud syndrome
+Meretoja syndrome
+"Charcot-Marie-Tooth disease, Type 2F"
+Acrocallosal Syndrome
+"Leigh syndrome , French Canadian type"
+Hereditary Motor And Sensory Neuropathy VI
+Molybdenum cofactor deficiency
+Oculodigitoesophagoduodenal syndrome
+Distal arthrogryposis type 2B
+Microvillus inclusion disease
+"Deafness, Autosomal Dominant 11"
+Myotilinopathy
+"Choreoathetosis, Hypothyroidism, And Neonatal Respiratory Distress"
+Renal-Hepatic-Pancreatic Dysplasia
+"Deafness, Autosomal Recessive 23"
+"Corneal Dystrophy, Fleck"
+Spinocerebellar ataxia 14
+Myopathy with lactic acidosis and sideroblastic anemia
+"Cutis Laxa, Autosomal Recessive, Type IIB"
+Martsolf syndrome
+"Pyropoikilocytosis, Hereditary"
+"MYOCLONIC EPILEPSY, FAMILIAL INFANTILE"
+Brachyolmia Type 3
+Parastremmatic dwarfism
+"Neutropenia, Severe Congenital, X-Linked"
+Al Awadi syndrome
+Hyperprolinemia type 2
+Congenital disorder of glycosylation type 1K
+Congenital disorder of glycosylation type 1H
+Frontonasal dysplasia
+"3-Methylglutaconic Aciduria, Type I"
+"Ehlers-Danlos syndrome, progeroid form"
+PREMATURE CHROMATID SEPARATION TRAIT
+Retinitis Pigmentosa 17
+Mental Retardation And Microcephaly With Pontine And Cerebellar Hypoplasia
+Long Qt Syndrome 9
+"IMMUNODEFICIENCY WITH HYPER-IgM, TYPE 3"
+Congenital myasthenic syndrome with episodic apnea
+"Hypophosphatemic Rickets, X-Linked Recessive"
+Achromatopsia 3
+JALILI SYNDROME
+Transient bullous dermolysis of the newborn
+Pilomatrixoma
+D-2-HYDROXYGLUTARIC ACIDURIA 1
+Congenital disorder of glycosylation type 1J
+Bowen-Conradi syndrome
+Cerebrooculofacioskeletal Syndrome 1
+Pallidopyramidal syndrome
+Afibrinogenemia congenital
+antley-bixler syndrome
+Lacrimoauriculodentodigital syndrome
+Boomerang dysplasia
+Glomerulopathy with fibronectin deposits
+Bifid Nose With Or Without Anorectal And Renal Anomalies
+Gonadal dysgenesis XX type deafness
+"Isolated Growth Hormone Deficiency, Type IB"
+"Amaurosis congenita of Leber, type 1"
+"Vertical talus, congenital"
+Retinitis Pigmentosa 10
+Snowflake vitreoretinal degeneration
+"FIBROSIS OF EXTRAOCULAR MUSCLES, CONGENITAL, 1"
+"Spastic paraplegia 10, autosomal dominant"
+"Ichthyosis, Cyclic, with Epidermolytic Hyperkeratosis"
+Monilethrix
+"Lipodystrophy, Partial, Acquired"
+"PARKINSON DISEASE 8, AUTOSOMAL DOMINANT"
+Navajo neurohepatopathy
+Hecht syndrome
+Mitochondrial complex I deficiency
+Dent Disease 2
+Meier-Gorlin syndrome
+Succinyl-CoA:3-oxoacid CoA transferase deficiency
+Coloboma
+Infantile onset spinocerebellar ataxia
+"Advanced Sleep-Phase Syndrome, Familial"
+"Fibrosis Of Extraocular Muscles, Congenital, 2"
+"Iridogoniodysgenesis, dominant type"
+"Spastic Paraplegia 39, Autosomal Recessive"
+Arts syndrome
+"Pena Shokeir syndrome, type 1"
+Sarcosinemia
+Potassium aggravated myotonia
+Schinzel-Giedion syndrome
+Idiopathic Pulmonary Fibrosis
+"Basal ganglia disease, biotin-responsive"
+"Epiphyseal dysplasia, multiple, 4"
+Dystonia 18
+Brown-Vialetto-Van Laere syndrome
+Growth mental deficiency syndrome of Myhre
+"CdLS, X-Linked"
+"Ichthyosis with hypotrichosis, autosomal recessive"
+Ischiopatellar dysplasia
+"Corneal dystrophy, Thiel-Behnke type"
+"LOEYS-DIETZ SYNDROME, TYPE 1A"
+COACH syndrome
+"Hereditary Motor And Sensory Neuropathy, Type IIC"
+Amyotrophic Lateral Sclerosis 8
+"Lamellar ichthyosis, type 2"
+Cantu syndrome
+"IMMUNODEFICIENCY WITH HYPER-IgM, TYPE 2"
+Congenital disorder of glycosylation type 1G
+"Muscular Dystrophy, Limb-Girdle, Type 2L"
+"Spastic paraplegia 3, autosomal dominant"
+Brody myopathy
+"Mental retardation-hypotonic facies syndrome, x-linked, 1"
+Bjornstad syndrome
+"Neuronopathy, Distal Hereditary Motor, Type V"
+"Ectodermal dysplasia, ectrodactyly, and macular dystrophy"
+"Epilepsy, Nocturnal Frontal Lobe, Type 1"
+"MULTIPLE PTERYGIUM SYNDROME, LETHAL TYPE"
+Pierre Robin syndrome with fetal chondrodysplasia
+Brain Small Vessel Disease with Hemorrhage
+"Angiopathy, Hereditary, With Nephropathy, Aneurysms, And Muscle Cramps"
+Endplate Acetylcholinesterase Deficiency
+"Cystinosis, Late-Onset Juvenile or Adolescent Nephropathic Type"
+Trichoepithelioma multiple familial
+Leukoencephalopathy with Brainstem and Spinal Cord Involvement and Lactate Elevation
+"Nephroblastomatosis, fetal ascites, macrosomia and Wilms tumor"
+Skin Fragility-Woolly Hair Syndrome
+XFE Progeroid Syndrome
+Hereditary Angioedema Type III
+"Leukodystrophy, Hypomyelinating, 5"
+"Fructose-1,6-Diphosphatase Deficiency"
+"Myopathy, X-Linked, With Postural Muscle Atrophy"
+"Thrombocytopenia, Platelet Dysfunction, Hemolysis, and Imbalanced Globin Synthesis"
+Fibular hypoplasia and complex brachydactyly
+Klippel Feil syndrome dominant type
+"Knuckle pads, leuconychia and sensorineural deafness"
+"Distal myopathy, Nonaka type"
+Pseudo-Hurler polydystrophy
+Glutathione synthetase deficiency
+Histidinemia
+"Brachydactyly, Type E"
+"Spastic paraplegia 13, autosomal dominant"
+Acrocapitofemoral Dysplasia
+Joubert syndrome 1
+"Mental Retardation, X-Linked 1"
+Thyroid Dyshormonogenesis 4
+Short QT Syndrome 3
+Generalized Epilepsy and Paroxysmal Dyskinesia
+Prekallikrein Deficiency
+Steatocystoma Multiplex
+3-methylcrotonyl CoA carboxylase 1 deficiency
+Methylmalonic aciduria cblB type
+Methylmalonic acidemia with homocystinuria
+"Congenital Disorder Of Glycosylation, Type IIB"
+Congenital disorder of glycosylation type 1F
+"Glaucoma 1, Open Angle, A"
+Spheroid body myopathy
+Kanzaki disease
+"Neurofibromatosis, Familial Spinal"
+"Spastic paraplegia 6, autosomal dominant"
+BAND-LIKE CALCIFICATION WITH SIMPLIFIED GYRATION AND POLYMICROGYRIA
+Craniofacial deafness hand syndrome
+"Epilepsy, Female-Restricted, with Mental Retardation"
+Phosphoglycerate Kinase 1 Deficiency
+"Dystonia-Parkinsonism, Adult-Onset"
+"Charcot-Marie-Tooth Disease, Demyelinating, Type 1e"
+"EPILEPTIC ENCEPHALOPATHY, EARLY INFANTILE, 10"
+"Progressive External Ophthalmoplegia with Mitochondrial DNA Deletions, Autosomal Recessive"
+Acrocephalopolysyndactyly Type II
+"Congenital Disorder Of Glycosylation, Type In"
+Prolonged Electroretinal Response Suppression
+Cone-Rod Dystrophy 7
+"Gaze Palsy, Familial Horizontal, with Progressive Scoliosis"
+"Tumoral Calcinosis, Normophosphatemic, Familial"
+"Porokeratosis, disseminated superficial actinic 1"
+"Sick Sinus Syndrome 1, Autosomal Recessive"
+"Amyotrophic Lateral Sclerosis 4, Juvenile"
+"Hypouricemia, Renal, 2"
+"Parkinsonism-Dystonia, Infantile"
+"Peripheral Demyelinating Neuropathy, Central Dysmyelination, Waardenburg Syndrome, and Hirschsprung Disease"
+"Venous Malformations, Multiple Cutaneous and Mucosal"
+"Peeling skin syndrome, acral type"
+"Segawa syndrome, autosomal recessive"
+"Hypercholanemia, Familial"
+Split-Hand/Foot Malformation 4
+"Arthrogryposis multiplex congenita, distal type 1"
+"SPINAL MUSCULAR ATROPHY, SCAPULOPERONEAL"
+"Charcot-Marie-Tooth Disease, Dominant Intermediate C"
+"Cholestasis, benign recurrent intrahepatic 2"
+Isobutyryl-CoA dehydrogenase deficiency
+2-Methylbutyryl-Coa Dehydrogenase Deficiency
+Osteochondritis Dissecans
+"Amyloidosis, familial visceral"
+Hyperekplexia and Epilepsy
+"Cholestasis, benign recurrent intrahepatic 1"
+Mitochondrial Complex III Deficiency
+Orofacial Cleft 11
+"Autoimmune Lymphoproliferative Syndrome, Type IIA"
+"CD8 Deficiency, Familial"
+Opitz trigonocephaly syndrome
+"Epileptic Encephalopathy, Early Infantile, 2"
+Melanoma-Pancreatic Cancer Syndrome
+Retinitis Pigmentosa 26
+Complement Factor I Deficiency
+"Properdin deficiency, X-linked"
+"Epilepsy, Nocturnal Frontal Lobe, Type 3"
+"Nephrolithiasis, X-Linked Recessive, with Renal Failure"
+Achromatopsia 2
+Pigmented Paravenous Chorioretinal Atrophy
+"Mental Retardation, X-Linked, With Brachydactyly And Macroglossia"
+18-Hydroxylase deficiency
+"Spondylometaepiphyseal Dysplasia, Short Limb-Hand Type"
+WARSAW BREAKAGE SYNDROME
+Dimethylglycine Dehydrogenase Deficiency
+"Congenital Disorder Of Glycosylation, Type Im"
+Lipoid Proteinosis of Urbach and Wiethe
+"Charcot-Marie-Tooth disease, Type 1D"
+Absent corpus callosum cataract immunodeficiency
+Stiff Skin Syndrome
+"Trigonocephaly, Nonsyndromic"
+Osteoglophonic dwarfism
+CATSHL syndrome
+"Scapuloperoneal Myopathy, X-Linked Dominant"
+"Muscular Dystrophy, Limb-Girdle, Type 2M"
+"Cardiac valvular dysplasia, X-linked"
+Encephaloclastic Proliferative Vasculopathy
+"RETT SYNDROME, CONGENITAL VARIANT"
+"Follicle-stimulating hormone deficiency, isolated"
+Glutamate formiminotransferase deficiency
+"Neutropenia, Severe Congenital, Autosomal Recessive 4"
+"Generalized Epilepsy With Febrile Seizures Plus, Type 3"
+"Myopathy, Mitochondrial Progressive, With Congenital Cataract, Hearing Loss, And Developmental Delay"
+"Vitamin K-Dependent Clotting Factors, Combined Deficiency Of, 1"
+Kowarski syndrome
+Intrinsic Factor Deficiency
+"Syndactyly, type 3"
+Atrial Standstill
+HID Syndrome
+"Glutamine deficiency, congenital"
+Fertile eunuch syndrome
+"NIGHT BLINDNESS, CONGENITAL STATIONARY, TYPE 1B"
+"Preaxial deficiency, postaxial polydactyly and hypospadias"
+"Syndactyly, type v"
+"Nevus, Sebaceous of Jadassohn"
+17-Hydroxysteroid Dehydrogenase Deficiency
+"Charcot-Marie-Tooth disease, Type 2I"
+"Leukodystrophy, Hypomyelinating, 4"
+Spinocerebellar Ataxia 29
+Long Qt Syndrome 5
+Long Qt Syndrome 6
+"Hyperinsulinemic hypoglycemia, familial, 2"
+Birk-Barel Mental Retardation Dysmorphism Syndrome
+"Hyperpigmentation, Familial Progressive"
+Reynold's syndrome
+"Leydig Cell Hypoplasia, Type I"
+"Spondyloepimetaphyseal Dysplasia, Missouri Type"
+"Charcot-Marie-Tooth disease, Type 2J"
+"Colorectal Adenomatous Polyposis, Autosomal Recessive"
+"Deafness, Autosomal Dominant 4"
+Carney Complex Variant
+"Deafness, Autosomal Dominant 17"
+"Muscular dystrophy, limb-girdle, type 1A"
+"Charcot-Marie-Tooth disease, Type 2E"
+"Diarrhea 4, Malabsorptive, Congenital"
+"Severe Combined Immunodeficiency with Microcephaly, Growth Retardation, and Sensitivity to Ionizing Radiation"
+Tarsal carpal coalition syndrome
+Striatonigral degeneration infantile
+Blue cone monochromatism
+Spinocerebellar ataxia 23
+Neonatal adrenoleukodystrophy
+Dimauro disease
+Siderius X-linked mental retardation syndrome
+Phosphoglycerate Dehydrogenase Deficiency
+Hyperphosphatasia with Mental Retardation
+Cone-Rod Dystrophy 5
+"Arrhythmogenic Right Ventricular Dysplasia, Familial, 9"
+NBIA2B
+"NEPHROTIC SYNDROME, TYPE 3"
+Pyridoxamine 5-Prime-Phosphate Oxidase Deficiency
+"Muscular Dystrophy, Limb-Girdle, Type 2K"
+"Osteogenesis Imperfecta, Type IX"
+"Choroidal Dystrophy, Central Areolar 2"
+Phosphoribosylpyrophosphate Synthetase Superactivity
+Optic atrophy polyneuropathy deafness
+"Deafness, X-Linked 1"
+Dysgnathia complex
+Holoprosencephaly 7
+Capillary Malformation-Arteriovenous Malformation
+"Alopecia, Neurologic Defects, and Endocrinopathy Syndrome"
+"Hyperuricemic Nephropathy, Familial Juvenile 2"
+"Thyroid Hormone Metabolism, Abnormal"
+Heparin Cofactor II Deficiency
+Branchiootic Syndrome 3
+"Bile Acid Malabsorption, Primary"
+"Episodic Ataxia, Type 6"
+"Hypomyelination, Global Cerebral"
+"Spastic Paraplegia 42, Autosomal Dominant"
+Glycinuria with or without Oxalate Urolithiasis
+Iminoglycinuria
+Nicolaides Baraitser syndrome
+Facioscapulohumeral Muscular Dystrophy 1B
+Sclerosteosis
+"Diarrhea 3, Secretory Sodium, Congenital"
+"Epileptic Encephalopathy, Early Infantile, 4"
+Ghosal Hematodiaphyseal Dysplasia
+Sveinsson Chorioretinal Atrophy
+"Corneal Dystrophy, Lattice Type IIIA"
+Revesz Debuse syndrome
+Joubert syndrome 2
+Meckel syndrome type 3
+NEPHRONOPHTHISIS 11
+Young McKeever Squier syndrome
+Pontocerebellar Hypoplasia Type 2A
+"Hyperthyroidism, Familial Gestational"
+Dystransthyretinemic Euthyroidal Hyperthyroxinemia
+"Arthrogryposis multiplex congenita, distal, X-linked"
+Beta-Ureidopropionase Deficiency
+Urocanase deficiency
+Odontoonychodermal dysplasia
+"Diabetes Mellitus, Transient Neonatal, 1"
+"Spinocerebellar ataxia, autosomal recessive 5"
+"Charcot-Marie-Tooth Disease, Axonal, Type 2n"
+Gamma aminobutyric acid transaminase deficiency
+"Macular Degeneration, Age-Related, 2"
+Cholecystitis
+"Anemia, sideroblastic spinocerebellar ataxia"
+"Hyperinsulinemic hypoglycemia, familial, 1"
+"Hypoglycemia, leucine-induced"
+"Cardiomyopathy, Dilated, 1o"
+"Spondyloepimetaphyseal Dysplasia, Aggrecan Type"
+"Mental Retardation, X-Linked 63"
+"Aortic Aneurysm, Familial Thoracic 6"
+Juvenile-onset dystonia
+"Cardiomyopathy, Familial Hypertrophic, 11"
+Atrial Septal Defect 5
+"Deafness, Autosomal Dominant 20"
+"Cardiomyopathy, Dilated, 1AA"
+Aminoacylase 1 deficiency
+GELEOPHYSIC DYSPLASIA 1
+"Spinocerebellar Ataxia, Autosomal Recessive 9"
+Spinocerebellar ataxia 28
+COMBINED OXIDATIVE PHOSPHORYLATION DEFICIENCY 6
+Cowchock syndrome
+"Adenylate Kinase Deficiency, Hemolytic Anemia Due To"
+Long Qt Syndrome 11
+"Bile acid synthesis defect, congenital, 2"
+Glycogen Storage Disease XII
+"CONGENITAL DISORDER OF GLYCOSYLATION, TYPE Ip"
+Parietal Foramina 2
+"Bile acid synthesis defect, congenital, 4"
+Amyotrophic Lateral Sclerosis 9
+"Familial benign hypercalcemia, type 3"
+"Cerebral Amyloid Angiopathy, App-Related"
+"Heterotopia, Periventricular, Autosomal Recessive"
+"Slowed Nerve Conduction Velocity, Autosomal Dominant"
+Joubert Syndrome 8
+RETINITIS PIGMENTOSA 55
+"Mental Retardation, X-Linked, With Or Without Seizures, Arx-Related"
+Proud Syndrome
+AICAR Transformylase Inosine Monophosphate Cyclohydrolase Deficiency
+Alternating hemiplegia of childhood
+"Spinocerebellar Ataxia, X-Linked 1"
+"Renal Tubular Acidosis, Distal, with Progressive Nerve Deafness"
+"Spinal Muscular Atrophy, Distal, X-Linked 3"
+"MITOCHONDRIAL COMPLEX V (ATP SYNTHASE) DEFICIENCY, NUCLEAR TYPE 1"
+"Hypoproteinemia, Hypercatabolic"
+"Myopathy, Myofibrillar, Bag3-Related"
+"Hypercarotenemia And Vitamin A Deficiency, Autosomal Dominant"
+"Microphthalmia, syndromic 2"
+"Retinitis Pigmentosa, Concentric"
+"Cataract, Autosomal Dominant, Multiple Types 1"
+Ovarian Dysgenesis 2
+"Microphthalmia, Syndromic 6"
+BISPHOSPHOGLYCERATE MUTASE
+NOONAN SYNDROME 7
+LEOPARD SYNDROME 3
+"Mental Retardation, X-Linked 93"
+Tn Syndrome
+RETINITIS PIGMENTOSA 54
+COMPLEMENT COMPONENT 2 DEFICIENCY
+"HYPERCHLORHIDROSIS, ISOLATED"
+"Cerebellar Ataxia, Mental Retardation, And Dysequilibrium Syndrome 3"
+"NIGHT BLINDNESS, CONGENITAL STATIONARY, TYPE 2B"
+Brugada Syndrome 3
+Brugada Syndrome 4
+"Episodic Ataxia, Type 5"
+"CREATINE PHOSPHOKINASE, ELEVATED SERUM"
+"Cardiomyopathy, Familial Hypertrophic, 1"
+NOONAN SYNDROME-LIKE DISORDER WITH OR WITHOUT JUVENILE MYELOMONOCYTIC LEUKEMIA
+"46, XY Sex Reversal 5"
+Joubert Syndrome 9
+"Meckel Syndrome, Type 6"
+Hennekam lymphangiectasia lymphedema syndrome
+"Neuropathy, Hereditary Sensory, with Spastic Paraplegia, Autosomal Recessive"
+"AGAMMAGLOBULINEMIA 6, AUTOSOMAL RECESSIVE"
+"Mental Retardation, Autosomal Dominant 3"
+"MELANOMA, CUTANEOUS MALIGNANT, SUSCEPTIBILITY TO, 3"
+"MELANOMA, CUTANEOUS MALIGNANT, SUSCEPTIBILITY TO, 2"
+"Microcephaly, Primary Autosomal Recessive, 6"
+Senior-Loken Syndrome 6
+heterotaxy 2 (autosomal dominant)
+"Macular Degeneration, Age-Related, 4"
+Nemaline Myopathy 7
+"Cataract, posterior polar, 3"
+"Myasthenic Syndrome, Congenital, Fast-Channel"
+"Epilepsy, Nocturnal Frontal Lobe, Type 4"
+Low Molecular Weight Proteinuria with Hypercalciuria and Nephrocalcinosis
+"Bartter Syndrome, Type 4b"
+Hypomagnesemia primary
+"Hypomagnesemia 5, Renal, with Ocular Involvement"
+"CONGENITAL DISORDER OF GLYCOSYLATION, TYPE IIj"
+"Deafness, Autosomal Recessive 53"
+Osteoarthritis with Mild Chondrodysplasia
+"Epiphyseal Dysplasia, Multiple, with Myopia and Conductive Deafness"
+Ehlers-Danlos syndrome type 3
+"Toenail Dystrophy, Isolated"
+"Corneal Dystrophy, Posterior Polymorphous, 2"
+Carnevale syndrome
+"Exocrine Pancreatic Insufficiency, Dyserythropoietic Anemia, and Calvarial Hyperostosis"
+Cytochrome-c Oxidase Deficiency
+Carboxypeptidase N Deficiency
+"Carnitine Palmitoyltransferase II Deficiency, Late-Onset"
+"Microphthalmia, Isolated, with Cataract 4"
+"Cataract, Lamellar 2"
+"Cataract, Congenital Nuclear, Autosomal Recessive 2"
+"Surfactant Metabolism Dysfunction, Pulmonary, 4"
+"Cystinosis, ocular nonnephropathic"
+NADH cytochrome B5 reductase deficiency
+"Granulomatous Disease, Chronic, Autosomal Recessive, Cytochrome B-Negative"
+"Vitamin D Hydroxylation-Deficient Rickets, Type 1B"
+"Lamellar ichthyosis, type 3"
+"Neuronopathy, Distal Hereditary Motor, Type Viib"
+"Scapuloperoneal Syndrome, Neurogenic, Kaeser Type"
+MITOCHONDRIAL DNA DEPLETION SYNDROME 3 (HEPATOCEREBRAL TYPE)
+"46,XY Gonadal Dysgenesis, Complete or Partial, DHH-Related"
+"Ciliary Dyskinesia, Primary, 13"
+"Myopathy, Centronuclear, Autosomal Dominant"
+"Charcot-Marie-Tooth Disease, Dominant Intermediate B"
+"Congenital Disorder of Glycosylation, Type Io"
+Dihydropyrimidinase Deficiency
+"Arrhythmogenic Right Ventricular Dysplasia, Familial, 11"
+"Arrhythmogenic Right Ventricular Dysplasia, Familial, 10"
+"Arrhythmogenic Right Ventricular Dysplasia, Familial, 8"
+"Deafness, Autosomal Dominant 39, with Dentinogenesis Imperfecta 1"
+"Noncompaction of Left Ventricular Myocardium, Familial Isolated, Autosomal Dominant 1"
+"Tooth Agenesis, Selective, X-Linked, 1"
+"Hypomagnesemia 4, Renal"
+"Erythrocytosis, Familial, 3"
+"Neutropenia, Severe Congenital, Autosomal Dominant 1"
+Glycogen Storage Disease XIII
+"Hypophosphatemic Rickets, Autosomal Recessive, 2"
+"Erythrocytosis, Familial, 4"
+"Spherocytosis, Type 5"
+Cerebrooculofacioskeletal Syndrome 4
+Cerebrooculofacioskeletal Syndrome 2
+"DEAFNESS, AUTOSOMAL RECESSIVE 36, WITH OR WITHOUT VESTIBULAR INVOLVEMENT"
+"Deafness, Autosomal Recessive 35"
+Weyers acrofacial dysostosis
+Retinitis Pigmentosa 25
+"Thrombophilia, X-Linked, Due To Factor Ix Defect"
+"Macular Degeneration, Age-Related, 3"
+"ECTOPIA LENTIS, ISOLATED, AUTOSOMAL DOMINANT"
+Spinocerebellar ataxia 27
+"Deafness, Congenital, with Inner Ear Agenesis, Microtia, and Microdontia"
+Multiple Synostoses Syndrome 3
+"Scaphocephaly, Maxillary Retrusion, And Mental Retardation"
+"Myopathy, Reducing Body, X-Linked, Early-Onset, Severe"
+Amyotrophic Lateral Sclerosis 11
+"Cardiomyopathy, Dilated, 1x"
+"Heterotopia, Periventricular, Ehlers-Danlos Variant"
+"ATELOSTEOGENESIS, TYPE III"
+"Hemangioma, capillary infantile"
+Iridogoniodysgenesis type1
+"Axenfeld-Rieger Syndrome, Type 3"
+Premature Ovarian Failure 3
+"Nystagmus 1, congenital, X- linked"
+"Growth Retardation, Developmental Delay, Coarse Facies, And Early Death"
+"Hypomagnesemia 2, renal"
+"Cerebral Palsy, Spastic Quadriplegic, 1"
+Dyserythropoietic Anemia with Thrombocytopenia
+"Hyperinsulinemic hypoglycemia, familial, 3"
+"Gamma-Glutamylcysteine Synthetase Deficiency, Hemolytic Anemia due to"
+"Charcot-Marie-Tooth disease, Type 4A, axonal form"
+Conotruncal cardiac defects
+"MICROPHTHALMIA, ISOLATED 7"
+"KLIPPEL-FEIL SYNDROME 3, AUTOSOMAL DOMINANT"
+"MICROPHTHALMIA, ISOLATED, WITH COLOBOMA 6"
+Multiple synostoses syndrome 2
+"Microphthalmia, Isolated 4"
+"Neutropenia, Nonimmune Chronic Idiopathic, Adult"
+Combined Oxidative Phosphorylation Deficiency 1
+Pseudoxanthoma Elasticum-Like Disorder with Multiple Coagulation Factor Deficiency
+"Short Stature, Idiopathic, Autosomal"
+Parkinson Disease 11
+ATRIOVENTRICULAR SEPTAL DEFECT 3
+"Cataract, Zonular Pulverulent 3"
+"Deafness, Autosomal Dominant 3A"
+Keratoderma palmoplantar deafness
+"Deafness, Autosomal Dominant 2B"
+"Deafness, Autosomal Dominant 3B"
+"Spastic Paraplegia 44, Autosomal Recessive"
+"LYMPHEDEMA, HEREDITARY, IC"
+Lethal congenital contracture syndrome 1
+Lethal Arthrogryposis With Anterior Horn Cell Disease
+Holoprosencephaly 9
+"Night Blindness, Congenital Stationary, Autosomal Dominant 3"
+"BERNARD-SOULIER SYNDROME, TYPE A2, AUTOSOMAL DOMINANT"
+Brugada Syndrome 2
+"NYSTAGMUS 6, CONGENITAL, X-LINKED"
+"Mental Retardation, X-Linked 94"
+"DEAFNESS, AUTOSOMAL RECESSIVE 25"
+GLYCOGEN STORAGE DISEASE XV
+3-hydroxyacyl-coa dehydrogenase deficiency
+"Hyperinsulinemic Hypoglycemia, Familial, 4"
+"Hemochromatosis, Type 2B"
+"Sick Sinus Syndrome 2, Autosomal Dominant"
+"SPONDYLOCOSTAL DYSOSTOSIS 4, AUTOSOMAL RECESSIVE"
+Beta-Hydroxyisobutyryl CoA Deacylase Deficiency
+"Macular Degeneration, Age-Related, 1"
+3-Hydroxy-3-Methylglutaryl-CoA Synthase 2 Deficiency
+"Diabetes Mellitus, Insulin-Dependent, 20"
+"HYPEROXALURIA, PRIMARY, TYPE III"
+"Microtia, Hearing Impairment, And Cleft Palate"
+"Brachydactyly, Type D"
+"Digital Clubbing, Isolated Congenital"
+THROMBOPHILIA DUE TO HISTIDINE-RICH GLYCOPROTEIN DEFICIENCY
+"Bile acid synthesis defect, congenital, 1"
+"Neuronopathy, Distal Hereditary Motor, Type IIB"
+"NEURONOPATHY, DISTAL HEREDITARY MOTOR, TYPE IIC"
+"Neuropathy, Distal Hereditary Motor, Type IIA"
+Hydrolethalus Syndrome 1
+Endocrine-Cerebroosteodysplasia
+D-2-HYDROXYGLUTARIC ACIDURIA 2
+Cranioectodermal Dysplasia
+Immunodeficiency without anhidrotic ectodermal dysplasia
+"Invasive Pneumococcal Disease, Recurrent Isolated, 2"
+"Atypical Mycobacteriosis, Familial, X-Linked 1"
+"Inflammatory Bowel Disease 28, Autosomal Recessive"
+"Deafness, Autosomal Recessive 42"
+RETINITIS PIGMENTOSA 56
+"MATURITY-ONSET DIABETES OF THE YOUNG, TYPE 10"
+"Diabetes Mellitus, Insulin-Dependent, 2"
+"Diabetes Mellitus, Insulin-Resistant, with Acanthosis Nigricans"
+"Hyperinsulinemic Hypoglycemia, Familial, 5"
+"OROFACIAL CLEFT 6, SUSCEPTIBILITY TO"
+"Lymphoproliferative Syndrome, Ebv-Associated, Autosomal, 1"
+Spinocerebellar Ataxia 15
+"HEMORRHAGIC DESTRUCTION OF THE BRAIN, SUBEPENDYMAL CALCIFICATION, AND CATARACTS"
+"CHARCOT-MARIE-TOOTH DISEASE, RECESSIVE INTERMEDIATE B"
+Nemaline myopathy 6
+Spinocerebellar ataxia 13
+"Atrial Fibrillation, Familial, 4"
+Brugada Syndrome 6
+"Diabetes Mellitus, Transient Neonatal, 3"
+"THYROTOXIC PERIODIC PARALYSIS, SUSCEPTIBILITY TO, 2"
+LONG QT SYNDROME 13
+"Atrial Fibrillation, Familial, 3"
+Short QT Syndrome 2
+"EPILEPTIC ENCEPHALOPATHY, EARLY INFANTILE, 7"
+"Deafness, Autosomal Dominant 2A"
+Retinal Cone Dystrophy 3B
+"Epilepsy, Progressive Myoclonic 3"
+"Mental Retardation, X-Linked, Syndromic, Jarid1c-Related"
+"Spastic paraplegia 8, autosomal dominant"
+"Mental Retardation, Autosomal Dominant 4"
+"Maturity-Onset Diabetes of the Young, Type 7"
+Retinitis Pigmentosa 42
+Noonan syndrome 3
+"Cirrhosis, Familial"
+"Palmoplantar Keratoderma, Nonepidermolytic"
+"WOOLLY HAIR, AUTOSOMAL DOMINANT"
+"Ectodermal Dysplasia, Pure Hair-Nail Type"
+"Corpus Callosum, Partial Agenesis of, X-Linked"
+"Lactase Deficiency, Congenital"
+"Cardiomyopathy, Dilated, 1C"
+"SPONDYLOCOSTAL DYSOSTOSIS 3, AUTOSOMAL RECESSIVE"
+"Deafness, Autosomal Recessive 67"
+"Pituitary Hormone Deficiency, Combined, 4"
+Leber Congenital Amaurosis 14
+Osteopetrosis autosomal dominant type 1
+Van Buchem disease type 2
+"Coronary Artery Disease, Autosomal Dominant 2"
+"Cutis Laxa With Severe Pulmonary, Gastrointestinal, And Urinary Abnormalities"
+"Mental Retardation, X-Linked 95"
+MASP2 Deficiency
+"Spondyloepimetaphyseal Dysplasia, Matrilin-3 Related"
+"MELANOMA, CUTANEOUS MALIGNANT, SUSCEPTIBILITY TO, 5"
+3-methylcrotonyl CoA carboxylase 2 deficiency
+"FACTOR V AND FACTOR VIII, COMBINED DEFICIENCY OF, 2"
+"Mental Retardation, X-Linked, Syndromic 13"
+Lujan Fryns syndrome
+"Transposition of the Great Arteries, Dextro-Looped 1"
+"MICROCEPHALY, POSTNATAL PROGRESSIVE, WITH SEIZURES AND BRAIN ATROPHY"
+"Charcot-Marie-Tooth disease, Type 2B2"
+"Familial Mediterranean Fever, Autosomal Dominant"
+"Charcot-Marie-Tooth Disease, Axonal, Type 2A2"
+Nanophthalmos 2
+"Ceroid Lipofuscinosis, Neuronal, 7"
+Griscelli syndrome type 3
+Methylmalonic aciduria cblA type
+"Methylmalonic Aciduria and Homocystinuria, CblD Type"
+"Charcot-Marie-Tooth Disease, Dominant Intermediate D"
+Hereditary areflexic dystasia
+Combined Oxidative Phosphorylation Deficiency 5
+"DEAFNESS, AUTOSOMAL RECESSIVE 74"
+"SPASTIC ATAXIA 4, AUTOSOMAL RECESSIVE"
+"Methylcobalamin Deficiency, CblG Type"
+"Homocystinuria-Megaloblastic Anemia due to Defect in Cobalamin Metabolism, CblE Complementation Type"
+MYD88 Deficiency
+"Aortic aneurysm, familial thoracic 4"
+"Cardiomyopathy, Dilated, 1EE"
+"Cardiomyopathy, Dilated, 1s"
+Scapuloperoneal muscular dystrophy
+May-Hegglin anomaly
+Macrothrombocytopenia progressive deafness
+"Cardiomyopathy, Familial Hypertrophic, 10"
+"Cardiomyopathy, Familial Hypertrophic, 8"
+"Deafness, Autosomal Dominant 48"
+"Schindler disease, type 1"
+"Granulomatous Disease, Chronic, Autosomal Recessive, Cytochrome B-Positive, Type II"
+"Hidradenitis suppurativa, familial"
+"Charcot-Marie-Tooth disease, Type 1F"
+"MODY, Type 6"
+"Cardiomyopathy, Dilated, 1CC"
+"Ectodermal Dysplasia, Anhidrotic, With T-Cell Immunodeficiency, Autosomal Dominant"
+"ICHTHYOSIS, CONGENITAL, AUTOSOMAL RECESSIVE, NIPAL4-RELATED"
+ATRIAL SEPTAL DEFECT 7 WITH OR WITHOUT ATRIOVENTRICULAR CONDUCTION DEFECTS
+"Hypothyroidism, Congenital, Nongoitrous, 5"
+"ASPERGER SYNDROME, X-LINKED, SUSCEPTIBILITY TO, 1"
+Premature Ovarian Failure 5
+"HETEROTAXY, VISCERAL, 5, AUTOSOMAL"
+"Brachydactyly, Type B2"
+"Niemann-Pick disease, type C2"
+Nephronophthisis 4
+Senior-Loken syndrome 4
+Retinitis Pigmentosa 37
+"Hypertension, Early-Onset, Autosomal Dominant, with Severe Exacerbation in Pregnancy"
+Premature Ovarian Failure 7
+Noonan Syndrome 6
+"Uridine 5-Prime Monophosphate Hydrolase Deficiency, Hemolytic Anemia due to"
+Calcification of Joints and Arteries
+"Optic atrophy and cataract, autosomal dominant"
+"COLORBLINDNESS, PARTIAL, PROTAN SERIES"
+"COLORBLINDNESS, PARTIAL, DEUTAN SERIES"
+TRITANOPIA
+AMYOTROPHIC LATERAL SCLEROSIS 12
+Immune dysfunction with T-cell inactivation due to calcium entry defect 1
+Amyloidosis IX
+"Microphthalmia, Syndromic 5"
+Bleeding Disorder Due To P2RY12 Defect
+"Mental Retardation, X-Linked 30"
+"Maturity-Onset Diabetes Of The Young, Type 9"
+O'Donnell Pappas syndrome
+"Optic Nerve Hypoplasia, Bilateral"
+Hyperphenylalaninemia with primapterinuria
+Proprotein Convertase 1 3 Deficiency
+"Hypercholesterolemia, Autosomal Dominant, 3"
+Cone Dystrophy 4
+"Leigh Syndrome, X-Linked"
+"Progressive External Ophthalmoplegia with Mitochondrial DNA Deletions, Autosomal Dominant, 3"
+Glycogen Storage Disease XIV
+"phosphorylase kinase, alpha 2 (liver)"
+Glycogen Storage Disease IXB
+Glycogen Storage Disease IXC
+Lethal Congenital Contractural Syndrome 3
+Ring dermoid of cornea
+"Cataract, posterior polar, 4"
+"Adenosine Triphosphate, Elevated, Of Erythrocytes"
+"Spinal Muscular Atrophy, Distal, Autosomal Recessive, 4"
+"Cardiomyopathy, Dilated, 1p"
+Bruck syndrome 2
+"Bone Fragility with Contractures, Arterial Rupture, and Deafness"
+Premature Ovarian Failure 2b
+"Progressive External Ophthalmoplegia with Mitochondrial DNA Deletions, Autosomal Dominant, 4"
+MITOCHONDRIAL DNA DEPLETION SYNDROME 4A (ALPERS TYPE)
+"Progressive External Ophthalmoplegia with Mitochondrial DNA Deletions, Autosomal Dominant, 1"
+MITOCHONDRIAL DNA DEPLETION SYNDROME 4B (MNGIE TYPE)
+"Mandibulofacial dysostosis, Treacher Collins type, autosomal recessive"
+TREACHER COLLINS SYNDROME 2
+"MUSCULAR DYSTROPHY-DYSTROGLYCANOPATHY (CONGENITAL WITH MENTAL RETARDATION), TYPE B, 3"
+"MUSCULAR DYSTROPHY-DYSTROGLYCANOPATHY (LIMB-GIRDLE), TYPE C, 3"
+"MUSCULAR DYSTROPHY-DYSTROGLYCANOPATHY (CONGENITAL WITH MENTAL RETARDATION), TYPE B, 1"
+"MUSCULAR DYSTROPHY-DYSTROGLYCANOPATHY (LIMB-GIRDLE), TYPE C, 2"
+"MUSCULAR DYSTROPHY-DYSTROGLYCANOPATHY (CONGENITAL WITH BRAIN AND EYE ANOMALIES), TYPE A, 2"
+"MUSCULAR DYSTROPHY-DYSTROGLYCANOPATHY (CONGENITAL WITH MENTAL RETARDATION), TYPE B, 2"
+Disordered Steroidogenesis Due To Cytochrome P450 Oxidoreductase Deficiency
+ANTLEY-BIXLER SYNDROME WITH GENITAL ANOMALIES AND DISORDERED STEROIDOGENESIS
+"Pituitary Hormone Deficiency, Combined, 1"
+"Deafness, Autosomal Dominant 15"
+Retinitis Pigmentosa 36
+"Epilepsy, Progressive Myoclonic, 1b"
+"Cardiomyopathy, Familial Hypertrophic, 6"
+"Glycogen Storage Disease of Heart, Lethal Congenital"
+"Thrombophilia, Hereditary, Due To Protein C Deficiency, Autosomal Recessive"
+Cone-Rod Dystrophy 12
+"Macular Dystrophy, Retinal, 2"
+Stargardt disease 4
+"THROMBOPHILIA DUE TO PROTEIN S DEFICIENCY, AUTOSOMAL DOMINANT"
+Patterned dystrophy of retinal pigment epithelium
+"Gaucher Disease, Atypical, Due To Saposin C Deficiency"
+Phosphoserine Aminotransferase Deficiency
+"Cardiomyopathy, Dilated, 1u"
+"Cardiomyopathy, Dilated, 1V"
+Macrocephaly Autism Syndrome
+Jansen type metaphyseal chondrodysplasia
+"Chondrodysplasia, blomstrand type"
+"BRACHYDACTYLY, TYPE E2"
+"DEAFNESS, AUTOSOMAL RECESSIVE 84"
+ECTODERMAL DYSPLASIA-SYNDACTYLY SYNDROME 1
+"BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 3"
+"FANCONI ANEMIA, COMPLEMENTATION GROUP O"
+"LEOPARD syndrome, 2"
+Combined Cellular And Humoral Immune Defects With Granulomas
+"Alpha/Beta T-Cell Lymphopenia with Gamma/Delta T-Cell Expansion, Severe Cytomegalovirus Infection, and Autoimmunity"
+"ENCEPHALOPATHY, ACUTE, INFECTION-INDUCED, 3, SUCEPTIBILITY TO"
+Cone-Rod Dystrophy 11
+"Microphthalmia, Isolated 3"
+"Cardiomyopathy, Dilated, 1DD"
+Leber Congenital Amaurosis 13
+"Deafness, Autosomal Recessive, 24"
+"Spastic Paraplegia 31, Autosomal Dominant"
+"Rh-Null, Regulator Type"
+"Night Blindness, Congenital Stationary, Autosomal Dominant 1"
+Aicardi-Goutieres Syndrome 4
+Aicardi-Goutieres Syndrome 3
+"Leukoencephalopathy, Cystic, Without Megalencephaly"
+Retinitis Pigmentosa 2
+Retinitis Pigmentosa 9
+Joubert Syndrome 7
+"Meckel Syndrome, Type 5"
+Cone-Rod Dystrophy 13
+"Retinitis Pigmentosa, X-Linked, And Sinorespiratory Infections, With Or Without Deafness"
+Ribose 5-Phosphate Isomerase Deficiency
+Diamond-Blackfan Anemia 7
+Diamond-Blackfan Anemia 5
+Aase syndrome
+Diamond-Blackfan Anemia 10
+MITOCHONDRIAL DNA DEPLETION SYNDROME 8A (ENCEPHALOMYOPATHIC TYPE WITH RENAL TUBULOPATHY)
+"Ciliary Dyskinesia, Primary, 11"
+Aicardi-Goutieres syndrome 5
+"Migraine, Familial Hemiplegic, 3"
+"EPILEPTIC ENCEPHALOPATHY, EARLY INFANTILE, 11"
+Long Qt Syndrome 10
+"Cardiomyopathy, Dilated, 1E"
+"Indifference to Pain, Congenital, Autosomal Recessive"
+Bronchiectasis With Or Without Elevated Sweat Chloride 2
+Bronchiectasis With Or Without Elevated Sweat Chloride 1
+"Cardioencephalomyopathy, Fatal Infantile, due to Cytochrome C Oxidase Deficiency"
+Mitochondrial Complex II Deficiency
+Craniolenticulosutural Dysplasia
+Cone-Rod Dystrophy 10
+Retinitis Pigmentosa 35
+"Surfactant Metabolism Dysfunction, Pulmonary, 1"
+"Surfactant Metabolism Dysfunction, Pulmonary, 2"
+"MONONEUROPATHY OF THE MEDIAN NERVE, MILD"
+NOONAN SYNDROME-LIKE DISORDER WITH LOOSE ANAGEN HAIR
+Stocco dos Santos syndrome
+BRANCHIOOTORENAL SYNDROME 2
+"Microphthalmia, Isolated, with Cataract 2"
+"Anemia, Hypochromic Microcytic, With Iron Overload"
+Erythrocyte Lactate Transporter Defect
+"Epileptic Encephalopathy, Early Infantile, 3"
+"Anemia, Sideroblastic, Pyridoxine-Refractory, Autosomal Recessive"
+Mitochondrial Phosphate Carrier Deficiency
+"Progressive External Ophthalmoplegia with Mitochondrial DNA Deletions, Autosomal Dominant, 2"
+"Nephrolithiasis-Osteoporosis, Hypophosphatemic, 1"
+Glycogen Storage Disease IC
+"Corneal Dystrophy, Fuchs Endothelial, 4"
+"Renal Tubular Acidosis, Distal, With Hemolytic Anemia"
+"Renal Tubular Acidosis, Proximal, With Ocular Abnormalities And Mental Retardation"
+Thyroid Dyshormonogenesis 1
+Lysinuric Protein Intolerance
+"Nephrolithiasis-Osteoporosis, Hypophosphatemic, 2"
+Retinitis Pigmentosa 33
+Long Qt Syndrome 12
+"Waardenburg Syndrome, Type 4c"
+Globozoospermia
+Elliptocytosis 2
+"NEUROPATHY, HEREDITARY SENSORY AND AUTONOMIC, TYPE IA"
+"NEUROPATHY, HEREDITARY SENSORY AND AUTONOMIC, TYPE IC"
+"Rolandic Epilepsy, Mental Retardation, and Speech Dyspraxia, X-Linked"
+"46,Xy Gonadal Dysgenesis, Complete, Sry-Related"
+"Mental Retardation, Autosomal Recessive 12"
+"Hyper-Ige Recurrent Infection Syndrome, Autosomal Dominant"
+Laron syndrome type 2
+Testicular Germ Cell Tumor
+MITOCHONDRIAL DNA DEPLETION SYNDROME 5 (ENCEPHALOMYOPATHIC WITH METHYLMALONIC ACIDURIA)
+MITOCHONDRIAL DNA DEPLETION SYNDROME 9 (ENCEPHALOMYOPATHIC TYPE WITH METHYLMALONIC ACIDURIA)
+"Mental Retardation, Autosomal Dominant 5"
+"MENTAL RETARDATION, X-LINKED 96"
+Atrial Septal Defect 4
+"Cardiomyopathy, Dilated, 1N"
+"Corneal dystrophy, epithelial basement membrane"
+"Loeys-Dietz Syndrome, Type 2A"
+Keratoacanthoma familial
+"Loeys-Dietz Syndrome, Type 1b"
+"Aortic aneurysm, familial thoracic 3"
+Holoprosencephaly 4
+"Dystonia 6, torsion"
+"Thyroid Hormone Resistance, Selective Pituitary"
+Atrial Septal Defect 6
+Meckel syndrome type 2
+"Arrhythmogenic Right Ventricular Dysplasia, Familial, 5"
+Joubert syndrome 6
+"Deafness, Autosomal Recessive 6"
+"Cardiomyopathy, Dilated, 1t"
+"Osteopetrosis, Autosomal Recessive 7"
+Immunoglobulin a deficiency 2
+"Osteopetrosis, mild autosomal recessive form"
+"Cardiomyopathy, Familial Hypertrophic, 13"
+"Cardiomyopathy, Dilated, 1z"
+"CARDIOMYOPATHY, FAMILIAL HYPERTROPHIC, 7"
+"Cardiomyopathy, Dilated, 2a"
+"Cardiomyopathy, Dilated, 1FF"
+"Cardiomyopathy, Familial Hypertrophic, 2"
+"Cardiomyopathy, Familial Hypertrophic, 3"
+"Cardiomyopathy, Dilated, 1y"
+Nemaline myopathy 4
+Nemaline myopathy 1
+Thyroid Dyshormonogenesis 2A
+"Deafness, Autosomal Recessive 28"
+"LIVER FAILURE, INFANTILE, TRANSIENT"
+CSNB1C
+"Progressive Familial Heart Block, Type Ib"
+"Trichorhinophalangeal Syndrome, Type III"
+Pontocerebellar Hypoplasia Type 2B
+Pontocerebellar Hypoplasia Type 2C
+Combined Oxidative Phosphorylation Deficiency 3
+"Mental Retardation, X-Linked 58"
+"Cardiomyopathy, Familial Hypertrophic, 9"
+"Macrothrombocytopenia, Autosomal Dominant, Tubb1-Related"
+"Polymicrogyria, Asymmetric"
+Combined Oxidative Phosphorylation Deficiency 4
+LEBER CONGENITAL AMAUROSIS 15
+"PARKINSON DISEASE 5, AUTOSOMAL DOMINANT"
+"Hyperbilirubinemia, Transient Familial Neonatal"
+Glomerulocystic Kidney Disease with Hyperuricemia and Isosthenuria
+Oroticaciduria 1
+"IMMUNODEFICIENCY WITH HYPER-IgM, TYPE 5"
+"Mental Retardation, X-Linked, Syndromic 14"
+Sacral defect and anterior sacral meningocele
+"Spinal Muscular Atrophy, Proximal, Adult, Autosomal Dominant"
+"Cardiomyopathy, Familial Hypertrophic, 15"
+"Cardiomyopathy, Dilated, 1w"
+"Vitamin K-Dependent Clotting Factors, Combined Deficiency Of, Type 2"
+Keratoconus 1
+"Microphthalmia, Isolated, with Coloboma 3"
+"Microphthalmia, Isolated 2"
+CRANIOECTODERMAL DYSPLASIA 2
+"Glaucoma 1, Open Angle, G"
+"Deafness, Autosomal Dominant 6"
+Split-Hand/Foot Malformation 6
+"Sex Reversal, Female, With Dysgenesis Of Kidneys, Adrenals, And Lungs"
+"NEPHROTIC SYNDROME, TYPE 4"
+NEPHRONOPHTHISIS-LIKE NEPHROPATHY 1
+"Skeletal Defects, Genital Hypoplasia, And Mental Retardation"
+"MENTAL RETARDATION, X-LINKED, SYNDROMIC, RAYMOND TYPE"
+"Corneal Dystrophy, Fuchs Endothelial, 6"
+"Spastic Paraplegia 33, Autosomal Dominant"
+Mandibuloacral dysplasia with type B lipodystrophy
+RETINITIS PIGMENTOSA 58
+"Mental Retardation, X-Linked 45"
+Hypertension
+Crohn Disease
+"Arthritis, Rheumatoid"
+Parkinson Disease
+Schizophrenia
+Asthma
+Myocardial Infarction
+Amyotrophic Lateral Sclerosis
+Attention Deficit Disorder with Hyperactivity
+Malignant neoplasm breast
+Tuberous Sclerosis
+beta-Thalassemia
+Hypercholesterolemia
+Adenocarcinoma
+Macular Degeneration
+Hemochromatosis
+Hyperhomocysteinemia
+Hemophilia A
+"Diabetes Mellitus, Type 1"
+Autistic Disorder
+Osteoporosis
+Nephrotic Syndrome
+Multiple Sclerosis
+Diabetic Nephropathies
+Colorectal Neoplasms
+Anxiety Disorders
+Hyperlipidemias
+Long QT Syndrome
+Diabetes Mellitus
+Heart Failure
+"Adrenal Hyperplasia, Congenital"
+Classical phenylketonuria
+Atherosclerosis
+Depressive Disorder
+Neoplasm Metastasis
+Ovarian Neoplasms
+Sepsis
+Malignant neoplasm of prostate
+Becker muscular dystrophy
+Hirschsprung disease 1
+Adenomatous Polyposis Coli
+Burkitt Lymphoma
+Inflammatory Bowel Diseases
+"Albinism, Oculocutaneous"
+Deafness
+Stroke
+Nijmegen Breakage Syndrome
+Phenylketonurias
+Inflammation
+Severe myoclonic epilepsy in infancy
+Angelman Syndrome
+"Muscular Atrophy, Spinal"
+Lung Neoplasms
+Glucosephosphate Dehydrogenase Deficiency
+Melanoma
+Hypertriglyceridemia
+Colorectal Cancer
+Malignant neoplasm of ovary
+"Pulmonary Disease, Chronic Obstructive"
+Breast Neoplasms
+Hirschsprung Disease
+"Diabetes Insipidus, Nephrogenic"
+Colonic Neoplasms
+Gaucher Disease
+"Rhabdomyosarcoma, Alveolar"
+X-linked adrenal hypoplasia congenita
+Primary Myelofibrosis
+Psoriasis
+"Charcot-Marie-Tooth disease, type IA"
+Endometrial Carcinoma
+Retinoblastoma
+"Hearing Loss, Sensorineural"
+Porphyria Cutanea Tarda
+Eosinophilia
+Prader-Willi Syndrome
+Tourette Syndrome
+Hypercalcemia
+"Thrombocythemia, Essential"
+Rothmund-Thomson Syndrome
+"Lymphoproliferative Syndrome, X-Linked, 1"
+Erectile Dysfunction
+Fragile X Tremor Ataxia Syndrome
+Bipolar Disorder
+Osteoarthritis
+Polycystic Kidney Diseases
+Cardiovascular Diseases
+Polyglandular autoimmune syndrome type I
+Mesothelioma
+Cavernous hemangioma of brain
+Myotonia Congenita
+"Leukemia, Myelogenous, Chronic, BCR-ABL Positive"
+"Carcinoma, Squamous Cell"
+Pancreatitis
+Beckwith-Wiedemann Syndrome
+Pain
+Venous Thrombosis
+Alcoholism
+Small Cell Lung Carcinoma
+Cataract
+Shprintzen syndrome
+Prostatic Neoplasms
+"Hypertension, Pulmonary"
+Down Syndrome
+Dentinogenesis Imperfecta
+Carcinoma
+"Thanatophoric Dysplasia, Type I"
+"THROMBOTIC THROMBOCYTOPENIC PURPURA, CONGENITAL"
+BANNAYAN-RILEY-RUVALCABA SYNDROME
+Stomach Neoplasms
+"Spondylitis, Ankylosing"
+Narcolepsy
+Insulin Resistance
+Primary idiopathic dilated cardiomyopathy
+Pulmonary Fibrosis
+Mucopolysaccharidosis V
+Tuberculosis
+"Glomerulosclerosis, Focal Segmental"
+Septo-Optic Dysplasia
+Coronary Artery Disease
+SPINOCEREBELLAR ATAXIA 6
+Cholestasis
+Saethre-Chotzen syndrome
+Prolactinoma
+"EHLERS-DANLOS SYNDROME, TYPE IV, AUTOSOMAL DOMINANT"
+"Incontinentia pigmenti, familial male-lethal type"
+Hypogonadotropic hypogonadism
+Lung Diseases
+apert syndrome
+Hurler's syndrome
+"Carcinoma, Renal Cell"
+"Depressive Disorder, Major"
+dejerine-sottas disease
+PFEIFFER SYNDROME
+Diastrophic dysplasia
+Graves Disease
+"Encephalomyelitis, Autoimmune, Experimental"
+Kidney Neoplasms
+"Mucopolysaccharidosis, MPS-IV-A"
+Coronary Disease
+Hyperprolactinemia
+Fibrodysplasia Ossificans Progressiva
+Netherton Syndrome
+"Hypertension, Essential"
+"Aortic Stenosis, Supravalvular"
+Hyperinsulinism
+Fish-eye disease
+"Hyperparathyroidism, Secondary"
+Muscular Atrophy
+Smith-Magenis Syndrome
+Barrett Esophagus
+"Kidney Failure, Chronic"
+"FANCONI ANEMIA, COMPLEMENTATION GROUP A"
+"Charcot-Marie-Tooth disease, type IB"
+"INSENSITIVITY TO PAIN, CONGENITAL, WITH ANHIDROSIS"
+WHIM syndrome
+Hyperphosphatemia
+Esophageal Neoplasms
+Alstrom Syndrome
+Heart Diseases
+Mucopolysaccharidosis Type IIIB
+"Waardenburg Syndrome, Type 1"
+Ischemia
+Hypotrichosis
+Mucopolysaccharidosis Type IIIA
+Polycystic liver disease
+"Cardiomyopathy, Dilated"
+Townes-Brocks syndrome
+Behcet Syndrome
+Pallister-Hall Syndrome
+Classical Lissencephaly
+Williams Syndrome
+"Liver Failure, Acute"
+osteogenesis imperfecta tarda
+"Hypophosphatasia, Infantile"
+Urinary Bladder Neoplasms
+Benign scapuloperoneal muscular dystrophy with cardiomyopathy
+"CARNEY COMPLEX, TYPE 1"
+"Sleep Apnea, Obstructive"
+"GAUCHER DISEASE, TYPE I"
+"Hypertrophy, Left Ventricular"
+Kidney Calculi
+"Colitis, Ulcerative"
+Cocaine-Related Disorders
+Hyperlipoproteinemias
+Brain Ischemia
+Myocardial Ischemia
+Pneumonia
+Prion Diseases
+"DYSKERATOSIS CONGENITA, X-LINKED"
+Dystrophia myotonica 1
+Pulmonary Edema
+Seckel syndrome 1
+Glioblastoma
+Stomach Ulcer
+Glioma
+"USHER SYNDROME, TYPE I"
+Epidermolysa bullosa simplex and limb girdle muscular dystrophy
+Celiac Disease
+"Dementia, familial Danish"
+"Carcinoma, Non-Small-Cell Lung"
+POLYCYSTIC KIDNEY DISEASE 1
+Metabolic Syndrome X
+"ALPORT SYNDROME, AUTOSOMAL RECESSIVE"
+Reperfusion Injury
+Mouth Neoplasms
+Tuberous Sclerosis 1
+Dystonia musculorum deformans type 1
+Fatty Liver
+Congenital amegakaryocytic thrombocytopenia
+"Carcinoma, Transitional Cell"
+beta-Mannosidosis
+Histiocytic medullary reticulosis
+Nance-Horan syndrome
+"Dyskinesia, Drug-Induced"
+Prostatitis
+Seizures
+Duane Anomaly with Radial Ray Abnormalities and Deafness
+Hyperglycemia
+Wolf-Hirschhorn Syndrome
+Retinal Vein Occlusion
+"Hypertension, Portal"
+Fanconi Syndrome
+Melnick-Needles syndrome
+Salla disease
+"Spastic paraplegia 20, autosomal recessive"
+Epilepsy
+Fibrosis
+"Epilepsy, Temporal Lobe"
+Brain Injuries
+Cardiomegaly
+Proteinuria
+Li-Fraumeni Syndrome
+"Macular Degeneration, Polymorphic Vitelline"
+Knobloch syndrome
+Stargardt disease 3
+Glomus vagale tumors
+"Dementia, familial British"
+"COCKAYNE SYNDROME, TYPE B"
+Finnish congenital nephrotic syndrome
+"PSEUDOHYPOALDOSTERONISM, TYPE I, AUTOSOMAL DOMINANT"
+"Sialic acid storage disease, severe infantile type"
+SPINOCEREBELLAR ATAXIA 5
+Dehydration
+Spondylocarpotarsal synostosis
+Jacobs syndrome
+Schwartz-Jampel syndrome
+"Ehlers-Danlos Syndrome, Type VII, Autosomal Recessive"
+Rhinitis
+Demyelinating Diseases
+Costeff optic atrophy syndrome
+"Hypocalciuric Hypercalcemia, Familial, Type I"
+"Usher Syndrome, Type ID"
+Tyrosinemia type III
+"EPIDERMOLYSIS BULLOSA SIMPLEX, DOWLING-MEARA TYPE"
+"NIEMANN-PICK DISEASE, TYPE C1"
+Anophthalmos with limb anomalies
+Osteopathia striata cranial sclerosis
+Iron Metabolism Disorders
+"Pyloric Stenosis, Infantile Hypertrophic 1"
+Corpus callosum agenesis neuronopathy
+Hypercalciuria
+"Arthritis, Experimental"
+Acute neuronopathic Gaucher's disease
+Hyperparathyroidism 1
+Tuberous Sclerosis 2
+Marshall syndrome
+"Myopathy, Distal, with Anterior Tibial Onset"
+Colitis
+Uremia
+Segmental glomerulosclerosis
+"DIABETES INSIPIDUS, NEPHROGENIC, X-LINKED"
+CASPASE 8 DEFICIENCY
+Friedreich Ataxia 1
+"GM1-GANGLIOSIDOSIS, TYPE II"
+Hurler-Scheie syndrome
+"Popliteal Pterygium Syndrome, Lethal Type"
+"Hypophosphatasia, Childhood"
+Anorexia
+"USHER SYNDROME, TYPE IID"
+"Aortic Aneurysm, Thoracic"
+"Neuropathy, hereditary motor and sensory, LOM type"
+Diabetic Angiopathies
+"Anemia, Iron-Deficiency"
+Alpha-Methylacyl-CoA Racemase Deficiency
+Osteogenesis Imperfecta Type VII
+"Cataract, Autosomal Dominant"
+Cystathioninuria
+"GAUCHER DISEASE, TYPE III"
+Epidermolysis bullosa letalis
+Porphyrias
+Diabetic Cardiomyopathies
+Status Epilepticus
+Parkinsonian Disorders
+Disseminated Intravascular Coagulation
+"FANCONI ANEMIA, COMPLEMENTATION GROUP C"
+Albinism with hemorrhagic diathesis and pigmented reticuloendothelial cells
+Dyssegmental dysplasia
+"Aortic Aneurysm, Abdominal"
+Cystitis
+Hyperalgesia
+Schneckenbecken dysplasia
+"Hemophagocytic lymphohistiocytosis, familial, 3"
+"MYASTHENIC SYNDROME, CONGENITAL, SLOW-CHANNEL"
+"CEROID LIPOFUSCINOSIS, NEURONAL, 8"
+"Alzheimer disease, familial, type 3"
+MINICORE MYOPATHY WITH EXTERNAL OPHTHALMOPLEGIA
+Congenital chloride diarrhea
+Sarcoma family syndrome of Li and Fraumeni
+"Polyneuropathy, Hearing Loss, Ataxia, Retinitis Pigmentosa, And Cataract"
+COCOON SYNDROME
+"Cataract, Congenital Zonular, with Sutural Opacities"
+"Amelogenesis Imperfecta, Type IB"
+Congenital diaphragmatic hernia
+Athabaskan brainstem dysgenesis
+Polycystic Ovary Syndrome
+Naxos disease
+"Meningioma, familial"
+Cerebral Cavernous Malformations 3
+"Lipodystrophy, Congenital Generalized, Type 4"
+"Cone-Rod Dystrophy, X-Linked, Type 1"
+"Charcot-Marie-Tooth disease, Type 4B2"
+"Deafness, Autosomal Recessive 16"
+"Respiratory Distress Syndrome, Adult"
+"Liver Cirrhosis, Experimental"
+Pleurisy
+Cachexia
+Ehlers-Danlos syndrome caused by tenascin-X deficiency
+Achondrogenesis type 1A
+"HETEROTAXY, VISCERAL, 4, AUTOSOMAL"
+"Genes, APC"
+APOLIPOPROTEIN B
+APOLIPOPROTEIN E
+"DIABETES INSIPIDUS, NEPHROGENIC, AUTOSOMAL"
+FARBER LIPOGRANULOMATOSIS
+BUTYRYLCHOLINESTERASE
+CYSTATHIONINE BETA-SYNTHASE
+"DEAFNESS, AUTOSOMAL RECESSIVE 29"
+Carnitine Palmitoyltransferase I Deficiency
+LEBER CONGENITAL AMAUROSIS 8
+LEBER CONGENITAL AMAUROSIS 7
+"CATARACT, COPPOCK-LIKE"
+"MUSCULAR DYSTROPHY-DYSTROGLYCANOPATHY (LIMB-GIRDLE), TYPE C, 7"
+"HIRSCHSPRUNG DISEASE, SUSCEPTIBILITY TO, 4"
+"HIRSCHSPRUNG DISEASE, SUSCEPTIBILITY TO, 2"
+"Cataract, posterior polar, 1"
+COAGULATION FACTOR X
+"Factor Xiii, A Subunit, Deficiency Of"
+HEMOPHILIA A
+"TYROSINEMIA, TYPE I"
+GLUCOSE-6-PHOSPHATE DEHYDROGENASE
+"EPILEPSY, JUVENILE MYOCLONIC, SUSCEPTIBILITY TO, 5"
+"HIRSCHSPRUNG DISEASE, SUSCEPTIBILITY TO, 3"
+OGUCHI DISEASE 2
+Narcolepsy 1
+HFE GENE
+HPS3 GENE
+HPS5 GENE
+ALOPECIA UNIVERSALIS CONGENITA
+hydroxysteroid (11-beta) dehydrogenase 2
+MUCOPOLYSACCHARIDOSIS TYPE II
+ALAGILLE SYNDROME 1
+Jervell And Lange-Nielsen Syndrome 2
+LYSOSOMAL ACID LIPASE DEFICIENCY
+"Colorectal cancer, hereditary nonpolyposis, type 1"
+ORNITHINE AMINOTRANSFERASE
+"MUSCULAR DYSTROPHY-DYSTROGLYCANOPATHY (CONGENITAL WITH BRAIN AND EYE ANOMALIES), TYPE A, 3"
+"MICROPHTHALMIA, ISOLATED 6"
+"BASAL CELL CARCINOMA, SUSCEPTIBILITY TO, 1"
+Retinoblastoma Protein
+Retinitis Pigmentosa 20
+Leber Congenital Amaurosis 6
+RETINOSCHISIN
+"PSEUDOHYPOALDOSTERONISM, TYPE I, AUTOSOMAL RECESSIVE"
+ALPHA-2-PLASMIN INHIBITOR DEFICIENCY
+"SPECTRIN, BETA, ERYTHROCYTIC"
+Emery-Dreifuss Muscular Dystrophy 4
+Thrombophilia due to Thrombomodulin Defect
+"Pseudohypoaldosteronism, Type IIb"
+"Adenoma, Liver Cell"
+Retinitis Pigmentosa 19
+"Diabetes Mellitus, Experimental"
+Non-alcoholic Fatty Liver Disease
+Myocardial Reperfusion Injury
+Lead Poisoning
+"Porphyrias, Hepatic"
+"Mammary Neoplasms, Experimental"
+Silicosis
+"Microcephaly, Primary Autosomal Recessive, 5"
+Inflammatory Bowel Disease 10
+Acute Kidney Injury
+Femoral Fractures
+Diabetic Neuropathies
+Spinal Cord Injuries
+Glomerulonephritis
+Hyperoxaluria
+"Nephritis, Interstitial"
+Nephropathy with Pretibial Epidermolysis Bullosa and Deafness
+PERICENTRIN
+Hypotension
+Cortical Dysplasia-Focal Epilepsy Syndrome
+"Stickler syndrome, type 3"
+Substance Withdrawal Syndrome
+"Cataract, Congenital, Cerulean Type, 2"
+Aortic Valve Insufficiency
+"Shock, Hemorrhagic"
+Severe combined immunodeficiency with sensitivity to ionizing radiation
+Nephrosis
+"Deafness, Autosomal Recessive 31"
+"46,Xy Gonadal Dysgenesis, Partial, With Minifascicular Neuropathy"
+Tachycardia
+Renal Insufficiency
+Wounds and Injuries
+Elliptocytosis 1
+Pulmonary Embolism
+"T-cell immunodeficiency, congenital alopecia and nail dystrophy"
+Retinitis Pigmentosa 30
+Hepatic Encephalopathy
+"Mental Retardation, X-Linked 3"
+Glutathionuria
+Nephronophthisis 7
+"Diabetes Mellitus, Neonatal, with Congenital Hypothyroidism"
+Primary hyperoxaluria type 2
+"Liver Neoplasms, Experimental"
+Oculoauricular Syndrome
+Trichotillomania
+Atrichia with Papular Lesions
+Amnesia
+Endotoxemia
+Drug-Induced Liver Injury
+Fever
+Mucositis
+"Muscular Dystrophy, Congenital, Due To Integrin Alpha-7 Deficiency"
+"Amaurosis congenita of Leber, type 5"
+"Osteogenesis imperfecta, type VIII"
+Acheiropodia
+Brunner Syndrome
+Precancerous Conditions
+Memory Disorders
+"Amelogenesis Imperfecta, Hypomaturation Type, Iia2"
+Brain Edema
+Burns
+"Neural tube defect, folate-sensitive"
+"Deafness, Autosomal Recessive 30"
+Griscelli syndrome type 1
+"Urinary Bladder, Overactive"
+"Hernia, Diaphragmatic"
+Asbestosis
+"Shock, Septic"
+Nerve Degeneration
+"Mental retardation, X-linked, with cerebellar hypoplasia and distinctive facial appearance"
+"Osteopetrosis, Autosomal Recessive 5"
+"Deafness, Autosomal Recessive 22"
+Thrombosis
+"Keratitis, hereditary"
+VATER association
+Asthenozoospermia
+Intracranial Hemorrhages
+Neoplasm Invasiveness
+Proopiomelanocortin Deficiency
+"Pigmented Nodular Adrenocortical Disease, Primary, 1"
+Retinitis Pigmentosa 41
+"MELANOMA, CUTANEOUS MALIGNANT, SUSCEPTIBILITY TO, 1"
+Hypocalcemia
+"Severe Combined Immunodeficiency, Autosomal Recessive, T Cell-Negative, B Cell-Negative, NK Cell-Positive"
+Hematoma
+Hypophosphatemia
+"Spondylocheirodysplasia, Ehlers-Danlos Syndrome-Like"
+Obsessive-Compulsive Disorder
+Rhabdoid Tumor Predisposition Syndrome 1
+"Waardenburg Syndrome, Type 2D"
+Deficiency Diseases
+Calcinosis
+"Spherocytosis, Type 3"
+"Hemophagocytic lymphohistiocytosis, familial, 4"
+Arrest of spermatogenesis
+Bradycardia
+Neurogenic Inflammation
+"Muscular Dystrophy, Limb-Girdle, Type 2G"
+Hepatitis
+Diabetic Retinopathy
+"Thyroid Hormone Resistance, Generalized, Autosomal Recessive"
+Vascular Diseases
+Albuminuria
+Heart Arrest
+"Muscular Dystrophy, Limb-Girdle, Type 2J"
+"Deafness, Autosomal Recessive 18"
+Acute Lung Injury
+"Corneal Dystrophy, Posterior Polymorphous, 3"
+Leukemia
+Hyperbilirubinemia
+Venous Thromboembolism
+"Purpura, Thrombotic Thrombocytopenic"
+"Dermatitis, Atopic"
+Dementia
+Neoplasms
+Sarcoma
+Friedreich Ataxia
+"Pancreatitis, Chronic"
+Muscular Dystrophies
+Hepatitis C
+Thromboembolism
+"Leukemia, Promyelocytic, Acute"
+"Leukemia, Lymphocytic, Chronic, B-Cell"
+Precursor Cell Lymphoblastic Leukemia-Lymphoma
+Dystonia
+"Lymphoma, Large-Cell, Anaplastic"
+"Polycystic Kidney, Autosomal Dominant"
+"Amyloid Neuropathies, Familial"
+Multiple Myeloma
+Machado-Joseph Disease
+Sarcoidosis
+Mood Disorders
+Osteogenesis Imperfecta
+alpha 1-Antitrypsin Deficiency
+Intellectual Disability
+Thyroid Neoplasms
+Thrombophilia
+alpha-Thalassemia
+"Colorectal Neoplasms, Hereditary Nonpolyposis"
+Charcot-Marie-Tooth Disease
+Neuroblastoma
+"Infertility, Male"
+"Lymphoma, Follicular"
+Multiple Endocrine Neoplasia
+Adenoma
+Meningioma
+Glucose Intolerance
+Kidney Diseases
+Adenocarcinoma of lung
+"Sarcoma, Ewing"
+"Alzheimer disease, familial"
+"Thyroid cancer, medullary"
+HIV Infections
+Tauopathies
+Frontotemporal Lobar Degeneration
+Hereditary Breast and Ovarian Cancer Syndrome
+Pre-Eclampsia
+Hypoglycemia
+Osteosarcoma
+Primary Ovarian Insufficiency
+Pseudohypoparathyroidism
+Dystonic Disorders
+"Granulomatous Disease, Chronic"
+"Epilepsies, Myoclonic"
+Panic Disorder
+Tobacco Use Disorder
+Exfoliation Syndrome
+"Sarcoma, Synovial"
+Hepatitis B
+Infection
+Endometrial Neoplasms
+Galactosemias
+Endometriosis
+Mucopolysaccharidosis II
+Neurodegenerative Diseases
+Mason-Type Diabetes
+Iron Overload
+Rickets
+Fanconi Anemia
+"Ophthalmoplegia, Chronic Progressive External"
+Cockayne Syndrome
+Thrombocytosis
+Spinocerebellar Ataxias
+Anemia
+"Lipodystrophy, Familial Partial"
+Homocystinuria
+Motor Neuron Disease
+"Carcinoma, Basal Cell"
+Malignant neoplasm of bladder
+Holoprosencephaly
+"Muscular Dystrophy, Oculopharyngeal"
+"Plaque, Amyloid"
+"Angioedemas, Hereditary"
+Epidermolysis Bullosa Simplex
+"Hepatitis C, Chronic"
+Hyperparathyroidism
+Mucopolysaccharidosis I
+Precursor T-Cell Lymphoblastic Leukemia-Lymphoma
+Hyperthyroidism
+"Muscular Dystrophy, Emery-Dreifuss"
+Cardiomyopathies
+Keratoconus
+Pulmonary Emphysema
+Common Variable Immunodeficiency
+Malaria
+Dyslexia
+Eczema
+Personality Disorders
+Hodgkin Disease
+Liver Diseases
+"Scleroderma, Systemic"
+"Anemia, Sickle Cell"
+Atypical hemolytic uremic syndrome
+Migraine Disorders
+"Mastocytosis, Systemic"
+"Niemann-Pick Disease, Type C"
+Alagille Syndrome
+"Glomerulonephritis, IGA"
+"Seizures, Febrile"
+Cushing Syndrome
+"Gangliosidosis, GM1"
+Thanatophoric Dysplasia
+Dyskeratosis Congenita
+"Arthritis, Psoriatic"
+Incontinentia Pigmenti
+Cerebral Amyloid Angiopathy
+Graft vs Host Disease
+Congenital Hyperinsulinism
+Branchio-Oto-Renal Syndrome
+Atrial Fibrillation
+Pancreatic Neoplasms
+"Anemia, Hemolytic"
+Ataxia
+Polycythemia
+Dermatomyositis
+Neuromyelitis Optica
+Skin Neoplasms
+Hemorrhage
+Leiomyoma
+Ichthyosis Vulgaris
+"Hypocalciuric hypercalcemia, familial, type 1"
+"Fibromatosis, Aggressive"
+Anoxia
+"Cardiomyopathy, Hypertrophic"
+Lymphoma
+Hashimoto Disease
+"GASTRIC CANCER, HEREDITARY DIFFUSE"
+Retinoschisis
+Restless Legs Syndrome
+Niemann-Pick Diseases
+GALACTOSEMIA
+Metabolic Diseases
+Carney Complex
+"Hyperlipidemia, Familial Combined"
+"Arthritis, Juvenile Rheumatoid"
+Stevens-Johnson Syndrome
+"Epilepsy, Frontal Lobe"
+Liver Neoplasms
+Anorexia Nervosa
+Hyperlipoproteinemia Type III
+"Thyroid cancer, papillary"
+Neuronal Ceroid-Lipofuscinoses
+"Autoimmune polyendocrinopathy syndrome, type 1"
+"Lymphoma, Large B-Cell, Diffuse"
+"Acidosis, Renal Tubular"
+Agammaglobulinemia
+Flushing
+Parathyroid Neoplasms
+Osteopetrosis
+Usher Syndromes
+Urticaria
+Congenital Hypothyroidism
+Acrocephalosyndactylia
+"Ventricular Dysfunction, Left"
+"Anemia, Aplastic"
+"Epilepsy, Generalized"
+Vitelliform Macular Dystrophy
+Cleft Lip
+Goiter
+Heroin Dependence
+Diffuse Cerebral Sclerosis of Schilder
+Rectal Neoplasms
+"Sarcoma, Kaposi"
+Leprosy
+Myelodysplastic Syndromes
+Nasopharyngeal carcinoma
+Dyslipidemias
+"Nephritis, Hereditary"
+Mitochondrial Diseases
+Erythromelalgia
+Blindness
+"Polyendocrinopathies, Autoimmune"
+Dent Disease
+Retinal Diseases
+"Diabetes, Gestational"
+Prostatic Hyperplasia
+Hypereosinophilic Syndrome
+X-Linked Combined Immunodeficiency Diseases
+"Tachycardia, Ventricular"
+Neutropenia
+Leber Congenital Amaurosis
+Waardenburg Syndrome
+Xeroderma Pigmentosum
+"Cardiomyopathy, Hypertrophic, Familial"
+Azoospermia
+Reifenstein syndrome
+Gout
+Substance-Related Disorders
+Essential Tremor
+"Epidermolysis Bullosa, Junctional"
+Protein C Deficiency
+Liver Cirrhosis
+Vesico-Ureteral Reflux
+Bartter Syndrome
+Peripheral Nervous System Diseases
+Thyroid Hormone Resistance Syndrome
+"Myopathies, Structural, Congenital"
+Ectopia Lentis
+Drug Hypersensitivity
+"Liposarcoma, Myxoid"
+Coronary Vasospasm
+Cysts
+"Cholestasis, Intrahepatic"
+Adenocarcinoma Of Esophagus
+Budd-Chiari Syndrome
+Pituitary ACTH Hypersecretion
+Mental Disorders
+Mucolipidoses
+Periodontitis
+"Tuberculosis, Pulmonary"
+Muscular Diseases
+Pituitary Neoplasms
+Turner Syndrome
+"Heart Defects, Congenital"
+Oligodendroglioma
+Anophthalmos
+Methylmalonic acidemia
+Duane Retraction Syndrome
+Acromegaly
+"Hepatitis B, Chronic"
+Marijuana Abuse
+Lissencephaly
+"Glomerulonephritis, Membranoproliferative"
+Irritable Bowel Syndrome
+Hypogonadism
+Basal Ganglia Diseases
+Albright's hereditary osteodystrophy
+"Epidermal Necrolysis, Toxic"
+Cholangiocarcinoma
+Autoimmune Diseases
+Amelogenesis Imperfecta
+Tyrosinemias
+"Neuroectodermal Tumors, Primitive"
+Neurofibromatoses
+"Muscular Dystrophies, Limb-Girdle"
+Spinal Muscular Atrophies of Childhood
+"Chronic infantile neurological, cutaneous and articular syndrome"
+"HYPEREOSINOPHILIC SYNDROME, IDIOPATHIC"
+Hemoglobinopathies
+"Obesity, Morbid"
+Hypoparathyroidism
+Thrombocytopenia
+Acute Coronary Syndrome
+"Leukemia, Myeloid"
+"RENAL CELL CARCINOMA, NONPAPILLARY"
+Gastrinoma
+Blood Coagulation Disorders
+Psychotic Disorders
+Adult-onset citrullinemia type 2
+Measles
+Cutis Laxa
+Coronary Restenosis
+"Liver Cirrhosis, Alcoholic"
+Cerebral Infarction
+"Epilepsy, Absence"
+"Porphyria, Variegate"
+Neuroendocrine Tumors
+Glycogen Storage Disease
+"Mental Retardation, X-Linked"
+Epidermodysplasia Verruciformis
+Hyperparathyroidism 2
+McCune-Albright Syndrome
+Dyskinesias
+"Malaria, Falciparum"
+Myasthenia Gravis
+Myeloproliferative Disorders
+Retinal Degeneration
+Muir-Torre Syndrome
+Hydatidiform Mole
+Testicular Neoplasms
+Deficiency of galactokinase
+"Keratoderma, Palmoplantar"
+"Liver Cirrhosis, Biliary"
+"Obstetric Labor, Premature"
+Premature Birth
+"Elliptocytosis, Hereditary"
+"Hepatitis, Alcoholic"
+"Cardiomyopathy, Restrictive"
+Hyperimmunoglobulin D with periodic fever
+Cryopyrin-Associated Periodic Syndromes
+Loeys-Dietz Syndrome
+"Amyloidosis, Familial"
+Cervical Intraepithelial Neoplasia
+"Gastritis, Atrophic"
+Hearing Loss
+McLeod Syndrome
+"Abortion, Spontaneous"
+Mucocutaneous Lymph Node Syndrome
+Hyperaldosteronism
+"Leukemia, Monocytic, Acute"
+Thrombocytopenia 1
+Brain Neoplasms
+Candidiasis
+Diabetes Insipidus
+"Carcinoma, Lobular"
+STOMACH CARCINOMA
+Adrenal Cortex Diseases
+"Spherocytosis, Hereditary"
+WAGR Syndrome
+"Leishmaniasis, Cutaneous"
+Werdnig-Hoffmann Disease
+"Hyperthyroxinemia, Familial Dysalbuminemic"
+Silver-Russell Syndrome
+"Thyroiditis, Autoimmune"
+Hypospadias
+"Anemia, Sideroblastic"
+Cough
+Antisocial Personality Disorder
+"SEVERE COMBINED IMMUNODEFICIENCY, AUTOSOMAL RECESSIVE, T CELL-NEGATIVE, B CELL-NEGATIVE, NK CELL-NEGATIVE, DUE TO ADENOSINE D..."
+Keratosis
+Pachyonychia Congenita
+"Ichthyosis, Lamellar"
+Carotid Artery Diseases
+Aortic Aneurysm
+Cleft Palate
+Torsades de Pointes
+Arteriosclerosis
+"Osteoporosis, Postmenopausal"
+Mucopolysaccharidosis Type IVB
+Myopia
+Oral Submucous Fibrosis
+Ornithine aminotransferase deficiency
+Macrocephaly
+Leukopenia
+Asperger Syndrome
+Adenomatous Polyps
+"Carcinoma, Small Cell"
+Vitiligo
+Respiratory Tract Diseases
+Hypothyroidism
+"Cholestasis, intrahepatic of pregnancy"
+Esophageal Squamous Cell Carcinoma
+Growth Hormone-Secreting Pituitary Adenoma
+Rhabdomyosarcoma
+"Chondrosarcoma, Extraskeletal Myxoid"
+Adrenal Insufficiency
+"Aging, Premature"
+Spinal Dysraphism
+"Ductus Arteriosus, Patent"
+Vitamin E Deficiency
+Mevalonate Kinase Deficiency
+Allergic Rhinitis
+Familial hypoalphalipoproteinemia
+Rippling muscle disease
+Retinal Detachment
+"Leishmaniasis, Visceral"
+"Anemia, Dyserythropoietic, Congenital"
+"Carcinoma, Medullary"
+"Influenza, Human"
+Skin Diseases
+Giant Lymph Node Hyperplasia
+Insulinoma
+Vitamin D Deficiency
+Amphetamine-Related Disorders
+West Nile Fever
+Intervertebral Disc Displacement
+Chromosome Aberrations
+"Infertility, Female"
+"Fetal Membranes, Premature Rupture"
+Urologic Neoplasms
+Hypersensitivity
+Angioedema
+"Sarcoma, Alveolar Soft Part"
+"Prostate cancer, familial"
+Enchondromatosis
+"Chondrodysplasia Punctata, Rhizomelic"
+Acroerythrokeratoderma
+Thrombotic Microangiopathies
+"Thrombocytopenia, Neonatal Alloimmune"
+Melorheostosis
+Thyrotoxicosis
+Mevalonic aciduria
+"CHOREA, BENIGN HEREDITARY"
+Dystrophia myotonica 2
+Favism
+"Corneal dystrophy, gelatinous drop-like"
+Precursor B-Cell Lymphoblastic Leukemia-Lymphoma
+Hereditary Sensory and Autonomic Neuropathies
+Factor XIII Deficiency
+"Puberty, Precocious"
+Leishmaniasis
+Distal Myopathies
+"Leukemia, Lymphoid"
+Uveal melanoma
+5q- syndrome
+Abruptio Placentae
+"Hypertension, Pregnancy-Induced"
+Factor X Deficiency
+"Fibrous Dysplasia, Polyostotic"
+Afibrinogenemia
+Papilloma
+Bronchial Hyperreactivity
+"46, XY Disorders of Sex Development"
+Familial HDL deficiency
+"ACTH Syndrome, Ectopic"
+"Short Stature, Idiopathic, X-Linked"
+Nerve Sheath Neoplasms
+Pseudohypoaldosteronism
+Anthracosis
+"Leukemia, Myelomonocytic, Acute"
+Proteus Syndrome
+BROOKE-SPIEGLER SYNDROME
+Pineal hyperplasia AND diabetes mellitus syndrome
+Glucocorticoid-Remediable Aldosteronism
+Apparent mineralocorticoid excess
+Ectrodactyly-cleft lip/palate syndrome
+Mucopolysaccharidosis III
+Acrodermatitis
+Schizencephaly
+Meningomyelocele
+Retinal Dystrophies
+"Lymphoma, Mantle-Cell"
+Polymyositis
+MELAS Syndrome
+Polyuria
+"Ceroid lipofuscinosis, neuronal 1, infantile"
+"Dystonia 3, Torsion, X-Linked"
+"Polyostotic osteolytic dysplasia, hereditary expansile"
+Gallstones
+Hyperplasia
+"Carcinoma, Adenoid Cystic"
+Methemoglobinemia
+Fetal Growth Retardation
+"Ventricular Dysfunction, Right"
+"Hemoglobinuria, Paroxysmal"
+Activated Protein C Resistance
+Myotonia
+Spinocerebellar Degenerations
+"Neovascularization, Pathologic"
+Alveolar Bone Loss
+Alopecia
+Mitral Valve Prolapse
+Paranoid Disorders
+"Epilepsy, Benign Neonatal"
+Astrocytoma
+"Infantile convulsions and paroxysmal choreoathetosis, familial"
+Farber Lipogranulomatosis
+Pseudopseudohypoparathyroidism
+Duodenal Ulcer
+Meningococcal Infections
+"Sinus Thrombosis, Intracranial"
+Pneumothorax
+Prostatic Intraepithelial Neoplasia
+"ERYTHERMALGIA, PRIMARY"
+branchio oculo facial syndrome
+Familial cylindromatosis
+Waardenburg syndrome type 2
+Hereditary Sensory and Motor Neuropathy
+Hemangiosarcoma
+Corneal Neovascularization
+Lupus Nephritis
+Respiratory Syncytial Virus Infections
+Hyperuricemia
+Gastroesophageal Reflux
+"Anemia, Megaloblastic"
+Intestinal Neoplasms
+Alzheimer disease type 2
+Liposarcoma
+Ichthyosis
+Keratitis
+"LIPOMATOSIS, MULTIPLE"
+Diabetic Ketoacidosis
+Overweight
+Neurodegeneration with brain iron accumulation (NBIA)
+Paroxysmal ventricular fibrillation
+"Fibromatosis, Gingival, Type 1"
+"Multiple Sclerosis, Relapsing-Remitting"
+Addison Disease
+Blepharospasm
+"Hypertension, Malignant"
+Lymphopenia
+Chorea
+Microcephaly
+Chronic Periodontitis
+Macular Edema
+Myelofibrosis
+"Rippling muscle disease, 1"
+"Lactose Intolerance, Adult Type"
+Hutchinson Gilford progeria syndrome
+"Usher syndrome, type 1B"
+"Brachydactyly, Type B1"
+Colonic Polyps
+Language Development Disorders
+Folic Acid Deficiency
+Impulse Control Disorders
+Hemorrhagic Disorders
+"Glomerulonephritis, Membranous"
+Alopecia Areata
+Dengue Hemorrhagic Fever
+Microvascular Angina
+Keloid
+Agranulocytosis
+Hepatoblastoma
+Subarachnoid Hemorrhage
+"Esophagitis, Peptic"
+UDPglucose-4-epimerase deficiency
+"Hypertyrosinemia, Richner-Hanhart type"
+"HYPOTHYROIDISM, CONGENITAL, NONGOITROUS, 1"
+Amyloidosis
+"Anemia, Hemolytic, Congenital Nonspherocytic"
+"Limb Deformities, Congenital"
+Poliomyelitis
+Long QT syndrome type 3
+Hyperostosis corticalis deformans juvenilis
+"Infant, Premature, Diseases"
+Hyperemia
+"Hypertension, Renal"
+"Glaucoma, Open-Angle"
+"Epilepsy, Tonic-Clonic"
+"Arrhythmias, Cardiac"
+Raynaud Disease
+Growth Disorders
+"Hepatitis, Autoimmune"
+Intracranial Arteriovenous Malformations
+Diarrhea
+Nasopharyngeal Neoplasms
+Occupational Diseases
+Classical Lissencephalies and Subcortical Band Heterotopias
+Agricultural Workers' Diseases
+Osteolysis
+Severe Combined Immunodeficiency
+Head and Neck Neoplasms
+Klippel-Feil Syndrome
+"Heart Septal Defects, Atrial"
+Cri-du-Chat Syndrome
+Penile Induration
+"OPTIC ATROPHY WITH OR WITHOUT DEAFNESS, OPHTHALMOPLEGIA, MYOPATHY, ATAXIA, AND NEUROPATHY"
+Intestinal Polyps
+Tricho-dento-osseous syndrome
+"Hypophosphatemic Rickets, Autosomal Recessive, 1"
+"Hyperferritinemia, hereditary, with congenital cataracts"
+Mucopolysaccharidosis IV
+Dosage-sensitive sex reversal
+"Spasms, Infantile"
+Spinocerebellar Ataxia 17
+"Purpura, Thrombocytopenic, Idiopathic"
+Bronchiolitis Obliterans
+Bronchopulmonary Dysplasia
+Ocular Hypertension
+Buruli Ulcer
+"Leukemia-Lymphoma, Adult T-Cell"
+"Dermatitis, Allergic Contact"
+"Papilloma, Choroid Plexus"
+"Mucopolysaccharidosis, MPS-III-C"
+WELANDER DISTAL MYOPATHY
+"Congenital dyserythropoietic anemia, type II"
+"Hereditary spastic paralysis, infantile onset ascending"
+Congenital Abnormalities
+"Thrombophilia, hereditary"
+Exanthema
+"Hepatitis, Chronic"
+Dowling-Degos Disease
+Endometrial Hyperplasia
+Absent radii and thrombocytopenia
+Minicore Myopathy with External Ophthalmoplegia
+Snyder Robinson syndrome
+"Encephalitis, Herpes Simplex"
+Chilblain lupus
+"Refsum Disease, Infantile"
+"Rhabdomyosarcoma, Embryonal"
+Dermatitis
+Pregnancy Complications
+Nephritis
+Varicose Veins
+Hematologic Diseases
+Uveitis
+Malabsorption Syndromes
+Kernicterus
+Juvenile Hyaline Fibromatosis
+Carcinoma of lung
+"Total Hypotrichosis, Mari type"
+Autosomal recessive hypophosphatemic bone disease
+Acatalasia
+"Cataract, total congenital"
+Dengue
+Polydactyly
+Oguchi disease
+"Vohwinkel Syndrome, Variant Form"
+Muscle Hypotonia
+Schwannomatosis
+Split hand foot deformity 1
+"Candidiasis, Chronic Mucocutaneous"
+"Myeloproliferative Syndrome, Transient"
+"Dyskeratosis Congenita, Autosomal Dominant"
+Hypoalphalipoproteinemias
+Disease Progression
+Drug Toxicity
+Cerebral Hemorrhage
+Myositis Ossificans
+Ventricular Dysfunction
+Hypokalemia
+Hypertrophy
+Hyponatremia
+Berylliosis
+"Breast Neoplasms, Male"
+"Urinary Bladder, Neurogenic"
+Osteochondrodysplasias
+Uterine Cervical Neoplasms
+Periapical Periodontitis
+Gliosis
+Hyperammonemia
+Color Vision Defects
+"Hearing Loss, Noise-Induced"
+Gallbladder Neoplasms
+Sebaceous Gland Neoplasms
+"Hearing Loss, Sudden"
+Antley-Bixler Syndrome Phenotype
+"Neoplasms, Germ Cell and Embryonal"
+Orthostatic Intolerance
+"Abortion, Habitual"
+Chordoma
+Multiple Organ Failure
+Urogenital Neoplasms
+Brain Diseases
+Cold-Induced Sweating Syndrome 1
+"Hereditary cerebral amyloid angiopathy, Icelandic type"
+Deficiency of aromatic-L-amino-acid decarboxylase
+clouston syndrome
+Cayler cardiofacial syndrome
+"Amyotrophic Lateral Sclerosis 2, Juvenile"
+Alpha-Thalassemia Myelodysplasia Syndrome
+Krause-Kivlin syndrome
+"Usher syndrome, type 1D"
+Crisponi syndrome
+Nephropathic cystinosis
+Hypoaldosteronism
+Reed's syndrome
+Huntington Disease-Like 2
+Hyperphagia
+"Macular dystrophy, retinal, 1, North Carolina type"
+Ectodermal dysplasia/ skin fragility syndrome
+"Liver Diseases, Alcoholic"
+Warburg Sjo Fledelius syndrome
+"Night blindness, congenital stationary"
+Anonychia congenita
+Vasculitis
+Acquired angioedema
+Mycobacterium Infections
+"Adenocarcinoma, Clear Cell"
+"Congenital Disorder Of Glycosylation, Type Ic"
+"GM1-GANGLIOSIDOSIS, TYPE I"
+"Mucopolysaccharidosis, MPS-III-D"
+"PACHYONYCHIA CONGENITA, TYPE 1"
+Kugelberg-Welander disease
+Bulimia Nervosa
+Cardiomyopathy dilated with Woolly hair and keratoderma
+Brachydactyly
+Endocrine System Diseases
+Insulin-Like Growth Factor I Deficiency
+Buschke-Ollendorff syndrome
+Lubs X-linked mental retardation syndrome
+Hajdu-Cheney Syndrome
+"Microcephalic Osteodysplastic Primordial Dwarfism, Type II"
+Langer-Giedion Syndrome
+"Congenital dyserythropoietic anemia, type I"
+"Hypercalcemia, Idiopathic, of Infancy"
+Genee-Wiedemann syndrome
+"COCKAYNE SYNDROME, TYPE A"
+Cervix carcinoma
+LARSEN SYNDROME
+"Mycobacterial disease, Mendelian susceptibility to"
+Generalized pustular psoriasis
+"Usher Syndrome, Type IF"
+"Bulbospinal neuronopathy, X-linked recessive"
+Sinusitis
+Spondyloperipheral dysplasia short ulna
+Leukoencephalopathies
+Cataract anterior polar dominant
+"Amelogenesis Imperfecta, Type III"
+"Thanatophoric dysplasia, type 1"
+Pseudohypoparathyroidism Type 1B
+"Myositis, Inclusion Body"
+Hypertrichosis congenital generalized X-linked
+IRAK4 Deficiency
+Developmental Disabilities
+"Nephrosis, congenital"
+Orofaciodigital syndrome type1
+"Amyotrophic Lateral Sclerosis, Sporadic"
+Hypotonia-Cystinuria Syndrome
+Lipomatosis
+Arteriovenous Malformations
+Cartilage-hair hypoplasia
+Carney-Stratakis Syndrome
+Idiopathic basal ganglia calcification 1
+Microphthalmos
+Hypoparathyroidism-retardation-dysmorphism syndrome
+Glaucoma
+Nervous System Diseases
+Lipodystrophy
+Ehlers-Danlos syndrome 6B
+"Gliosis, Familial Progressive Subcortical"
+MYELODYSPLASTIC SYNDROME
+Weber-Cockayne syndrome
+OROFACIODIGITAL SYNDROME I
+"LOEYS-DIETZ SYNDROME, TYPE 1C"
+Rufous oculocutaneous albinism
+Primary lateral sclerosis juvenile
+"Hyalinosis, Systemic"
+Urolithiasis
+Chromosome 2q37 deletion syndrome
+"Hip Dysplasia, Beukes Type"
+Aland Island Eye Disease
+Arachnodactyly
+Weill-Marchesani Syndrome
+"Lymphedema, Hereditary, II"
+Hyperkeratosis lenticularis perstans
+Peptic Ulcer
+Lysosomal acid lipase deficiency
+Familial Multiple Coagulation Factor Deficiency I
+"Leukemia, T-Cell"
+Medullary cystic kidney disease 1
+Weaver syndrome
+"Usher syndrome, type 1F"
+Rapadilino syndrome
+Hereditary renal agenesis
+Bronchiectasis
+Hereditary Angioedema Types I and II
+Pierre Robin Syndrome
+Korsakoff Syndrome
+Myocarditis
+Dysequilibrium syndrome
+Arthritis
+"Congenital Disorder Of Glycosylation, Type ID"
+Generalized epidermolysis bullosa simplex
+Neuropathy ataxia and retinis pigmentosa
+"PARKINSON DISEASE, LATE-ONSET"
+"WAARDENBURG SYNDROME, TYPE 3"
+"Convulsions, Benign Familial Infantile, 3"
+Severe Acute Respiratory Syndrome
+"Desmoid disease, hereditary"
+Carotid Stenosis
+Basal Laminar Drusen
+Familial dilated cardiomyopathy
+Hyaloideoretinal degeneration of Wagner
+Legg-Calve-Perthes Disease
+"Histiocytoma, Angiomatoid Fibrous"
+"Neoplasm, Residual"
+"Spastic Paraplegia, Hereditary"
+"Epilepsy, Rolandic"
+Apraxias
+Facioscapulohumeral muscular dystrophy 1a
+Pituitary dwarfism 1
+Hypothalamic hamartomas
+HMG CoA lyase deficiency
+Urofacial syndrome
+Virus Diseases
+Immunoglobulin a deficiency 1
+"Hemihyperplasia, Isolated"
+"Myopathy with Lactic Acidosis, Hereditary"
+Osteomalacia
+Malonic aciduria
+"Metabolism, Inborn Errors"
+Neuroectodermal Tumors
+Solitary Fibrous Tumors
+Neuroaxonal Dystrophies
+Epidermolysis Bullosa Simplex With Pyloric Atresia
+Persian Gulf Syndrome
+Renpenning syndrome 1
+"Leukoplakia, Oral"
+Potocki-Lupski syndrome
+Sturge-Weber Syndrome
+"Histiocytosis, Sinus"
+Hypertrichosis
+Ehlers-Danlos Syndrome
+MAST Syndrome
+Perisylvian syndrome
+"Angina, Stable"
+Chlamydia Infections
+Nemaline myopathy 5
+"Foot Deformities, Congenital"
+Oculocutaneous albinism type 3
+"Spastic paraplegia 15, autosomal recessive"
+"Congenital Disorder of Glycosylation, Type Il"
+Miyoshi Muscular Dystrophy 3
+APOLIPOPROTEIN C-II DEFICIENCY
+Acrokeratosis verruciformis of Hopf
+C9 Deficiency
+"Czech dysplasia, metatarsal type"
+Auriculo-condylar syndrome
+Cerebral Autosomal Recessive Arteriopathy with Subcortical Infarcts and Leukoencephalopathy
+Opsismodysplasia
+"Keratosis Follicularis Spinulosa Decalvans, X-Linked"
+Megalencephaly cutis marmorata telangiectatica congenita
+Olmsted syndrome
+Trichohepatoenteric Syndrome
+Pruritus
+Primary sclerosing cholangitis
+Gastrointestinal Neoplasms
+Partington X-linked mental retardation syndrome
+"Carcinoma, Ductal, Breast"
+"Multiple Endocrine Neoplasia, Type IV"
+Schmid-Fraccaro syndrome
+"Maturity-Onset Diabetes of the Young, Type 8, with Exocrine Dysfunction"
+Exocrine Pancreatic Insufficiency
+"Ichthyosis, Leukocyte Vacuoles, Alopecia, And Sclerosing Cholangitis"
+Cerulean cataract
+"Choreoathetosis/Spasticity, Episodic"
+"Corneal Dystrophy, Congenital Stromal"
+"Xerocytosis, hereditary"
+"Amelogenesis Imperfecta, Type IV"
+Movement Disorders
+"Epidermolysis bullosa, lethal acantholytic"
+"Ectrodactyly, Ectodermal Dysplasia, And Cleft Lip/Palate Syndrome 1"
+UV-Sensitive Syndrome
+Pontocerebellar Hypoplasia Type 1
+Liver Failure
+"Factor 8 deficiency, acquired"
+Aplasia of Lacrimal and Salivary Glands
+"Aphakia, congenital primary"
+Arginine:Glycine Amidinotransferase Deficiency
+"Febrile Convulsions, Familial, 4"
+"Enterocolitis, Necrotizing"
+Synovitis
+Hawkinsinuria
+Peroxisomal Disorders
+Job's Syndrome
+Lymphoproliferative Disorders
+Peritonitis
+Enterocolitis
+Deficiency of interleukin-1 receptor antagonist
+Acquired Immunodeficiency Syndrome
+Coronary Thrombosis
+"Neuroectodermal Tumors, Primitive, Peripheral"
+Flaujeac factor deficiency
+Pelvic Organ Prolapse
+Infertility
+Triphalangeal thumb polysyndactyly syndrome
+Lipase deficiency combined
+Keutel syndrome
+Aneurysm
+Malnutrition
+"Inclusion body myopathy, autosomal dominant"
+Myopia 2
+Neutrophil Chemotactic Response
+"Gonadal Dysgenesis, 46,XY"
+Joubert Syndrome 10
+"Simpson-Golabi-Behmel Syndrome, Type 2"
+Neuralgia
+Dwarfism
+"Acidosis, Lactic"
+Glycosylphosphatidylinositol deficiency
+"Salivary Gland Adenoma, Pleomorphic"
+Paresthesia
+Photogenic epilepsy
+Hypopituitarism
+Carcinoma in Situ
+"Lymphoma, B-Cell"
+"Failure of Tooth Eruption, Primary"
+Zlotogora-Ogur syndrome
+Pontocerebellar Hypoplasia Type 6
+Anauxetic dysplasia
+Riddle Syndrome
+"Myasthenic Syndromes, Congenital"
+Yemenite deaf-blind hypopigmentation syndrome
+Immune dysfunction with T-cell inactivation due to calcium entry defect 2
+Transaldolase Deficiency
+Limb-mammary syndrome
+Mitochondrial Encephalomyopathies
+COMBINED MALONIC AND METHYLMALONIC ACIDURIA
+Megalanecephaly Polymicrogyria-Polydactyly Hydrocephalus Syndrome
+NESTOR-GUILLERMO PROGERIA SYNDROME
+Diaphanospondylodysostosis
+"Ceroid lipofuscinosis, neuronal 4"
+"ALPORT SYNDROME, AUTOSOMAL DOMINANT"
+"CEROID LIPOFUSCINOSIS, NEURONAL, 4B, AUTOSOMAL DOMINANT"
+"Growth and mental retardation, mandibulofacial dysostosis, microcephaly, and cleft palate"
+KALLMANN SYNDROME 2
+"LYMPHEDEMA, PRIMARY, WITH MYELODYSPLASIA"
+Adult GM1 gangliosidosis
+Pseudohypoparathyroidism Type 1C
+ANHAPTOGLOBINEMIA
+3 beta-Hydroxysteroid dehydrogenase deficiency
+Mainzer-Saldino Disease
+"COMBINED IMMUNODEFICIENCY, X-LINKED"
+"Lymphedema, microcephaly and chorioretinopathy syndrome"
+Thrombocytopenia chromosome breakage
+"MYOPATHY, EARLY-ONSET, AREFLEXIA, RESPIRATORY DISTRESS, AND DYSPHAGIA"
+"Short rib-polydactyly syndrome, Majewski type"
+ACRODYSOSTOSIS WITH HORMONE RESISTANCE
+"AUTOINFLAMMATION, LIPODYSTROPHY, AND DERMATOSIS SYNDROME"
+Keratosis palmoplantaris with esophageal cancer
+Paragangliomas 4
+SULFOCYSTEINURIA
+"Robinow Syndrome, Autosomal Dominant"
+Meacham Syndrome
+Hyperlysinemias
+Vomiting
+"Mental Retardation, X-Linked, Associated With Fragile Site Fraxe"
+Inflammatory Breast Neoplasms
+Scott Syndrome
+Bohring syndrome
+"Cutis Laxa, Autosomal Recessive, Type IIA"
+Wrinkly skin syndrome
+Butyrylcholinesterase deficiency
+"Lymphoma, T-Cell"
+Pulmonary Veno-Occlusive Disease
+Breast Cancer 3
+Complement Component 6 Deficiency
+"COMPLEMENT COMPONENT 8 DEFICIENCY, TYPE II"
+"Carcinoma, Ductal"
+"Carcinoma, Intraductal, Noninfiltrating"
+Eosinophilic Esophagitis
+CD59 Deficiency
+Vulvar Lichen Sclerosus
+Specific Granule Deficiency
+Double Outlet Right Ventricle
+"CORNEAL ENDOTHELIAL DYSTROPHY 1, AUTOSOMAL DOMINANT"
+Ovarian epithelial cancer
+"Leiomyomatosis, esophageal and vulval, with nephropathy"
+Pancytopenia
+"Congenital Cataracts, Facial Dysmorphism, And Neuropathy"
+Gamma-cystathionase deficiency
+Periodontal Diseases
+Amenorrhea
+"Anemia, Diamond-Blackfan, 2"
+"3-Methylglutaconic Aciduria, Type V"
+Immunologic Deficiency Syndromes
+"Schizophrenia, Paranoid"
+Tic Disorders
+Hypertelorism
+Oligospermia
+Otofaciocervical Syndrome
+"VACTERL association with hydrocephaly, X-linked"
+"Cutis laxa, recessive"
+MASS syndrome
+Seminoma
+Fumaric aciduria
+Hamartoma
+"Oncocytoma, renal"
+Cognition Disorders
+Dandy-Walker Syndrome
+Bifid nose
+Lymphedema
+Gerodermia osteodysplastica
+Omodysplasia type 1
+Chudley-Mccullough syndrome
+Biliary Atresia
+Goldenhar Syndrome
+"Mental Retardation, X-Linked, Syndromic 10"
+Hydrocephalus
+Chondroma
+Myositis
+Headache
+Hemolytic-Uremic Syndrome
+Ventricular Fibrillation
+Fructosuria
+Goldberg-Shprintzen megacolon syndrome
+Nasal Polyps
+Dermatopathia pigmentosa reticularis
+Naegeli syndrome
+Aphasia
+"Mesangial sclerosis, diffuse"
+Laryngeal Adductor Paralysis
+Aagenaes syndrome
+"Syndactyly, Type IV"
+Deglutition Disorders
+Glucagonoma
+"Bone Diseases, Metabolic"
+Bone Neoplasms
+Orofacial Cleft 1
+Nemaline Myopathy 2
+Cafﾝ-au-lait macules with pulmonary stenosis
+Aortic Valve Disease
+Dyspnea
+"Hypoprebetalipoproteinemia, Acanthocytosis, Retinitis Pigmentosa, And Pallidal Degeneration"
+Tooth Abnormalities
+Muscle Weakness
+Leukostasis
+Huntington Disease-Like 1
+Combined Saposin Deficiency
+Lipoma
+TARP syndrome
+Vitamin A Deficiency
+"Macrocephaly, Alopecia, Cutis Laxa, and Scoliosis"
+Metaphyseal Dysplasia without Hypotrichosis
+Tremor
+"Panniculitis, Nodular Nonsuppurative"
+"Leukemia, Myeloid, Chronic, Atypical, BCR-ABL Negative"
+"Cerebral dysgenesis, neuropathy, ichthyosis, and palmoplantar keratoderma syndrome"
+"Microcephaly, microphthalmia, ectrodactyly of lower limbs, and prognathism"
+Intervertebral Disc Degeneration
+"46,Xx Gonadal Dysgenesis, Complete, Sry-Positive"
+Speech-Sound Disorder
+Sulfite oxidase deficiency
+Kenny Caffey syndrome
+Osteosclerosis
+Craniofacial Abnormalities
+"Paraparesis, Spastic"
+Peritoneal Fibrosis
+Ureteral Obstruction
+Wernicke Encephalopathy
+Legionnaires' Disease
+Enterokinase Deficiency
+"Anemia, Refractory"
+Listeriosis
+"Scleroderma, Localized"
+"Neoplasms, Experimental"
+"Adrenocortical Carcinoma, Hereditary"
+"Vasculopathy, Retinal, With Cerebral Leukodystrophy"
+Sudden Infant Death with Dysgenesis of the Testes Syndrome
+Jeune syndrome
+"Usher syndrome, type 1C"
+"Bronchitis, Chronic"
+Schopf-Schulz-Passarge Syndrome
+Acro-Osteolysis
+INFANTILE CEREBELLAR-RETINAL DEGENERATION
+MULTISYSTEMIC SMOOTH MUSCLE DYSFUNCTION SYNDROME
+WEILL-MARCHESANI SYNDROME 1
+Scimitar Syndrome
+"Complement Component 3 Deficiency, Autosomal Recessive"
+Pityriasis Rubra Pilaris
+DUANE RETRACTION SYNDROME 2
+Megalocornea
+Temtamy preaxial brachydactyly syndrome
+"Deafness, Autosomal Recessive 48"
+Cerebroretinal Microangiopathy with Calcifications and Cysts
+"ADRENAL INSUFFICIENCY, CONGENITAL, WITH 46,XY SEX REVERSAL, PARTIAL OR COMPLETE"
+CORTICOSTERONE METHYLOXIDASE TYPE II DEFICIENCY
+Megaloblastic Anemia due to Dihydrofolate Reductase Deficiency
+"Spinal Muscular Atrophy, Childhood, Proximal, Autosomal Dominant"
+Branchiootic syndrome
+Gracile bone dysplasia
+Acromicric dysplasia
+Fumarase deficiency
+"AMYOTROPHIC LATERAL SCLEROSIS 6, WITH OR WITHOUT FRONTOTEMPORAL DEMENTIA"
+D-Glyceric aciduria
+"CYANOSIS, TRANSIENT NEONATAL"
+Isaacs Syndrome
+"CHONDRODYSPLASIA WITH JOINT DISLOCATIONS, GPAPP TYPE"
+Kallmann Syndrome 1
+Spondyloepimetaphyseal dysplasia with multiple dislocations
+Malouf syndrome
+"Osteolysis, Hereditary, Of Carpal Bones With Or Without Nephropathy"
+IFAP SYNDROME WITH OR WITHOUT BRESHECK SYNDROME
+"Xanthinuria, Type II"
+"Cardiomyopathy, infantile histiocytoid"
+"PERIPHERAL NEUROPATHY, MYOPATHY, HOARSENESS, AND HEARING LOSS"
+"Inclusion Body Myopathy 3, Autosomal Dominant"
+NEPHRONOPHTHISIS 9
+Zunich neuroectodermal syndrome
+"Congenital Lipomatous Overgrowth, Vascular Malformations, and Epidermal Nevi"
+"Leukodystrophy, Hypomyelinating, with Hypodontia and Hypogonadotropic Hypogonadism"
+Dystonia 16
+Renal Adysplasia
+"NAIL DISORDER, NONSYNDROMIC CONGENITAL, 4"
+Marden Walker like syndrome
+Paragangliomas 2
+"ANGIOEDEMA, HEREDITARY, TYPE I"
+spinal muscular atrophy type ii
+"Craniodiaphyseal Dysplasia, Autosomal Dominant"
+ESOPHAGEAL CARCINOMA
+"Pain, Postoperative"
+End Stage Liver Disease
+Xanthomatosis
+Erythema
+Heterotaxy Syndrome
+Situs Inversus
+Severe combined immunodeficiency due to adenosine deaminase deficiency
+Weill-Marchesani-Like Syndrome
+Ankyloblepharon filiforme adnatum cleft palate
+ACTH-Secreting Pituitary Adenoma
+Gingival Hypertrophy
+Lymphatic Metastasis
+"Fibromatosis, Abdominal"
+Hyperlipoproteinemia Type V
+Hyperlipoproteinemia Type IV
+"Hypobetalipoproteinemia, Familial, Apolipoprotein B"
+Sea-Blue Histiocyte Syndrome
+"Carcinoma, Pancreatic Ductal"
+Coffin-Siris syndrome
+"Myoclonic Epilepsies, Progressive"
+Atrioventricular Canal Defect
+Oligodontia-Colorectal Cancer Syndrome
+"Wilms Tumor, Aniridia, Genitourinary Anomalies, Mental Retardation, and Obesity Syndrome"
+"Convulsions, benign familial infantile, 1"
+Hyperandrogenism
+Choroidal dystrophy central areolar
+"Cone-Rod Dystrophy, X-Linked, 3"
+Migraine without Aura
+Mycoplasma Infections
+AIDS-Related Opportunistic Infections
+Transposition of Great Vessels
+"Lymphoma, Extranodal NK-T-Cell"
+"Hypothyroidism, Congenital, Nongoitrous, 3"
+Heart Septal Defects
+"Cervical Dystonia, Primary"
+Immune System Diseases
+Stuttering
+"Congenital Disorder Of Glycosylation, Type IIH"
+Graves Ophthalmopathy
+"Carnitine Palmitoyltransferase II Deficiency, Infantile"
+Retinal Telangiectasis
+"Pregnancy, Ectopic"
+Meningitis
+"Cerebral Amyloid Angiopathy, Familial"
+Cyanosis
+Sexual Infantilism
+Lassa Fever
+Salivary Gland Neoplasms
+Woodhouse Sakati syndrome
+Pentosuria
+"Auditory Neuropathy, Autosomal Dominant, 1"
+"Interstitial Pneumonitis, Desquamative, Familial"
+Scoliosis
+Catalepsy
+Hypotrichosis And Recurrent Skin Vesicles
+Short Rib-Polydactyly Syndrome
+ABCD syndrome
+Chloracne
+"Muscular Dystrophy, Facioscapulohumeral"
+Central Nervous System Diseases
+Fatigue
+Skin Abnormalities
+"Hearing Loss, Conductive"
+"Deafness, Autosomal Dominant 10"
+Myelodysplastic-Myeloproliferative Diseases
+"Toe Syndactyly, Telecanthus, and Anogenital and Renal Malformations"
+Synpolydactyly 2
+Encephalitis
+Wegener Granulomatosis
+"Leukocyte Adhesion Deficiency, Type III"
+Terminal Osseous Dysplasia and Pigmentary Defects
+"Larsen syndrome, dominant type"
+Macrostomia
+Cataract microcornea syndrome
+"Ectodermal dysplasia 2, hidrotic"
+Angiokeratoma
+"Glaucoma 1, Open Angle, M"
+Port-Wine Stain
+Mucolipidosis III Gamma
+Adrenal Gland Neoplasms
+"Glycogen Storage Disease 0, Muscle"
+Hypopituitarism and septooptic 'dysplasia'
+Hemangioblastoma
+Drug Eruptions
+Eosinophilia-Myalgia Syndrome
+Leiomyosarcoma
+Hepatorenal Syndrome
+Marie Unna congenital hypotrichosis
+Brachydactyly-Syndactyly Syndrome
+Tongue Neoplasms
+"Obesity, Abdominal"
+Disorders of Sex Development
+Hemangioma
+Viremia
+"Interleukin 2 Receptor, Alpha, Deficiency of"
+"Angina, Unstable"
+MORM syndrome
+"AUTOIMMUNE DISEASE, SYNDROMIC MULTISYSTEM"
+Leukocyte-Adhesion Deficiency Syndrome
+Coronary Aneurysm
+Malformations of Cortical Development
+"Ichthyosis hystrix, Curth Macklin type"
+"Erythrokeratoderma, Reticular"
+Epidermolysis Bullosa Simplex with Migratory Circinate Erythema
+"Adenoma, Oxyphilic"
+Hydroxykynureninuria
+Laryngo onycho cutaneous syndrome
+Greenberg dysplasia
+Leydig Cell Tumor
+"Woolly hair, congenital"
+"Methylmalonic Aciduria and Homocystinuria, CblF Type"
+HIV-Associated Lipodystrophy Syndrome
+Syndactyly
+"Microphthalmia, syndromic 1"
+Progressive supranuclear palsy atypical
+"Deafness, Autosomal Recessive 49"
+Ichthyosis follicularis atrichia photophobia syndrome
+"Microcoria, congenital"
+Myoclonus
+Stereotypic Movement Disorder
+"Mesothelioma, Malignant"
+Albinism ocular late onset sensorineural deafness
+Pigmentation Disorders
+Aortic Rupture
+Bone Diseases
+"Mental retardation, X-linked, syndromic 5"
+"Cafe au lait spots, multiple"
+Witkop syndrome
+Parietal Foramina With Cleidocranial Dysplasia
+Nevus
+Spinal Cord Diseases
+Arthralgia
+Sick Sinus Syndrome
+Myopia 1
+"Dyskeratosis Congenita, Autosomal Recessive"
+Spondylo-Megaepiphyseal-Metaphyseal Dysplasia
+Food Hypersensitivity
+Optic Atrophy
+Nanophthalmos 1
+Stapes Ankylosis With Broad Thumb And Toes
+Urinary Tract Infections
+"Hypertension, Renovascular"
+"Nephrosis, Lipoid"
+"Gonadal Dysgenesis, 46,XX"
+CK SYNDROME
+Otitis Media
+"Optic atrophy, X-linked"
+Morphine Dependence
+Aniridia cerebellar ataxia mental deficiency
+"Aniridia, type 2"
+Ectopia pupillae
+Caudal regression syndrome
+Muscle Rigidity
+"Striatal Degeneration, Autosomal Dominant"
+Nephrocalcinosis
+Nevo syndrome
+Polyneuropathies
+Hypernatremia
+Opsoclonus-Myoclonus Syndrome
+Keratosis Linearis with Ichthyosis Congenita and Sclerosing Keratoderma
+Hemorrhoids
+Hepatomegaly
+"Kidney Tubular Necrosis, Acute"
+Spinocerebellar Ataxia 12
+Pericarditis
+"Congenital thrombotic disease, due to Protein C deficiency"
+Purpura Fulminans
+Retrognathia
+"Glaucoma, Angle-Closure"
+"Krabbe Disease, Atypical, due to Saposin A Deficiency"
+"Diabetes Mellitus, Permanent Neonatal, with Cerebellar Agenesis"
+Metachondromatosis
+Glycogen Storage Disease Type VI
+"Neoplasms, Second Primary"
+Newfoundland Rod-Cone Dystrophy
+"Nystagmus, Pathologic"
+Oculootoradial syndrome
+Heart Block
+"Bone Diseases, Developmental"
+Alcohol Withdrawal Seizures
+Testicular Microlithiasis
+"Bulbar Palsy, Progressive"
+Major Affective Disorder 1
+Schistosomiasis mansoni
+"MENTAL RETARDATION, ANTERIOR MAXILLARY PROTRUSION, AND STRABISMUS"
+Esophageal Stenosis
+Esophagitis
+"Microphthalmia, Syndromic 3"
+Hepatic venoocclusive disease with immunodeficiency
+"Spastic Paraplegia, Optic Atrophy, and Neuropathy"
+Amish Infantile Epilepsy Syndrome
+"Bare Lymphocyte Syndrome, Type I"
+"Kenny-Caffey syndrome, Type 1"
+Pelviscapular dysplasia
+Carcinosarcoma
+"Aneurysm, Dissecting"
+Absence of Tibia
+Bacteremia
+"Kidney Diseases, Cystic"
+"Deafness, Childhood-Onset Neurosensory, Autosomal Recessive 8"
+HIV Wasting Syndrome
+"Hand Deformities, Congenital"
+Noninsulin-dependent diabetes mellitus with deafness
+AMYOTROPHIC LATERAL SCLEROSIS-PARKINSONISM/DEMENTIA COMPLEX 1
+Brachyolmia Type 2
+"Hypothyroidism, Congenital, Nongoitrous, 4"
+Polymicrogyria With Optic Nerve Hypoplasia
+Tyrosine Kinase 2 Deficiency
+Sclerotylosis
+Tumor Lysis Syndrome
+Sertoli Cell-Only Syndrome
+Empty Sella Syndrome
+Waldenstrom Macroglobulinemia
+"DELAYED SLEEP PHASE SYNDROME, SUSCEPTIBILITY TO"
+COMBINED OXIDATIVE PHOSPHORYLATION DEFICIENCY 8
+"MICROPHTHALMIA, ISOLATED, WITH COLOBOMA 7"
+"ARTERIAL CALCIFICATION, GENERALIZED, OF INFANCY, 2"
+"ATRIAL FIBRILLATION, FAMILIAL, 12"
+Combined Immunodeficiency with Autoimmunity and Spondylometaphyseal Dysplasia
+MOYAMOYA DISEASE 5
+"Iris Coloboma with Ptosis, Hypertelorism, and Mental Retardation"
+"CARDIOMYOPATHY, DILATED, 1R"
+BARAITSER-WINTER SYNDROME 2
+Knobloch Syndrome Type II
+"Dyskinesia, Familial, with Facial Myokymia"
+"ADIPONECTIN, SERUM LEVEL OF, QUANTITATIVE TRAIT LOCUS 1"
+HYPERMETHIONINEMIA DUE TO ADENOSINE KINASE DEFICIENCY
+"SPASTIC ATAXIA 5, AUTOSOMAL RECESSIVE"
+"MENTAL RETARDATION, X-LINKED 88"
+Hypermethioninemia with Deficiency of S-Adenosylhomocysteine Hydrolase
+"Male Pseudohermaphroditism due to Deficiency of Testicular 17,20-Desmolase"
+HYPOINSULINEMIC HYPOGLYCEMIA WITH HEMIHYPERTROPHY
+ALBUMIN
+De Barsy syndrome
+Methylmalonate Semialdehyde Dehydrogenase Deficiency
+"NEUROBLASTOMA, SUSCEPTIBILITY TO, 3"
+"Ichthyosis, Lamellar, 5"
+ADENOSINE MONOPHOSPHATE DEAMINASE 1
+Erythrocyte Amp Deaminase Deficiency
+"SPINOCEREBELLAR ATAXIA, AUTOSOMAL RECESSIVE 10"
+Apolipoprotein C-III Deficiency
+"FOCAL SEGMENTAL GLOMERULOSCLEROSIS 4, SUSCEPTIBILITY TO"
+Jankovic Rivera syndrome
+"NEUROPATHY, HEREDITARY SENSORY, TYPE ID"
+"MITOCHONDRIAL COMPLEX V (ATP SYNTHASE) DEFICIENCY, NUCLEAR TYPE 3"
+"CUTANEOUS TELANGIECTASIA AND CANCER SYNDROME, FAMILIAL"
+"MULTIPLE JOINT DISLOCATIONS, SHORT STATURE, CRANIOFACIAL DYSMORPHISM, AND CONGENITAL HEART DEFECTS"
+"MECKEL SYNDROME, TYPE 10"
+"CARDIOMYOPATHY, DILATED, 1HH"
+"RENAL DYSPLASIA, CYSTIC, SUSCEPTIBILITY TO"
+NEURODEGENERATION WITH BRAIN IRON ACCUMULATION 4
+C1q DEFICIENCY
+"HEMOLYTIC UREMIC SYNDROME, ATYPICAL, SUSCEPTIBILITY TO, 5"
+Glutaric Aciduria III
+CONE-ROD DYSTROPHY 16
+"EPILEPSY, CHILDHOOD ABSENCE, SUSCEPTIBILITY TO, 6"
+"MALIGNANT HYPERTHERMIA, SUSCEPTIBILITY TO, 5"
+"MENTAL RETARDATION, AUTOSOMAL DOMINANT 10"
+"CARDIOMYOPATHY, FAMILIAL HYPERTROPHIC, 19"
+"VITREORETINOPATHY, NEOVASCULAR INFLAMMATORY"
+PSORIASIS SUSCEPTIBILITY 2
+"Microcephaly, Primary Autosomal Recessive, 4"
+FG SYNDROME 4
+"EPILEPSY, IDIOPATHIC GENERALIZED, SUSCEPTIBILITY TO, 8"
+"MYOPATHY, DISTAL, TATEYAMA TYPE"
+BIRBECK GRANULE DEFICIENCY
+"HEMOLYTIC UREMIC SYNDROME, ATYPICAL, SUSCEPTIBILITY TO, 2"
+MEIER-GORLIN SYNDROME 5
+HOLOPROSENCEPHALY 11
+MEIER-GORLIN SYNDROME 4
+"DEAFNESS, AUTOSOMAL DOMINANT 4B"
+SECKEL SYNDROME 5
+"HEMOLYTIC UREMIC SYNDROME, ATYPICAL, SUSCEPTIBILITY TO, 4"
+Complement Factor D Deficiency
+"HEMOLYTIC UREMIC SYNDROME, ATYPICAL, SUSCEPTIBILITY TO, 1"
+"HEMOLYTIC UREMIC SYNDROME, ATYPICAL, SUSCEPTIBILITY TO, 3"
+Kallmann Syndrome 5
+Li-Fraumeni Syndrome 2
+COLD-INDUCED SWEATING SYNDROME 2
+"OSTEOPETROSIS, AUTOSOMAL DOMINANT 2"
+RETINITIS PIGMENTOSA 61
+RETINITIS PIGMENTOSA 49
+RETINITIS PIGMENTOSA 45
+"HYPOMAGNESEMIA 6, RENAL"
+FIBROCHONDROGENESIS 1
+Avascular necrosis of the head of femur
+"Aortic Aneurysm, Familial Abdominal 1"
+PORENCEPHALY 2
+PREECLAMPSIA/ECLAMPSIA 5
+"EPILEPSY, FAMILIAL TEMPORAL LOBE, 5"
+"FEBRILE SEIZURES, FAMILIAL, 11"
+"MENTAL RETARDATION, AUTOSOMAL RECESSIVE 34"
+"PSEUDOHYPOALDOSTERONISM, TYPE IIE"
+"Atypical Mycobacteriosis, Familial, X-Linked 2"
+Thrombocytopenia 4
+RADIOHUMERAL FUSIONS WITH OTHER SKELETAL AND CRANIOFACIAL ANOMALIES
+"Spastic Paraplegia 5a, Autosomal Recessive"
+"CONGENITAL DISORDER OF GLYCOSYLATION, TYPE Ir"
+RETINITIS PIGMENTOSA 59
+AMINOADIPIC ACIDURIA
+"DEAFNESS, AUTOSOMAL DOMINANT 64"
+"GOITER, MULTINODULAR 1, WITH OR WITHOUT SERTOLI-LEYDIG CELL TUMORS"
+Split-Hand/Foot Malformation With Sensorineural Hearing Loss
+"Primary ciliary dyskinesia, 2"
+"Muscular Dystrophy, Limb-Girdle, Type 1E"
+"CILIARY DYSKINESIA, PRIMARY, 16"
+"ENCEPHALOPATHY, LETHAL, DUE TO DEFECTIVE MITOCHONDRIAL AND PEROXISOMAL FISSION"
+"NEUROPATHY, HEREDITARY SENSORY, TYPE IE"
+"MENTAL RETARDATION, AUTOSOMAL DOMINANT 13"
+"CHARCOT-MARIE-TOOTH DISEASE, AXONAL, TYPE 2O"
+"Hirschsprung Disease, Cardiac Defects, and Autonomic Dysfunction"
+"CUTIS LAXA, AUTOSOMAL RECESSIVE, TYPE IB"
+PARKINSON DISEASE 18
+"MENTAL RETARDATION, AUTOSOMAL DOMINANT 11"
+Presentey Anomaly
+"Factor XIII, B Subunit, Deficiency Of"
+"INFECTIONS, RECURRENT, WITH ENCEPHALOPATHY, HEPATIC DYSFUNCTION, AND CARDIOVASCULAR MALFORMATIONS"
+FANCG GENE
+GELEOPHYSIC DYSPLASIA 2
+Kallmann Syndrome 6
+BENT BONE DYSPLASIA SYNDROME
+FG SYNDROME 2
+"MYOPATHY, DISTAL, 4"
+TRIGONOCEPHALY 2
+"Cataract, autosomal recessive congenital 2"
+"NAIL DISORDER, NONSYNDROMIC CONGENITAL, 10"
+"EPILEPSY, CHILDHOOD ABSENCE, SUSCEPTIBILITY TO, 5"
+"EPILEPSY, IDIOPATHIC GENERALIZED, SUSCEPTIBILITY TO, 10"
+"EPILEPSY, CHILDHOOD ABSENCE, SUSCEPTIBILITY TO, 2"
+"COLORECTAL CANCER, SUSCEPTIBILITY TO, 1"
+"DENDRITIC CELL, MONOCYTE, B LYMPHOCYTE, AND NATURAL KILLER LYMPHOCYTE DEFICIENCY"
+VENTRICULAR SEPTAL DEFECT 1
+ATRIOVENTRICULAR SEPTAL DEFECT 4
+ATRIOVENTRICULAR SEPTAL DEFECT 5
+ATRIAL SEPTAL DEFECT 9
+"Pancreatic Hypoplasia, Congenital, with Diabetes Mellitus and Congenital Heart Disease"
+"Polyglucosan Body Disease, Adult Form"
+"TRANSPOSITION OF THE GREAT ARTERIES, DEXTRO-LOOPED 3"
+GDP DISSOCIATION INHIBITOR 1
+"Myasthenia, Limb-Girdle, with Tubular Aggregates"
+"Deafness, Autosomal Recessive 15"
+"ATRIAL FIBRILLATION, FAMILIAL, 11"
+Acth-Independent Macronodular Adrenal Hyperplasia
+STIMULATORY G PROTEIN
+"EPILEPSY, PROGRESSIVE MYOCLONIC 6"
+"BLEEDING DISORDER, PLATELET-TYPE, 11"
+"NIGHT BLINDNESS, CONGENITAL STATIONARY, TYPE 1E"
+"MENTAL RETARDATION, AUTOSOMAL DOMINANT 8"
+EPILEPSY WITH NEURODEVELOPMENTAL DEFECTS
+"MENTAL RETARDATION, AUTOSOMAL DOMINANT 6"
+RETINITIS PIGMENTOSA 48
+"USHER SYNDROME, TYPE IIIB"
+MEGALENCEPHALIC LEUKOENCEPHALOPATHY WITH SUBCORTICAL CYSTS 2A
+"MEGALENCEPHALIC LEUKOENCEPHALOPATHY WITH SUBCORTICAL CYSTS 2B, REMITTING, WITH OR WITHOUT MENTAL RETARDATION"
+3-HYDROXY-3-METHYLGLUTARYL-CoA LYASE DEFICIENCY
+Retinitis Pigmentosa 46
+"MICROCEPHALY, EPILEPSY, AND DIABETES SYNDROME"
+Kappa-Chain Deficiency
+CRANIOSYNOSTOSIS AND DENTAL ANOMALIES
+"CANDIDIASIS, FAMILIAL, 6"
+"AMYLOIDOSIS, PRIMARY LOCALIZED CUTANEOUS, 2"
+Leber Congenital Amaurosis 11
+Focal Segmental Glomerulosclerosis 5
+"CHARCOT-MARIE-TOOTH DISEASE, DOMINANT INTERMEDIATE E"
+INSULIN
+"Hypertelorism, Severe, With Midface Prominence, Myopia, Mental Retardation, And Bone Fragility"
+Inosine Triphosphatase Deficiency
+THROMBOCYTHEMIA 3
+"CARDIOMYOPATHY, FAMILIAL HYPERTROPHIC, 17"
+LEBER CONGENITAL AMAUROSIS 16
+"ATRIAL FIBRILLATION, FAMILIAL, 9"
+"HYPERALDOSTERONISM, FAMILIAL, TYPE III"
+"FRUCTOSURIA, ESSENTIAL"
+"MENTAL RETARDATION, AUTOSOMAL DOMINANT 9"
+"Spastic Paraplegia 30, Autosomal Recessive"
+HYDROLETHALUS SYNDROME 2
+"ANEMIA, DYSERYTHROPOIETIC CONGENITAL, TYPE IV"
+"PSEUDOHYPOALDOSTERONISM, TYPE IID"
+HYPOTRICHOSIS 3
+Loose Anagen Hair Syndrome
+"NEPHROTIC SYNDROME, TYPE 5, WITH OR WITHOUT OCULAR ABNORMALITIES"
+"CORTICAL MALFORMATIONS, OCCIPITAL"
+LEFT-RIGHT DETERMINATION FACTOR 2
+"MYOPIA, HIGH, WITH CATARACT AND VITREORETINAL DEGENERATION"
+"LUTEINIZING HORMONE, BETA POLYPEPTIDE"
+PYRUVATE DEHYDROGENASE LIPOIC ACID SYNTHETASE DEFICIENCY
+HEPATIC LIPASE DEFICIENCY
+"Hypotrichosis, Localized, Autosomal Recessive, 3"
+SCLEROSTEOSIS 2
+BONE MINERAL DENSITY QUANTITATIVE TRAIT LOCUS 1
+RETINITIS PIGMENTOSA 62
+"MENTAL RETARDATION, AUTOSOMAL RECESSIVE 15"
+"46,XY SEX REVERSAL 6"
+"Myopathy, Distal 2"
+"MENTAL RETARDATION, AUTOSOMAL RECESSIVE 18"
+RETINITIS PIGMENTOSA 38
+Type 1 Papillary Renal Cell Carcinoma
+"Colorectal Cancer, Hereditary Nonpolyposis, Type 7"
+NARCOLEPSY 7
+"TRICHOTHIODYSTROPHY, NONPHOTOSENSITIVE 1"
+THROMBOCYTHEMIA 2
+COMBINED OXIDATIVE PHOSPHORYLATION DEFICIENCY 9
+"Colorectal Cancer, Hereditary Nonpolyposis, Type 5"
+ATP SYNTHASE 6
+"Striatonigral Degeneration, Infantile, Mitochondrial"
+ATP SYNTHASE 8
+"ALZHEIMER DISEASE, SUSCEPTIBILITY TO, MITOCHONDRIAL"
+Marsden syndrome
+"ARTHROGRYPOSIS, DISTAL, TYPE 1B"
+"MYOPATHY, CENTRONUCLEAR, 3"
+Atrial Septal Defect 3
+"SICK SINUS SYNDROME 3, SUSCEPTIBILITY TO"
+"AORTIC ANEURYSM, FAMILIAL THORACIC 7"
+FOCAL SEGMENTAL GLOMERULOSCLEROSIS 6
+"CARDIOMYOPATHY, FAMILIAL HYPERTROPHIC, 16"
+OGDEN SYNDROME
+"GRANULOMATOUS DISEASE, CHRONIC, AUTOSOMAL RECESSIVE, CYTOCHROME b-POSITIVE, TYPE III"
+"CARDIOMYOPATHY, FAMILIAL HYPERTROPHIC, 20"
+MULTIPLE MITOCHONDRIAL DYSFUNCTIONS SYNDROME 1
+"DYSKERATOSIS CONGENITA, AUTOSOMAL RECESSIVE, 2"
+HYPOPLASTIC LEFT HEART SYNDROME 2
+VENTRICULAR SEPTAL DEFECT 3
+Splenic Hypoplasia
+"HYDATIDIFORM MOLE, RECURRENT, 1"
+"Amaurosis congenita of Leber, type 9"
+"DYSKERATOSIS CONGENITA, AUTOSOMAL RECESSIVE, 1"
+ALAGILLE SYNDROME 2
+GLUCOCORTICOID RECEPTOR
+ADRENOCORTICAL INSUFFICIENCY
+SPERMATOGENIC FAILURE 8
+"AUTOIMMUNE LYMPHOPROLIFERATIVE SYNDROME, TYPE IV"
+Retinitis Pigmentosa 27
+NEURAL RETINA LEUCINE ZIPPER
+"Mental Retardation, Autosomal Recessive 5"
+"Obesity, Hyperphagia, and Developmental Delay"
+MEIER-GORLIN SYNDROME 2
+MEIER-GORLIN SYNDROME 3
+"PITUITARY HORMONE DEFICIENCY, COMBINED, 6"
+RETINITIS PIGMENTOSA 43
+RETINITIS PIGMENTOSA 40
+"PIGMENTED NODULAR ADRENOCORTICAL DISEASE, PRIMARY, 3"
+Pyruvate Dehydrogenase E1-Beta Deficiency
+PAROXYSMAL NOCTURNAL HEMOGLOBINURIA
+MULTIPLE CONGENITAL ANOMALIES-HYPOTONIA-SEIZURES SYNDROME 1
+"Fleck Retina, Familial Benign"
+Platelet-Activating Factor Acetylhydrolase Deficiency
+Leukonychia totalis
+"COLORECTAL CANCER, SUSCEPTIBILITY TO, 10"
+"LEUKODYSTROPHY, HYPOMYELINATING, 8, WITH OR WITHOUT OLIGODONTIA AND/OR HYPOGONADOTROPIC HYPOGONADISM"
+Wilms tumor and radial bilateral aplasia
+BRITTLE CORNEA SYNDROME 2
+"EPILEPSY, PROGRESSIVE MYOCLONIC 5"
+"Thrombophilia, Hereditary, Due To Protein C Deficiency, Autosomal Dominant"
+Kallmann Syndrome 4
+"THROMBOPHILIA DUE TO PROTEIN S DEFICIENCY, AUTOSOMAL RECESSIVE"
+RETINITIS PIGMENTOSA 60
+"Convulsions, Benign Familial Infantile, 2"
+Deficiency of phosphoserine phosphatase
+"ENCHONDROMATOSIS, MULTIPLE, OLLIER TYPE"
+"CUTIS LAXA, AUTOSOMAL RECESSIVE, TYPE IIIB"
+GLYCOGEN STORAGE DISEASE VI
+WARBURG MICRO SYNDROME 3
+Martin-Probst Deafness-Mental Retardation Syndrome
+"Macular Degeneration, Age-Related, 6"
+Martinez-Frias Syndrome
+RETINITIS PIGMENTOSA 44
+AICARDI-GOUTIERES SYNDROME 2
+"MACROCEPHALY, MACROSOMIA, FACIAL DYSMORPHISM SYNDROME"
+"Ataxia, Sensory, Autosomal Dominant"
+Moyamoya disease 2
+Vesicoureteral Reflux 2
+"AUTISM, SUSCEPTIBILITY TO, X-LINKED 5"
+"Mental Retardation, X-Linked 19"
+"Spastic paraplegia 12, autosomal dominant"
+CHILBLAIN LUPUS 2
+"HYPERURICEMIA, PULMONARY HYPERTENSION, RENAL FAILURE, AND ALKALOSIS"
+"MYASTHENIC SYNDROME, CONGENITAL, ACETAZOLAMIDE-RESPONSIVE"
+"Ventricular Fibrillation, Paroxysmal Familial, 1"
+"ATRIAL FIBRILLATION, FAMILIAL, 10"
+"EPILEPTIC ENCEPHALOPATHY, EARLY INFANTILE, 13"
+"Generalized Epilepsy With Febrile Seizures Plus, 7"
+"CARDIOMYOPATHY, DILATED, 1GG"
+PARAGANGLIOMAS 5
+"PONTOCEREBELLAR HYPOPLASIA, TYPE 2D"
+"serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 7"
+"OSTEOGENESIS IMPERFECTA, TYPE X"
+SCHIZOPHRENIA 15
+"AUTOIMMUNE DISEASE, SUSCEPTIBILITY TO, 6"
+"AMYOTROPHIC LATERAL SCLEROSIS 16, JUVENILE"
+TRICHOHEPATOENTERIC SYNDROME 2
+"BASAL GANGLIA CALCIFICATION, IDIOPATHIC, 3"
+THIAMINE METABOLISM DYSFUNCTION SYNDROME 4 (BILATERAL STRIATAL DEGENERATION AND PROGRESSIVE POLYNEUROPATHY TYPE)
+"ZINC IN BREAST MILK, REDUCED"
+"CONGENITAL CATARACTS, HEARING LOSS, AND NEURODEGENERATION"
+"HYPERTROPHIC OSTEOARTHROPATHY, PRIMARY, AUTOSOMAL RECESSIVE, 2"
+"PSYCHOMOTOR RETARDATION, EPILEPSY, AND CRANIOFACIAL DYSMORPHISM"
+"WAARDENBURG SYNDROME, TYPE 2E"
+VESICOURETERAL REFLUX 3
+Oculomaxillofacial dysostosis
+"MYCOBACTERIAL AND VIRAL INFECTIONS, SUSCEPTIBILITY TO, AUTOSOMAL RECESSIVE"
+"CANDIDIASIS, FAMILIAL, 7"
+Preeclampsia Eclampsia 4
+"Hemophagocytic Lymphohistiocytosis, Familial, 5"
+"EMERY-DREIFUSS MUSCULAR DYSTROPHY 5, AUTOSOMAL DOMINANT"
+"SPINOCEREBELLAR ATAXIA, AUTOSOMAL RECESSIVE 11"
+"AMYOTROPHIC LATERAL SCLEROSIS 10, WITH OR WITHOUT FRONTOTEMPORAL DEMENTIA"
+"BLEEDING DISORDER, PLATELET-TYPE, 13, SUSCEPTIBILITY TO"
+"MENTAL RETARDATION, AUTOSOMAL RECESSIVE 14"
+"DYSKERATOSIS CONGENITA, AUTOSOMAL DOMINANT, 2"
+"Neuropathy, hereditary motor and sensory, Okinawa type"
+"Colorectal Cancer, Hereditary Nonpolyposis, Type 6"
+TRANSGLUTAMINASE 6
+"HEMOLYTIC UREMIC SYNDROME, ATYPICAL, SUSCEPTIBILITY TO, 6"
+"DYSKERATOSIS CONGENITA, AUTOSOMAL DOMINANT, 3"
+"HERPES SIMPLEX ENCEPHALITIS, SUSCEPTIBILITY TO, 2"
+JOUBERT SYNDROME 16
+"Encephalocardiomyopathy, Mitochondrial, Neonatal, Due To Atp Synthase Deficiency"
+"IMMUNODEFICIENCY, COMMON VARIABLE, 2"
+"ATTENTION DEFICIT-HYPERACTIVITY DISORDER, SUSCEPTIBILITY TO, 7"
+TRIOSEPHOSPHATE ISOMERASE 1
+THIAMINE METABOLISM DYSFUNCTION SYNDROME 5 (EPISODIC ENCEPHALOPATHY TYPE)
+PSORIASIS SUSCEPTIBILITY 13
+CHILBLAIN LUPUS 1
+Focal Segmental Glomerulosclerosis 2
+"Spinal Muscular Atrophy, Distal, Congenital Nonprogressive"
+"Digital Arthropathy-Brachydactyly, Familial"
+NEPHRONOPHTHISIS 12
+ASPHYXIATING THORACIC DYSTROPHY 4
+Lissencephaly 3
+"CORTICAL DYSPLASIA, COMPLEX, WITH OTHER BRAIN MALFORMATIONS"
+"MENTAL RETARDATION, X-LINKED, SYNDROMIC, NASCIMENTO TYPE"
+"AMYOTROPHIC LATERAL SCLEROSIS 15, WITH OR WITHOUT FRONTOTEMPORAL DEMENTIA"
+UROPORPHYRINOGEN DECARBOXYLASE
+RETINITIS PIGMENTOSA 39
+"AMYOTROPHIC LATERAL SCLEROSIS 14, WITH OR WITHOUT FRONTOTEMPORAL DEMENTIA"
+PARKINSON DISEASE 17
+CRANIOFACIAL ANOMALIES AND ANTERIOR SEGMENT DYSGENESIS SYNDROME
+ASPHYXIATING THORACIC DYSTROPHY 5
+NEPHRONOPHTHISIS 13
+CRANIOECTODERMAL DYSPLASIA 4
+"SHORT RIB-POLYDACTYLY SYNDROME, TYPE V"
+"MICROCEPHALY 2, PRIMARY, AUTOSOMAL RECESSIVE, WITH OR WITHOUT CORTICAL MALFORMATIONS"
+Van der Woude syndrome 2
+"Cerebellar Ataxia, Mental Retardation, And Dysequilibrium Syndrome 2"
+"Wolfram-Like Syndrome, Autosomal Dominant"
+"Tooth Agenesis, Selective, 4"
+"DYSKERATOSIS CONGENITA, AUTOSOMAL RECESSIVE, 3"
+XPA GENE
+"MYOPATHY, LACTIC ACIDOSIS, AND SIDEROBLASTIC ANEMIA 2"
+"Severe combined immunodeficiency, atypical"
+IMMUNODEFICIENCY-CENTROMERIC INSTABILITY-FACIAL ANOMALIES SYNDROME 2
+"Mental Retardation, X-Linked 89"
+"MYOPIA 21, AUTOSOMAL DOMINANT"
+"Aortic Aneurysm, Familial Abdominal 2"
+"Aortic Aneurysm, Familial Abdominal 3"
+"BETA-AMINO ACIDS, RENAL TRANSPORT OF"
+"Sleep Disorders, Circadian Rhythm"
+Saccharopinuria
+"Aortic Aneurysm, Familial Thoracic 1"
+"Aortic Aneurysm, Familial Thoracic 2"
+Genetic Predisposition to Disease
+Lethargy
+Psychomotor Disorders
+"Reflex, Abnormal"
+"Hypotension, Orthostatic"
+Inflammatory Bowel Disease 13
+Nausea
+Neurotoxicity Syndromes
+"Translocation, Genetic"
+Cholangitis
+"Disease Models, Animal"
+"Jaundice, Obstructive"
+Vitamin B 12 Deficiency
+Weight Gain
+"Lipid Metabolism, Inborn Errors"
+Gallbladder Disease 4
+"Acyl-CoA Dehydrogenase Family, Member 9, Deficiency of"
+"Spondyloepiphyseal Dysplasia, Kimberley Type"
+"Death, Sudden"
+"MICROVASCULAR COMPLICATIONS OF DIABETES, SUSCEPTIBILITY TO, 1"
+"MICROVASCULAR COMPLICATIONS OF DIABETES, SUSCEPTIBILITY TO, 3"
+"Pneumonia, Viral"
+"Psychoses, Substance-Induced"
+Vascular System Injuries
+Endomyocardial Fibrosis
+Learning Disorders
+Organophosphate Poisoning
+Poisoning
+Prenatal Injuries
+Spondyloenchondrodysplasia
+Acropectoral syndrome
+"Acropectorovertebral Dysplasia, F-Form"
+"Mammary Neoplasms, Animal"
+Nephrogenic Fibrosing Dermopathy
+Dysostoses
+Neuronal Migration Disorders
+Refractive Errors
+ACETABULAR DYSPLASIA
+Alzheimer Disease 10
+Alzheimer Disease 11
+Alzheimer Disease 12
+Alzheimer Disease 13
+Alzheimer Disease 14
+Alzheimer Disease 15
+Alzheimer Disease 16
+Alzheimer Disease 5
+Alzheimer Disease 6
+Alzheimer Disease 7
+Alzheimer Disease 8
+Alzheimer Disease 9
+Blister
+CONE-ROD DYSTROPHY 9
+Contracture
+Facies
+Heart Valve Diseases
+"Ectopia Lentis, Isolated, Autosomal Recessive"
+Hyperkinesis
+"Hypercalciuria, Absorptive, 2"
+Birth Weight
+Miosis
+Psychomotor Agitation
+Albinism deafness syndrome
+Laryngeal Neoplasms
+Pharyngeal Neoplasms
+"ADIPONECTIN, SERUM LEVEL OF, QUANTITATIVE TRAIT LOCUS 2"
+"ADIPONECTIN, SERUM LEVEL OF, QUANTITATIVE TRAIT LOCUS 3"
+Weight Loss
+"Infarction, Middle Cerebral Artery"
+"Ischemic Attack, Transient"
+Prenatal Exposure Delayed Effects
+Sleep Initiation and Maintenance Disorders
+Ventricular Remodeling
+Embryo Loss
+"Acrofacial dysostosis, Nager type"
+"Alopecia, Androgenetic, 2"
+"Alopecia, Androgenetic, 3"
+"Agammaglobulinemia, X-linked, type 2"
+"Angioma serpiginosum, X-linked"
+Alkalosis
+Anuria
+"Cardiomyopathy, Alcoholic"
+Drug Overdose
+Necrosis
+Neointima
+Peptic Ulcer Hemorrhage
+Retinopathy of Prematurity
+Ovarian Cysts
+"Amino Acid Metabolism, Inborn Errors"
+Cerebellar Diseases
+Atrophy
+Bone Resorption
+Chronobiology Disorders
+Hyperoxia
+Hyperventilation
+"Pancreatic cancer, adult"
+Peanut Hypersensitivity
+Splenic Diseases
+Splenomegaly
+Ureteral Neoplasms
+Aicardi Syndrome
+"AMELOGENESIS IMPERFECTA, HYPOPLASTIC/HYPOMATURATION, X-LINKED 2"
+"SCOLIOSIS, IDIOPATHIC, SUSCEPTIBILITY TO, 1"
+"AUTOIMMUNE DISEASE, SUSCEPTIBILITY TO, 1"
+"AUTOIMMUNE DISEASE, SUSCEPTIBILITY TO, 2"
+"AUTOIMMUNE DISEASE, SUSCEPTIBILITY TO, 3"
+"AUTOIMMUNE DISEASE, SUSCEPTIBILITY TO, 4"
+Cardiac Conduction Defect
+Motor Skills Disorders
+Arsenic Poisoning
+"Cell Transformation, Neoplastic"
+"Aortic Valve, Calcification of"
+"Lead Poisoning, Nervous System"
+"Protoporphyria, Erythropoietic, X-Linked Dominant"
+HIV Seropositivity
+"Hypersensitivity, Delayed"
+Hypoalbuminemia
+"Meningitis, Aseptic"
+Pancreatic Diseases
+"Rhinitis, Allergic, Perennial"
+Serum Sickness
+"ZINC, ELEVATED PLASMA"
+"ALCOHOL SENSITIVITY, ACUTE"
+"Dermatitis, Occupational"
+"Brain Diseases, Metabolic"
+Congenital disorder of glycosylation type 1I
+Congenital disorder of glycosylation type 1D
+Congenital disorder of glycosylation type 1C
+Congenital disorder of glycosylation type 1L
+"Granuloma, Plasma Cell"
+"Neoplasm Recurrence, Local"
+"Plasma Cell Granuloma, Pulmonary"
+"Fractures, Closed"
+Amyotrophic Lateral Sclerosis 3
+Amyotrophic Lateral Sclerosis 5
+Amyotrophic Lateral Sclerosis 7
+FRONTONASAL DYSPLASIA 3
+FRONTONASAL DYSPLASIA 2
+Arthrogryposis multiplex congenita neurogenic type
+"ARTHROGRYPOSIS, CONGENITAL, LOWER LIMB, X-LINKED"
+Female Urogenital Diseases
+"Alport Syndrome, Mental Retardation, Midface Hypoplasia, and Elliptocytosis"
+Edema
+Extravasation of Diagnostic and Therapeutic Materials
+Adenosine monophosphate deaminase deficiency
+Alopecia-Mental Retardation Syndrome 1
+"Bone Cysts, Aneurysmal"
+Anal Canal Carcinoma
+Acute-Phase Reaction
+"Hypobetalipoproteinemia, Familial, 2"
+"Aneurysm, Intracranial Berry, 1"
+"Aneurysm, Intracranial Berry, 10"
+"Aneurysm, intracranial berry, 2"
+"Aneurysm, Intracranial Berry, 3"
+"Aneurysm, Intracranial Berry, 4"
+"Aneurysm, Intracranial Berry, 6"
+"Aneurysm, Intracranial Berry, 7"
+"Aneurysm, Intracranial Berry, 8"
+"Aneurysm, Intracranial Berry, 9"
+Congenital anosmia
+"Child Development Disorders, Pervasive"
+Anisomastia
+"Microphthalmia, Syndromic 4"
+Fibroma
+Stomach Diseases
+Paratuberculosis
+"Acromegaloid features, overgrowth, cleft palate, and hernia"
+Abdominal obesity metabolic syndrome
+Adams Oliver syndrome
+Lipidoses
+"Mental Retardation, X-Linked 59"
+"Spastic Paraplegia-50, Autosomal Recessive"
+"SPASTIC PARAPLEGIA 48, AUTOSOMAL RECESSIVE"
+Eye Abnormalities
+Aberrant Crypt Foci
+"Micronuclei, Chromosome-Defective"
+Alopecia-Mental Retardation Syndrome 2
+Death
+Hypokinesia
+Mercury Poisoning
+"Plaque, Atherosclerotic"
+Phencyclidine Abuse
+"Cerebral hemorrhage with amyloidosis, hereditary, Dutch type"
+Paralysis
+"Hypospadias 1, X-Linked"
+"Cataract, Age-Related Cortical, 1"
+Hair Diseases
+"Mental Retardation, X-Linked 46"
+Age-Related Hearing Impairment 1
+Presbycusis 2
+"Arrhythmogenic Right Ventricular Dysplasia, Familial, 3"
+"Arrhythmogenic Right Ventricular Dysplasia, Familial, 4"
+"Arrhythmogenic Right Ventricular Dysplasia, Familial, 6"
+"Neoplasms, Glandular and Epithelial"
+Atrial Septal Defect 1
+Anal sphincter dysplasia
+Anaphylaxis
+Choledocholithiasis
+Cholelithiasis
+Hematuria
+"ASTHMA-RELATED TRAITS, SUSCEPTIBILITY TO, 3"
+"ASTHMA-RELATED TRAITS, SUSCEPTIBILITY TO, 4"
+"ASTHMA-RELATED TRAITS, SUSCEPTIBILITY TO, 6"
+"ASTHMA-RELATED TRAITS, SUSCEPTIBILITY TO, 8"
+"Atrial fibrillation, familial 1"
+"Atrial Fibrillation, Familial, 2"
+"Atrial Fibrillation, Familial, 5"
+"Atrial Fibrillation, Familial, 8"
+"Dermatitis, Atopic, 1"
+"Dermatitis, Atopic, 3"
+"Dermatitis, Atopic, 5"
+"Dermatitis, Atopic, 6"
+"Dermatitis, Atopic, 7"
+Manganese Poisoning
+"Parkinson Disease, Secondary"
+Vestibular Diseases
+Myocardial Stunning
+"Mental Retardation, X-Linked, with Epilepsy"
+Familial antiphospholipid syndrome
+Penile Diseases
+Thoracic Diseases
+Spinocerebellar Ataxia 10
+Spinocerebellar ataxia 8
+"Deafness, X-Linked 5"
+"Male Infertility with Large-Headed, Multiflagellar, Polyploid Spermatozoa"
+Angina Pectoris
+Dysmenorrhea
+Gastrointestinal Hemorrhage
+Inappropriate ADH Syndrome
+Shock
+Shy-Drager Syndrome
+"Genetic Diseases, X-Linked"
+Oliguria
+Caudal Duplication Anomaly
+"Spermatogenic Failure, Nonobstructive, Y-Linked"
+"Azoospermia, Nonobstructive"
+Hypergammaglobulinemia
+Congenital disorder of glycosylation type 2D
+Nevi and Melanomas
+"Lymphoma, T-Cell, Cutaneous"
+Apnea
+Fasciculation
+Paresis
+Postoperative Complications
+Pseudocholinesterase deficiency
+Sleep Apnea Syndromes
+Trismus
+AIDS-related Kaposi sarcoma
+"Chondrosarcoma, Mesenchymal"
+Metaplasia
+Soft Tissue Neoplasms
+"Brachydactyly, Type A1, B"
+"Bleeding Disorder, East Texas Type"
+Body Weight
+"TOBACCO ADDICTION, SUSCEPTIBILITY TO"
+Spinocerebellar Ataxia 31
+"Macular dystrophy, concentric annular"
+"Convulsions, Benign Familial Infantile, 4"
+"Cataract, Cortical, Juvenile-Onset"
+"Leukemia, Megakaryoblastic, Acute"
+"MATURITY-ONSET DIABETES OF THE YOUNG, TYPE 11"
+"AGAMMAGLOBULINEMIA 4, AUTOSOMAL RECESSIVE"
+BODY MASS INDEX QUANTITATIVE TRAIT LOCUS 13
+BODY MASS INDEX QUANTITATIVE TRAIT LOCUS 14
+BODY MASS INDEX QUANTITATIVE TRAIT LOCUS 4
+BODY MASS INDEX QUANTITATIVE TRAIT LOCUS 8
+Opioid-Related Disorders
+"Polyposis Syndrome, Hereditary Mixed, 2"
+"Chondrodysplasia, acromesomelic, with genital anomalies"
+"Polymicrogyria, Bilateral Occipital"
+Branchiootic Syndrome 2
+Fetal Alcohol Syndrome
+Benign paroxysmal positional vertigo
+Chromosome Breakage
+Mouth Diseases
+"BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 2"
+"Breast Cancer, 11"
+"Cancer, Familial, with In Vitro Radioresistance"
+Bruck syndrome 1
+Delayed Emergence from Anesthesia
+"Hypogammaglobulinemia and Isolated growth hormone deficiency, X-linked"
+Bazex-Dupre-Christol syndrome
+COMBINED OXIDATIVE PHOSPHORYLATION DEFICIENCY 7
+Immune Complex Diseases
+Lens Diseases
+COMPLEMENT COMPONENT C1r/C1s DEFICIENCY
+"Macular Degeneration, Age-Related, 9"
+Pemphigus
+"Purpura, Schoenlein-Henoch"
+Complement component 5 deficiency
+"COMPLEMENT COMPONENT 8 DEFICIENCY, TYPE I"
+Neisseriaceae Infections
+Facial Dermatoses
+"Meningitis, Meningococcal"
+Anaplasia
+Malignant hyperthermia susceptibility type 5
+Respiratory Insufficiency
+"THYROTOXIC PERIODIC PARALYSIS, SUSCEPTIBILITY TO, 1"
+Retinal Cone Dystrophy 4
+"Anemia, Hypoplastic, Congenital"
+"Leukemia, Erythroblastic, Acute"
+Sciatic Neuropathy
+"Melanoma, Experimental"
+Camptodactyly 1
+"Candidiasis, Familial, 1"
+"Candidiasis, Familial, 3"
+"Diabetes Mellitus, Noninsulin-Dependent, 1"
+"Candidiasis, Familial, 2"
+Papillomavirus Infections
+"Abnormalities, Drug-Induced"
+Asphyxia Neonatorum
+Phobic Disorders
+Protein Deficiency
+"Cataract, Autosomal Recessive Congenital 3"
+"Cataract, Congenital Nuclear, Autosomal Recessive 1"
+"Microphthalmia, Isolated, with Cataract 1"
+Spermatogenic Failure 7
+"Lipodystrophy, Congenital Generalized, Type 3"
+"Chromosome 3, monosomy 3p25"
+"Ossification, Heterotopic"
+"Mental Retardation, Autosomal Recessive 3"
+Chondrocalcinosis 1
+Hydrops Fetalis
+"Deafness, Autosomal Dominant 44"
+Gastrointestinal Diseases
+Unconsciousness
+Respiratory Hypersensitivity
+Lung Injury
+"MYCOBACTERIUM TUBERCULOSIS, SUSCEPTIBILITY TO"
+Pleural Diseases
+Spinal Cord Compression
+"Hemangioma, Cavernous, Central Nervous System"
+Cecal Neoplasms
+Recurrence
+"Cataract, Nuclear Progressive"
+"Cataract, Central Saccular, With Sutural Opacities"
+"Asthma, Aspirin-Induced"
+"Diabetes Mellitus, Insulin-Dependent, 22"
+Cataract congenital Volkmann type
+Immunodeficiency due to Defect in CD3-Zeta
+METHYLMALONIC ACIDURIA DUE TO TRANSCOBALAMIN RECEPTOR DEFECT
+PLASMODIUM FALCIPARUM BLOOD INFECTION LEVEL
+Staphylococcal Infections
+"Severe Combined Immunodeficiency, Autosomal Recessive, T Cell-Negative, B Cell-Positive, NK Cell-Negative"
+"Severe Combined Immunodeficiency, Autosomal Recessive, T Cell Negative, B Cell Positive, NK Cell Positive"
+"Craniosynostosis, anal anomalies, and porokeratosis"
+Helicobacter Infections
+No-Reflow Phenomenon
+CONE-ROD DYSTROPHY 15
+"Microcephaly, Primary Autosomal Recessive, 3"
+Uterine Neoplasms
+Melanoma astrocytoma syndrome
+CEREBELLAR DEGENERATION-RELATED AUTOANTIGEN 3
+Hypotrichosis Simplex of Scalp
+"Neoplasms, Radiation-Induced"
+"Abnormalities, Multiple"
+Leber Congenital Amaurosis 10
+"Meckel Syndrome, Type 4"
+Cystic Fibrosis Modifier 1
+Craniofacioskeletal Syndrome
+"Myopathy, Congenital, With Fiber-Type Disproportion, X-Linked"
+Adrenal Gland Diseases
+Hemiplegia
+Ovarian Diseases
+"Thyroid cancer, follicular"
+Uterine Diseases
+Fetal Resorption
+"COGNITIVE FUNCTION 1, SOCIAL"
+"SCOLIOSIS, IDIOPATHIC, SUSCEPTIBILITY TO, 3"
+"ASTHMA-RELATED TRAITS, SUSCEPTIBILITY TO, 7"
+Ascites
+Catatonia
+"Myasthenic syndrome, congenital, postsynaptic slow-channel"
+Sleep Disorders
+Auditory Perceptual Disorders
+"Hernia, Umbilical"
+Neurobehavioral Manifestations
+Spina Bifida Cystica
+Hypothermia
+Arthrogryposis
+Joint Instability
+Fetal Diseases
+"HEARING LOSS, CISPLATIN-INDUCED, SUSCEPTIBILITY TO"
+"Primary ciliary dyskinesia, 4"
+"Ciliary Dyskinesia, Primary, 8"
+CAROTID INTIMAL MEDIAL THICKNESS 2
+"Spinocerebellar ataxia, autosomal recessive 6"
+Pontocerebellar Hypoplasia Type 3
+Epilepsy juvenile absence
+IgA Deficiency
+"Candidiasis familial chronic mucocutaneous, autosomal recessive"
+CHOLESTEROL LEVEL QUANTITATIVE TRAIT LOCUS 1
+"Ceroid lipofuscinosis, neuronal 9"
+"Capillary Malformations, Congenital, 1"
+Idiopathic dilation cardiomyopathy
+"Cardiomyopathy, Dilated, 1K"
+"Cardiomyopathy, Dilated, 1q"
+"Craniometaphyseal dysplasia, autosomal recessive type"
+"MELANOMA, CUTANEOUS MALIGNANT, SUSCEPTIBILITY TO, 4"
+"MELANOMA, CUTANEOUS MALIGNANT, SUSCEPTIBILITY TO, 7"
+"Charcot-Marie-Tooth disease, Type 2G"
+"Charcot-Marie-Tooth disease, Type 2H"
+"Charcot-Marie-Tooth Disease, Dominant Intermediate A"
+"Charcot-Marie-Tooth disease, X-linked recessive, 2"
+"Charcot-Marie-Tooth disease, X-linked recessive, 3"
+Cornea Plana 1
+Dermoids of cornea
+Homocarnosinosis
+Neurologic Manifestations
+Muscle Spasticity
+"Myopathy, Congenital, Compton-North"
+"Cone-Rod Dystrophy, X-Linked, 2"
+Cavitary Optic Disc Anomalies
+"Congenital disorder of glycosylation, type 2G"
+"CONGENITAL DISORDER OF GLYCOSYLATION, TYPE IIi"
+Congenital disorder of glycosylation type 2E
+Cartilage Diseases
+"Ehlers-Danlos Syndrome, Type VII, Autosomal Dominant"
+"Ehlers-Danlos syndrome, cardiac valvular form"
+Femur Head Necrosis
+"Ehlers Danlos syndrome type 4, autosomal dominant"
+"Alport syndrome, recessive type"
+"Leiomyoma, Epithelioid"
+"Myosclerosis, Autosomal Recessive"
+Epidermolysis Bullosa With Congenital Localized Absence Of Skin And Deformity Of Nails
+"Epiphyseal dysplasia, multiple, 2"
+"Epiphyseal dysplasia, multiple, 3"
+Malpuech facial clefting syndrome
+Oculopalatoskeletal syndrome
+"Apraxia, oculomotor, Cogan type"
+Dog Diseases
+Fairbank disease
+Cone-Rod Dystrophy 1
+Cone-Rod Dystrophy 8
+Familial apoceruloplasmin deficiency
+Pasteurellaceae Infections
+"Cerebral Palsy, Ataxic, Autosomal Recessive"
+Alveolar capillary dysplasia
+Persistent Fetal Circulation Syndrome
+Carnitine palmitoyl transferase 1A deficiency
+"Carnitine Palmitoyltransferase II Deficiency, Lethal Neonatal"
+"Polyposis Syndrome, Hereditary Mixed, 1"
+"Mental Retardation, Autosomal Recessive 2"
+"Atrioventricular Septal Defect, Partial, with Heterotaxy Syndrome"
+Chest Pain
+Pituitary Apoplexy
+"Puberty, Delayed"
+Retinitis
+"Dermatitis, Contact"
+"Craniosynostosis, Adelaide Type"
+"Osteogenesis imperfecta, type 7"
+"Cataract, Congenital Nuclear, Autosomal Recessive 3"
+"Cataract, Coppock-Like"
+Bone Marrow failure syndromes
+Eyelid Diseases
+"Lymphoma, AIDS-Related"
+Bone Marrow Neoplasms
+Disease Susceptibility
+Hepatic Veno-Occlusive Disease
+Infarction
+Somatosensory Disorders
+Stomatitis
+Leukocytosis
+"Macular Degeneration, Age-Related, 11"
+Anterior polar cataract 2
+Gastric Antral Vascular Ectasia
+"PULMONARY HYPERTENSION, CHRONIC THROMBOEMBOLIC, WITHOUT DEEP VEIN THROMBOSIS, SUSCEPTIBILITY TO"
+"Diabetes Mellitus, Insulin-Dependent, 12"
+"Cataract, Autosomal Recessive, Early-Onset, Pulverulent"
+"Cataract, posterior polar, 5"
+Cubitus Valgus with Mental Retardation and Unusual Facies
+COXSACKIEVIRUS B3 SUSCEPTIBILITY
+"Cystitis, Interstitial"
+Mastitis
+Methemoglobinemia Type IV
+Brain Infarction
+"Heredodegenerative Disorders, Nervous System"
+Hyperkalemia
+Oligomenorrhea
+"Sexual Dysfunctions, Psychological"
+Critical Illness
+Arteritis
+Peripheral Vascular Diseases
+"Carcinoma, Large Cell"
+"Liver Diseases, Parasitic"
+Opisthorchiasis
+Gliosarcoma
+"Drug Metabolism, Poor, CYP2C19-Related"
+Rhabdomyolysis
+Coma
+"Drug Metabolism, Poor, CYP2D6-Related"
+"Spastic paraplegia type 5A, recessive"
+"Arthrogryposis, Distal, Type 4"
+MIRROR MOVEMENTS 1
+"Reticuloendotheliosis, familial, with eosinophilia"
+Hypoventilation
+Pseudomonas Infections
+Aromatic amino acid decarboxylase deficiency
+Intestinal Diseases
+Ulcer
+DERMODISTORTIVE URTICARIA
+Homozygous 11p15-p14 Deletion Syndrome
+"Deafness, Sensorineural, And Male Infertility"
+Mesomelia-synostoses syndrome
+Chromosome Xp11.3 Deletion Syndrome
+Contiguous Abcd1/Dxs1375e Deletion Syndrome
+"Epilepsy, Partial, with Variable Foci"
+Emanuel syndrome
+SUPERNUMERARY DER(22)t(8
+"Deafness, Cataract, Retinitis Pigmentosa, And Sperm Abnormalities"
+"Deafness, X-Linked 3"
+"Deafness, X-Linked 4"
+"Deafness, Autosomal Dominant 16"
+"Deafness, Autosomal Dominant 18"
+"Deafness, Autosomal Dominant 21"
+"Deafness, Autosomal Dominant 24"
+"DEAFNESS, AUTOSOMAL DOMINANT 27"
+"Deafness, Autosomal Dominant 30"
+"Deafness, Autosomal Dominant 31"
+"Deafness, Autosomal Dominant 41"
+"Deafness, Autosomal Dominant 43"
+"Deafness, Autosomal Dominant 47"
+"Deafness, Autosomal Dominant 49"
+"Deafness, Autosomal Dominant 5"
+"Deafness, Autosomal Dominant 52"
+"Deafness, Autosomal Dominant 53"
+"Deafness, Autosomal Dominant 59"
+"Deafness, Autosomal Dominant 7"
+"Deafness, Autosomal Recessive 13"
+"Deafness, Autosomal Recessive 14"
+"Deafness, Autosomal Recessive 17"
+"Deafness, Autosomal Recessive 20"
+"Deafness, Autosomal Recessive 26"
+"Deafness, Autosomal Recessive 27"
+"Deafness, Autosomal Recessive 32"
+"Deafness, Autosomal Recessive 33"
+"Deafness, Autosomal Recessive 38"
+"Deafness, Autosomal Recessive 40"
+"Deafness, Autosomal Recessive 44"
+"DEAFNESS, AUTOSOMAL RECESSIVE 45"
+"Deafness, Autosomal Recessive 46"
+"Deafness, Autosomal Recessive 47"
+"Deafness, Autosomal Recessive 5"
+"Deafness, autosomal recessive 51"
+"Deafness, autosomal recessive 55"
+"Deafness, Autosomal Recessive 62"
+"Deafness, Autosomal Recessive 65"
+"Deafness, Autosomal Recessive 66"
+"Deafness, Autosomal Recessive 68"
+"Deafness, Autosomal Recessive 71"
+"DEAFNESS, AUTOSOMAL RECESSIVE 83"
+"DEAFNESS, AUTOSOMAL RECESSIVE 85"
+"DEAFNESS, NONSYNDROMIC, MODIFIER 1"
+"DEAFNESS, Y-LINKED 1"
+Digeorge Syndrome/Velocardiofacial Syndrome Complex 2
+"Dehydrated Hereditary Stomatocytosis, Pseudohyperkalemia, and Perinatal Edema"
+"PSEUDOHYPERKALEMIA, FAMILIAL, 1, DUE TO RED CELL LEAK"
+"Deafness, Autosomal Dominant 1"
+Premature Ovarian Failure 2a
+Diaphragmatic Hernia 2
+Hyperthyroxinemia
+Thyroid Diseases
+"Mental Retardation, Fra12a Type"
+"Dyskeratosis, Hereditary Benign Intraepithelial"
+"Fractures, Bone"
+Pyruvate Dehydrogenase E2 Deficiency
+"Ciliary Dyskinesia, Primary, 10"
+"Ciliary Dyskinesia, Primary, 9"
+Diffuse panbronchiolitis
+"Purine-Pyrimidine Metabolism, Inborn Errors"
+Gambling
+"Tremor hereditary essential, 1"
+"Anxiety, Separation"
+Attention Deficit and Disruptive Behavior Disorders
+NOVELTY SEEKING PERSONALITY TRAIT
+Benign essential blepharospasm
+Torticollis
+"Porokeratosis, Disseminated Superficial Actinic, 4"
+"Porokeratosis, Disseminated Superficial Actinic, 3"
+Keratosis palmoplantaris striata 1
+"Cardiomyopathy, Dilated, 1BB"
+"Death, Sudden, Cardiac"
+Keratosis Palmoplantaris Striata II
+Dyschromatosis Universalis Hereditaria 1
+Dyschromatosis Universalis Hereditaria 2
+Thyroid Dyshormonogenesis 5
+Williams-Beuren Region Duplication Syndrome
+Dupuytren Contracture
+"Dystonia 13, Torsion"
+"Dystonia 15, myoclonic"
+"Dystonia 17, Torsion, Autosomal Recessive"
+Dystonia musculorum deformans type 2
+Dystonia musculorum deformans 4
+Torsion dystonia 7
+Echo Virus 11 Sensitivity
+"Episodic Ataxia, Type 3"
+"Episodic Ataxia, Type 7"
+"Bullous Dystrophy, Hereditary Macular Type"
+Epidermolysis Bullosa Dystrophica Neurotrophica
+EPSTEIN-BARR VIRUS INSERTION SITE 1
+Autonomic Nervous System Diseases
+Cardiovascular Abnormalities
+Cerebrovascular Disorders
+Oral Ulcer
+Urinary Retention
+"Ehlers-Danlos Syndrome, Type VIII"
+ECTODERMAL DYSPLASIA-SYNDACTYLY SYNDROME 2
+Bile Duct Neoplasms
+"Prostate Cancer, Hereditary, 12"
+Episodic Kinesigenic Dyskinesia 2
+Erythrokeratodermia Variabilis 3
+"CUTIS LAXA, AUTOSOMAL DOMINANT 1"
+"Episodic Muscle Weakness, X-Linked"
+"Amelogenesis Imperfecta, Type Ic"
+"Epilepsy, Nocturnal Frontal Lobe, Type 2"
+Nocturnal Enuresis
+"Enuresis, Nocturnal, 2"
+"Eosinophilia, Familial"
+"Colorectal Cancer, Hereditary Nonpolyposis, Type 8"
+Lynch syndrome I (site-specific colonic cancer)
+Hypopigmentation
+PROSTATE CANCER/BRAIN CANCER SUSCEPTIBILITY
+"Heart Septal Defects, Ventricular"
+"MICROVASCULAR COMPLICATIONS OF DIABETES, SUSCEPTIBILITY TO, 2"
+"Sarcoma, Experimental"
+"Shock, Cardiogenic"
+"Epilepsy, Familial Temporal Lobe, 4"
+"Epilepsy, Partial, with Pericentral Spikes"
+"Epilepsy, rolandic with paroxysmal exercise-induced dystonia and writer's cramp"
+Lethal Congenital Contracture Syndrome 2
+Sunburn
+De Sanctis-Cacchione syndrome
+Arnold-Chiari Malformation
+Feminization
+Lithiasis
+"Temporal epilepsy, familial"
+"Tremor hereditary essential, 2"
+"Myeloproliferative Disorder, Chronic, with Eosinophilia"
+Exudative Vitreoretinopathy 3
+"Exostoses, Multiple, Type III"
+"Cardiomyopathy, Dilated, 1J"
+"Skin Diseases, Vascular"
+Gastroenteritis
+Peliosis Hepatis
+Sagittal Sinus Thrombosis
+"Hematoma, Subdural, Acute"
+"Intracranial Hemorrhage, Traumatic"
+Stomatognathic Diseases
+"Neuropathy, Hereditary Sensory And Autonomic, Type IIB"
+"Epilepsy, Familial Adult Myoclonic, 3"
+Megalocytic interstitial nephritis
+"Fanconi Anemia, Complementation Group B"
+"FANCONI ANEMIA, COMPLEMENTATION GROUP E"
+FANCF GENE
+"Fanconi Anemia, Complementation Group I"
+Hypersplenism
+"Pregnancy Complications, Cardiovascular"
+Taste Disorders
+Testicular Diseases
+Emphysema
+Respiratory Tract Infections
+"Hypersensitivity, Immediate"
+"Epilepsy, Myoclonic, Benign Adult Familial, Type 1"
+"Epilepsy, Myoclonic, Benign Adult Familial, Type 2"
+"FEBRILE SEIZURES, FAMILIAL, 1"
+"Febrile Convulsions, Familial, 10"
+"Febrile Convulsions, Familial, 2"
+"Febrile Convulsions, Familial, 5"
+"Febrile Convulsions, Familial, 6"
+"Febrile Convulsions, Familial, 7"
+"Febrile Convulsions, Familial, 9"
+"Corneal dystrophy, Fuchs' endothelial, 2"
+"Corneal Dystrophy, Fuchs Endothelial, 3"
+"Corneal Dystrophy, Fuchs Endothelial, 5"
+"Corneal Dystrophy, Fuchs Endothelial, 7"
+Blood Platelet Disorders
+Urogenital Abnormalities
+Gingival Hyperplasia
+22q11 Deletion Syndrome
+Pfeiffer type acrocephalosyndactyly
+Ankylosis
+"Plagiocephaly, Nonsynostotic"
+Fg Syndrome 5
+"Hyperaldosteronism, Familial, Type II"
+Foveal Hypoplasia and Anterior Segment Dysgenesis
+"Myopathy, Reducing Body, X-Linked, Childhood-Onset"
+Premature Ovarian Failure 6
+"Myasthenia, Familial Infantile, 1"
+"Dermatitis, Atopic, 2"
+Congenital idiopathic intestinal pseudoobstruction
+"Filaminopathy, autosomal dominant"
+Gonadal Dysgenesis
+"Epilepsy, Familial Mesial Temporal Lobe"
+"Brain Diseases, Metabolic, Inborn"
+Neurodegeneration Due To Cerebral Folate Transport Deficiency
+Fibrous Dysplasia of Bone
+Musculoskeletal Abnormalities
+Yellow Nail Syndrome
+"Lung Diseases, Obstructive"
+Mastocytosis
+Blepharophimosis syndrome type 1
+Bpes With Duane Retraction Syndrome
+MENTAL RETARDATION WITH LANGUAGE IMPAIRMENT AND AUTISTIC FEATURES
+Lateral Medullary Syndrome
+FASTING INSULIN LEVEL QUANTITATIVE TRAIT LOCUS 1
+"Mental Retardation, X-Linked 9"
+"Amyotrophic Lateral Sclerosis 6, Autosomal Recessive"
+Caliciviridae Infections
+VITAMIN B12 PLASMA LEVEL QUANTITATIVE TRAIT LOCUS 1
+FORSYTHE-WAKELING SYNDROME
+Magnesium Deficiency
+Hemolysis
+Phagocyte Bactericidal Dysfunction
+"Gaucher Disease, Perinatal Lethal"
+Gaucher-like disease
+Glucocorticoid Deficiency 2
+Glucocorticoid Deficiency 3
+Constipation
+Spasm
+"Tachycardia, Sinus"
+Coronary Vessel Anomalies
+"CATARACT, CONGENITAL OR JUVENILE"
+"Charcot-Marie-Tooth Disease, Recessive Intermediate A"
+Acromesomelic dysplasia Hunter-Thompson type
+"Spondylocostal Dysostosis 4, Autosomal Dominant"
+Ependymoma
+"Generalized Epilepsy With Febrile Seizures Plus, Type 4"
+"Generalized Epilepsy With Febrile Seizures Plus, Type 6"
+Carbon Tetrachloride Poisoning
+Azotemia
+Digestive System Neoplasms
+"Fibromatosis, Gingival, 2"
+"Fibromatosis, gingival, 3"
+"Fibromatosis, Gingival, 4"
+"Oculodentodigital Dysplasia, Autosomal Recessive"
+Cellulitis
+Hidradenitis Suppurativa
+"Deafness, Autosomal Recessive 1b"
+Corneal Opacity
+"glaucoma 1, open angle, B (adult-onset)"
+"Glaucoma 1, Open Angle, C"
+"Glaucoma 1, Open Angle, D"
+"Glaucoma 1, Open Angle, F"
+"Glaucoma 1, Open Angle, H"
+"Glaucoma 1, Open Angle, I"
+"Glaucoma 1, Open Angle, J"
+"Glaucoma 1, Open Angle, K"
+"Glaucoma 1, Open Angle, N"
+"Glaucoma 3, primary infantile, B"
+"GLAUCOMA 3, PRIMARY CONGENITAL, C"
+"Polydactyly, preaxial 4"
+Atrioventricular Block
+Familial ventricular tachycardia
+Cafe-au-Lait Spots
+Respiration Disorders
+"NONARTERITIC ANTERIOR ISCHEMIC OPTIC NEUROPATHY, SUSCEPTIBILITY TO"
+Glaucoma-Related Pigment Dispersion Syndrome
+Cadmium Poisoning
+"GRAVES DISEASE, SUSCEPTIBILITY TO, X-LINKED 1"
+"Deafness, Autosomal Dominant 28"
+Fetal Death
+"Mental Retardation, Autosomal Recessive 6"
+Geniospasm
+"Glutathione Synthetase Deficiency of Erythrocytes, Hemolytic Anemia due to"
+Respiratory Sounds
+Scurvy
+X-linked mental retardation Gustavson type
+"Hepatitis, Animal"
+Lipid Metabolism Disorders
+"Ige Responsiveness, Atopic"
+Heinz Body Anemias
+"Beta Thalassemia, Dominant Inclusion Body Type"
+"Alpha-Thalassemia Mental Retardation Syndrome, Deletion-Type"
+"Hypercalciuria, Absorptive, 1"
+"Thyroid cancer, Hurthle cell"
+Brugada Syndrome 8
+Coronaviridae Infections
+Adjustment Disorders
+HIGH DENSITY LIPOPROTEIN CHOLESTEROL LEVEL QUANTITATIVE TRAIT LOCUS 2
+HIGH DENSITY LIPOPROTEIN CHOLESTEROL LEVEL QUANTITATIVE TRAIT LOCUS 3
+HIGH DENSITY LIPOPROTEIN CHOLESTEROL LEVEL QUANTITATIVE TRAIT LOCUS 1
+HIGH DENSITY LIPOPROTEIN CHOLESTEROL LEVEL QUANTITATIVE TRAIT LOCUS 4
+HIGH DENSITY LIPOPROTEIN CHOLESTEROL LEVEL QUANTITATIVE TRAIT LOCUS 5
+HIGH DENSITY LIPOPROTEIN CHOLESTEROL LEVEL QUANTITATIVE TRAIT LOCUS 6
+"Hodgkin disease, X-linked pseudoautosomal"
+"Hairy Ears, Y-Linked"
+"MICROVASCULAR COMPLICATIONS OF DIABETES, SUSCEPTIBILITY TO, 7"
+"Porphyria, South African type"
+"Deafness, Autosomal Recessive 39"
+"Wounds, Penetrating"
+"Hypocalciuric hypercalcemia, familial, type 2"
+"Telangiectasia, Hereditary Hemorrhagic, Type 4"
+Polyps
+Inherited Peripheral Neuropathy
+Parapsoriasis
+"SEVERE CUTANEOUS ADVERSE REACTION, SUSCEPTIBILITY TO"
+Huntington Disease-Like 3
+HYPOMELANOSIS OF ITO
+"Neuropathy, Distal Hereditary Motor, Type VIIA"
+"Spinal muscular atrophy, Jerash type"
+Gastroparesis
+"Hepatic Adenomas, Familial"
+"Prostate Cancer, Hereditary, 11"
+Hypertensive Nephropathy
+Nervous System Malformations
+Radioulnar Synostosis with Amegakaryocytic Thrombocytopenia
+Lymphatic Abnormalities
+"Lower Extremity Deformities, Congenital"
+Diabetes Complications
+Foodborne Diseases
+"Genital Neoplasms, Female"
+"Prostate Cancer, Hereditary, 10"
+"Prostate Cancer, Hereditary, 14"
+"Prostate Cancer, Hereditary, 15"
+"Prostate Cancer, Hereditary, 3"
+"Prostate Cancer, Hereditary, 4"
+"Prostate Cancer, Hereditary, 5"
+"Prostate Cancer, Hereditary, 6"
+"Prostate Cancer, Hereditary, 7"
+"Prostate Cancer, Hereditary, 9"
+"PROSTATE CANCER, HEREDITARY, X-LINKED 1"
+"Prostate Cancer, Hereditary, X-Linked 2"
+Holoprosencephaly 6
+Holoprosencephaly 8
+Familial hemophagocytic lymphohistiocytosis
+Hypophosphatemic Rickets And Hyperparathyroidism
+"Hypoparathyroidism, X-Linked"
+human papilloma virus (type 18) integration site 1
+HUMAN PAPILLOMAVIRUS TYPE 18 INTEGRATION SITE 2
+Compartment Syndromes
+Alopecia universalis
+Penile Neoplasms
+Coronary Stenosis
+"Mental Retardation, X-Linked 17"
+Adrenal hyperplasia 2
+"Neuropathy, Hereditary Sensory And Autonomic, Type I, With Cough And Gastroesophageal Reflux"
+Heat Stress Disorders
+Congenital hypertrichosis lanuginosa
+"Hypertrichosis Terminalis, Generalized, with or without Gingival Hyperplasia"
+Brachydactyly with hypertension
+5-hydroxytryptamine (serotonin) oxygenase regulator
+"Macular Degeneration, Age-Related, 7"
+"Heterotaxy, Visceral, 3, Autosomal"
+"Mental Retardation, X-Linked, Syndromic, Turner Type"
+Aquagenic epilepsy
+"EPILEPSY, HOT WATER, 2"
+HIGH DENSITY LIPOPROTEIN DEFICIENCY 3
+"Tooth Agenesis, Selective, 2"
+Inflammatory Bowel Disease 12
+Inflammatory Bowel Disease 15
+Inflammatory Bowel Disease 16
+Inflammatory Bowel Disease 18
+Inflammatory Bowel Disease 19
+Inflammatory Bowel Disease 2
+Inflammatory Bowel Disease 20
+Inflammatory Bowel Disease 21
+Inflammatory Bowel Disease 22
+Inflammatory Bowel Disease 23
+Inflammatory Bowel Disease 24
+"Inflammatory Bowel Disease 25, Autosomal Recessive"
+Inflammatory Bowel Disease 26
+Inflammatory Bowel Disease 27
+Inflammatory Bowel Disease 3
+Inflammatory Bowel Disease 4
+Inflammatory Bowel Disease 5
+Inflammatory Bowel Disease 6
+Inflammatory Bowel Disease 7
+Inflammatory Bowel Disease 8
+Inflammatory Bowel Disease 9
+"Diabetes Mellitus, Insulin-Dependent, 10"
+"Diabetes Mellitus, Insulin-Dependent, 11"
+"Diabetes Mellitus, Insulin-Dependent, 13"
+"Diabetes Mellitus, Insulin-Dependent, 15"
+"Diabetes Mellitus, Insulin-Dependent, 17"
+"Diabetes Mellitus, Insulin-Dependent, 18"
+"Diabetes Mellitus, Insulin-Dependent, 23"
+"Diabetes Mellitus, Insulin-Dependent, 24"
+"Diabetes Mellitus, Insulin-Dependent, 3"
+"Diabetes Mellitus, Insulin-Dependent, 4"
+"Diabetes Mellitus, Insulin-Dependent, 6"
+"Diabetes Mellitus, Insulin-Dependent, 7"
+"Diabetes Mellitus, Insulin-Dependent, 8"
+"DIABETES MELLITUS, INSULIN-DEPENDENT, X-LINKED, SUSCEPTIBILITY TO"
+"Diabetes Mellitus, Insulin-Dependent, 19"
+Vaginal Neoplasms
+Vipoma
+Abdominal Pain
+Chills
+Flavivirus Infections
+"Hemangioendothelioma, Epithelioid"
+Intestinal Perforation
+Meningism
+"Optic Neuropathy, Ischemic"
+Pterygium
+Somatoform Disorders
+Tinnitus
+Uveomeningoencephalitic Syndrome
+Anus Neoplasms
+"Melanoma, Amelanotic"
+Appendicitis
+"Arthritis, Infectious"
+Entamoebiasis
+"Leishmaniasis, Mucocutaneous"
+"Radiation Injuries, Experimental"
+"Salmonella Infections, Animal"
+Trichuriasis
+"Mycobacterium Infections, Nontuberculous"
+Ciliary Motility Disorders
+"Edema, Cardiac"
+Spinal Curvatures
+Asphyxia
+IMMUNE RESPONSE TO SYNTHETIC POLYPEPTIDE--IRGAT
+"Corpus Callosum, Agenesis of, with Mental Retardation, Ocular Coloboma, and Micrognathia"
+Corneal Diseases
+Placenta Diseases
+Polyhydramnios
+"AGAMMAGLOBULINEMIA 1, AUTOSOMAL RECESSIVE"
+Dysgammaglobulinemia
+Iris hypoplasia and glaucoma
+"Pyloric Stenosis, Infantile Hypertrophic, 2"
+"Pyloric Stenosis, Infantile Hypertrophic, 3"
+"Pyloric Stenosis, Infantile Hypertrophic, 4"
+"Pyloric Stenosis, Infantile Hypertrophic, 5"
+"Ectodermal Dysplasia, Anhidrotic, with Immunodeficiency, Osteopetrosis, and Lymphedema"
+Chorioamnionitis
+Kearns-Sayre Syndrome
+MERRF Syndrome
+Mitochondrial Myopathies
+"Mental Retardation, X-Linked 21"
+"MICROVASCULAR COMPLICATIONS OF DIABETES, SUSCEPTIBILITY TO, 4"
+Schnitzler Syndrome
+Sclerosis
+Asthenia
+Inflammatory Bowel Disease 17
+Pneumoconiosis
+"Tuberculosis, Bovine"
+Lichenoid Eruptions
+"Neuralgia, Postherpetic"
+"Pain, Intractable"
+"Pemphigoid, Bullous"
+Woods Black Norbury syndrome
+"Eye Diseases, Hereditary"
+"Delirium, Dementia, Amnestic, Cognitive Disorders"
+Telomeric 22q13 monosomy syndrome
+Urinary Bladder Diseases
+Ventricular Outflow Obstruction
+Senior-Loken Syndrome 5
+"ASTHMA-RELATED TRAITS, SUSCEPTIBILITY TO, 5"
+"Invasive Pneumococcal Disease, Recurrent Isolated, 1"
+Inflammatory Bowel Disease 14
+"Anemia, hypochromic microcytic"
+Anodontia
+Lacrimal Apparatus Diseases
+"SCOLIOSIS, IDIOPATHIC, SUSCEPTIBILITY TO, 2"
+"SCOLIOSIS, IDIOPATHIC, SUSCEPTIBILITY TO, 4"
+"SCOLIOSIS, IDIOPATHIC, SUSCEPTIBILITY TO, 5"
+IMMUNE SUPPRESSION
+Ambras syndrome
+Carotid Artery Thrombosis
+Ileitis
+Leukocyte Disorders
+Skin Ulcer
+Hip Fractures
+"Hypoxia, Brain"
+Mesenteric Vascular Occlusion
+Microcephaly with Mental Retardation and Digital Anomalies
+Jacobsen Distal 11q Deletion Syndrome
+"Cerebral Palsy, Spastic Quadriplegic, 2"
+Chromosome 17 deletion
+"Atrial Fibrillation, Familial, 7"
+"Hypertension, Diastolic, Resistance to"
+"Epilepsies, Partial"
+Aneuploidy
+Chromosomal Instability
+Hydrolethalus syndrome
+Phyllodes Tumor of the Prostate
+Amelogenesis imperfecta pigmented hypomaturation type
+Keratosis palmoplantaris striata 3
+Pseudofolliculitis Barbae
+Keratoconus 2
+Keratoconus 3
+Keratoconus 4
+Keratolytic winter erythema
+Kyphoscoliosis 1
+"Gait Disorders, Neurologic"
+"Lymphoblastic Leukemia, Acute, with Lymphomatous Features"
+Nail Diseases
+Immunodeficiency due to Defect in MAPBP-Interacting Protein
+"Laterality Defects, Autosomal Dominant"
+"Myopathy, Myofibrillar, Zasp-Related"
+Lactate dehydrogenase deficiency type A
+"Corneal Dystrophy, Lisch Epithelial"
+Pituitary Diseases
+"Muscular Dystrophy, Limb-Girdle, Type 1F"
+"Limb-Girdle Muscular Dystrophy, Type 1G"
+"MUSCULAR DYSTROPHY, LIMB-GIRDLE, TYPE 1H"
+HIGH DENSITY LIPOPROTEIN CHOLESTEROL LEVEL QUANTITATIVE TRAIT LOCUS 12
+Leukoencephalopathy With Metaphyseal Chondrodysplasia
+"Heart-hand syndrome, Slovenian type"
+Sinoatrial Block
+"Tight skin contracture syndrome, lethal"
+"Lymphedema, Hereditary, IB"
+Mental Disorders Diagnosed in Childhood
+"Deafness, Autosomal Recessive 77"
+Hypolipoproteinemias
+Olfaction Disorders
+"Myoglobinuria, Acute Recurrent, Autosomal Recessive"
+"Vitreoretinopathy, Proliferative"
+"Larsen like syndrome, lethal type"
+"Glaucoma 3, Primary Congenital, D"
+Kyphosis
+"Tooth Agenesis, Selective, 6"
+"Candidiasis, Oral"
+"Candidiasis, Vulvovaginal"
+Joint Diseases
+LEFT VENTRICULAR NONCOMPACTION 2
+"Macrophthalmia, Colobomatous, with Microcornea"
+Major Affective Disorder 2
+Major Affective Disorder 3
+Major Affective Disorder 4
+Major Affective Disorder 5
+Major Affective Disorder 6
+Major Affective Disorder 8
+Major Affective Disorder 9
+"Hypospadias 2, X-Linked"
+"Epileptic encephalopathy, Lennox-Gastaut type"
+Erythema Multiforme
+"Pneumonia, Pneumococcal"
+"Mental Retardation, Autosomal Dominant 1"
+Moebius syndrome 1
+"Facial paresis, hereditary, congenital"
+Protein-Losing Enteropathies
+BODY MASS INDEX QUANTITATIVE TRAIT LOCUS 9
+Autoimmune Diseases of the Nervous System
+"MACULAR DYSTROPHY, RETINAL, 3"
+Methylmalonyl-CoA Epimerase Deficiency
+"Microphthalmia, Isolated 1"
+Miles-Carpenter x-linked mental retardation syndrome
+"Muscular Dystrophy, Congenital, 1B"
+MAMMARY-DIGITAL-NAIL SYNDROME
+Vacuolar Neuromyopathy
+"AUTISM, SUSCEPTIBILITY TO, X-LINKED 3"
+"Encephalopathy, Neonatal Severe, Due To Mecp2 Mutations"
+"Coronary Artery Disease, Autosomal Dominant, 1"
+"MENTAL RETARDATION, STEREOTYPIC MOVEMENTS, EPILEPSY, AND/OR CEREBRAL MALFORMATIONS"
+"Respiratory Distress Syndrome, Newborn"
+MEHMO syndrome
+"Spondylocostal dysostosis, autosomal recessive"
+Metacarpal 4 5 Fusion
+"Microphthalmia, Posterior, With Retinitis Pigmentosa, Foveoschisis, And Optic Disc Drusen"
+"Trichoepithelioma, Multiple Familial, 2"
+Emaciation
+Ophthalmoplegia
+Vascular Calcification
+"MIGRAINE, FAMILIAL TYPICAL, SUSCEPTIBILITY TO, 2"
+Migraine with Aura
+Mungan Syndrome
+Microhydranencephaly
+"Myopathy, Hyaline Body, Autosomal Recessive"
+Malignant hyperthermia susceptibility type 2
+Malignant hyperthermia susceptibility type 3
+Malignant hyperthermia susceptibility type 4
+Malignant hyperthermia susceptibility type 6
+MENTAL HEALTH WELLNESS 1
+MENTAL HEALTH WELLNESS 2
+Laurin-Sandrow syndrome
+BONE MINERAL DENSITY QUANTITATIVE TRAIT LOCUS 15
+"DEAFNESS, AUTOSOMAL DOMINANT 50"
+MYELOID TUMOR SUPPRESSOR
+Kantaputra Gorlin syndrome
+Macrocephaly with Multiple Epiphyseal Dysplasia and Distinctive Facies
+Aortic Diseases
+Mandibular Diseases
+Maxillary Diseases
+Nose Neoplasms
+Osteonecrosis
+"Histiocytoma, Benign Fibrous"
+Metaphyseal Anadysplasia 2
+"MICROCEPHALY, MENTAL RETARDATION, AND DISTINCTIVE FACIES, WITH CARDIAC AND GENITOURINARY MALFORMATIONS"
+"Mitral Valve Prolapse, Myxomatous 2"
+"Mitral Valve Prolapse, Myxomatous 3"
+Microtia With Nasolacrimal Duct Imperforation And Eye Coloboma
+"Goiter, Multinodular 2"
+"Goiter, Multinodular 3"
+Radiation induced meningioma
+"Microphthalmia, Isolated, with Coloboma 1"
+"Microphthalmia, Isolated, with Coloboma 2"
+Amish Brittle Hair Brain Syndrome
+Cochlear Diseases
+Melkersson-Rosenthal Syndrome
+Combined Oxidative Phosphorylation Deficiency 2
+"Mental Retardation, Skeletal Dysplasia, and Abducens Palsy"
+"Mental Retardation, X-Linked, with Short Stature"
+"Mental Retardation, Severe, With Spasticity And Pigmentary Tapetoretinal Degeneration"
+"Mental Retardation, Autosomal Recessive 10"
+"Mental Retardation, Autosomal Recessive 11"
+"Mental Retardation, Autosomal Recessive 4"
+"Mental Retardation, Autosomal Recessive 8"
+"Mental Retardation, Autosomal Recessive 9"
+"Mental retardation, X-linked 14"
+"Mental Retardation, X-Linked 2"
+"Mental Retardation, X-Linked 20"
+"Mental Retardation, X-Linked 23"
+"Mental Retardation, X-Linked 42"
+"MENTAL RETARDATION, X-LINKED 49"
+"Mental Retardation, X-Linked 50"
+"Mental Retardation, X-Linked 52"
+"Mental Retardation, X-Linked 53"
+"Mental Retardation, X-Linked 72"
+"Mental Retardation, X-Linked 73"
+"Mental Retardation, X-Linked 77"
+"Mental Retardation, X-Linked 78"
+"Mental Retardation, X-Linked 81"
+"Mental Retardation, X-Linked 82"
+"Mental Retardation, X-Linked 84"
+"Orofaciodigital syndrome, Shashi type"
+"Mental Retardation, X-Linked, Syndromic 12"
+Mental retardation X-linked syndromic 7
+Armfield X-Linked Mental Retardation Syndrome
+Abidi X-linked mental retardation syndrome
+Paine syndrome
+"Neoplasms, Mesothelial"
+"Prostate Cancer, Hereditary, 13"
+"Syndactyly, Mesoaxial Synostotic, with Phalangeal Reduction"
+Myostatin-related muscle hypertrophy
+"MYCOBACTERIUM TUBERCULOSIS, SUSCEPTIBILITY TO, X-LINKED"
+"MYCOBACTERIUM TUBERCULOSIS, SUSCEPTIBILITY TO, 1"
+"MYCOBACTERIUM TUBERCULOSIS, SUSCEPTIBILITY TO, 2"
+"MYCOBACTERIUM TUBERCULOSIS, SUSCEPTIBILITY TO, 3"
+"Blood Coagulation Disorders, Inherited"
+Maxillofacial Abnormalities
+Microsatellite Instability
+Influenza in Birds
+Myasthenia Gravis with Thymus Hyperplasia
+Heart Injuries
+Moyamoya disease 1
+Moyamoya disease 3
+Myopia 10
+Myopia 11
+Myopia 12
+Myopia 13
+Myopia 14
+Myopia 15
+Myopia 16
+Myopia 3
+Myopia 5
+Myopia 6
+Myopia 7
+Myopia 8
+Myopia 9
+Intracranial Aneurysm
+"Optic Atrophies, Hereditary"
+"Nail dysplasia, isolated congenital"
+Smooth Muscle Tumor
+"Nephropathy, Progressive, with Deafness"
+NIMA (never in mitosis gene a)-related kinase 1
+Fibrosarcoma
+"Diabetes Mellitus, Noninsulin-Dependent, 2"
+"Diabetes Mellitus, Noninsulin-Dependent, 3"
+"Diabetes Mellitus, Noninsulin-Dependent, Type 4"
+Hearing Disorders
+"Natural Killer Cell Deficiency, Familial Isolated"
+Myotonic Dystrophy
+"ASPERGER SYNDROME, X-LINKED, SUSCEPTIBILITY TO, 2"
+"AUTISM, SUSCEPTIBILITY TO, X-LINKED 2"
+VITILIGO-ASSOCIATED MULTIPLE AUTOIMMUNE DISEASE SUSCEPTIBILITY 1
+Familial Cold Autoinflammatory Syndrome 2
+"Ciliary Dyskinesia, Primary, 6"
+Hereditary macular coloboma
+"Neuropathy, hereditary motor and sensory, Russe type"
+"Thyroid Carcinoma, Nonmedullary 1"
+Nanophthalmos 3
+"Trauma, Nervous System"
+Urination Disorders
+"QT INTERVAL, VARIATION IN"
+Bronchial Diseases
+"Pneumonia, Aspiration"
+Ventricular Premature Complexes
+Dysarthria
+Joubert syndrome 4
+Senior Loken Syndrome
+Renal hepatic pancreatic dysplasia Dandy Walker cyst
+"Atrial Fibrillation, Familial, 6"
+Hypercapnia
+"Cardiac Output, High"
+"ASTHMA-RELATED TRAITS, SUSCEPTIBILITY TO, 2"
+Nasal Obstruction
+Toothache
+Bone Marrow Diseases
+"46, XX Disorders of Sex Development"
+"46,XY Sex Reversal 3"
+Anovulation
+Neurofibrosarcoma
+Bowen's Disease
+Night Blindness
+Noonan Syndrome 2
+N syndrome
+"Glaucoma 1, Open Angle, O"
+"Nystagmus 2, congenital, autosomal dominant"
+"Nystagmus 3, congenital, autosomal dominant"
+"Nystagmus 4, congenital, autosomal dominant"
+"Nystagmus 5, Infantile Periodic Alternating"
+BODY MASS INDEX QUANTITATIVE TRAIT LOCUS 10
+BODY MASS INDEX QUANTITATIVE TRAIT LOCUS 7
+Three M Syndrome 2
+Orofacial Cleft 12
+Orofacial Cleft 2
+Orofacial Cleft 3
+Orofacial Cleft 4
+Orofacial Cleft 9
+Alpha-ketoglutarate dehydrogenase deficiency
+Hypertelorism with esophageal abnormality and hypospadias
+"Orthostatic Hypotensive Disorder, Streeten Type"
+"GLAUCOMA, NORMAL TENSION, SUSCEPTIBILITY TO"
+Optic atrophy 1 and deafness
+Optic Atrophy 4
+Optic atrophy 5
+Optic atrophy 6
+"Ophthalmoplegia, External, and Myopia"
+Osler-rendu-weber syndrome 3
+Otosclerosis
+Otosclerosis 2
+Otosclerosis 3
+Otosclerosis 4
+Otosclerosis 5
+Otosclerosis 7
+Otosclerosis 8
+Jaw Abnormalities
+Fetal Distress
+Muscle Hypertonia
+Prostatic Diseases
+"Reflex, Babinski"
+Water Intoxication
+"Preauricular Fistulae, Congenital"
+"Fanconi Anemia, Complementation Group N"
+Peripheral Arterial Occlusive Disease 1
+"Polydactyly, Postaxial, Type A2"
+"Polydactyly, Postaxial, Type A3"
+"Polydactyly, Postaxial, Type A4"
+Parkinson Disease 10
+Parkinson Disease 12
+Parkinson Disease 16
+"Parkinson Disease 3, Autosomal Dominant Lewy Body"
+"Parkinson Disease 4, Autosomal Dominant Lewy Body"
+Reticulocytosis
+Coloboma of optic nerve
+Optic Nerve Diseases
+"Biliary Cirrhosis, Primary, 2"
+"Biliary Cirrhosis, Primary, 3"
+Pancreatic beta cell agenesis with neonatal diabetes mellitus
+"Chorioretinal atrophy, progressive bifocal"
+"Prostate Cancer, Hereditary, 8"
+Phosphoenolpyruvate carboxykinase deficiency
+Phosphoenolpyruvate carboxykinase 2 deficiency
+Seckel syndrome 2
+BODY MASS INDEX QUANTITATIVE TRAIT LOCUS 12
+"Anus, Imperforate"
+Mouth Abnormalities
+Tracheoesophageal Fistula
+"Pigmented Nodular Adrenocortical Disease, Primary, 2"
+RETINITIS PIGMENTOSA 57
+Retinal Cone Dystrophy 3A
+"Bone Diseases, Endocrine"
+Respiratory System Abnormalities
+"Pyruvate Metabolism, Inborn Errors"
+Pyruvate Dehydrogenase E3-Binding Protein Deficiency
+"Periodontitis, Aggressive, 2"
+Pyruvate dehydrogenase phosphatase deficiency
+"Pigmentary Disorder, Reticulate, with Systemic Manifestations"
+"Pancreatic Agenesis, Congenital"
+Sensation Disorders
+Alcoholic Intoxication
+Parietal Foramina 3
+"Phobia, Specific"
+"Abortion, Threatened"
+"Polycystic kidneys, severe infantile with tuberous sclerosis"
+Arterial Occlusive Diseases
+Back Pain
+Cardiac Tamponade
+Embolism
+Embolism and Thrombosis
+"Embolism, Cholesterol"
+"Hematoma, Epidural, Spinal"
+"Hematoma, Subdural"
+Intracranial Embolism and Thrombosis
+Intracranial Thrombosis
+Low Back Pain
+Meningoencephalitis
+Pericardial Effusion
+"Thrombophilia, Familial, Due To Decreased Release Of Tissue Plasminogen Activator"
+"Vasospasm, Intracranial"
+"Graft Occlusion, Vascular"
+"Heart Rupture, Post-Infarction"
+"EPILEPTIC ENCEPHALOPATHY, EARLY INFANTILE, 12"
+"MUSCULAR DYSTROPHY, LIMB-GIRDLE, TYPE 2Q"
+"Osteopetrosis, Autosomal Recessive 6"
+PULMONARY FUNCTION
+"Primary Lateral Sclerosis, Adult, 1"
+Quadriplegia
+Supratentorial Neoplasms
+Paroxysmal Nonkinesigenic Dyskinesia 2
+DNA Repair-Deficiency Disorders
+"Aortic Stenosis, Subvalvular"
+"Arthritis, Gouty"
+Cerebral Palsy
+Chondrocalcinosis
+Eye Diseases
+Eye Pain
+Facial Paralysis
+Hirsutism
+Rhabdomyoma
+Sacroiliitis
+"MICROVASCULAR COMPLICATIONS OF DIABETES, SUSCEPTIBILITY TO, 5"
+Chromosome Disorders
+"Dwarfism, Pituitary"
+Gestational Trophoblastic Disease
+"Fatty Liver, Alcoholic"
+Carotid Intimal Medial Thickness 1
+"Diffuse palmoplantar keratoderma, Bothnian type"
+Porokeratosis punctata palmaris et plantaris
+PHOTOPAROXYSMAL RESPONSE 2
+Photoparoxysmal Response 3
+"RETINAL DYSPLASIA, PRIMARY"
+Schistosomiasis
+"Amnesia, Retrograde"
+"Carbohydrate Metabolism, Inborn Errors"
+"Atrial myxoma, familial"
+Massive Hepatic Necrosis
+Galactorrhea
+Gynecomastia
+Puerperal Disorders
+"Sexual Dysfunction, Physiological"
+Scrapie
+Spongiform Encephalopathy with Neuropsychiatric Features
+"Mixed Tumor, Mullerian"
+Prieto X-linked mental retardation syndrome
+"Mental Retardation, Autosomal Recessive 1"
+Linitis Plastica
+"Alzheimer Disease, Familial, 3, with Spastic Paraparesis and Apraxia"
+"Pseudohyperkalemia, Familial, 2, due to Red Cell Leak"
+"Supranuclear Palsy, Progressive, 2"
+"Supranuclear Palsy, Progressive, 3"
+Potocki-Shaffer syndrome
+"Thyroid Carcinoma, Papillary, With Papillary Renal Neoplasia"
+Anisometropia
+VACTERL hydrocephaly
+"ASTHMA-RELATED TRAITS, SUSCEPTIBILITY TO, 1"
+"Asthma, Nasal Polyps, And Aspirin Intolerance"
+"Pemphigoid, Benign Mucous Membrane"
+Hydronephrosis
+Airway Obstruction
+Sleep Deprivation
+Urinary Bladder Neck Obstruction
+Eiken Skeletal Dysplasia
+Superior Vena Cava Syndrome
+Absent patella
+"Ptosis, Hereditary Congenital 1"
+"Ptosis, Hereditary Congenital 2"
+"LEOPARD syndrome, 1"
+Osteochondroma
+CHOANAL ATRESIA AND LYMPHEDEMA
+"Multicystic renal dysplasia, bilateral"
+"Heterotopia, Periventricular, associated with Chromosome 5p Anomalies"
+"Heterotopia, Periventricular, Associated With Chromosome 5q Deletion"
+Herpesviridae Infections
+Rosselli-Gulienetti Syndrome
+Nijmegen Breakage Syndrome-Like Disorder
+Dyssomnias
+Keratomalacia
+Retinal Cone Dystrophy 1
+Roifman-Chitayat Syndrome
+"Cardiomyopathy, Familial Restrictive, 2"
+Leber Congenital Amaurosis 12
+Leber Congenital Amaurosis 3
+Norman Roberts lissencephaly syndrome
+"Renal Failure, Progressive, with Hypertension"
+Roifman syndrome
+"Anemia, Hemolytic, Congenital"
+"Renal Hypodysplasia, Nonsyndromic, 1"
+Rieger syndrome 2
+RAJAB SYNDROME
+"Retinal Nonattachment, Nonsyndromic Congenital"
+Retinitis Pigmentosa 29
+Retinitis Pigmentosa 32
+Retinitis Pigmentosa 34
+Retinitis Pigmentosa 6
+Cerebellar Ataxia
+Hyperpigmentation
+Diamond-Blackfan Anemia 9
+Diamond-Blackfan Anemia 4
+"Anemia, Diamond-Blackfan, 3"
+Diamond-Blackfan Anemia 8
+"Retinitis Pigmentosa, Y-Linked"
+"Radial Ray Deficiency, X-Linked"
+"Progressive External Ophthalmoplegia With Mitochondrial Dna Deletions, Autosomal Dominant, 5"
+"Radiation Sensitivity Chromosome Instability Syndrome, Autosomal Dominant"
+"Ciliary Dyskinesia, Primary, 12"
+"PALMOPLANTAR HYPERKERATOSIS WITH SQUAMOUS CELL CARCINOMA OF SKIN AND 46,XX SEX REVERSAL"
+Stomatognathic System Abnormalities
+Ragweed Sensitivity
+Malignant hyperthermia susceptibility type 1
+"Cleft Palate, Isolated, And Mental Retardation"
+"Ataxia, Spastic, 1, Autosomal Dominant"
+"Ataxia, Spastic, 2, Autosomal Recessive"
+"Sensorimotor neuropathy with ataxia, autosomal dominant"
+Spinocerebellar ataxia 19
+Spinocerebellar ataxia 20
+Spinocerebellar ataxia 21
+Spinocerebellar ataxia 25
+Spinocerebellar ataxia 26
+Spinocerebellar ataxia 30
+"Spinocerebellar Ataxia, Autosomal Recessive 2"
+"Spinocerebellar ataxia, autosomal recessive 3"
+"Spinocerebellar Ataxia, Autosomal Recessive 7"
+"Spinocerebellar ataxia, autosomal recessive 4"
+"Spinocerebellar ataxia, X-linked, 2"
+"Spinocerebellar ataxia, X-linked, 3"
+"Spinocerebellar ataxia, X-linked, 4"
+"Spinocerebellar Ataxia, X-Linked 5"
+Seckel Syndrome 3
+Brugada Syndrome 5
+"Epilepsy, Benign Neonatal, 3"
+"Epilepsy, Complex Partial"
+Bronchiectasis With Or Without Elevated Sweat Chloride 3
+"Sertoli cell-only syndrome, Y-linked"
+LEUKOENCEPHALOPATHY WITH DYSTONIA AND MOTOR NEUROPATHY
+"Schizophrenia, Catatonic"
+"Dementia, Vascular"
+Cowden-Like Syndrome
+"Carcinoid Tumors, Intestinal"
+"Syndactyly, Type I"
+"Truncus Arteriosus, Persistent"
+Brachial Plexus Neuritis
+Thiamine Deficiency
+"DEAFNESS, AUTOSOMAL RECESSIVE 91"
+Craniocerebral Trauma
+Plasminogen Activator Inhibitor-1 Deficiency
+Corneal Ulcer
+"Anti-plasmin deficiency, congenital"
+"Complement Component 4, Partial Deficiency Of"
+Split-hand/foot malformation with long bone deficiency
+Split-Hand/Foot Malformation With Long Bone Deficiency 2
+Split-Hand/Foot Malformation With Long Bone Deficiency 3
+Split-Hand Foot Malformation 2
+Split-Hand/Foot Malformation 5
+"Microphthalmia, Isolated, with Coloboma 5"
+Coxsackievirus Infections
+"Deafness, Autosomal Dominant 23"
+"Anemia, Hemolytic, Autoimmune"
+"Hyperinsulinemic hypoglycemia, familial, 7"
+"Cataract, Juvenile, With Microcornea And Glucosuria"
+Enterovirus Infections
+Ear Diseases
+Histiocytosis
+"Hypophosphatemic Rickets with Hypercalciuria, Hereditary"
+"Congenital Disorder Of Glycosylation, Type IIF"
+Connective Tissue Diseases
+Intracranial Hypertension
+BODY MASS INDEX QUANTITATIVE TRAIT LOCUS 11
+Megacolon
+Acidosis
+"Mental Retardation, X-Linked, Syndromic, Christianson Type"
+"SYSTEMIC LUPUS ERYTHEMATOSUS WITH HEMOLYTIC ANEMIA, SUSCEPTIBILITY TO, 1"
+"SYSTEMIC LUPUS ERYTHEMATOSUS WITH NEPHRITIS, SUSCEPTIBILITY TO, 1"
+"SYSTEMIC LUPUS ERYTHEMATOSUS WITH NEPHRITIS, SUSCEPTIBILITY TO, 2"
+"SYSTEMIC LUPUS ERYTHEMATOSUS WITH NEPHRITIS, SUSCEPTIBILITY TO, 3"
+SPECIFIC LANGUAGE IMPAIRMENT 1
+SPECIFIC LANGUAGE IMPAIRMENT 2
+SPECIFIC LANGUAGE IMPAIRMENT 3
+Specific Language Impairment 4
+Senior-Loken Syndrome 3
+"HEPATIC FIBROSIS, SEVERE, SUSCEPTIBILITY TO, DUE TO SCHISTOSOMA MANSONI INFECTION"
+"Spinal Muscular Atrophy, Distal, Autosomal Recessive, 3"
+Rhabdoid Tumor Predisposition Syndrome 2
+Spinal muscular atrophy 4
+Neuromuscular Manifestations
+Tics
+"Dermatitis, Atopic, 4"
+"Alveolitis, Extrinsic Allergic"
+"Granuloma, Respiratory Tract"
+"Lung Diseases, Interstitial"
+"MICROVASCULAR COMPLICATIONS OF DIABETES, SUSCEPTIBILITY TO, 6"
+Radiation Injuries
+"Thyroid cancer, anaplastic"
+"Mental Retardation, X-Linked, With Panhypopituitarism"
+Panhypopituitarism X-linked
+"Ataxia, Spastic, 3, Autosomal Recessive"
+Synpolydactyly 3
+"SPONDYLOARTHROPATHY, SUSCEPTIBILITY TO, 2"
+"SPONDYLOARTHROPATHY, SUSCEPTIBILITY TO, 3"
+"Spastic paraplegia 14, autosomal recessive"
+"Spastic paraplegia 16, X-linked"
+"Spastic Paraplegia 18, Autosomal Recessive"
+"Spastic paraplegia 19, autosomal dominant"
+Spastic paraplegia 23
+Spastic paraplegia 24
+"Spastic paraplegia 25, autosomal recessive"
+"Spastic paraplegia 26, autosomal recessive"
+"Spastic Paraplegia 27, Autosomal Recessive"
+"Spastic paraplegia 29, autosomal dominant"
+"Spastic Paraplegia 32, Autosomal Recessive"
+"Spastic Paraplegia 34, X-Linked"
+"Spastic Paraplegia 36, Autosomal Dominant"
+"Spastic Paraplegia 37, Autosomal Dominant"
+"Spastic Paraplegia 38, Autosomal Dominant"
+"SPASTIC PARAPLEGIA 41, AUTOSOMAL DOMINANT"
+"SPASTIC PARAPLEGIA 45, AUTOSOMAL RECESSIVE"
+"Spastic paraplegia type 5B, recessive"
+Paraplegia
+"Spastic paraplegia 9, autosomal dominant"
+"EPILEPTIC ENCEPHALOPATHY, EARLY INFANTILE, 5"
+"Anemia, Neonatal"
+"Coloboma, Ocular, And Ichthyosis, Brain Malformations, And Endocrine Abnormalities"
+Esophageal and Gastric Varices
+SUPPRESSOR OF TUMORIGENICITY 3
+Cytomegalovirus Infections
+Strabismus
+"Tooth Agenesis, Selective, 5"
+"Microcephaly, Primary Autosomal Recessive, 7"
+Intestinal Polyposis
+"Polyhydramnios, Megalencephaly, And Symptomatic Epilepsy"
+"STUTTERING, FAMILIAL PERSISTENT 1"
+"Stuttering, Familial Persistent 2"
+Orofacial Cleft 10
+"Diabetes Mellitus, Insulin-Dependent, 5"
+Sarcopenia
+"Epilepsy, X-Linked, with Variable Learning Disabilities and Behavior Disorders"
+"Spinocerebellar Ataxia, Autosomal Recessive 8"
+Synesthesia
+Sialorrhea
+"Diabetes Mellitus, Insulin-Dependent, 21"
+Amyotrophic Lateral Sclerosis 10
+THIOUREA TASTING
+Bacterial Infections
+TRANSCOBALAMIN II
+"Nonmedullary thyroid carcinoma, with or without cell oxyphilia"
+Thrombocytopenia Paris-Trousseau type
+Starvation
+"Deafness, Autosomal Recessive 21"
+"Telangiectasia, Hereditary Benign"
+Arenaviridae Infections
+Testicular Germ Cell Tumor 1
+"Hypertrophy, Right Ventricular"
+Dry Eye Syndromes
+"Arrhythmogenic Right Ventricular Dysplasia, Familial, 1"
+"Hernia, Inguinal"
+Peeling Skin Syndrome
+Anencephaly
+"Hernia, Ventral"
+Pentalogy of Cantrell
+"THROMBOCYTHEMIA, X-LINKED"
+"Thymoma, Familial"
+Jensen syndrome
+Pneumococcal Infections
+Torticollis keloids cryptorchidism renal dysplasia
+"Macular Degeneration, Age-Related, 10"
+"Granuloma, Foreign-Body"
+Optic Atrophy 7
+Cardiovirus Infections
+"Cardiomyopathy, Familial Restrictive, 3"
+Retinitis Pigmentosa 31
+Breast Diseases
+Neuromuscular Diseases
+"Deafness, Autosomal Recessive 79"
+"Mental Retardation, Autosomal Recessive 13"
+Trehalase Deficiency
+"Coma, Post-Head Injury"
+Stupor
+THYROTROPIN-RELEASING HORMONE
+Epidermal Cyst
+"Deafness, Aminoglycoside-Induced"
+Trichorhinophalangeal syndrome type 2
+Esophageal Diseases
+Heartburn
+SODIUM SERUM LEVEL QUANTITATIVE TRAIT LOCUS 1
+Focal cortical dysplasia of Taylor
+Vision Disorders
+TUMOR SUPPRESSOR GENE ON CHROMOSOME 11
+THYROID-STIMULATING HORMONE LEVEL QUANTITATIVE TRAIT LOCUS 1
+Spinocerebellar Ataxia 11
+RETINITIS PIGMENTOSA 51
+"Myopathy, Early-Onset, with Fatal Cardiomyopathy"
+Speech Disorders
+Tukel syndrome
+"Mental Retardation, Autosomal Recessive 7"
+Saethre-Chotzen Syndrome with Eyelid Anomalies
+"Carcinoma, Lewis Lung"
+"URIC ACID CONCENTRATION, SERUM, QUANTITATIVE TRAIT LOCUS 4"
+Poikiloderma with Neutropenia
+"Usher syndrome, type 1E"
+"Usher Syndrome, Type IH"
+Eating Disorders
+"Genetic Diseases, Inborn"
+Choroidal Neovascularization
+"Myopathy, X-Linked, with Excessive Autophagy"
+"Macular dystrophy, atypical vitelliform"
+Familial myelofibrosis
+"SPATIAL VISUALIZATION, APTITUDE FOR"
+"Corneal Dystrophies, Hereditary"
+VITILIGO-ASSOCIATED MULTIPLE AUTOIMMUNE DISEASE SUSCEPTIBILITY 6
+"VAN DER WOUDE SYNDROME 1, MODIFIER OF"
+"Welander distal myopathy, Swedish type"
+Kuzniecky syndrome
+"Amelogenesis Imperfecta, Hypomaturation Type, Iia3"
+"Neuropathy, Hereditary Sensory And Autonomic, Type IIA"
+Tetra-amelia autosomal recessive
+Mullerian Aplasia and Hyperandrogenism
+Waardenburg syndrome type 2B
+"Waardenburg Syndrome, Type 2C"
+"Parkinsonism, early onset with mental retardation"
+Meacham Winn Culler syndrome
+Wittwer syndrome
+Wilson-Turner X-linked mental retardation syndrome
+Major Affective Disorder 7
+"Corneal Dystrophy, Endothelial, X-Linked"
+T cell immunodeficiency primary
+Zygodactyly 1
+"Mental Retardation, X-Linked 91"
+Diaphragmatic Hernia 3
+Dextrocardia
+Facial Asymmetry
+Zimmerman Laband syndrome
+"NEPHROLITHIASIS, URIC ACID, SUSCEPTIBILITY TO"
+Seborrhea-Like Dermatitis with Psoriasiform Elements‚

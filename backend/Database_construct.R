@@ -1,0 +1,13 @@
+source("prepare_gene-gene_DB.R")
+if(identical(speciesp,"Human")){
+  load("./Data/databases_human.RDATA")
+  names(gene.gene.db)=c("category","regulator","target","evidence","source")
+  dbs.all=rbind(dbs.all,gene.gene.db)
+  save(dbs.all,tf.mirna.db,mirna.gene.db,tf.gene.db,mirna.mirna.db,gene.gene.db,regNet,file="databases2_TFmiR_human.RDATA")
+}
+if(identical(speciesp,"Mouse")){
+  load("./Data/databases_mouse.RDATA")
+  names(gene.gene.db)=c("category","regulator","target","evidence","source")
+  dbs.all=rbind(dbs.all,gene.gene.db)
+  save(dbs.all,tf.mirna.db,mirna.gene.db,tf.gene.db,gene.gene.db,regNet,file="databases2_TFmiR_mouse.RDATA")
+}

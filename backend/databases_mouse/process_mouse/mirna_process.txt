@@ -1,0 +1,961 @@
+mirna	specific process
+mmu-mir-17	immune system
+mmu-mir-18a	immune system
+mmu-mir-19a	immune system
+mmu-mir-19b	immune system
+mmu-mir-20a	immune system
+mmu-mir-92a	immune system
+mmu-mir-150	immune system
+mmu-mir-155	immune system
+mmu-mir-146	immune system
+mmu-mir-181	immune system
+mmu-mir-223	immune system
+mmu-mir-106a	immune system
+mmu-mir-18b	immune system
+mmu-mir-20b	immune system
+mmu-mir-363	immune system
+mmu-mir-106b	immune system
+mmu-mir-25	immune system
+mmu-mir-93	immune system
+mmu-mir-17	cell proliferation
+mmu-mir-18a	cell proliferation
+mmu-mir-19a	cell proliferation
+mmu-mir-19b	cell proliferation
+mmu-mir-20a	cell proliferation
+mmu-mir-92a	cell proliferation
+mmu-let-7a	anti-cell proliferation
+mmu-let-7b	anti-cell proliferation
+mmu-let-7c	anti-cell proliferation
+mmu-let-7d	anti-cell proliferation
+mmu-let-7e	anti-cell proliferation
+mmu-let-7f	anti-cell proliferation
+mmu-mir-98	anti-cell proliferation
+mmu-let-7g	anti-cell proliferation
+mmu-let-7i	anti-cell proliferation
+mmu-mir-15a	anti-cell proliferation
+mmu-mir-16	anti-cell proliferation
+mmu-mir-155	Activation of caspases cascade
+mmu-mir-144	Activation of caspases cascade
+mmu-let-7c	Activation of caspases cascade
+mmu-mir-10a	Activation of caspases cascade
+mmu-mir-193	Activation of caspases cascade
+mmu-mir-150	Activation of caspases cascade
+mmu-mir-141	Akt pathway
+mmu-mir-17	Akt pathway
+mmu-mir-184	Akt pathway
+mmu-mir-18a	Akt pathway
+mmu-mir-19	Akt pathway
+mmu-mir-196a	Akt pathway
+mmu-mir-19a	Akt pathway
+mmu-mir-19b	Akt pathway
+mmu-mir-205	Akt pathway
+mmu-mir-20a	Akt pathway
+mmu-mir-214	Akt pathway
+mmu-mir-221	Akt pathway
+mmu-mir-222	Akt pathway
+mmu-mir-26a	Akt pathway
+mmu-mir-331	Akt pathway
+mmu-mir-7	Akt pathway
+mmu-mir-92a	Akt pathway
+mmu-let-7b	Angiogenesis
+mmu-let-7f	Angiogenesis
+mmu-mir-122	Angiogenesis
+mmu-mir-126	Angiogenesis
+mmu-mir-130a	Angiogenesis
+mmu-mir-150	Angiogenesis
+mmu-mir-15a	Angiogenesis
+mmu-mir-16	Angiogenesis
+mmu-mir-17	Angiogenesis
+mmu-mir-184	Angiogenesis
+mmu-mir-18a	Angiogenesis
+mmu-mir-19a	Angiogenesis
+mmu-mir-19b	Angiogenesis
+mmu-mir-205	Angiogenesis
+mmu-mir-20a	Angiogenesis
+mmu-mir-21	Angiogenesis
+mmu-mir-221	Angiogenesis
+mmu-mir-222	Angiogenesis
+mmu-mir-27b	Angiogenesis
+mmu-mir-296	Angiogenesis
+mmu-mir-320	Angiogenesis
+mmu-mir-34a	Angiogenesis
+mmu-mir-378	Angiogenesis
+mmu-mir-92a	Angiogenesis
+mmu-let-7c	Apoptosis
+mmu-let-7g	Apoptosis
+mmu-mir-10a	Apoptosis
+mmu-mir-138	Apoptosis
+mmu-mir-144	Apoptosis
+mmu-mir-146a	Apoptosis
+mmu-mir-148a	Apoptosis
+mmu-mir-150	Apoptosis
+mmu-mir-155	Apoptosis
+mmu-mir-15a	Apoptosis
+mmu-mir-15b	Apoptosis
+mmu-mir-16	Apoptosis
+mmu-mir-17	Apoptosis
+mmu-mir-181a	Apoptosis
+mmu-mir-182	Apoptosis
+mmu-mir-18a	Apoptosis
+mmu-mir-19	Apoptosis
+mmu-mir-193	Apoptosis
+mmu-mir-195	Apoptosis
+mmu-mir-19a	Apoptosis
+mmu-mir-19b	Apoptosis
+mmu-mir-204	Apoptosis
+mmu-mir-20a	Apoptosis
+mmu-mir-21	Apoptosis
+mmu-mir-210	Apoptosis
+mmu-mir-216	Apoptosis
+mmu-mir-221	Apoptosis
+mmu-mir-222	Apoptosis
+mmu-mir-26a	Apoptosis
+mmu-mir-27a	Apoptosis
+mmu-mir-29a	Apoptosis
+mmu-mir-29b	Apoptosis
+mmu-mir-29c	Apoptosis
+mmu-mir-34a	Apoptosis
+mmu-mir-34b	Apoptosis
+mmu-mir-34c	Apoptosis
+mmu-mir-372	Apoptosis
+mmu-mir-449a	Apoptosis
+mmu-mir-449b	Apoptosis
+mmu-mir-494	Apoptosis
+mmu-mir-7	Apoptosis
+mmu-mir-92a	Apoptosis
+mmu-mir-96	Apoptosis
+mmu-mir-9a	Apoptosis
+mmu-let-7b	Bone regeneration
+mmu-let-7d	Bone regeneration
+mmu-mir-1	Bone regeneration
+mmu-mir-128a	Bone regeneration
+mmu-mir-130b	Bone regeneration
+mmu-mir-143	Bone regeneration
+mmu-mir-148b	Bone regeneration
+mmu-mir-152	Bone regeneration
+mmu-mir-153	Bone regeneration
+mmu-mir-155	Bone regeneration
+mmu-mir-17	Bone regeneration
+mmu-mir-18b	Bone regeneration
+mmu-mir-196	Bone regeneration
+mmu-mir-19a	Bone regeneration
+mmu-mir-20b	Bone regeneration
+mmu-mir-210	Bone regeneration
+mmu-mir-22	Bone regeneration
+mmu-mir-221	Bone regeneration
+mmu-mir-222	Bone regeneration
+mmu-mir-23b	Bone regeneration
+mmu-mir-24	Bone regeneration
+mmu-mir-32	Bone regeneration
+mmu-mir-337	Bone regeneration
+mmu-mir-34c	Bone regeneration
+mmu-mir-367	Bone regeneration
+mmu-mir-368	Bone regeneration
+mmu-mir-377	Bone regeneration
+mmu-mir-422b	Bone regeneration
+mmu-mir-424	Bone regeneration
+mmu-mir-515	Bone regeneration
+mmu-mir-520d	Bone regeneration
+mmu-mir-7b	Bone regeneration
+mmu-mir-92	Bone regeneration
+mmu-mir-93	Bone regeneration
+mmu-mir-1	Cardiogenesis
+mmu-mir-133a	Cardiogenesis
+mmu-mir-132	Cardiogenesis
+mmu-let-7a	Cell cycle related
+mmu-let-7b	Cell cycle related
+mmu-let-7g	Cell cycle related
+mmu-mir-1	Cell cycle related
+mmu-mir-107	Cell cycle related
+mmu-mir-122	Cell cycle related
+mmu-mir-124	Cell cycle related
+mmu-mir-124a	Cell cycle related
+mmu-mir-125b	Cell cycle related
+mmu-mir-138	Cell cycle related
+mmu-mir-140	Cell cycle related
+mmu-mir-141	Cell cycle related
+mmu-mir-143	Cell cycle related
+mmu-mir-145	Cell cycle related
+mmu-mir-145	Cell cycle related
+mmu-mir-15	Cell cycle related
+mmu-mir-150	Cell cycle related
+mmu-mir-155	Cell cycle related
+mmu-mir-15a	Cell cycle related
+mmu-mir-15b	Cell cycle related
+mmu-mir-16	Cell cycle related
+mmu-mir-17	Cell cycle related
+mmu-mir-182	Cell cycle related
+mmu-mir-185	Cell cycle related
+mmu-mir-18a	Cell cycle related
+mmu-mir-195	Cell cycle related
+mmu-mir-196a	Cell cycle related
+mmu-mir-19a	Cell cycle related
+mmu-mir-19b	Cell cycle related
+mmu-mir-200b	Cell cycle related
+mmu-mir-200c	Cell cycle related
+mmu-mir-205	Cell cycle related
+mmu-mir-206	Cell cycle related
+mmu-mir-20a	Cell cycle related
+mmu-mir-21	Cell cycle related
+mmu-mir-210	Cell cycle related
+mmu-mir-221	Cell cycle related
+mmu-mir-222	Cell cycle related
+mmu-mir-223	Cell cycle related
+mmu-mir-24	Cell cycle related
+mmu-mir-27a	Cell cycle related
+mmu-mir-27b	Cell cycle related
+mmu-mir-29b	Cell cycle related
+mmu-mir-31	Cell cycle related
+mmu-mir-320	Cell cycle related
+mmu-mir-331	Cell cycle related
+mmu-mir-33b	Cell cycle related
+mmu-mir-34	Cell cycle related
+mmu-mir-34a	Cell cycle related
+mmu-mir-34b	Cell cycle related
+mmu-mir-34c	Cell cycle related
+mmu-mir-372	Cell cycle related
+mmu-mir-372	Cell cycle related
+mmu-mir-373	Cell cycle related
+mmu-mir-376b	Cell cycle related
+mmu-mir-424	Cell cycle related
+mmu-mir-449	Cell cycle related
+mmu-mir-449a	Cell cycle related
+mmu-mir-449b	Cell cycle related
+mmu-mir-494	Cell cycle related
+mmu-mir-499	Cell cycle related
+mmu-mir-503	Cell cycle related
+mmu-mir-9	Cell cycle related
+mmu-mir-92	Cell cycle related
+mmu-mir-92a	Cell cycle related
+mmu-mir-92b	Cell cycle related
+mmu-mir-96	Cell cycle related
+mmu-mir-98	Cell cycle related
+mmu-mir-1	Cell differentiation
+mmu-mir-124a	Cell differentiation
+mmu-mir-127	Cell differentiation
+mmu-mir-143	Cell differentiation
+mmu-mir-145	Cell differentiation
+mmu-mir-150	Cell differentiation
+mmu-mir-155	Cell differentiation
+mmu-mir-15a	Cell differentiation
+mmu-mir-16	Cell differentiation
+mmu-mir-18	Cell differentiation
+mmu-mir-194	Cell differentiation
+mmu-mir-206	Cell differentiation
+mmu-mir-210	Cell differentiation
+mmu-mir-222	Cell differentiation
+mmu-mir-34a	Cell differentiation
+mmu-mir-424	Cell differentiation
+mmu-mir-503	Cell differentiation
+mmu-let-7	Cell proliferation
+mmu-let-7c	Cell proliferation
+mmu-let-7d	Cell proliferation
+mmu-mir-124	Cell proliferation
+mmu-mir-125b	Cell proliferation
+mmu-mir-130a	Cell proliferation
+mmu-mir-140	Cell proliferation
+mmu-mir-143	Cell proliferation
+mmu-mir-145	Cell proliferation
+mmu-mir-150	Cell proliferation
+mmu-mir-15a	Cell proliferation
+mmu-mir-15b	Cell proliferation
+mmu-mir-16	Cell proliferation
+mmu-mir-206	Cell proliferation
+mmu-mir-21	Cell proliferation
+mmu-mir-221	Cell proliferation
+mmu-mir-222	Cell proliferation
+mmu-mir-24	Cell proliferation
+mmu-mir-27b	Cell proliferation
+mmu-mir-29b	Cell proliferation
+mmu-mir-34b	Cell proliferation
+mmu-mir-34c	Cell proliferation
+mmu-mir-373	Cell proliferation
+mmu-mir-449a	Cell proliferation
+mmu-mir-449b	Cell proliferation
+mmu-mir-451	Cell proliferation
+mmu-mir-9	Cell proliferation
+mmu-mir-92	Cell proliferation
+mmu-mir-16	Chemosensitivity of tumor cells
+mmu-mir-21	Chemosensitivity of tumor cells
+mmu-mir-140	Chemosensitivity of tumor cells
+mmu-mir-27a	Chemosensitivity of tumor cells
+mmu-let-7a	Granulopoiesis
+mmu-mir-15a	Granulopoiesis
+mmu-mir-15b	Granulopoiesis
+mmu-let-7d	Granulopoiesis
+mmu-let-7c	Granulopoiesis
+mmu-mir-223	Granulopoiesis
+mmu-mir-155	Granulopoiesis
+mmu-mir-17	Granulopoiesis
+mmu-mir-223	Granulopoiesis
+mmu-mir-196b	Granulopoiesis
+mmu-mir-21	Granulopoiesis
+mmu-mir-24	HCV infection
+mmu-mir-149	HCV infection
+mmu-mir-638	HCV infection
+mmu-mir-1181	HCV infection
+mmu-mir-122	HCV infection
+mmu-mir-223	HCV infection
+mmu-mir-10	HIV latency
+mmu-mir-106b	HIV latency
+mmu-mir-125b	HIV latency
+mmu-mir-126	HIV latency
+mmu-mir-127	HIV latency
+mmu-mir-128a	HIV latency
+mmu-mir-143	HIV latency
+mmu-mir149	HIV latency
+mmu-mir-155	HIV latency
+mmu-mir-17	HIV latency
+mmu-mir-18a	HIV latency
+mmu-mir-198	HIV latency
+mmu-mir-19a	HIV latency
+mmu-mir-19b	HIV latency
+mmu-mir-20a	HIV latency
+mmu-mir-223	HIV latency
+mmu-mir-25	HIV latency
+mmu-mir-29a	HIV latency
+mmu-mir-92a	HIV latency
+mmu-mir-93	HIV latency
+mmu-mir-N367	HIV latency
+mmu-let-7a	Hormones regulation
+mmu-mir-1	Hormones regulation
+mmu-mir-101	Hormones regulation
+mmu-mir-106a	Hormones regulation
+mmu-mir-106b	Hormones regulation
+mmu-mir-107	Hormones regulation
+mmu-mir-124a	Hormones regulation
+mmu-mir-126	Hormones regulation
+mmu-mir-128a	Hormones regulation
+mmu-mir-128b	Hormones regulation
+mmu-mir-132	Hormones regulation
+mmu-mir-133a	Hormones regulation
+mmu-mir-133b	Hormones regulation
+mmu-mir-135a	Hormones regulation
+mmu-mir-135b	Hormones regulation
+mmu-mir-139	Hormones regulation
+mmu-mir-146a	Hormones regulation
+mmu-mir-150	Hormones regulation
+mmu-mir-15a	Hormones regulation
+mmu-mir-16	Hormones regulation
+mmu-mir-17	Hormones regulation
+mmu-mir-18	Hormones regulation
+mmu-mir-18a	Hormones regulation
+mmu-mir-18b	Hormones regulation
+mmu-mir-199	Hormones regulation
+mmu-mir-19a	Hormones regulation
+mmu-mir-19b	Hormones regulation
+mmu-mir-206	Hormones regulation
+mmu-mir-208a	Hormones regulation
+mmu-mir-208b	Hormones regulation
+mmu-mir-20a	Hormones regulation
+mmu-mir-20b	Hormones regulation
+mmu-mir-21	Hormones regulation
+mmu-mir-212	Hormones regulation
+mmu-mir-22	Hormones regulation
+mmu-mir-221	Hormones regulation
+mmu-mir-222	Hormones regulation
+mmu-mir-223	Hormones regulation
+mmu-mir-23a	Hormones regulation
+mmu-mir-23b	Hormones regulation
+mmu-mir-24	Hormones regulation
+mmu-mir-25	Hormones regulation
+mmu-mir-27a	Hormones regulation
+mmu-mir-27b	Hormones regulation
+mmu-mir-296	Hormones regulation
+mmu-mir-29a	Hormones regulation
+mmu-mir-29b	Hormones regulation
+mmu-mir-29c	Hormones regulation
+mmu-mir-30d	Hormones regulation
+mmu-mir-34	Hormones regulation
+mmu-mir-346	Hormones regulation
+mmu-mir-363	Hormones regulation
+mmu-mir-375	Hormones regulation
+mmu-mir-449	Hormones regulation
+mmu-mir-484	Hormones regulation
+mmu-mir-499	Hormones regulation
+mmu-mir-690	Hormones regulation
+mmu-mir-7	Hormones regulation
+mmu-mir-9	Hormones regulation
+mmu-mir-92a	Hormones regulation
+mmu-mir-93	Hormones regulation
+mmu-mir-98	Hormones regulation
+mmu-mir-106a	Human embryonic stem cell (hESC) regulation
+mmu-mir-106b	Human embryonic stem cell (hESC) regulation
+mmu-mir-10a	Human embryonic stem cell (hESC) regulation
+mmu-mir-122	Human embryonic stem cell (hESC) regulation
+mmu-mir-124a	Human embryonic stem cell (hESC) regulation
+mmu-mir-125a	Human embryonic stem cell (hESC) regulation
+mmu-mir-125b	Human embryonic stem cell (hESC) regulation
+mmu-mir-126	Human embryonic stem cell (hESC) regulation
+mmu-mir-128	Human embryonic stem cell (hESC) regulation
+mmu-mir-132	Human embryonic stem cell (hESC) regulation
+mmu-mir-133	Human embryonic stem cell (hESC) regulation
+mmu-mir-134	Human embryonic stem cell (hESC) regulation
+mmu-mir-135b	Human embryonic stem cell (hESC) regulation
+mmu-mir-137	Human embryonic stem cell (hESC) regulation
+mmu-mir-141	Human embryonic stem cell (hESC) regulation
+mmu-mir-142	Human embryonic stem cell (hESC) regulation
+mmu-mir-143	Human embryonic stem cell (hESC) regulation
+mmu-mir-144	Human embryonic stem cell (hESC) regulation
+mmu-mir-145	Human embryonic stem cell (hESC) regulation
+mmu-mir-146a	Human embryonic stem cell (hESC) regulation
+mmu-mir-146b	Human embryonic stem cell (hESC) regulation
+mmu-mir-148a	Human embryonic stem cell (hESC) regulation
+mmu-mir-148b	Human embryonic stem cell (hESC) regulation
+mmu-mir-150	Human embryonic stem cell (hESC) regulation
+mmu-mir-155	Human embryonic stem cell (hESC) regulation
+mmu-mir-15b	Human embryonic stem cell (hESC) regulation
+mmu-mir-17	Human embryonic stem cell (hESC) regulation
+mmu-mir-181a	Human embryonic stem cell (hESC) regulation
+mmu-mir-182	Human embryonic stem cell (hESC) regulation
+mmu-mir-192	Human embryonic stem cell (hESC) regulation
+mmu-mir-195	Human embryonic stem cell (hESC) regulation
+mmu-mir-196a	Human embryonic stem cell (hESC) regulation
+mmu-mir-199a	Human embryonic stem cell (hESC) regulation
+mmu-mir-199b	Human embryonic stem cell (hESC) regulation
+mmu-mir-200	Human embryonic stem cell (hESC) regulation
+mmu-mir-200c	Human embryonic stem cell (hESC) regulation
+mmu-mir-203	Human embryonic stem cell (hESC) regulation
+mmu-mir-20a	Human embryonic stem cell (hESC) regulation
+mmu-mir-21	Human embryonic stem cell (hESC) regulation
+mmu-mir-210	Human embryonic stem cell (hESC) regulation
+mmu-mir-214	Human embryonic stem cell (hESC) regulation
+mmu-mir-218	Human embryonic stem cell (hESC) regulation
+mmu-mir-221	Human embryonic stem cell (hESC) regulation
+mmu-mir-222	Human embryonic stem cell (hESC) regulation
+mmu-mir-223	Human embryonic stem cell (hESC) regulation
+mmu-mir-24	Human embryonic stem cell (hESC) regulation
+mmu-mir-25	Human embryonic stem cell (hESC) regulation
+mmu-mir-26a	Human embryonic stem cell (hESC) regulation
+mmu-mir-26b	Human embryonic stem cell (hESC) regulation
+mmu-mir-278	Human embryonic stem cell (hESC) regulation
+mmu-mir-27a	Human embryonic stem cell (hESC) regulation
+mmu-mir-290	Human embryonic stem cell (hESC) regulation
+mmu-mir-291	Human embryonic stem cell (hESC) regulation
+mmu-mir-294	Human embryonic stem cell (hESC) regulation
+mmu-mir-295	Human embryonic stem cell (hESC) regulation
+mmu-mir-296	Human embryonic stem cell (hESC) regulation
+mmu-mir-302a	Human embryonic stem cell (hESC) regulation
+mmu-mir-302b	Human embryonic stem cell (hESC) regulation
+mmu-mir-302c	Human embryonic stem cell (hESC) regulation
+mmu-mir-302d	Human embryonic stem cell (hESC) regulation
+mmu-mir-309	Human embryonic stem cell (hESC) regulation
+mmu-mir-30b	Human embryonic stem cell (hESC) regulation
+mmu-mir-30c	Human embryonic stem cell (hESC) regulation
+mmu-mir-31	Human embryonic stem cell (hESC) regulation
+mmu-mir-322	Human embryonic stem cell (hESC) regulation
+mmu-mir-323	Human embryonic stem cell (hESC) regulation
+mmu-mir-326	Human embryonic stem cell (hESC) regulation
+mmu-mir-34	Human embryonic stem cell (hESC) regulation
+mmu-mir-346	Human embryonic stem cell (hESC) regulation
+mmu-mir-34a	Human embryonic stem cell (hESC) regulation
+mmu-mir-367	Human embryonic stem cell (hESC) regulation
+mmu-mir-369	Human embryonic stem cell (hESC) regulation
+mmu-mir-371	Human embryonic stem cell (hESC) regulation
+mmu-mir-372	Human embryonic stem cell (hESC) regulation
+mmu-mir-373	Human embryonic stem cell (hESC) regulation
+mmu-mir-379	Human embryonic stem cell (hESC) regulation
+mmu-mir-427	Human embryonic stem cell (hESC) regulation
+mmu-mir-429	Human embryonic stem cell (hESC) regulation
+mmu-mir-430	Human embryonic stem cell (hESC) regulation
+mmu-mir-451	Human embryonic stem cell (hESC) regulation
+mmu-mir-470	Human embryonic stem cell (hESC) regulation
+mmu-mir-486	Human embryonic stem cell (hESC) regulation
+mmu-mir-489	Human embryonic stem cell (hESC) regulation
+mmu-mir-9	Human embryonic stem cell (hESC) regulation
+mmu-mir-93	Human embryonic stem cell (hESC) regulation
+mmu-let-7g	Immune response
+mmu-let-7i	Immune response
+mmu-mir-100	Immune response
+mmu-mir-101	Immune response
+mmu-mir-105	Immune response
+mmu-mir-125b	Immune response
+mmu-mir-126	Immune response
+mmu-mir-132	Immune response
+mmu-mir-140	Immune response
+mmu-mir-143	Immune response
+mmu-mir-146a	Immune response
+mmu-mir-146b	Immune response
+mmu-mir-147	Immune response
+mmu-mir-150	Immune response
+mmu-mir-155	Immune response
+mmu-mir-15a	Immune response
+mmu-mir-16	Immune response
+mmu-mir-17	Immune response
+mmu-mir-181	Immune response
+mmu-mir-181a	Immune response
+mmu-mir-186	Immune response
+mmu-mir-188	Immune response
+mmu-mir-18a	Immune response
+mmu-mir-192	Immune response
+mmu-mir-196	Immune response
+mmu-mir-199	Immune response
+mmu-mir-19a	Immune response
+mmu-mir-19b	Immune response
+mmu-mir-203	Immune response
+mmu-mir-20a	Immune response
+mmu-mir-21	Immune response
+mmu-mir-223	Immune response
+mmu-mir-25	Immune response
+mmu-mir-27b	Immune response
+mmu-mir-31	Immune response
+mmu-mir-320	Immune response
+mmu-mir-328	Immune response
+mmu-mir-342	Immune response
+mmu-mir-370	Immune response
+mmu-mir-424	Immune response
+mmu-mir-449b	Immune response
+mmu-mir-500	Immune response
+mmu-mir-590	Immune response
+mmu-mir-710	Immune response
+mmu-mir-9	Immune response
+mmu-mir-92a	Immune response
+mmu-mir-98	Immune response
+mmu-mir-103	Immune response
+mmu-let-7g	Inflammation
+mmu-mir-1	Inflammation
+mmu-mir-100	Inflammation
+mmu-mir-105	Inflammation
+mmu-mir-1224	Inflammation
+mmu-mir-125b	Inflammation
+mmu-mir-126	Inflammation
+mmu-mir-132	Inflammation
+mmu-mir-133a	Inflammation
+mmu-mir-140	Inflammation
+mmu-mir-143	Inflammation
+mmu-mir-146a	Inflammation
+mmu-mir-146b	Inflammation
+mmu-mir-147	Inflammation
+mmu-mir-150	Inflammation
+mmu-mir-155	Inflammation
+mmu-mir-17	Inflammation
+mmu-mir-181a	Inflammation
+mmu-mir-182	Inflammation
+mmu-mir-183	Inflammation
+mmu-mir-188	Inflammation
+mmu-mir-192	Inflammation
+mmu-mir-196	Inflammation
+mmu-mir-199	Inflammation
+mmu-mir-199a	Inflammation
+mmu-mir-203	Inflammation
+mmu-mir-21	Inflammation
+mmu-mir-223	Inflammation
+mmu-mir-25	Inflammation
+mmu-mir-27b	Inflammation
+mmu-mir-31	Inflammation
+mmu-mir-320	Inflammation
+mmu-mir-328	Inflammation
+mmu-mir-342	Inflammation
+mmu-mir-370	Inflammation
+mmu-mir-449b	Inflammation
+mmu-mir-500	Inflammation
+mmu-mir-705	Inflammation
+mmu-mir-710	Inflammation
+mmu-mir-9	Inflammation
+mmu-mir-98	Inflammation
+mmu-mir-1	Muscle development
+mmu-mir-24	Muscle development
+mmu-mir-206	Muscle development
+mmu-mir-222	Muscle development
+mmu-mir-221	Muscle development
+mmu-mir-124	Muscle development
+mmu-mir-499	Muscle development
+mmu-mir-23a	Muscle development
+mmu-mir-208b	Muscle development
+mmu-mir-133a	Muscle development
+mmu-mir-133b	Muscle development
+mmu-mir-143	Folliculogenesis
+mmu-let-7a	Folliculogenesis
+mmu-mir-125b	Folliculogenesis
+mmu-let-7b	Folliculogenesis
+mmu-let-7c	Folliculogenesis
+mmu-mir-21	Folliculogenesis
+mmu-mir-15b	Folliculogenesis
+mmu-mir-122	lipid metabolism
+mmu-mir-33a	lipid metabolism
+mmu-mir-33b	lipid metabolism
+mmu-mir-370	lipid metabolism
+mmu-mir-375	lipid metabolism
+mmu-mir-335	lipid metabolism
+mmu-mir-378	lipid metabolism
+mmu-mir-27a	lipid metabolism
+mmu-mir-27b	lipid metabolism
+mmu-mir-125a	lipid metabolism
+mmu-mir-103	lipid metabolism
+mmu-mir-196a	lipid metabolism
+mmu-mir-196b	lipid metabolism
+mmu-mir-296	lipid metabolism
+mmu-mir-98	lipid metabolism
+mmu-mir-143	lipid metabolism
+mmu-mir-107	lipid metabolism
+mmu-mir-34a	lipid metabolism
+mmu-mir-181d	lipid metabolism
+mmu-mir-10b	lipid metabolism
+mmu-mir-103	brain development
+mmu-mir-124a	brain development
+mmu-mir-124b	brain development
+mmu-mir-135	brain development
+mmu-mir-323	brain development
+mmu-mir-156	brain development
+mmu-mir-218	brain development
+mmu-mir-326	brain development
+mmu-mir-329	brain development
+mmu-mir-344	brain development
+mmu-mir-192	brain development
+mmu-mir-17	brain development
+mmu-mir-18a	brain development
+mmu-mir-29c	brain development
+mmu-mir-106a	brain development
+mmu-mir-106b	brain development
+mmu-mir-135a	brain development
+mmu-mir-221	brain development
+mmu-mir-222	brain development
+mmu-mir-134	brain development
+mmu-mir-184	brain development
+mmu-mir-9	brain development
+mmu-mir-20a	brain development
+mmu-mir-128	brain development
+mmu-mir-133b	brain development
+mmu-mir-103	hematopoiesis
+mmu-mir-143	hematopoiesis
+mmu-mir-145	hematopoiesis
+mmu-mir-378	hematopoiesis
+mmu-mir-146a	hematopoiesis
+mmu-mir-126	hematopoiesis
+mmu-mir-125b	hematopoiesis
+mmu-mir-223	hematopoiesis
+mmu-mir-142	hematopoiesis
+mmu-mir-1	hematopoiesis
+mmu-mir-133a	hematopoiesis
+mmu-mir-34a	hematopoiesis
+mmu-mir-196a	hematopoiesis
+mmu-mir-196b	hematopoiesis
+mmu-mir-221	hematopoiesis
+mmu-mir-222	hematopoiesis
+mmu-mir-17	hematopoiesis
+mmu-mir-18a	hematopoiesis
+mmu-mir-19a	hematopoiesis
+mmu-mir-19b	hematopoiesis
+mmu-mir-20a	hematopoiesis
+mmu-mir-92a	hematopoiesis
+mmu-mir-155	hematopoiesis
+mmu-mir-150	hematopoiesis
+mmu-mir-181a	hematopoiesis
+mmu-mir-15a	hematopoiesis
+mmu-mir-29c	hematopoiesis
+mmu-mir-302	hematopoiesis
+mmu-mir-98	hematopoiesis
+mmu-mir-29a	hematopoiesis
+mmu-let-7a	hematopoiesis
+mmu-mir-103	adipocyte differentiation
+mmu-mir-143	adipocyte differentiation
+mmu-mir-375	adipocyte differentiation
+mmu-mir-130a	adipocyte differentiation
+mmu-mir-221	adipocyte differentiation
+mmu-mir-222	adipocyte differentiation
+mmu-mir-448	adipocyte differentiation
+mmu-mir-378	adipocyte differentiation
+mmu-mir-27a	adipocyte differentiation
+mmu-mir-27b	adipocyte differentiation
+mmu-mir-204	adipocyte differentiation
+mmu-mir-211	adipocyte differentiation
+mmu-let-7a	adipocyte differentiation
+mmu-let-7b	adipocyte differentiation
+mmu-let-7c	adipocyte differentiation
+mmu-let-7d	adipocyte differentiation
+mmu-let-7e	adipocyte differentiation
+mmu-let-7f	adipocyte differentiation
+mmu-let-7g	adipocyte differentiation
+mmu-let-7h	adipocyte differentiation
+mmu-let-7i	adipocyte differentiation
+mmu-mir-17	adipocyte differentiation
+mmu-mir-18a	adipocyte differentiation
+mmu-mir-19a	adipocyte differentiation
+mmu-mir-19b	adipocyte differentiation
+mmu-mir-20a	adipocyte differentiation
+mmu-mir-92a	adipocyte differentiation
+mmu-mir-132	circadian clock
+mmu-mir-219	circadian clock
+mmu-mir-182	circadian clock
+mmu-mir-183	circadian clock
+mmu-mir-96	circadian clock
+mmu-mir-122	circadian clock
+mmu-mir-192	circadian clock
+mmu-mir-194	circadian clock
+mmu-mir-191	circadian clock
+mmu-mir-181d	circadian clock
+mmu-mir-143	smooth muscle cell fate
+mmu-mir-145	smooth muscle cell fate
+mmu-mir-122	carbohydrate metabolism
+mmu-mir-451	carbohydrate metabolism
+mmu-mir-27	carbohydrate metabolism
+mmu-mir-200a	carbohydrate metabolism
+mmu-mir-200b	carbohydrate metabolism
+mmu-mir-429	carbohydrate metabolism
+mmu-mir-21	carbohydrate metabolism
+mmu-mir-16	cell death
+mmu-mir-184	cell death
+mmu-mir-205	cell death
+mmu-mir-125b	cell death
+mmu-mir-129	cell death
+mmu-mir-1	cell death
+mmu-mir-206	cell death
+mmu-mir-513	cell death
+mmu-mir-7	cell death
+mmu-mir-143	cell death
+mmu-mir-145	cell death
+mmu-mir-155	cell death
+mmu-mir-1226	cell death
+mmu-mir-130b	cell death
+mmu-mir-146a	cell death
+mmu-mir-14	cell death
+mmu-mir-212	cell death
+mmu-mir-380	cell death
+mmu-mir-497	cell death
+mmu-mir-494	cell death
+mmu-mir-21	cell death
+mmu-mir-181b	cell death
+mmu-mir-34a	cell death
+mmu-mir-182	cell death
+mmu-mir-183	cell death
+mmu-mir-128	cell death
+mmu-mir-630	cell death
+mmu-mir-221	cell death
+mmu-mir-222	cell death
+mmu-mir-210	cell death
+mmu-mir-203	cell death
+mmu-mir-10b	cell death
+mmu-mir-23b	cell death
+mmu-mir-885	cell death
+mmu-mir-181a	cell death
+mmu-mir-886	cell death
+mmu-let-7a	cell death
+mmu-let-7b	cell death
+mmu-let-7c	cell death
+mmu-let-7d	cell death
+mmu-let-7e	cell death
+mmu-let-7f	cell death
+mmu-let-7g	cell death
+mmu-let-7h	cell death
+mmu-let-7i	cell death
+mmu-mir-98	cell death
+mmu-mir-376c	cell death
+mmu-mir-17	cell death
+mmu-mir-18a	cell death
+mmu-mir-19a	cell death
+mmu-mir-19b	cell death
+mmu-mir-20a	cell death
+mmu-mir-92a	cell death
+mmu-mir-25	cell death
+mmu-mir-30d	cell death
+mmu-mir-15a	cell division
+mmu-mir-107	cell division
+mmu-mir-124	cell division
+mmu-mir-519	cell division
+mmu-mir-16	cell division
+mmu-mir-34a	cell division
+mmu-mir-106b	cell division
+mmu-let-7a	cell division
+mmu-let-7b	cell division
+mmu-let-7c	cell division
+mmu-let-7d	cell division
+mmu-let-7e	cell division
+mmu-let-7f	cell division
+mmu-let-7g	cell division
+mmu-let-7h	cell division
+mmu-let-7i	cell division
+mmu-mir-27a	cell division
+mmu-mir-302a	cell fate determination
+mmu-mir-302b	cell fate determination
+mmu-mir-302c	cell fate determination
+mmu-mir-302d	cell fate determination
+mmu-mir-302e	cell fate determination
+mmu-mir-302f	cell fate determination
+mmu-let-7a	cell fate determination
+mmu-let-7b	cell fate determination
+mmu-let-7c	cell fate determination
+mmu-let-7d	cell fate determination
+mmu-let-7e	cell fate determination
+mmu-let-7f	cell fate determination
+mmu-let-7g	cell fate determination
+mmu-let-7h	cell fate determination
+mmu-let-7i	cell fate determination
+mmu-mir-150	cell fate determination
+mmu-mir-155	cell fate determination
+mmu-mir-183	cell fate determination
+mmu-mir-96	cell fate determination
+mmu-mir-182	cell fate determination
+mmu-mir-495	cell fate determination
+mmu-mir-218	cell fate determination
+mmu-mir-34	cell fate determination
+mmu-mir-9	cell fate determination
+mmu-mir-273	cell fate determination
+mmu-mir-125	cell fate determination
+mmu-mir-205	cell motility
+mmu-mir-488	cell motility
+mmu-mir-151	cell motility
+mmu-mir-10b	cell motility
+mmu-mir-206	cell motility
+mmu-mir-21	cell motility
+mmu-mir-584	cell motility
+mmu-mir-31	cell motility
+mmu-mir-145	cell motility
+mmu-mir-9	cell motility
+mmu-mir-200a	cell motility
+mmu-mir-222	cell motility
+mmu-mir-128	cell motility
+mmu-mir-143	cell motility
+mmu-mir-21	cell motility
+mmu-mir-886	chemotaxis
+mmu-mir-210	chemotaxis
+mmu-mir-122	cholesterol biosynthesis
+mmu-mir-33	cholesterol biosynthesis
+mmu-mir-21	chromatin remodeling
+mmu-mir-199a	chromatin remodeling
+mmu-mir-132	chromatin remodeling
+mmu-mir-31	chromatin remodeling
+mmu-mir-512	chromatin remodeling
+mmu-mir-223	chromatin remodeling
+mmu-mir-16	circadian rhythm
+mmu-mir-122	circadian rhythm
+mmu-mir-192	circadian rhythm
+mmu-mir-194	circadian rhythm
+mmu-mir-26a	circadian rhythm
+mmu-mir-181d	circadian rhythm
+mmu-mir-191	circadian rhythm
+mmu-mir-182	circadian rhythm
+mmu-mir-183	circadian rhythm
+mmu-mir-96	circadian rhythm
+mmu-mir-219	circadian rhythm
+mmu-mir-182	DNA repair
+mmu-mir-291a	DNA repair
+mmu-mir-101	DNA repair
+mmu-mir-155	DNA repair
+mmu-mir-34a	DNA repair
+mmu-mir-34c	DNA repair
+mmu-mir-210	DNA repair
+mmu-mir-373	DNA repair
+mmu-mir-24	DNA repair
+mmu-mir-521	DNA repair
+mmu-mir-34a	glucose metabolism
+mmu-mir-223	glucose metabolism
+mmu-mir-23a	glucose metabolism
+mmu-mir-23b	glucose metabolism
+mmu-mir-375	glucose metabolism
+mmu-mir-124a	glucose metabolism
+mmu-mir-1	heart development
+mmu-mir-133a	heart development
+mmu-mir-133b	heart development
+mmu-mir-27b	heart development
+mmu-mir-208	heart development
+mmu-mir-499	heart development
+mmu-mir-21	heart development
+mmu-mir-200a	Epithelial-mesenchymal transition
+mmu-mir-200b	Epithelial-mesenchymal transition
+mmu-mir-200c	Epithelial-mesenchymal transition
+mmu-mir-141	Epithelial-mesenchymal transition
+mmu-mir-203	Epithelial-mesenchymal transition
+mmu-mir-137	Epithelial-mesenchymal transition
+mmu-mir-429	Epithelial-mesenchymal transition
+mmu-let-7a	Epithelial-mesenchymal transition
+mmu-mir-144	Epithelial-mesenchymal transition
+mmu-mir-205	Epithelial-mesenchymal transition
+mmu-mir-23b	Epithelial-mesenchymal transition
+mmu-mir-29c	Epithelial-mesenchymal transition
+mmu-mir-370	Epithelial-mesenchymal transition
+mmu-mir-155	Epithelial-mesenchymal transition
+mmu-mir-369	Epithelial-mesenchymal transition
+mmu-mir-450	Epithelial-mesenchymal transition
+mmu-mir-542	Epithelial-mesenchymal transition
+mmu-mir-30a	Epithelial-mesenchymal transition
+mmu-mir-30b	Epithelial-mesenchymal transition
+mmu-mir-30c	Epithelial-mesenchymal transition
+mmu-mir-30d	Epithelial-mesenchymal transition
+mmu-mir-30e	Epithelial-mesenchymal transition
+mmu-mir-1915	Epithelial-mesenchymal transition
+mmu-mir-1909	Epithelial-mesenchymal transition
+mmu-mir-194	Epithelial-mesenchymal transition
+mmu-mir-21	Epithelial-mesenchymal transition
+mmu-mir-31	Epithelial-mesenchymal transition
+mmu-mir-448	Epithelial-mesenchymal transition
+mmu-mir-382	Epithelial-mesenchymal transition
+mmu-mir-103	Epithelial-mesenchymal transition
+mmu-mir-107	Epithelial-mesenchymal transition
+mmu-mir-661	Epithelial-mesenchymal transition
+mmu-mir-221	Epithelial-mesenchymal transition
+mmu-mir-192	Epithelial-mesenchymal transition
+mmu-mir-215	Epithelial-mesenchymal transition
+mmu-mir-125a	Epithelial-mesenchymal transition
+mmu-let-7b	Epithelial-mesenchymal transition
+mmu-let-7c	Epithelial-mesenchymal transition
+mmu-let-7d	Epithelial-mesenchymal transition
+mmu-let-7e	Epithelial-mesenchymal transition
+mmu-mir-29a	Epithelial-mesenchymal transition
+mmu-mir-106a	onco-miRNAs
+mmu-mir-106b	onco-miRNAs
+mmu-mir-107	onco-miRNAs
+mmu-mir-146a	onco-miRNAs
+mmu-mir-146b	onco-miRNAs
+mmu-mir-155	onco-miRNAs
+mmu-mir-17	onco-miRNAs
+mmu-mir-18a	onco-miRNAs
+mmu-mir-191	onco-miRNAs
+mmu-mir-19a	onco-miRNAs
+mmu-mir-19b	onco-miRNAs
+mmu-mir-20a	onco-miRNAs
+mmu-mir-21	onco-miRNAs
+mmu-mir-210	onco-miRNAs
+mmu-mir-214	onco-miRNAs
+mmu-mir-221	onco-miRNAs
+mmu-mir-222	onco-miRNAs
+mmu-mir-223	onco-miRNAs
+mmu-mir-24	onco-miRNAs
+mmu-mir-372	onco-miRNAs
+mmu-mir-373	onco-miRNAs
+mmu-mir-92a	onco-miRNAs
+mmu-mir-93	onco-miRNAs
+mmu-mir-150	onco-miRNAs
+mmu-mir-18b	onco-miRNAs
+mmu-mir-194	onco-miRNAs
+mmu-mir-196a	onco-miRNAs
+mmu-mir-203	onco-miRNAs
+mmu-mir-20b	onco-miRNAs
+mmu-mir-224	onco-miRNAs
+mmu-mir-27a	onco-miRNAs
+mmu-mir-101	miRNA tumor suppressors
+mmu-mir-1	miRNA tumor suppressors
+mmu-mir-122	miRNA tumor suppressors
+mmu-mir-126	miRNA tumor suppressors
+mmu-mir-141	miRNA tumor suppressors
+mmu-mir-200a	miRNA tumor suppressors
+mmu-mir-200b	miRNA tumor suppressors
+mmu-mir-200c	miRNA tumor suppressors
+mmu-mir-451	miRNA tumor suppressors
+mmu-let-7a	miRNA tumor suppressors
+mmu-let-7b	miRNA tumor suppressors
+mmu-let-7c	miRNA tumor suppressors
+mmu-let-7d	miRNA tumor suppressors
+mmu-let-7e	miRNA tumor suppressors
+mmu-let-7f	miRNA tumor suppressors
+mmu-let-7g	miRNA tumor suppressors
+mmu-let-7i	miRNA tumor suppressors
+mmu-mir-124	miRNA tumor suppressors
+mmu-mir-125a	miRNA tumor suppressors
+mmu-mir-125b	miRNA tumor suppressors
+mmu-mir-127	miRNA tumor suppressors
+mmu-mir-143	miRNA tumor suppressors
+mmu-mir-145	miRNA tumor suppressors
+mmu-mir-15a	miRNA tumor suppressors
+mmu-mir-16	miRNA tumor suppressors
+mmu-mir-181a	miRNA tumor suppressors
+mmu-mir-181b	miRNA tumor suppressors
+mmu-mir-181c	miRNA tumor suppressors
+mmu-mir-195	miRNA tumor suppressors
+mmu-mir-26a	miRNA tumor suppressors
+mmu-mir-26b	miRNA tumor suppressors
+mmu-mir-29a	miRNA tumor suppressors
+mmu-mir-29c	miRNA tumor suppressors
+mmu-mir-34a	miRNA tumor suppressors
+mmu-mir-34b	miRNA tumor suppressors
+mmu-mir-34c	miRNA tumor suppressors
+mmu-mir-98	miRNA tumor suppressors

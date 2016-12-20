@@ -1,0 +1,713 @@
+gene	specific process	function
+AIRE	immune system	Autoimmune regulator
+SIPA1L1	cell proliferation	Signal-induced proliferation-associated 1-like protein 1
+SIPA1L3	cell proliferation	Signal-induced proliferation-associated 1-like protein 3
+URGCP	cell proliferation	Up-regulator of cell proliferation
+C8orf22	cell proliferation	Pancreatic progenitor cell differentiation and proliferation factor-like protein
+SIPA1	cell proliferation	Signal-induced proliferation-associated protein 1
+PPDPF	cell proliferation	Pancreatic progenitor cell differentiation and proliferation factor
+NPDC1	cell proliferation	Neural proliferation differentiation and control protein 1
+SIPA1L2	cell proliferation	Signal-induced proliferation-associated 1-like protein 2
+PA2G4	cell proliferation	Proliferation-associated protein 2G4
+AKT1S1	Akt pathway	Proline-rich AKT1 substrate 1
+AKTIP	Akt pathway	AKT-interacting protein
+BAI1	Angiogenesis	Brain-specific angiogenesis inhibitor 1
+BAIAP2L2	Angiogenesis	Brain-specific angiogenesis inhibitor 1-associated protein 2-like protein 2
+BAIAP2L1	Angiogenesis	Brain-specific angiogenesis inhibitor 1-associated protein 2-like protein 1
+BAIAP2	Angiogenesis	Brain-specific angiogenesis inhibitor 1-associated protein 2
+HRK	Apoptosis	Activator of apoptosis harakiri
+AREL1	Apoptosis	Apoptosis-resistant E3 ubiquitin protein ligase 1
+SIVA1	Apoptosis	Apoptosis regulatory protein Siva
+CFLAR	Apoptosis	CASP8 and FADD-like apoptosis regulator
+TRIAP1	Apoptosis	TP53-regulated inhibitor of apoptosis 1
+AIFM1	Apoptosis	Apoptosis-inducing factor 1, mitochondrial
+BCL2	Apoptosis	Apoptosis regulator Bcl-2
+BAX	Apoptosis	Apoptosis regulator BAX
+TP53BP2	Apoptosis	Apoptosis-stimulating of p53 protein 2
+STPG1	Apoptosis	O(6)-methylguanine-induced apoptosis 2
+NAIF1	Apoptosis	Nuclear apoptosis-inducing factor 1
+CCAR1	Apoptosis	Cell division cycle and apoptosis regulator protein 1
+DDIAS	Apoptosis	DNA damage-induced apoptosis suppressor protein
+CCAR2	Apoptosis	Cell cycle and apoptosis regulator protein 2
+AEN	Apoptosis	Apoptosis-enhancing nuclease
+MOAP1	Apoptosis	Modulator of apoptosis 1
+PERP	Apoptosis	p53 apoptosis effector related to PMP-22
+PAWR	Apoptosis	PRKC apoptosis WT1 regulator protein
+PPP1R13B	Apoptosis	Apoptosis-stimulating of p53 protein 1
+AIFM3	Apoptosis	Apoptosis-inducing factor 3
+AIFM2	Apoptosis	Apoptosis-inducing factor 2
+BCL2L14	Apoptosis	Apoptosis facilitator Bcl-2-like protein 14
+API5	Apoptosis	Apoptosis inhibitor 5
+CAAP1	Apoptosis	Caspase activity and apoptosis inhibitor 1
+TP53AIP1	Apoptosis	p53-regulated apoptosis-inducing protein 1
+BFAR	Apoptosis	Bifunctional apoptosis regulator
+PYCARD	Apoptosis	Apoptosis-associated speck-like protein containing a CARD
+BMPR1B	Bone regeneration	Bone morphogenetic protein receptor type-1B
+BMP10	Bone regeneration	Bone morphogenetic protein 10
+BMP15	Bone regeneration	Bone morphogenetic protein 15
+BMP2	Bone regeneration	Bone morphogenetic protein 2
+BMP4	Bone regeneration	Bone morphogenetic protein 4
+BMP3	Bone regeneration	Bone morphogenetic protein 3
+BMP1	Bone regeneration	Bone morphogenetic protein 1
+PRG2	Bone regeneration	Bone marrow proteoglycan
+BMP7	Bone regeneration	Bone morphogenetic protein 7
+IBSP	Bone regeneration	Bone sialoprotein 2
+BMP5	Bone regeneration	Bone morphogenetic protein 5
+BMP6	Bone regeneration	Bone morphogenetic protein 6
+BMP8B	Bone regeneration	Bone morphogenetic protein 8B
+BMPR1A	Bone regeneration	Bone morphogenetic protein receptor type-1A
+BST2	Bone regeneration	Bone marrow stromal antigen 2
+BMPR2	Bone regeneration	Bone morphogenetic protein receptor type-2
+BMP8A	Bone regeneration	Bone morphogenetic protein 8A
+TMEM30C	Cell cycle related	Cell cycle control protein 50C
+CDC7	Cell cycle related	Cell division cycle 7-related protein kinase
+CLOCK	Cell cycle related	Circadian locomoter output cycles protein kaput
+RAD1	Cell cycle related	Cell cycle checkpoint protein RAD1
+CDC123	Cell cycle related	Cell division cycle protein 123 homolog
+RAD17	Cell cycle related	Cell cycle checkpoint protein RAD17
+CDC27	Cell cycle related	Cell division cycle protein 27 homolog
+CDC20	Cell cycle related	Cell division cycle protein 20 homolog
+CDC16	Cell cycle related	Cell division cycle protein 16 homolog
+TMEM30B	Cell cycle related	Cell cycle control protein 50B
+CDCA2	Cell cycle related	Cell division cycle-associated protein 2
+RAD9B	Cell cycle related	Cell cycle checkpoint control protein RAD9B
+CDC20B	Cell cycle related	Cell division cycle protein 20 homolog B
+CCAR1	Cell cycle related	Cell division cycle and apoptosis regulator protein 1
+CEND1	Cell cycle related	Cell cycle exit and neuronal differentiation protein 1
+CCAR2	Cell cycle related	Cell cycle and apoptosis regulator protein 2
+CDCA7L	Cell cycle related	Cell division cycle-associated 7-like protein
+CDC5L	Cell cycle related	Cell division cycle 5-like protein
+CDCA3	Cell cycle related	Cell division cycle-associated protein 3
+RAD9A	Cell cycle related	Cell cycle checkpoint control protein RAD9A
+CDCA7	Cell cycle related	Cell division cycle-associated protein 7
+CDCA4	Cell cycle related	Cell division cycle-associated protein 4
+RGCC	Cell cycle related	Regulator of cell cycle RGCC
+TMEM30A	Cell cycle related	Cell cycle control protein 50A
+CDC23	Cell cycle related	Cell division cycle protein 23 homolog
+CCPG1	Cell cycle related	Cell cycle progression protein 1
+SYNDIG1L	Cell differentiation	Synapse differentiation-inducing gene protein 1-like
+MYADML2	Cell differentiation	Myeloid-associated differentiation marker-like protein 2
+MSTN	Cell differentiation	Growth/differentiation factor 8
+GDF9	Cell differentiation	Growth/differentiation factor 9
+EDF1	Cell differentiation	Endothelial differentiation-related factor 1
+GDF11	Cell differentiation	Growth/differentiation factor 11
+CD14	Cell differentiation	Monocyte differentiation antigen CD14
+CD72	Cell differentiation	B-cell differentiation antigen CD72
+GDF1	Cell differentiation	Embryonic growth/differentiation factor 1
+CD6	Cell differentiation	T-cell differentiation antigen CD6
+MNDA	Cell differentiation	Myeloid cell nuclear differentiation antigen
+GDF5	Cell differentiation	Growth/differentiation factor 5
+GDF10	Cell differentiation	Growth/differentiation factor 10
+KRTDAP	Cell differentiation	Keratinocyte differentiation-associated protein
+MCL1	Cell differentiation	Induced myeloid leukemia cell differentiation protein Mcl-1
+AHNAK	Cell differentiation	Neuroblast differentiation-associated protein AHNAK
+NEUROD1	Cell differentiation	Neurogenic differentiation factor 1
+MMD	Cell differentiation	Monocyte to macrophage differentiation factor
+NEUROD2	Cell differentiation	Neurogenic differentiation factor 2
+EDRF1	Cell differentiation	Erythroid differentiation-related factor 1
+C4orf46	Cell differentiation	Renal cancer differentiation gene 1 protein
+GDF6	Cell differentiation	Growth/differentiation factor 6
+ATRAID	Cell differentiation	All-trans retinoic acid-induced differentiation factor
+GDF7	Cell differentiation	Growth/differentiation factor 7
+MMD2	Cell differentiation	Monocyte to macrophage differentiation factor 2
+CEND1	Cell differentiation	Cell cycle exit and neuronal differentiation protein 1
+EID3	Cell differentiation	EP300-interacting inhibitor of differentiation 3
+EID2	Cell differentiation	EP300-interacting inhibitor of differentiation 2
+KDF1	Cell differentiation	Keratinocyte differentiation factor 1
+GDAP1	Cell differentiation	Ganglioside-induced differentiation-associated protein 1
+C8orf22	Cell differentiation	Pancreatic progenitor cell differentiation and proliferation factor-like protein
+RQCD1	Cell differentiation	Cell differentiation protein RCD1 homolog
+EID2B	Cell differentiation	EP300-interacting inhibitor of differentiation 2B
+GDAP1L1	Cell differentiation	Ganglioside-induced differentiation-associated protein 1-like 1
+NEUROD6	Cell differentiation	Neurogenic differentiation factor 6
+MYADM	Cell differentiation	Myeloid-associated differentiation marker
+MYD88	Cell differentiation	Myeloid differentiation primary response protein MyD88
+GDF15	Cell differentiation	Growth/differentiation factor 15
+PPDPF	Cell differentiation	Pancreatic progenitor cell differentiation and proliferation factor
+SYNDIG1	Cell differentiation	Synapse differentiation-inducing gene protein 1
+NEUROD4	Cell differentiation	Neurogenic differentiation factor 4
+COPRS	Cell differentiation	Coordinator of PRMT5 and differentiation stimulator
+NPDC1	Cell differentiation	Neural proliferation differentiation and control protein 1
+GDF3	Cell differentiation	Growth/differentiation factor 3
+GDAP2	Cell differentiation	Ganglioside-induced differentiation-associated protein 2
+GDF2	Cell differentiation	Growth/differentiation factor 2
+EID1	Cell differentiation	EP300-interacting inhibitor of differentiation 1
+WTIP	Chemosensitivity of tumor cells	Wilms tumor protein 1-interacting protein
+C1QTNF9B	Chemosensitivity of tumor cells	Complement C1q and tumor necrosis factor-related protein 9B
+TNFRSF10A	Chemosensitivity of tumor cells	Tumor necrosis factor receptor superfamily member 10A
+TNFRSF11B	Chemosensitivity of tumor cells	Tumor necrosis factor receptor superfamily member 11B
+TP53I11	Chemosensitivity of tumor cells	Tumor protein p53-inducible protein 11
+TNFRSF10B	Chemosensitivity of tumor cells	Tumor necrosis factor receptor superfamily member 10B
+TNFSF11	Chemosensitivity of tumor cells	Tumor necrosis factor ligand superfamily member 11
+TNFRSF10C	Chemosensitivity of tumor cells	Tumor necrosis factor receptor superfamily member 10C
+TNFRSF13B	Chemosensitivity of tumor cells	Tumor necrosis factor receptor superfamily member 13B
+TP73	Chemosensitivity of tumor cells	Tumor protein p73
+TPD52L2	Chemosensitivity of tumor cells	Tumor protein D54
+TNFSF12	Chemosensitivity of tumor cells	Tumor necrosis factor ligand superfamily member 12
+TNFSF14	Chemosensitivity of tumor cells	Tumor necrosis factor ligand superfamily member 14
+ST18	Chemosensitivity of tumor cells	Suppression of tumorigenicity 18 protein
+LZTS3	Chemosensitivity of tumor cells	Leucine zipper putative tumor suppressor 3
+TNFRSF21	Chemosensitivity of tumor cells	Tumor necrosis factor receptor superfamily member 21
+TNFSF13	Chemosensitivity of tumor cells	Tumor necrosis factor ligand superfamily member 13
+TUSC2	Chemosensitivity of tumor cells	Tumor suppressor candidate 2
+TNFSF15	Chemosensitivity of tumor cells	Tumor necrosis factor ligand superfamily member 15
+TNFAIP8	Chemosensitivity of tumor cells	Tumor necrosis factor alpha-induced protein 8
+TNFRSF6B	Chemosensitivity of tumor cells	Tumor necrosis factor receptor superfamily member 6B
+TNF	Chemosensitivity of tumor cells	Tumor necrosis factor
+TP53	Chemosensitivity of tumor cells	Cellular tumor antigen p53
+NGFR	Chemosensitivity of tumor cells	Tumor necrosis factor receptor superfamily member 16
+TACSTD2	Chemosensitivity of tumor cells	Tumor-associated calcium signal transducer 2
+C1QTNF9	Chemosensitivity of tumor cells	Complement C1q and tumor necrosis factor-related protein 9A
+TPT1	Chemosensitivity of tumor cells	Translationally-controlled tumor protein
+TNFRSF1A	Chemosensitivity of tumor cells	Tumor necrosis factor receptor superfamily member 1A
+WT1	Chemosensitivity of tumor cells	Wilms tumor protein
+TNFRSF1B	Chemosensitivity of tumor cells	Tumor necrosis factor receptor superfamily member 1B
+TNFAIP3	Chemosensitivity of tumor cells	Tumor necrosis factor alpha-induced protein 3
+TNFSF4	Chemosensitivity of tumor cells	Tumor necrosis factor ligand superfamily member 4
+FAS	Chemosensitivity of tumor cells	Tumor necrosis factor receptor superfamily member 6
+CD40	Chemosensitivity of tumor cells	Tumor necrosis factor receptor superfamily member 5
+TNFRSF8	Chemosensitivity of tumor cells	Tumor necrosis factor receptor superfamily member 8
+NKTR	Chemosensitivity of tumor cells	NK-tumor recognition protein
+TNFSF8	Chemosensitivity of tumor cells	Tumor necrosis factor ligand superfamily member 8
+LTBR	Chemosensitivity of tumor cells	Tumor necrosis factor receptor superfamily member 3
+VHL	Chemosensitivity of tumor cells	Von Hippel-Lindau disease tumor suppressor
+NBL1	Chemosensitivity of tumor cells	Neuroblastoma suppressor of tumorigenicity 1
+TNFSF9	Chemosensitivity of tumor cells	Tumor necrosis factor ligand superfamily member 9
+TNFRSF4	Chemosensitivity of tumor cells	Tumor necrosis factor receptor superfamily member 4
+FASLG	Chemosensitivity of tumor cells	Tumor necrosis factor ligand superfamily member 6
+TNFSF10	Chemosensitivity of tumor cells	Tumor necrosis factor ligand superfamily member 10
+PTTG1IP	Chemosensitivity of tumor cells	Pituitary tumor-transforming gene 1 protein-interacting protein
+TPD52	Chemosensitivity of tumor cells	Tumor protein D52
+HUNK	Chemosensitivity of tumor cells	Hormonally up-regulated neu tumor-associated kinase
+C1QTNF8	Chemosensitivity of tumor cells	Complement C1q tumor necrosis factor-related protein 8
+PRAME	Chemosensitivity of tumor cells	Melanoma antigen preferentially expressed in tumors
+ST5	Chemosensitivity of tumor cells	Suppression of tumorigenicity 5 protein
+TNFAIP6	Chemosensitivity of tumor cells	Tumor necrosis factor-inducible gene 6 protein
+TNFRSF17	Chemosensitivity of tumor cells	Tumor necrosis factor receptor superfamily member 17
+TNFAIP2	Chemosensitivity of tumor cells	Tumor necrosis factor alpha-induced protein 2
+WT1-AS	Chemosensitivity of tumor cells	Putative Wilms tumor upstream neighbor 1 gene protein
+TNFRSF9	Chemosensitivity of tumor cells	Tumor necrosis factor receptor superfamily member 9
+TP53BP1	Chemosensitivity of tumor cells	Tumor suppressor p53-binding protein 1
+CATR1	Chemosensitivity of tumor cells	CATR tumorigenic conversion 1 protein
+TUSC3	Chemosensitivity of tumor cells	Tumor suppressor candidate 3
+TRADD	Chemosensitivity of tumor cells	Tumor necrosis factor receptor type 1-associated DEATH domain protein
+TPD52L1	Chemosensitivity of tumor cells	Tumor protein D53
+TNFAIP8L3	Chemosensitivity of tumor cells	Tumor necrosis factor alpha-induced protein 8-like protein 3
+MTUS2	Chemosensitivity of tumor cells	Microtubule-associated tumor suppressor candidate 2
+TPRG1L	Chemosensitivity of tumor cells	Tumor protein p63-regulated gene 1-like protein
+TNFAIP8L2	Chemosensitivity of tumor cells	Tumor necrosis factor alpha-induced protein 8-like protein 2
+TPRG1	Chemosensitivity of tumor cells	Tumor protein p63-regulated gene 1 protein
+PTOV1	Chemosensitivity of tumor cells	Prostate tumor-overexpressed gene 1 protein
+TUSC5	Chemosensitivity of tumor cells	Tumor suppressor candidate 5
+TP53INP2	Chemosensitivity of tumor cells	Tumor protein p53-inducible nuclear protein 2
+L3MBTL4	Chemosensitivity of tumor cells	Lethal(3)malignant brain tumor-like protein 4
+TP53I13	Chemosensitivity of tumor cells	Tumor protein p53-inducible protein 13
+ST7L	Chemosensitivity of tumor cells	Suppressor of tumorigenicity 7 protein-like
+TNFAIP8L1	Chemosensitivity of tumor cells	Tumor necrosis factor alpha-induced protein 8-like protein 1
+TNFRSF14	Chemosensitivity of tumor cells	Tumor necrosis factor receptor superfamily member 14
+TNFRSF25	Chemosensitivity of tumor cells	Tumor necrosis factor receptor superfamily member 25
+L3MBTL2	Chemosensitivity of tumor cells	Lethal(3)malignant brain tumor-like protein 2
+RELT	Chemosensitivity of tumor cells	Tumor necrosis factor receptor superfamily member 19L
+TP53INP1	Chemosensitivity of tumor cells	Tumor protein p53-inducible nuclear protein 1
+TPD52L3	Chemosensitivity of tumor cells	Tumor protein D55
+L3MBTL3	Chemosensitivity of tumor cells	Lethal(3)malignant brain tumor-like protein 3
+TNFRSF13C	Chemosensitivity of tumor cells	Tumor necrosis factor receptor superfamily member 13C
+LITAF	Chemosensitivity of tumor cells	Lipopolysaccharide-induced tumor necrosis factor-alpha factor
+TSG101	Chemosensitivity of tumor cells	Tumor susceptibility gene 101 protein
+LZTS2	Chemosensitivity of tumor cells	Leucine zipper putative tumor suppressor 2
+MMTAG2	Chemosensitivity of tumor cells	Multiple myeloma tumor-associated protein 2
+C1QTNF6	Chemosensitivity of tumor cells	Complement C1q tumor necrosis factor-related protein 6
+C1QTNF5	Chemosensitivity of tumor cells	Complement C1q tumor necrosis factor-related protein 5
+C1QTNF1	Chemosensitivity of tumor cells	Complement C1q tumor necrosis factor-related protein 1
+C1QTNF7	Chemosensitivity of tumor cells	Complement C1q tumor necrosis factor-related protein 7
+C1QTNF4	Chemosensitivity of tumor cells	Complement C1q tumor necrosis factor-related protein 4
+C1QTNF3	Chemosensitivity of tumor cells	Complement C1q tumor necrosis factor-related protein 3
+C1QTNF2	Chemosensitivity of tumor cells	Complement C1q tumor necrosis factor-related protein 2
+TP63	Chemosensitivity of tumor cells	Tumor protein 63
+TPT1P8	Chemosensitivity of tumor cells	Putative translationally-controlled tumor protein-like protein TPT1P8
+EDA2R	Chemosensitivity of tumor cells	Tumor necrosis factor receptor superfamily member 27
+ST20	Chemosensitivity of tumor cells	Suppressor of tumorigenicity 20 protein
+TNFRSF12A	Chemosensitivity of tumor cells	Tumor necrosis factor receptor superfamily member 12A
+ZNF71	Chemosensitivity of tumor cells	Endothelial zinc finger protein induced by tumor necrosis factor alpha
+ST7	Chemosensitivity of tumor cells	Suppressor of tumorigenicity 7 protein
+TNFRSF19	Chemosensitivity of tumor cells	Tumor necrosis factor receptor superfamily member 19
+ETAA1	Chemosensitivity of tumor cells	Ewing's tumor-associated antigen 1
+PTTG3P	Chemosensitivity of tumor cells	Putative pituitary tumor-transforming gene 3 protein
+GLTSCR1	Chemosensitivity of tumor cells	Glioma tumor suppressor candidate region gene 1 protein
+GLTSCR2	Chemosensitivity of tumor cells	Glioma tumor suppressor candidate region gene 2 protein
+TNFRSF10D	Chemosensitivity of tumor cells	Tumor necrosis factor receptor superfamily member 10D
+DMBT1	Chemosensitivity of tumor cells	Deleted in malignant brain tumors 1 protein
+MTUS1	Chemosensitivity of tumor cells	Microtubule-associated tumor suppressor 1
+EDAR	Chemosensitivity of tumor cells	Tumor necrosis factor receptor superfamily member EDAR
+TNFSF18	Chemosensitivity of tumor cells	Tumor necrosis factor ligand superfamily member 18
+LZTS1	Chemosensitivity of tumor cells	Leucine zipper putative tumor suppressor 1
+TNFSF13B	Chemosensitivity of tumor cells	Tumor necrosis factor ligand superfamily member 13B
+L3MBTL1	Chemosensitivity of tumor cells	Lethal(3)malignant brain tumor-like protein 1
+TNFRSF18	Chemosensitivity of tumor cells	Tumor necrosis factor receptor superfamily member 18
+ST14	Chemosensitivity of tumor cells	Suppressor of tumorigenicity 14 protein
+TNFRSF11A	Chemosensitivity of tumor cells	Tumor necrosis factor receptor superfamily member 11A
+ESRRB	Hormones regulation	Steroid hormone receptor ERR2
+CGA	Hormones regulation	Glycoprotein hormones alpha chain
+GH2	Hormones regulation	Growth hormone variant
+PTH	Hormones regulation	Parathyroid hormone
+PPY	Hormones regulation	Pancreatic prohormone
+SHBG	Hormones regulation	Sex hormone-binding globulin
+THRA	Hormones regulation	Thyroid hormone receptor alpha
+THRB	Hormones regulation	Thyroid hormone receptor beta
+GHR	Hormones regulation	Growth hormone receptor
+ESRRA	Hormones regulation	Steroid hormone receptor ERR1
+PTHLH	Hormones regulation	Parathyroid hormone-related protein
+TRH	Hormones regulation	Pro-thyrotropin-releasing hormone
+LHCGR	Hormones regulation	Lutropin-choriogonadotropic hormone receptor
+FSHR	Hormones regulation	Follicle-stimulating hormone receptor
+GNRHR	Hormones regulation	Gonadotropin-releasing hormone receptor
+TRHR	Hormones regulation	Thyrotropin-releasing hormone receptor
+PTH2R	Hormones regulation	Parathyroid hormone 2 receptor
+MC2R	Hormones regulation	Adrenocorticotropic hormone receptor
+MC1R	Hormones regulation	Melanocyte-stimulating hormone receptor
+GHRHR	Hormones regulation	Growth hormone-releasing hormone receptor
+PTH1R	Hormones regulation	Parathyroid hormone/parathyroid hormone-related peptide receptor
+LIPE	Hormones regulation	Hormone-sensitive lipase
+CSHL1	Hormones regulation	Chorionic somatomammotropin hormone-like 1
+AMHR2	Hormones regulation	Anti-Muellerian hormone type-2 receptor
+GRTP1	Hormones regulation	Growth hormone-regulated TBC protein 1
+GPHB5	Hormones regulation	Glycoprotein hormone beta-5
+THRSP	Hormones regulation	Thyroid hormone-inducible hepatic protein
+GHSR	Hormones regulation	Growth hormone secretagogue receptor type 1
+MCHR2	Hormones regulation	Melanin-concentrating hormone receptor 2
+GNRHR2	Hormones regulation	Putative gonadotropin-releasing hormone II receptor
+GPHA2	Hormones regulation	Glycoprotein hormone alpha-2
+MCHR1	Hormones regulation	Melanin-concentrating hormone receptor 1
+GHITM	Hormones regulation	Growth hormone-inducible transmembrane protein
+GHRL	Hormones regulation	Appetite-regulating hormone
+TRHDE	Hormones regulation	Thyrotropin-releasing hormone-degrading ectoenzyme
+THRAP3	Hormones regulation	Thyroid hormone receptor-associated protein 3
+ESRG	Human embryonic stem cell (hESC) regulation	Embryonic stem cell-related gene protein
+HMCES	Human embryonic stem cell (hESC) regulation	Embryonic stem cell-specific 5-hydroxymethylcytosine-binding protein
+NACA	Muscle development	Nascent polypeptide-associated complex subunit alpha, muscle-specific form
+MUSK	Muscle development	Muscle, skeletal receptor tyrosine-protein kinase
+TNNC2	Muscle development	Troponin C, skeletal muscle
+MYL1	Muscle development	Myosin light chain 1/3, skeletal muscle isoform
+PFKM	Muscle development	ATP-dependent 6-phosphofructokinase, muscle type
+MYL2	Muscle development	Myosin regulatory light chain 2, ventricular/cardiac muscle isoform
+PYGM	Muscle development	Glycogen phosphorylase, muscle form
+TNNT1	Muscle development	Troponin T, slow skeletal muscle
+GYS1	Muscle development	Glycogen [starch] synthase, muscle
+TNNI1	Muscle development	Troponin I, slow skeletal muscle
+TNNI3	Muscle development	Troponin I, cardiac muscle
+TNNT3	Muscle development	Troponin T, fast skeletal muscle
+TNNT2	Muscle development	Troponin T, cardiac muscle
+PHKA1	Muscle development	Phosphorylase b kinase regulatory subunit alpha, skeletal muscle isoform
+TNNI2	Muscle development	Troponin I, fast skeletal muscle
+ACTA2	Muscle development	Actin, aortic smooth muscle
+ACTG2	Muscle development	Actin, gamma-enteric smooth muscle
+TNNC1	Muscle development	Troponin C, slow skeletal and cardiac muscles
+ACTC1	Muscle development	Actin, alpha cardiac muscle 1
+ACTA1	Muscle development	Actin, alpha skeletal muscle
+MYLK	Muscle development	Myosin light chain kinase, smooth muscle
+SPEG	Muscle development	Striated muscle preferentially expressed protein kinase
+PHKG1	Muscle development	Phosphorylase b kinase gamma catalytic chain, skeletal muscle/heart isoform
+MURC	Muscle development	Muscle-related coiled-coil protein
+PERM1	Muscle development	PGC-1 and ERR-induced regulator in muscle protein 1
+MBNL2	Muscle development	Muscleblind-like protein 2
+CPT1B	Muscle development	Carnitine O-palmitoyltransferase 1, muscle isoform
+MYLPF	Muscle development	Myosin regulatory light chain 2, skeletal muscle isoform
+USMG5	Muscle development	Up-regulated during skeletal muscle growth protein 5
+MYLK2	Muscle development	Myosin light chain kinase 2, skeletal/cardiac muscle
+MBNL1	Muscle development	Muscleblind-like protein 1
+MBNL3	Muscle development	Muscleblind-like protein 3
+PLSCR5	lipid metabolism	Phospholipid scramblase family member 5
+GLTPD2	lipid metabolism	Glycolipid transfer protein domain-containing protein 2
+PLPP1	lipid metabolism	Phospholipid phosphatase 1
+PLPP3	lipid metabolism	Phospholipid phosphatase 3
+DEGS1	lipid metabolism	Sphingolipid delta(4)-desaturase DES1
+PLSCR1	lipid metabolism	Phospholipid scramblase 1
+ATP8B1	lipid metabolism	Phospholipid-transporting ATPase IC
+PLPP2	lipid metabolism	Phospholipid phosphatase 2
+ATP9B	lipid metabolism	Probable phospholipid-transporting ATPase IIB
+ATP10A	lipid metabolism	Probable phospholipid-transporting ATPase VA
+ATP8B3	lipid metabolism	Phospholipid-transporting ATPase IK
+ATP9A	lipid metabolism	Probable phospholipid-transporting ATPase IIA
+ATP10B	lipid metabolism	Probable phospholipid-transporting ATPase VB
+SCP2	lipid metabolism	Non-specific lipid-transfer protein
+ATP6V0C	lipid metabolism	V-type proton ATPase 16 kDa proteolipid subunit
+GPX4	lipid metabolism	Phospholipid hydroperoxide glutathione peroxidase, mitochondrial
+PLTP	lipid metabolism	Phospholipid transfer protein
+MP68	lipid metabolism	6.8 kDa mitochondrial proteolipid
+STARD6	lipid metabolism	StAR-related lipid transfer protein 6
+PLP1	lipid metabolism	Myelin proteolipid protein
+ATP11A	lipid metabolism	Probable phospholipid-transporting ATPase IH
+ATP8B2	lipid metabolism	Phospholipid-transporting ATPase ID
+PLP2	lipid metabolism	Proteolipid protein 2
+STARD3	lipid metabolism	StAR-related lipid transfer protein 3
+PLPPR5	lipid metabolism	Phospholipid phosphatase-related protein type 5
+PLPP4	lipid metabolism	Phospholipid phosphatase 4
+LPCAT4	lipid metabolism	Lysophospholipid acyltransferase LPCAT4
+LPCAT3	lipid metabolism	Lysophospholipid acyltransferase 5
+DEGS2	lipid metabolism	Sphingolipid delta(4)-desaturase/C4-monooxygenase DES2
+PLPPR3	lipid metabolism	Phospholipid phosphatase-related protein type 3
+MBOAT1	lipid metabolism	Lysophospholipid acyltransferase 1
+MBOAT2	lipid metabolism	Lysophospholipid acyltransferase 2
+PLPPR4	lipid metabolism	Phospholipid phosphatase-related protein type 4
+PLPP6	lipid metabolism	Phospholipid phosphatase 6
+ATP11C	lipid metabolism	Phospholipid-transporting ATPase IG
+PLPP7	lipid metabolism	Inactive phospholipid phosphatase 7
+PLPP5	lipid metabolism	Phospholipid phosphatase 5
+PLPPR1	lipid metabolism	Phospholipid phosphatase-related protein type 1
+ATP8B4	lipid metabolism	Probable phospholipid-transporting ATPase IM
+STARD8	lipid metabolism	StAR-related lipid transfer protein 8
+STARD4	lipid metabolism	StAR-related lipid transfer protein 4
+PLPPR2	lipid metabolism	Phospholipid phosphatase-related protein type 2
+MBOAT7	lipid metabolism	Lysophospholipid acyltransferase 7
+ATP6V0B	lipid metabolism	V-type proton ATPase 21 kDa proteolipid subunit
+LDAH	lipid metabolism	Lipid droplet-associated hydrolase
+HRASLS	lipid metabolism	Phospholipid-metabolizing enzyme A-C1
+STARD7	lipid metabolism	StAR-related lipid transfer protein 7, mitochondrial
+PLSCR4	lipid metabolism	Phospholipid scramblase 4
+PLSCR3	lipid metabolism	Phospholipid scramblase 3
+PLSCR2	lipid metabolism	Phospholipid scramblase 2
+STARD5	lipid metabolism	StAR-related lipid transfer protein 5
+ATP8A2	lipid metabolism	Phospholipid-transporting ATPase IB
+PAG1	lipid metabolism	Phosphoprotein associated with glycosphingolipid-enriched microdomains 1
+GLTP	lipid metabolism	Glycolipid transfer protein
+ATP10D	lipid metabolism	Probable phospholipid-transporting ATPase VD
+STARD9	lipid metabolism	StAR-related lipid transfer protein 9
+ATP11B	lipid metabolism	Probable phospholipid-transporting ATPase IF
+ATP8A1	lipid metabolism	Phospholipid-transporting ATPase IA
+STARD13	lipid metabolism	StAR-related lipid transfer protein 13
+HILPDA	lipid metabolism	Hypoxia-inducible lipid droplet-associated protein
+BAI1	brain development	Brain-specific angiogenesis inhibitor 1
+FABP7	brain development	Fatty acid-binding protein, brain
+SLC25A14	brain development	Brain mitochondrial carrier protein 1
+BRI3	brain development	Brain protein I3
+PYGB	brain development	Glycogen phosphorylase, brain form
+ATP6V1B2	brain development	V-type proton ATPase subunit B, brain isoform
+BDNF	brain development	Brain-derived neurotrophic factor
+NOS1	brain development	Nitric oxide synthase, brain
+BASP1	brain development	Brain acid soluble protein 1
+TBR1	brain development	T-box brain protein 1
+BSX	brain development	Brain-specific homeobox protein homolog
+BAIAP2L2	brain development	Brain-specific angiogenesis inhibitor 1-associated protein 2-like protein 2
+L3MBTL4	brain development	Lethal(3)malignant brain tumor-like protein 4
+CPT1C	brain development	Carnitine O-palmitoyltransferase 1, brain isoform
+BAALC	brain development	Brain and acute leukemia cytoplasmic protein
+L3MBTL2	brain development	Lethal(3)malignant brain tumor-like protein 2
+L3MBTL3	brain development	Lethal(3)malignant brain tumor-like protein 3
+BEGAIN	brain development	Brain-enriched guanylate kinase-associated protein
+PRSS22	brain development	Brain-specific serine protease 4
+DMBT1	brain development	Deleted in malignant brain tumors 1 protein
+BAIAP2L1	brain development	Brain-specific angiogenesis inhibitor 1-associated protein 2-like protein 1
+BAIAP2	brain development	Brain-specific angiogenesis inhibitor 1-associated protein 2
+L3MBTL1	brain development	Lethal(3)malignant brain tumor-like protein 1
+FABP4	adipocyte differentiation	Fatty acid-binding protein, adipocyte
+TPRA1	adipocyte differentiation	Transmembrane protein adipocyte-associated 1
+AEBP1	adipocyte differentiation	Adipocyte enhancer-binding protein 1
+APMAP	adipocyte differentiation	Adipocyte plasma membrane-associated protein
+PER2	circadian clock	Period circadian protein homolog 2
+CLOCK	circadian clock	Circadian locomoter output cycles protein kaput
+PER1	circadian clock	Period circadian protein homolog 1
+PER3	circadian clock	Period circadian protein homolog 3
+PASD1	circadian clock	Circadian clock protein PASD1
+CIART	circadian clock	Circadian-associated transcriptional repressor
+NACA	smooth muscle cell fate	Nascent polypeptide-associated complex subunit alpha, muscle-specific form
+MUSK	smooth muscle cell fate	Muscle, skeletal receptor tyrosine-protein kinase
+TNNC2	smooth muscle cell fate	Troponin C, skeletal muscle
+MYL1	smooth muscle cell fate	Myosin light chain 1/3, skeletal muscle isoform
+PFKM	smooth muscle cell fate	ATP-dependent 6-phosphofructokinase, muscle type
+MYL2	smooth muscle cell fate	Myosin regulatory light chain 2, ventricular/cardiac muscle isoform
+PYGM	smooth muscle cell fate	Glycogen phosphorylase, muscle form
+TNNT1	smooth muscle cell fate	Troponin T, slow skeletal muscle
+GYS1	smooth muscle cell fate	Glycogen [starch] synthase, muscle
+TNNI1	smooth muscle cell fate	Troponin I, slow skeletal muscle
+TNNI3	smooth muscle cell fate	Troponin I, cardiac muscle
+TNNT3	smooth muscle cell fate	Troponin T, fast skeletal muscle
+TNNT2	smooth muscle cell fate	Troponin T, cardiac muscle
+PHKA1	smooth muscle cell fate	Phosphorylase b kinase regulatory subunit alpha, skeletal muscle isoform
+TNNI2	smooth muscle cell fate	Troponin I, fast skeletal muscle
+ACTA2	smooth muscle cell fate	Actin, aortic smooth muscle
+ACTG2	smooth muscle cell fate	Actin, gamma-enteric smooth muscle
+TNNC1	smooth muscle cell fate	Troponin C, slow skeletal and cardiac muscles
+ACTC1	smooth muscle cell fate	Actin, alpha cardiac muscle 1
+ACTA1	smooth muscle cell fate	Actin, alpha skeletal muscle
+MYLK	smooth muscle cell fate	Myosin light chain kinase, smooth muscle
+SPEG	smooth muscle cell fate	Striated muscle preferentially expressed protein kinase
+PHKG1	smooth muscle cell fate	Phosphorylase b kinase gamma catalytic chain, skeletal muscle/heart isoform
+MURC	smooth muscle cell fate	Muscle-related coiled-coil protein
+PERM1	smooth muscle cell fate	PGC-1 and ERR-induced regulator in muscle protein 1
+MBNL2	smooth muscle cell fate	Muscleblind-like protein 2
+CPT1B	smooth muscle cell fate	Carnitine O-palmitoyltransferase 1, muscle isoform
+MYLPF	smooth muscle cell fate	Myosin regulatory light chain 2, skeletal muscle isoform
+USMG5	smooth muscle cell fate	Up-regulated during skeletal muscle growth protein 5
+MYLK2	smooth muscle cell fate	Myosin light chain kinase 2, skeletal/cardiac muscle
+MBNL1	smooth muscle cell fate	Muscleblind-like protein 1
+MBNL3	smooth muscle cell fate	Muscleblind-like protein 3
+YDJC	carbohydrate metabolism	Carbohydrate deacetylase
+CHST10	carbohydrate metabolism	Carbohydrate sulfotransferase 10
+CHST1	carbohydrate metabolism	Carbohydrate sulfotransferase 1
+CHST9	carbohydrate metabolism	Carbohydrate sulfotransferase 9
+CHST15	carbohydrate metabolism	Carbohydrate sulfotransferase 15
+CHST3	carbohydrate metabolism	Carbohydrate sulfotransferase 3
+CHST4	carbohydrate metabolism	Carbohydrate sulfotransferase 4
+CHST14	carbohydrate metabolism	Carbohydrate sulfotransferase 14
+CHST13	carbohydrate metabolism	Carbohydrate sulfotransferase 13
+FGGY	carbohydrate metabolism	FGGY carbohydrate kinase domain-containing protein
+CHST5	carbohydrate metabolism	Carbohydrate sulfotransferase 5
+CHST6	carbohydrate metabolism	Carbohydrate sulfotransferase 6
+CHST8	carbohydrate metabolism	Carbohydrate sulfotransferase 8
+MLXIPL	carbohydrate metabolism	Carbohydrate-responsive element-binding protein
+CHST11	carbohydrate metabolism	Carbohydrate sulfotransferase 11
+CHST12	carbohydrate metabolism	Carbohydrate sulfotransferase 12
+CHST7	carbohydrate metabolism	Carbohydrate sulfotransferase 7
+CHST2	carbohydrate metabolism	Carbohydrate sulfotransferase 2
+DAPL1	cell death	Death-associated protein-like 1
+LRRD1	cell death	Leucine-rich repeat and death domain-containing protein 1
+ANKDD1B	cell death	Ankyrin repeat and death domain-containing protein 1B
+PDCD5	cell death	Programmed cell death protein 5
+DAPK3	cell death	Death-associated protein kinase 3
+CIDEA	cell death	Cell death activator CIDE-A
+PDCD6	cell death	Programmed cell death protein 6
+DEDD	cell death	Death effector domain-containing protein
+DAP	cell death	Death-associated protein 1
+DAPK1	cell death	Death-associated protein kinase 1
+BID	cell death	BH3-interacting domain death agonist
+CRADD	cell death	Death domain-containing protein CRADD
+FADD	cell death	FAS-associated death domain protein
+KIAA0141	cell death	Death ligand signal enhancer
+PDCD1	cell death	Programmed cell death protein 1
+TRADD	cell death	Tumor necrosis factor receptor type 1-associated DEATH domain protein
+PDCD2	cell death	Programmed cell death protein 2
+ANKDD1A	cell death	Ankyrin repeat and death domain-containing protein 1A
+PDCD4	cell death	Programmed cell death protein 4
+DTHD1	cell death	Death domain-containing protein 1
+BLID	cell death	BH3-like motif-containing cell death inducer
+PDCD7	cell death	Programmed cell death protein 7
+PDCD6IP	cell death	Programmed cell death 6-interacting protein
+DEDD2	cell death	DNA-binding death effector domain-containing protein 2
+MADD	cell death	MAP kinase-activating death domain protein
+BAD	cell death	Bcl2-associated agonist of cell death
+CIDEC	cell death	Cell death activator CIDE-3
+PDCD1LG2	cell death	Programmed cell death 1 ligand 2
+PDCD2L	cell death	Programmed cell death protein 2-like
+DIDO1	cell death	Death-inducer obliterator 1
+PDCD10	cell death	Programmed cell death protein 10
+CDIP1	cell death	Cell death-inducing p53-target protein 1
+PIDD1	cell death	p53-induced death domain-containing protein 1
+AVEN	cell death	Cell death regulator Aven
+CD274	cell death	Programmed cell death 1 ligand 1
+DAXX	cell death	Death domain-associated protein 6
+CIDEB	cell death	Cell death activator CIDE-B
+DAPK2	cell death	Death-associated protein kinase 2
+CDC7	cell division	Cell division cycle 7-related protein kinase
+CDC45	cell division	Cell division control protein 45 homolog
+CDC123	cell division	Cell division cycle protein 123 homolog
+CDC27	cell division	Cell division cycle protein 27 homolog
+CDC42	cell division	Cell division control protein 42 homolog
+CDC20	cell division	Cell division cycle protein 20 homolog
+CDC16	cell division	Cell division cycle protein 16 homolog
+CDCA2	cell division	Cell division cycle-associated protein 2
+CDC20B	cell division	Cell division cycle protein 20 homolog B
+CCAR1	cell division	Cell division cycle and apoptosis regulator protein 1
+BOD1L2	cell division	Biorientation of chromosomes in cell division protein 1-like 2
+BOD1L1	cell division	Biorientation of chromosomes in cell division protein 1-like 1
+CDCA7L	cell division	Cell division cycle-associated 7-like protein
+BOD1	cell division	Biorientation of chromosomes in cell division protein 1
+CDC5L	cell division	Cell division cycle 5-like protein
+CDCA3	cell division	Cell division cycle-associated protein 3
+CDC6	cell division	Cell division control protein 6 homolog
+CDCA7	cell division	Cell division cycle-associated protein 7
+MND1	cell division	Meiotic nuclear division protein 1 homolog
+CDCA4	cell division	Cell division cycle-associated protein 4
+RMND1	cell division	Required for meiotic nuclear division protein 1 homolog
+CDC23	cell division	Cell division cycle protein 23 homolog
+HMMR	cell motility	Hyaluronan mediated motility receptor
+GCSAML	cell motility	Germinal center-associated signaling and motility-like protein
+GCSAM	cell motility	Germinal center-associated signaling and motility protein
+ELMO1	cell motility	Engulfment and cell motility protein 1
+ELMO3	cell motility	Engulfment and cell motility protein 3
+ELMO2	cell motility	Engulfment and cell motility protein 2
+ECSCR	chemotaxis	Endothelial cell-specific chemotaxis regulator
+CYP7B1	cholesterol biosynthesis	25-hydroxycholesterol 7-alpha-hydroxylase
+CH25H	cholesterol biosynthesis	Cholesterol 25-hydroxylase
+CYP11A1	cholesterol biosynthesis	Cholesterol side-chain cleavage enzyme, mitochondrial
+CYP7A1	cholesterol biosynthesis	Cholesterol 7-alpha-monooxygenase
+NCEH1	cholesterol biosynthesis	Neutral cholesterol ester hydrolase 1
+CYP39A1	cholesterol biosynthesis	24-hydroxycholesterol 7-alpha-hydroxylase
+DHCR7	cholesterol biosynthesis	7-dehydrocholesterol reductase
+CYP46A1	cholesterol biosynthesis	Cholesterol 24-hydroxylase
+SMARCA5	chromatin remodeling	SWI/SNF-related matrix-associated actin-dependent regulator of chromatin subfamily A member 5
+SMARCB1	chromatin remodeling	SWI/SNF-related matrix-associated actin-dependent regulator of chromatin subfamily B member 1
+CHAF1A	chromatin remodeling	Chromatin assembly factor 1 subunit A
+CHAF1B	chromatin remodeling	Chromatin assembly factor 1 subunit B
+HP1BP3	chromatin remodeling	Heterochromatin protein 1-binding protein 3
+SMARCD3	chromatin remodeling	SWI/SNF-related matrix-associated actin-dependent regulator of chromatin subfamily D member 3
+BAP18	chromatin remodeling	Chromatin complexes subunit BAP18
+SMARCD2	chromatin remodeling	SWI/SNF-related matrix-associated actin-dependent regulator of chromatin subfamily D member 2
+SMARCE1	chromatin remodeling	SWI/SNF-related matrix-associated actin-dependent regulator of chromatin subfamily E member 1
+SMARCD1	chromatin remodeling	SWI/SNF-related matrix-associated actin-dependent regulator of chromatin subfamily D member 1
+SMARCAD1	chromatin remodeling	SWI/SNF-related matrix-associated actin-dependent regulator of chromatin subfamily A containing DEAD/H box 1
+MEAF6	chromatin remodeling	Chromatin modification-related protein MEAF6
+CHRAC1	chromatin remodeling	Chromatin accessibility complex protein 1
+SMARCAL1	chromatin remodeling	SWI/SNF-related matrix-associated actin-dependent regulator of chromatin subfamily A-like protein 1
+HMG20B	chromatin remodeling	SWI/SNF-related matrix-associated actin-dependent regulator of chromatin subfamily E member 1-related
+ACIN1	chromatin remodeling	Apoptotic chromatin condensation inducer in the nucleus
+CHTOP	chromatin remodeling	Chromatin target of PRMT1 protein
+SLC5A10	glucose metabolism	Sodium/glucose cotransporter 5
+SLC37A4	glucose metabolism	Glucose-6-phosphate exchanger SLC37A4
+UGDH	glucose metabolism	UDP-glucose 6-dehydrogenase
+TGDS	glucose metabolism	dTDP-D-glucose 4,6-dehydratase
+SLC2A10	glucose metabolism	Solute carrier family 2, facilitated glucose transporter member 10
+NUDT14	glucose metabolism	Uridine diphosphate glucose pyrophosphatase
+GPI	glucose metabolism	Glucose-6-phosphate isomerase
+HSPA5	glucose metabolism	78 kDa glucose-regulated protein
+SLC2A1	glucose metabolism	Solute carrier family 2, facilitated glucose transporter member 1
+SLC2A2	glucose metabolism	Solute carrier family 2, facilitated glucose transporter member 2
+SLC2A3	glucose metabolism	Solute carrier family 2, facilitated glucose transporter member 3
+G6PD	glucose metabolism	Glucose-6-phosphate 1-dehydrogenase
+SLC5A1	glucose metabolism	Sodium/glucose cotransporter 1
+SLC2A4	glucose metabolism	Solute carrier family 2, facilitated glucose transporter member 4
+SLC2A5	glucose metabolism	Solute carrier family 2, facilitated glucose transporter member 5
+SLC5A2	glucose metabolism	Sodium/glucose cotransporter 2
+G6PC	glucose metabolism	Glucose-6-phosphatase
+SLC37A1	glucose metabolism	Glucose-6-phosphate exchanger SLC37A1
+GALE	glucose metabolism	UDP-glucose 4-epimerase
+UGP2	glucose metabolism	UTP--glucose-1-phosphate uridylyltransferase
+SLC5A9	glucose metabolism	Sodium/glucose cotransporter 4
+GFOD2	glucose metabolism	Glucose-fructose oxidoreductase domain-containing protein 2
+MFSD4B	glucose metabolism	Sodium-dependent glucose transporter 1
+PGM2L1	glucose metabolism	Glucose 1,6-bisphosphate synthase
+SLC2A7	glucose metabolism	Solute carrier family 2, facilitated glucose transporter member 7
+GDPGP1	glucose metabolism	GDP-D-glucose phosphorylase 1
+SLC35D2	glucose metabolism	UDP-N-acetylglucosamine/UDP-glucose/GDP-mannose transporter
+SLC2A12	glucose metabolism	Solute carrier family 2, facilitated glucose transporter member 12
+SLC2A14	glucose metabolism	Solute carrier family 2, facilitated glucose transporter member 14
+GPR119	glucose metabolism	Glucose-dependent insulinotropic receptor
+SLC37A2	glucose metabolism	Glucose-6-phosphate exchanger SLC37A2
+G6PC3	glucose metabolism	Glucose-6-phosphatase 3
+SLC2A11	glucose metabolism	Solute carrier family 2, facilitated glucose transporter member 11
+G6PC2	glucose metabolism	Glucose-6-phosphatase 2
+SLC2A9	glucose metabolism	Solute carrier family 2, facilitated glucose transporter member 9
+GID8	glucose metabolism	Glucose-induced degradation protein 8 homolog
+GFOD1	glucose metabolism	Glucose-fructose oxidoreductase domain-containing protein 1
+SLC2A8	glucose metabolism	Solute carrier family 2, facilitated glucose transporter member 8
+SLC5A4	glucose metabolism	Low affinity sodium-glucose cotransporter
+UGGT2	glucose metabolism	UDP-glucose:glycoprotein glucosyltransferase 2
+UGGT1	glucose metabolism	UDP-glucose:glycoprotein glucosyltransferase 1
+SLC2A6	glucose metabolism	Solute carrier family 2, facilitated glucose transporter member 6
+HAND1	heart development	Heart- and neural crest derivatives-expressed protein 1
+FABP3	heart development	Fatty acid-binding protein, heart
+HAND2	heart development	Heart- and neural crest derivatives-expressed protein 2
+PHKG1	heart development	Phosphorylase b kinase gamma catalytic chain, skeletal muscle/heart isoform
+WTIP	miRNA tumor suppressors	Wilms tumor protein 1-interacting protein
+C1QTNF9B	miRNA tumor suppressors	Complement C1q and tumor necrosis factor-related protein 9B
+TNFRSF10A	miRNA tumor suppressors	Tumor necrosis factor receptor superfamily member 10A
+TNFRSF11B	miRNA tumor suppressors	Tumor necrosis factor receptor superfamily member 11B
+TP53I11	miRNA tumor suppressors	Tumor protein p53-inducible protein 11
+TNFRSF10B	miRNA tumor suppressors	Tumor necrosis factor receptor superfamily member 10B
+TNFSF11	miRNA tumor suppressors	Tumor necrosis factor ligand superfamily member 11
+TNFRSF10C	miRNA tumor suppressors	Tumor necrosis factor receptor superfamily member 10C
+TNFRSF13B	miRNA tumor suppressors	Tumor necrosis factor receptor superfamily member 13B
+TP73	miRNA tumor suppressors	Tumor protein p73
+TPD52L2	miRNA tumor suppressors	Tumor protein D54
+TNFSF12	miRNA tumor suppressors	Tumor necrosis factor ligand superfamily member 12
+TNFSF14	miRNA tumor suppressors	Tumor necrosis factor ligand superfamily member 14
+ST18	miRNA tumor suppressors	Suppression of tumorigenicity 18 protein
+LZTS3	miRNA tumor suppressors	Leucine zipper putative tumor suppressor 3
+TNFRSF21	miRNA tumor suppressors	Tumor necrosis factor receptor superfamily member 21
+TNFSF13	miRNA tumor suppressors	Tumor necrosis factor ligand superfamily member 13
+TUSC2	miRNA tumor suppressors	Tumor suppressor candidate 2
+TNFSF15	miRNA tumor suppressors	Tumor necrosis factor ligand superfamily member 15
+TNFAIP8	miRNA tumor suppressors	Tumor necrosis factor alpha-induced protein 8
+TNFRSF6B	miRNA tumor suppressors	Tumor necrosis factor receptor superfamily member 6B
+TNF	miRNA tumor suppressors	Tumor necrosis factor
+TP53	miRNA tumor suppressors	Cellular tumor antigen p53
+NGFR	miRNA tumor suppressors	Tumor necrosis factor receptor superfamily member 16
+TACSTD2	miRNA tumor suppressors	Tumor-associated calcium signal transducer 2
+C1QTNF9	miRNA tumor suppressors	Complement C1q and tumor necrosis factor-related protein 9A
+TPT1	miRNA tumor suppressors	Translationally-controlled tumor protein
+TNFRSF1A	miRNA tumor suppressors	Tumor necrosis factor receptor superfamily member 1A
+WT1	miRNA tumor suppressors	Wilms tumor protein
+TNFRSF1B	miRNA tumor suppressors	Tumor necrosis factor receptor superfamily member 1B
+TNFAIP3	miRNA tumor suppressors	Tumor necrosis factor alpha-induced protein 3
+TNFSF4	miRNA tumor suppressors	Tumor necrosis factor ligand superfamily member 4
+FAS	miRNA tumor suppressors	Tumor necrosis factor receptor superfamily member 6
+CD40	miRNA tumor suppressors	Tumor necrosis factor receptor superfamily member 5
+TNFRSF8	miRNA tumor suppressors	Tumor necrosis factor receptor superfamily member 8
+NKTR	miRNA tumor suppressors	NK-tumor recognition protein
+TNFSF8	miRNA tumor suppressors	Tumor necrosis factor ligand superfamily member 8
+LTBR	miRNA tumor suppressors	Tumor necrosis factor receptor superfamily member 3
+VHL	miRNA tumor suppressors	Von Hippel-Lindau disease tumor suppressor
+NBL1	miRNA tumor suppressors	Neuroblastoma suppressor of tumorigenicity 1
+TNFSF9	miRNA tumor suppressors	Tumor necrosis factor ligand superfamily member 9
+TNFRSF4	miRNA tumor suppressors	Tumor necrosis factor receptor superfamily member 4
+FASLG	miRNA tumor suppressors	Tumor necrosis factor ligand superfamily member 6
+TNFSF10	miRNA tumor suppressors	Tumor necrosis factor ligand superfamily member 10
+PTTG1IP	miRNA tumor suppressors	Pituitary tumor-transforming gene 1 protein-interacting protein
+TPD52	miRNA tumor suppressors	Tumor protein D52
+HUNK	miRNA tumor suppressors	Hormonally up-regulated neu tumor-associated kinase
+C1QTNF8	miRNA tumor suppressors	Complement C1q tumor necrosis factor-related protein 8
+PRAME	miRNA tumor suppressors	Melanoma antigen preferentially expressed in tumors
+ST5	miRNA tumor suppressors	Suppression of tumorigenicity 5 protein
+TNFAIP6	miRNA tumor suppressors	Tumor necrosis factor-inducible gene 6 protein
+TNFRSF17	miRNA tumor suppressors	Tumor necrosis factor receptor superfamily member 17
+TNFAIP2	miRNA tumor suppressors	Tumor necrosis factor alpha-induced protein 2
+WT1-AS	miRNA tumor suppressors	Putative Wilms tumor upstream neighbor 1 gene protein
+TNFRSF9	miRNA tumor suppressors	Tumor necrosis factor receptor superfamily member 9
+TP53BP1	miRNA tumor suppressors	Tumor suppressor p53-binding protein 1
+CATR1	miRNA tumor suppressors	CATR tumorigenic conversion 1 protein
+TUSC3	miRNA tumor suppressors	Tumor suppressor candidate 3
+TRADD	miRNA tumor suppressors	Tumor necrosis factor receptor type 1-associated DEATH domain protein
+TPD52L1	miRNA tumor suppressors	Tumor protein D53
+TNFAIP8L3	miRNA tumor suppressors	Tumor necrosis factor alpha-induced protein 8-like protein 3
+MTUS2	miRNA tumor suppressors	Microtubule-associated tumor suppressor candidate 2
+TPRG1L	miRNA tumor suppressors	Tumor protein p63-regulated gene 1-like protein
+TNFAIP8L2	miRNA tumor suppressors	Tumor necrosis factor alpha-induced protein 8-like protein 2
+TPRG1	miRNA tumor suppressors	Tumor protein p63-regulated gene 1 protein
+PTOV1	miRNA tumor suppressors	Prostate tumor-overexpressed gene 1 protein
+TUSC5	miRNA tumor suppressors	Tumor suppressor candidate 5
+TP53INP2	miRNA tumor suppressors	Tumor protein p53-inducible nuclear protein 2
+L3MBTL4	miRNA tumor suppressors	Lethal(3)malignant brain tumor-like protein 4
+TP53I13	miRNA tumor suppressors	Tumor protein p53-inducible protein 13
+ST7L	miRNA tumor suppressors	Suppressor of tumorigenicity 7 protein-like
+TNFAIP8L1	miRNA tumor suppressors	Tumor necrosis factor alpha-induced protein 8-like protein 1
+TNFRSF14	miRNA tumor suppressors	Tumor necrosis factor receptor superfamily member 14
+TNFRSF25	miRNA tumor suppressors	Tumor necrosis factor receptor superfamily member 25
+L3MBTL2	miRNA tumor suppressors	Lethal(3)malignant brain tumor-like protein 2
+RELT	miRNA tumor suppressors	Tumor necrosis factor receptor superfamily member 19L
+TP53INP1	miRNA tumor suppressors	Tumor protein p53-inducible nuclear protein 1
+TPD52L3	miRNA tumor suppressors	Tumor protein D55
+L3MBTL3	miRNA tumor suppressors	Lethal(3)malignant brain tumor-like protein 3
+TNFRSF13C	miRNA tumor suppressors	Tumor necrosis factor receptor superfamily member 13C
+LITAF	miRNA tumor suppressors	Lipopolysaccharide-induced tumor necrosis factor-alpha factor
+TSG101	miRNA tumor suppressors	Tumor susceptibility gene 101 protein
+LZTS2	miRNA tumor suppressors	Leucine zipper putative tumor suppressor 2
+MMTAG2	miRNA tumor suppressors	Multiple myeloma tumor-associated protein 2
+C1QTNF6	miRNA tumor suppressors	Complement C1q tumor necrosis factor-related protein 6
+C1QTNF5	miRNA tumor suppressors	Complement C1q tumor necrosis factor-related protein 5
+C1QTNF1	miRNA tumor suppressors	Complement C1q tumor necrosis factor-related protein 1
+C1QTNF7	miRNA tumor suppressors	Complement C1q tumor necrosis factor-related protein 7
+C1QTNF4	miRNA tumor suppressors	Complement C1q tumor necrosis factor-related protein 4
+C1QTNF3	miRNA tumor suppressors	Complement C1q tumor necrosis factor-related protein 3
+C1QTNF2	miRNA tumor suppressors	Complement C1q tumor necrosis factor-related protein 2
+TP63	miRNA tumor suppressors	Tumor protein 63
+TPT1P8	miRNA tumor suppressors	Putative translationally-controlled tumor protein-like protein TPT1P8
+EDA2R	miRNA tumor suppressors	Tumor necrosis factor receptor superfamily member 27
+ST20	miRNA tumor suppressors	Suppressor of tumorigenicity 20 protein
+TNFRSF12A	miRNA tumor suppressors	Tumor necrosis factor receptor superfamily member 12A
+ZNF71	miRNA tumor suppressors	Endothelial zinc finger protein induced by tumor necrosis factor alpha
+ST7	miRNA tumor suppressors	Suppressor of tumorigenicity 7 protein
+TNFRSF19	miRNA tumor suppressors	Tumor necrosis factor receptor superfamily member 19
+ETAA1	miRNA tumor suppressors	Ewing's tumor-associated antigen 1
+PTTG3P	miRNA tumor suppressors	Putative pituitary tumor-transforming gene 3 protein
+GLTSCR1	miRNA tumor suppressors	Glioma tumor suppressor candidate region gene 1 protein
+GLTSCR2	miRNA tumor suppressors	Glioma tumor suppressor candidate region gene 2 protein
+TNFRSF10D	miRNA tumor suppressors	Tumor necrosis factor receptor superfamily member 10D
+DMBT1	miRNA tumor suppressors	Deleted in malignant brain tumors 1 protein
+MTUS1	miRNA tumor suppressors	Microtubule-associated tumor suppressor 1
+EDAR	miRNA tumor suppressors	Tumor necrosis factor receptor superfamily member EDAR
+TNFSF18	miRNA tumor suppressors	Tumor necrosis factor ligand superfamily member 18
+LZTS1	miRNA tumor suppressors	Leucine zipper putative tumor suppressor 1
+TNFSF13B	miRNA tumor suppressors	Tumor necrosis factor ligand superfamily member 13B
+L3MBTL1	miRNA tumor suppressors	Lethal(3)malignant brain tumor-like protein 1
+TNFRSF18	miRNA tumor suppressors	Tumor necrosis factor receptor superfamily member 18
+ST14	miRNA tumor suppressors	Suppressor of tumorigenicity 14 protein
+TNFRSF11A	miRNA tumor suppressors	Tumor necrosis factor receptor superfamily member 11A

@@ -1,0 +1,17 @@
+pval.hypergeom.disease.node=
+disease.net.coverage.rate.edge=99.01
+disease.net.coverage.rate.node=98.88
+degree.image.path=output/tissue_process/degree.png
+graph.nodes.no=89
+graph.edges.no=101
+graph.density=0.013
+graph.diameter=9
+graph.avg.path.length=3.208
+graph.transitivity=0
+tissue.hotspots=
+degree.hotspots=hsa-mir-155, hsa-let-7b, hsa-mir-21, hsa-mir-146a, hsa-mir-145, TP53, TGFB1, E2F3, hsa-mir-221
+closeness.hotspots=hsa-mir-210, E2F3, BMPR1A, hsa-mir-21, TGFB1, hsa-mir-221, ESR1, PDGFA, hsa-let-7d
+betweenness.hotspots=hsa-mir-155, TP53, hsa-mir-221, hsa-mir-21, TGFB1, hsa-mir-146a, PDGFA, SPI1, hsa-mir-25
+eigenvector.hotspots=hsa-mir-155, SPI1, TGFB1, TP53, SMAD4, MSH2, MSH6, FLI1, SERTAD2
+common.hotspots=TGFB1
+union.hotspots=hsa-mir-155, hsa-let-7b, hsa-mir-21, hsa-mir-146a, hsa-mir-145, TP53, TGFB1, E2F3, hsa-mir-221, hsa-mir-210, BMPR1A, ESR1, PDGFA, hsa-let-7d, SPI1, hsa-mir-25, SMAD4, MSH2, MSH6, FLI1, SERTAD2

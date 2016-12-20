@@ -1,0 +1,6 @@
+load("/Library/WebServer/Documents/tfmir-master_current/backend/databases_human.RDATA")
+View("/Library/WebServer/Documents/tfmir-master_current/backend/databases_human.RDATA")
+load("/Library/WebServer/Documents/tfmir_gg/backend/databases2_TFmiR_mentha.RDATA")
+load("/Library/WebServer/Documents/tfmir_gg/backend/databases2_TFmiR_string.RDATA")
+load("/Library/WebServer/Documents/tfmir_gg/backend/databases_human.RDATA")
+load("/Library/WebServer/Documents/TFmiR/backend/databases2_TFmiR_human.RDATA")

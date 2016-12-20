@@ -1,0 +1,9 @@
+{
+    "path" : "/Library/WebServer/Documents/TFmiR2/backend/output/disease",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}

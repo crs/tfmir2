@@ -1,0 +1,180 @@
+Category	Term	Count	Mir	Percentage	Pval	Pval.BH	Pval.Bonf
+function	Epithelial-mesenchymal transition	12	hsa-mir-200a, hsa-mir-200b, hsa-mir-200c, hsa-mir-141, hsa-mir-205, hsa-mir-155, hsa-mir-21, hsa-mir-221, hsa-let-7b, hsa-let-7c, hsa-let-7d, hsa-mir-29a	29.2682926829268	0.000123452494207208	0.00427688029212064	0.00444428979145949
+function	miRNA tumor suppressors	11	hsa-mir-141, hsa-mir-200a, hsa-mir-200b, hsa-mir-200c, hsa-let-7b, hsa-let-7c, hsa-let-7d, hsa-let-7i, hsa-mir-143, hsa-mir-145, hsa-mir-29a	29.7297297297297	0.000237604460673369	0.00427688029212064	0.00855376058424129
+function	cell death	13	hsa-mir-205, hsa-mir-143, hsa-mir-145, hsa-mir-155, hsa-mir-146a, hsa-mir-21, hsa-mir-221, hsa-mir-10b, hsa-let-7b, hsa-let-7c, hsa-let-7d, hsa-let-7i, hsa-mir-25	23.6363636363636	0.000677777720857515	0.00813333265029018	0.0243999979508705
+function	cell motility	6	hsa-mir-205, hsa-mir-10b, hsa-mir-21, hsa-mir-145, hsa-mir-200a, hsa-mir-143	42.8571428571429	0.00110485062041044	0.00994365558369398	0.0397746223347759
+function	Folliculogenesis	4	hsa-mir-143, hsa-let-7b, hsa-let-7c, hsa-mir-21	57.1428571428571	0.00248182114862853	0.0178691122701254	0.089345561350627
+function	cell division	6	hsa-mir-106b, hsa-let-7b, hsa-let-7c, hsa-let-7d, hsa-let-7i, hsa-mir-27a	35.2941176470588	0.003659393225423	0.021956359352538	0.131738156115228
+function	smooth muscle cell fate	2	hsa-mir-143, hsa-mir-145	100	0.0101148423640721	0.043088282426544	0.364134325106595
+function	adipocyte differentiation	7	hsa-mir-143, hsa-mir-221, hsa-mir-27a, hsa-let-7b, hsa-let-7c, hsa-let-7d, hsa-let-7i	25.9259259259259	0.0112765938795066	0.043088282426544	0.405957379662239
+function	Granulopoiesis	4	hsa-let-7d, hsa-let-7c, hsa-mir-155, hsa-mir-21	40	0.011962271451607	0.043088282426544	0.430641772257854
+function	HIV latency	6	hsa-mir-106b, hsa-mir-143, hsa-mir-155, hsa-mir-25, hsa-mir-29a, hsa-mir-93	28.5714285714286	0.0119689673407067	0.043088282426544	0.430882824265441
+function	anti-cell proliferation	4	hsa-let-7b, hsa-let-7c, hsa-let-7d, hsa-let-7i	36.3636363636364	0.0174752168353801	0.0571916187339713	0.629107806073684
+function	onco-miRNAs	7	hsa-mir-106b, hsa-mir-146a, hsa-mir-155, hsa-mir-21, hsa-mir-221, hsa-mir-93, hsa-mir-27a	22.5806451612903	0.0249195599755615	0.0702865555502614	0.897104159120213
+function	carbohydrate metabolism	3	hsa-mir-200a, hsa-mir-200b, hsa-mir-21	42.8571428571429	0.0253812561709277	0.0702865555502614	0.913725222153398
+function	Bone regeneration	7	hsa-let-7b, hsa-let-7d, hsa-mir-143, hsa-mir-155, hsa-mir-22, hsa-mir-221, hsa-mir-93	20.5882352941176	0.0408753811422702	0.102385567454245	1
+function	Cell cycle related	11	hsa-let-7b, hsa-mir-141, hsa-mir-143, hsa-mir-145, hsa-mir-155, hsa-mir-200b, hsa-mir-200c, hsa-mir-205, hsa-mir-21, hsa-mir-221, hsa-mir-27a	16.6666666666667	0.0426606531059356	0.102385567454245	1
+function	Cell proliferation	6	hsa-let-7c, hsa-let-7d, hsa-mir-143, hsa-mir-145, hsa-mir-21, hsa-mir-221	21.4285714285714	0.0495585028218323	0.111506631349123	1
+disease	Neoplasms	24	hsa-let-7b, hsa-let-7c, hsa-let-7d, hsa-let-7i, hsa-mir-155, hsa-mir-21, hsa-mir-29a, hsa-mir-200a, hsa-mir-200b, hsa-mir-200c, hsa-mir-10b, hsa-mir-141, hsa-mir-145, hsa-mir-27a, hsa-mir-106b, hsa-mir-25, hsa-mir-9-2, hsa-mir-93, hsa-mir-205, hsa-mir-143, hsa-mir-146a, hsa-mir-22, hsa-mir-181b-1, hsa-mir-221	18.3206106870229	1.24994766435428e-14	3.1498681141728e-12	3.1498681141728e-12
+disease	Lung Neoplasms	24	hsa-let-7b, hsa-let-7c, hsa-let-7d, hsa-let-7i, hsa-mir-143, hsa-mir-145, hsa-mir-146a, hsa-mir-155, hsa-mir-205, hsa-mir-21, hsa-mir-29a, hsa-mir-9-2, hsa-mir-93, hsa-mir-181b-1, hsa-mir-338, hsa-mir-200a, hsa-mir-200b, hsa-mir-200c, hsa-mir-221, hsa-mir-25, hsa-mir-22, hsa-mir-10b, hsa-mir-23a, hsa-mir-27a	15.2866242038217	1.2736398053061e-12	1.60478615468569e-10	3.20957230937138e-10
+disease	Colonic Neoplasms	19	hsa-let-7b, hsa-let-7c, hsa-let-7d, hsa-let-7i, hsa-mir-141, hsa-mir-143, hsa-mir-145, hsa-mir-155, hsa-mir-200b, hsa-mir-21, hsa-mir-221, hsa-mir-146a, hsa-mir-205, hsa-mir-106b, hsa-mir-10b, hsa-mir-9-2, hsa-mir-22, hsa-mir-200c, hsa-mir-29a	21.1111111111111	2.09421089627847e-11	1.75913715287391e-09	5.27741145862173e-09
+disease	Breast Neoplasms	26	hsa-let-7d, hsa-mir-10b, hsa-mir-143, hsa-mir-145, hsa-mir-146a, hsa-mir-155, hsa-mir-181b-1, hsa-mir-21, hsa-mir-9-2, hsa-mir-200a, hsa-mir-200b, hsa-mir-200c, hsa-mir-141, hsa-mir-205, hsa-mir-106b, hsa-mir-25, hsa-mir-93, hsa-mir-338, hsa-mir-221, hsa-mir-29a, hsa-mir-27a, hsa-let-7c, hsa-mir-22, hsa-let-7b, hsa-let-7i, hsa-mir-23a	10.6995884773663	7.26451345965406e-11	4.57664347958206e-09	1.83065739183282e-08
+disease	Ovarian Neoplasms	21	hsa-mir-21, hsa-mir-145, hsa-mir-141, hsa-mir-93, hsa-let-7b, hsa-mir-106b, hsa-mir-25, hsa-mir-338, hsa-mir-200a, hsa-mir-200b, hsa-let-7i, hsa-mir-146a, hsa-mir-155, hsa-mir-29a, hsa-let-7c, hsa-let-7d, hsa-mir-200c, hsa-mir-27a, hsa-mir-22, hsa-mir-10b, hsa-mir-221	16.2790697674419	1.27734948862672e-10	6.43784142267868e-09	3.21892071133934e-08
+disease	Hepatitis B	12	hsa-mir-146a, hsa-mir-181b-1, hsa-mir-200a, hsa-mir-200b, hsa-mir-200c, hsa-mir-221, hsa-mir-106b, hsa-let-7c, hsa-mir-25, hsa-mir-141, hsa-mir-338, hsa-mir-29a	35.2941176470588	1.22124439365777e-09	5.12922645336263e-08	3.07753587201758e-07
+disease	Melanoma	22	hsa-mir-221, hsa-mir-106b, hsa-mir-25, hsa-mir-93, hsa-mir-338, hsa-mir-200a, hsa-mir-200b, hsa-let-7b, hsa-let-7c, hsa-let-7d, hsa-let-7i, hsa-mir-143, hsa-mir-146a, hsa-mir-155, hsa-mir-145, hsa-mir-200c, hsa-mir-205, hsa-mir-22, hsa-mir-21, hsa-mir-9-2, hsa-mir-141, hsa-mir-29a	13.3333333333333	1.75749752657486e-09	6.32699109566951e-08	4.42889376696866e-07
+disease	Pancreatic Neoplasms	19	hsa-mir-146a, hsa-mir-181b-1, hsa-mir-21, hsa-mir-221, hsa-mir-25, hsa-mir-155, hsa-let-7b, hsa-let-7c, hsa-let-7d, hsa-let-7i, hsa-mir-200b, hsa-mir-200a, hsa-mir-27a, hsa-mir-143, hsa-mir-145, hsa-mir-200c, hsa-mir-10b, hsa-mir-338, hsa-mir-23a	16.2393162393162	3.46565395541385e-09	9.9502788308753e-08	8.73344796764291e-07
+disease	Colorectal Neoplasms	22	hsa-mir-143, hsa-mir-145, hsa-mir-181b-1, hsa-mir-21, hsa-mir-141, hsa-mir-29a, hsa-mir-221, hsa-mir-200a, hsa-mir-93, hsa-mir-155, hsa-mir-9-2, hsa-mir-22, hsa-let-7b, hsa-mir-200c, hsa-let-7c, hsa-mir-200b, hsa-mir-10b, hsa-mir-23a, hsa-mir-338, hsa-mir-146a, hsa-mir-25, hsa-mir-27a	12.8654970760234	3.85077150606985e-09	9.9502788308753e-08	9.70394419529602e-07
+disease	Prostatic Neoplasms	20	hsa-mir-145, hsa-mir-146a, hsa-mir-181b-1, hsa-mir-21, hsa-mir-25, hsa-mir-221, hsa-mir-205, hsa-mir-106b, hsa-mir-93, hsa-mir-22, hsa-mir-143, hsa-mir-27a, hsa-mir-200a, hsa-mir-200b, hsa-mir-200c, hsa-mir-141, hsa-let-7d, hsa-let-7c, hsa-let-7b, hsa-mir-29a	14.9253731343284	3.94852334558544e-09	9.9502788308753e-08	9.9502788308753e-07
+disease	Carcinoma, Renal Cell	19	hsa-mir-141, hsa-mir-155, hsa-mir-200b, hsa-mir-200c, hsa-mir-106b, hsa-let-7b, hsa-let-7c, hsa-let-7d, hsa-let-7i, hsa-mir-205, hsa-mir-146a, hsa-mir-21, hsa-mir-93, hsa-mir-9-2, hsa-mir-200a, hsa-mir-143, hsa-mir-145, hsa-mir-10b, hsa-mir-27a	14.2857142857143	3.81327856434743e-08	8.73587452923229e-07	9.60946198215551e-06
+disease	Adenocarcinoma	13	hsa-mir-205, hsa-mir-155, hsa-mir-200a, hsa-mir-200c, hsa-mir-21, hsa-mir-221, hsa-mir-143, hsa-mir-145, hsa-mir-10b, hsa-mir-200b, hsa-mir-181b-1, hsa-mir-25, hsa-mir-93	23.6363636363636	5.24874868136124e-08	1.10223722308586e-06	1.32268466770303e-05
+disease	Carcinoma	12	hsa-mir-21, hsa-mir-23a, hsa-mir-155, hsa-let-7i, hsa-mir-106b, hsa-mir-10b, hsa-mir-145, hsa-mir-205, hsa-mir-221, hsa-mir-200a, hsa-mir-200b, hsa-mir-200c	25.531914893617	8.50547909888552e-08	1.64875440993781e-06	2.14338073291915e-05
+disease	Carcinoma, Hepatocellular	24	hsa-mir-200a, hsa-mir-21, hsa-mir-200b, hsa-mir-146a, hsa-mir-145, hsa-mir-221, hsa-mir-155, hsa-let-7d, hsa-let-7i, hsa-let-7c, hsa-let-7b, hsa-mir-93, hsa-mir-141, hsa-mir-200c, hsa-mir-22, hsa-mir-27a, hsa-mir-23a, hsa-mir-181b-1, hsa-mir-29a, hsa-mir-338, hsa-mir-106b, hsa-mir-10b, hsa-mir-205, hsa-mir-25	9.6	1.14643671294679e-07	2.06358608330423e-06	2.88902051662592e-05
+disease	Inflammation	10	hsa-mir-146a, hsa-mir-181b-1, hsa-mir-21, hsa-mir-29a, hsa-mir-155, hsa-mir-221, hsa-let-7b, hsa-let-7c, hsa-let-7d, hsa-let-7i	32.258064516129	1.27839025479922e-07	2.14769562806269e-06	3.22154344209403e-05
+disease	Endometrial Neoplasms	13	hsa-mir-9-2, hsa-mir-27a, hsa-mir-155, hsa-mir-200a, hsa-mir-21, hsa-mir-200b, hsa-mir-200c, hsa-mir-141, hsa-let-7b, hsa-let-7c, hsa-let-7d, hsa-let-7i, hsa-mir-205	20.9677419354839	2.55447603390587e-07	4.02329975340175e-06	6.4372796054428e-05
+disease	Head and Neck Neoplasms	14	hsa-let-7b, hsa-let-7c, hsa-let-7d, hsa-let-7i, hsa-mir-155, hsa-mir-181b-1, hsa-mir-205, hsa-mir-21, hsa-mir-221, hsa-mir-200c, hsa-mir-141, hsa-mir-143, hsa-mir-9-2, hsa-mir-145	17.9487179487179	5.62646800702165e-07	8.34041139864386e-06	0.000141786993776946
+disease	Thyroid Neoplasms	12	hsa-mir-141, hsa-mir-146a, hsa-mir-200a, hsa-mir-200b, hsa-mir-22, hsa-mir-221, hsa-mir-21, hsa-mir-155, hsa-mir-25, hsa-mir-9-2, hsa-mir-200c, hsa-mir-10b	21.4285714285714	7.28865568272495e-07	1.02041179558149e-05	0.000183674123204669
+disease	Lupus Erythematosus, Systemic	9	hsa-mir-200a, hsa-mir-200b, hsa-mir-200c, hsa-mir-205, hsa-mir-141, hsa-mir-146a, hsa-mir-21, hsa-mir-155, hsa-mir-145	31.0344827586207	9.66624708903975e-07	1.28204961391475e-05	0.000243589426643802
+disease	Endometriosis	13	hsa-mir-141, hsa-mir-143, hsa-mir-145, hsa-mir-200a, hsa-mir-200b, hsa-mir-200c, hsa-let-7b, hsa-let-7c, hsa-let-7d, hsa-let-7i, hsa-mir-22, hsa-mir-10b, hsa-mir-23a	18.5714285714286	1.20935101859952e-06	1.5237822834354e-05	0.000304756456687079
+disease	Esophageal Neoplasms	14	hsa-mir-21, hsa-mir-143, hsa-mir-145, hsa-mir-200c, hsa-mir-141, hsa-mir-146a, hsa-mir-205, hsa-mir-25, hsa-let-7b, hsa-let-7c, hsa-mir-155, hsa-mir-22, hsa-mir-200a, hsa-mir-27a	16.8674698795181	1.29974262132639e-06	1.55969114559167e-05	0.000327535140574251
+disease	Myelodysplastic Syndromes	10	hsa-mir-221, hsa-mir-145, hsa-mir-146a, hsa-let-7b, hsa-let-7c, hsa-let-7d, hsa-let-7i, hsa-mir-21, hsa-mir-155, hsa-mir-143	23.8095238095238	3.15437789776652e-06	3.61319650107801e-05	0.000794903230237163
+disease	Leukemia, Myeloid, Acute	13	hsa-mir-146a, hsa-mir-25, hsa-let-7b, hsa-let-7c, hsa-let-7d, hsa-let-7i, hsa-mir-155, hsa-mir-221, hsa-mir-29a, hsa-mir-143, hsa-mir-145, hsa-mir-181b-1, hsa-mir-27a	17.1052631578947	3.37405668036087e-06	3.69679253674322e-05	0.000850262283450941
+disease	Urinary Bladder Neoplasms	15	hsa-mir-143, hsa-mir-205, hsa-mir-21, hsa-mir-93, hsa-mir-145, hsa-mir-200b, hsa-mir-9-2, hsa-mir-200c, hsa-mir-141, hsa-mir-200a, hsa-mir-27a, hsa-mir-155, hsa-mir-10b, hsa-mir-221, hsa-mir-146a	14.1509433962264	4.76479843169078e-06	5.00303835327532e-05	0.00120072920478608
+disease	Hypertrophy	8	hsa-let-7b, hsa-let-7c, hsa-let-7d, hsa-let-7i, hsa-mir-21, hsa-mir-155, hsa-mir-23a, hsa-mir-221	29.6296296296296	6.82039473281767e-06	6.87495789068021e-05	0.00171873947267005
+disease	Barrett Esophagus	7	hsa-mir-143, hsa-mir-145, hsa-mir-21, hsa-mir-200a, hsa-mir-200b, hsa-mir-200c, hsa-mir-141	35	8.40179857840969e-06	8.14328169907401e-05	0.00211725324175924
+disease	Mouth Neoplasms	8	hsa-let-7b, hsa-mir-200a, hsa-mir-200c, hsa-mir-141, hsa-mir-21, hsa-mir-10b, hsa-mir-29a, hsa-mir-205	28.5714285714286	9.27433795930583e-06	8.65604876201877e-05	0.00233713316574507
+disease	Asthma	7	hsa-let-7b, hsa-let-7c, hsa-let-7d, hsa-let-7i, hsa-mir-146a, hsa-mir-155, hsa-mir-221	33.3333333333333	1.22306805932179e-05	0.000110076125338961	0.0030821315094909
+disease	Uterine Cervical Neoplasms	11	hsa-mir-143, hsa-mir-145, hsa-mir-146a, hsa-mir-155, hsa-mir-200a, hsa-mir-21, hsa-mir-338, hsa-mir-9-2, hsa-mir-205, hsa-mir-27a, hsa-mir-221	18.3333333333333	1.38964142178899e-05	0.000120755047686491	0.00350189638290825
+disease	Glioblastoma	15	hsa-mir-21, hsa-mir-181b-1, hsa-mir-155, hsa-mir-143, hsa-mir-221, hsa-mir-145, hsa-mir-9-2, hsa-mir-10b, hsa-mir-200b, hsa-mir-146a, hsa-mir-29a, hsa-mir-22, hsa-mir-25, hsa-mir-205, hsa-let-7d	12.7118644067797	2.04561745079859e-05	0.000171831865867082	0.00515495597601245
+disease	Carcinoma, Squamous Cell	13	hsa-mir-21, hsa-mir-155, hsa-let-7i, hsa-mir-106b, hsa-mir-10b, hsa-mir-27a, hsa-mir-205, hsa-mir-200c, hsa-mir-146a, hsa-mir-145, hsa-mir-181b-1, hsa-let-7d, hsa-mir-143	13.9784946236559	3.79853812500107e-05	0.000308784389516216	0.00957231607500269
+disease	Nasopharyngeal Neoplasms	9	hsa-mir-10b, hsa-let-7b, hsa-let-7c, hsa-let-7d, hsa-let-7i, hsa-mir-155, hsa-mir-205, hsa-mir-146a, hsa-mir-9-2	20.4545454545455	4.47878650637921e-05	0.000325138288670836	0.0112865419960756
+disease	Lymphoma, B-Cell	8	hsa-mir-155, hsa-mir-22, hsa-mir-146a, hsa-mir-29a, hsa-mir-21, hsa-mir-9-2, hsa-mir-145, hsa-mir-143	23.5294117647059	4.54533178483124e-05	0.000325138288670836	0.0114542360977747
+disease	Glomerulonephritis, IGA	4	hsa-mir-200b, hsa-mir-200a, hsa-mir-146a, hsa-mir-155	66.6666666666667	4.57823895801795e-05	0.000325138288670836	0.0115371621742052
+disease	Nephrosclerosis	4	hsa-mir-200a, hsa-mir-200b, hsa-mir-141, hsa-mir-205	66.6666666666667	4.57823895801795e-05	0.000325138288670836	0.0115371621742052
+disease	HIV	5	hsa-mir-21, hsa-mir-29a, hsa-mir-155, hsa-mir-9-2, hsa-mir-221	45.4545454545455	4.77385582572259e-05	0.000325138288670836	0.0120301166808209
+disease	Diabetic Nephropathies	5	hsa-mir-21, hsa-mir-29a, hsa-mir-200a, hsa-mir-200b, hsa-mir-200c	45.4545454545455	4.77385582572259e-05	0.000325138288670836	0.0120301166808209
+disease	Stomach Neoplasms	19	hsa-mir-21, hsa-mir-221, hsa-mir-25, hsa-mir-27a, hsa-mir-106b, hsa-mir-141, hsa-mir-93, hsa-mir-9-2, hsa-mir-155, hsa-mir-181b-1, hsa-mir-145, hsa-mir-146a, hsa-mir-10b, hsa-mir-143, hsa-mir-200c, hsa-mir-200b, hsa-mir-29a, hsa-mir-200a, hsa-mir-22	9.26829268292683	7.31476669631492e-05	0.000485084528281937	0.0184332120747136
+disease	Liver Neoplasms	6	hsa-mir-29a, hsa-mir-10b, hsa-mir-21, hsa-let-7i, hsa-mir-200a, hsa-let-7b	31.5789473684211	8.31798643276135e-05	0.000537469892578426	0.0209613258105586
+disease	Wounds and Injuries	4	hsa-mir-143, hsa-mir-145, hsa-mir-9-2, hsa-mir-21	57.1428571428571	0.000103549317653175	0.000652360701215001	0.0260944280486
+disease	Adrenocortical Carcinoma	10	hsa-let-7b, hsa-let-7c, hsa-let-7d, hsa-mir-106b, hsa-mir-143, hsa-mir-145, hsa-mir-146a, hsa-mir-155, hsa-mir-200b, hsa-mir-200c	16.1290322580645	0.000132945521731247	0.000817128572592057	0.0335022714762743
+disease	Muscular Disorders, Atrophic	9	hsa-let-7c, hsa-let-7i, hsa-mir-143, hsa-mir-145, hsa-mir-146a, hsa-mir-155, hsa-mir-21, hsa-mir-22, hsa-mir-221	17.6470588235294	0.00015726124942817	0.000943567496569021	0.0396298348558989
+disease	Lymphoma, Primary Effusion	5	hsa-let-7b, hsa-let-7c, hsa-let-7d, hsa-let-7i, hsa-mir-221	35.7142857142857	0.000188416096098853	0.00109974155199023	0.047480856216911
+disease	Lymphoma, Large B-Cell, Diffuse	4	hsa-mir-155, hsa-mir-21, hsa-mir-221, hsa-mir-200c	50	0.000200746473775995	0.00109974155199023	0.0505881113915507
+disease	Colitis, Ulcerative	4	hsa-mir-155, hsa-mir-21, hsa-mir-143, hsa-mir-145	50	0.000200746473775995	0.00109974155199023	0.0505881113915507
+disease	Helplessness, Learned	4	hsa-mir-141, hsa-mir-200a, hsa-mir-200b, hsa-mir-200c	50	0.000200746473775995	0.00109974155199023	0.0505881113915507
+disease	Liver Cirrhosis	6	hsa-mir-21, hsa-mir-200a, hsa-mir-200b, hsa-mir-29a, hsa-mir-221, hsa-mir-181b-1	27.2727272727273	0.000208558169763654	0.00111822678256257	0.0525566587804409
+disease	Cholangiocarcinoma	5	hsa-mir-141, hsa-mir-200b, hsa-mir-21, hsa-mir-25, hsa-mir-200c	33.3333333333333	0.000273949455864548	0.00143823464328888	0.0690352628778662
+disease	Heart Diseases	3	hsa-mir-21, hsa-mir-23a, hsa-mir-27a	75	0.000315086785045347	0.00155689940845936	0.0794018698314273
+disease	Liposarcoma	3	hsa-let-7b, hsa-mir-143, hsa-mir-155	75	0.000315086785045347	0.00155689940845936	0.0794018698314273
+disease	Influenza, Human	3	hsa-mir-29a, hsa-let-7c, hsa-mir-146a	75	0.000315086785045347	0.00155689940845936	0.0794018698314273
+disease	Carcinoma, Non-Small-Cell Lung	13	hsa-mir-205, hsa-mir-21, hsa-mir-143, hsa-mir-155, hsa-mir-221, hsa-mir-27a, hsa-let-7b, hsa-mir-146a, hsa-mir-200c, hsa-mir-200b, hsa-mir-145, hsa-mir-93, hsa-let-7d	11.5044247787611	0.000340802534404522	0.00162061329841702	0.0858822386699396
+disease	Huntington Disease	4	hsa-mir-146a, hsa-mir-200a, hsa-mir-200c, hsa-mir-22	44.4444444444444	0.000350259572878606	0.00162061329841702	0.0882654123654087
+disease	Leiomyoma	4	hsa-mir-106b, hsa-mir-93, hsa-mir-200a, hsa-let-7c	44.4444444444444	0.000350259572878606	0.00162061329841702	0.0882654123654087
+disease	Precursor Cell Lymphoblastic Leukemia-Lymphoma	6	hsa-mir-29a, hsa-mir-221, hsa-mir-146a, hsa-let-7b, hsa-mir-143, hsa-mir-181b-1	25	0.000353705283384667	0.00162061329841702	0.0891337314129362
+disease	Atherosclerosis	6	hsa-mir-145, hsa-mir-146a, hsa-mir-21, hsa-mir-221, hsa-mir-143, hsa-mir-155	24	0.000451242796503196	0.00203059258426438	0.113713184718805
+disease	Glioma	11	hsa-mir-181b-1, hsa-mir-21, hsa-mir-106b, hsa-mir-93, hsa-mir-221, hsa-mir-145, hsa-mir-27a, hsa-mir-10b, hsa-mir-9-2, hsa-mir-143, hsa-mir-200b	12.7906976744186	0.000492691231055931	0.0021782138636157	0.124158190226095
+disease	Vascular Diseases	4	hsa-mir-23a, hsa-mir-145, hsa-mir-21, hsa-mir-27a	40	0.000565857987313919	0.00238877190821381	0.142596212803108
+disease	Sarcoma, Ewing	4	hsa-mir-21, hsa-mir-106b, hsa-mir-145, hsa-let-7b	40	0.000565857987313919	0.00238877190821381	0.142596212803108
+disease	Multiple Sclerosis	6	hsa-mir-21, hsa-mir-146a, hsa-mir-338, hsa-mir-155, hsa-mir-22, hsa-mir-29a	23.0769230769231	0.000568755216241382	0.00238877190821381	0.143326314492828
+disease	Heart Failure	14	hsa-let-7b, hsa-let-7c, hsa-let-7d, hsa-mir-106b, hsa-mir-10b, hsa-mir-200c, hsa-mir-205, hsa-mir-21, hsa-mir-22, hsa-mir-27a, hsa-mir-29a, hsa-mir-23a, hsa-mir-155, hsa-mir-145	10.2189781021898	0.00065132182009055	0.00269070653545604	0.164133098662818
+disease	Leukemia, Lymphocytic, Chronic, B-Cell	8	hsa-mir-146a, hsa-mir-155, hsa-mir-221, hsa-mir-29a, hsa-mir-22, hsa-mir-106b, hsa-mir-181b-1, hsa-mir-21	16.3265306122449	0.000723938346642398	0.00294245908635297	0.182432463353884
+disease	Periodontal Diseases	3	hsa-mir-146a, hsa-mir-155, hsa-mir-106b	60	0.000764101582140034	0.00305640632856014	0.192553598699289
+disease	Autistic Disorder	7	hsa-mir-106b, hsa-mir-146a, hsa-mir-21, hsa-mir-23a, hsa-mir-27a, hsa-mir-93, hsa-mir-181b-1	18.4210526315789	0.000793836164410185	0.0031257298973651	0.200046713431367
+disease	ACTH-Secreting Pituitary Adenoma	4	hsa-mir-141, hsa-mir-143, hsa-mir-145, hsa-mir-21	36.3636363636364	0.000861926232489173	0.00329099106950411	0.217205410587271
+disease	Digestive System Neoplasms	4	hsa-let-7b, hsa-let-7c, hsa-let-7d, hsa-let-7i	36.3636363636364	0.000861926232489173	0.00329099106950411	0.217205410587271
+disease	Sarcoma, Kaposi	5	hsa-let-7b, hsa-let-7c, hsa-let-7d, hsa-let-7i, hsa-mir-221	26.3157894736842	0.000936260247058327	0.00352145645162236	0.235937582258698
+disease	Laryngeal Neoplasms	6	hsa-mir-93, hsa-mir-106b, hsa-mir-21, hsa-mir-145, hsa-mir-205, hsa-mir-155	20.6896551724138	0.00106937021689348	0.00396296021554643	0.269481294657157
+disease	Myocardium	3	hsa-mir-25, hsa-mir-29a, hsa-mir-21	50	0.00148242077469989	0.0053367147889196	0.373570035224372
+disease	Cardiomyopathy, Dilated	3	hsa-let-7i, hsa-mir-155, hsa-mir-21	50	0.00148242077469989	0.0053367147889196	0.373570035224372
+disease	Carcinoma, Small Cell	4	hsa-mir-21, hsa-let-7c, hsa-mir-143, hsa-mir-145	30.7692307692308	0.00175467632037975	0.00622786524979856	0.442178432735698
+disease	Gastrointestinal Neoplasms	6	hsa-mir-221, hsa-mir-200a, hsa-mir-200b, hsa-mir-200c, hsa-mir-338, hsa-mir-146a	18.75	0.00185864790213974	0.006296738289566	0.468379271339214
+disease	Myocardial Reperfusion Injury	2	hsa-mir-21, hsa-mir-146a	100	0.0019489904229609	0.006296738289566	0.491145586586148
+disease	Lymphoma, Extranodal NK-T-Cell	2	hsa-mir-155, hsa-mir-27a	100	0.0019489904229609	0.006296738289566	0.491145586586148
+disease	Esophagus	2	hsa-mir-205, hsa-mir-21	100	0.0019489904229609	0.006296738289566	0.491145586586148
+disease	Brain Injuries	2	hsa-mir-21, hsa-let-7i	100	0.0019489904229609	0.006296738289566	0.491145586586148
+disease	Behcet Syndrome	2	hsa-mir-155, hsa-mir-146a	100	0.0019489904229609	0.006296738289566	0.491145586586148
+disease	Carcinoma, Neuroendocrine	2	hsa-mir-155, hsa-mir-21	100	0.0019489904229609	0.006296738289566	0.491145586586148
+disease	Retinoblastoma	7	hsa-let-7d, hsa-let-7i, hsa-let-7c, hsa-let-7b, hsa-mir-181b-1, hsa-mir-10b, hsa-mir-29a	15.9090909090909	0.00200623561867118	0.00639963766968529	0.505571375905138
+disease	Neurodegenerative Diseases	3	hsa-let-7b, hsa-mir-146a, hsa-mir-338	42.8571428571429	0.00251657436748492	0.00773386269031952	0.6341767406062
+disease	Carcinoma, Ehrlich Tumor	3	hsa-mir-200a, hsa-mir-200b, hsa-mir-141	42.8571428571429	0.00251657436748492	0.00773386269031952	0.6341767406062
+disease	Kidney Neoplasms	3	hsa-mir-21, hsa-mir-200c, hsa-mir-141	42.8571428571429	0.00251657436748492	0.00773386269031952	0.6341767406062
+disease	Scleroderma, Systemic	4	hsa-mir-29a, hsa-mir-21, hsa-mir-146a, hsa-mir-145	26.6666666666667	0.00314744621162942	0.00955610175097124	0.793156445330613
+disease	Neoplasms, Squamous Cell	6	hsa-mir-221, hsa-mir-181b-1, hsa-mir-23a, hsa-mir-25, hsa-mir-21, hsa-mir-338	16.6666666666667	0.00352745645318992	0.0105823693595698	0.88891902620386
+disease	Lichen Planus, Oral	3	hsa-mir-21, hsa-mir-146a, hsa-mir-155	37.5	0.00390607110371028	0.0115803519780587	0.98432991813499
+disease	Pituitary Neoplasms	4	hsa-let-7b, hsa-let-7c, hsa-let-7d, hsa-let-7i	25	0.00406784984979922	0.0118207327013205	1
+disease	Hepatitis C	6	hsa-mir-23a, hsa-mir-29a, hsa-mir-155, hsa-mir-21, hsa-let-7b, hsa-mir-27a	16.2162162162162	0.00408096724212255	0.0118207327013205	1
+disease	Osteosarcoma	7	hsa-mir-143, hsa-mir-93, hsa-mir-181b-1, hsa-mir-145, hsa-mir-29a, hsa-mir-21, hsa-mir-221	14	0.00434790266033471	0.0124508121636858	1
+disease	Obesity	3	hsa-mir-143, hsa-mir-21, hsa-mir-221	33.3333333333333	0.00568397686912611	0.0155707387051768	1
+disease	Diabetes Mellitus	3	hsa-mir-21, hsa-mir-146a, hsa-mir-155	33.3333333333333	0.00568397686912611	0.0155707387051768	1
+disease	Lymphoma, Non-Hodgkin	2	hsa-mir-155, hsa-mir-21	66.6666666666667	0.00568455540030265	0.0155707387051768	1
+disease	Demyelinating Diseases	2	hsa-mir-21, hsa-mir-155	66.6666666666667	0.00568455540030265	0.0155707387051768	1
+disease	Hodgkin Disease	5	hsa-mir-155, hsa-mir-21, hsa-mir-9-2, hsa-mir-205, hsa-mir-106b	17.8571428571429	0.00597025096616611	0.0161774542309017	1
+disease	Eosinophilic Esophagitis	5	hsa-mir-21, hsa-mir-146a, hsa-mir-106b, hsa-let-7c, hsa-mir-145	17.2413793103448	0.00699126778893124	0.0187425476894752	1
+disease	Burkitt Lymphoma	3	hsa-mir-155, hsa-mir-146a, hsa-mir-93	30	0.00787745638990276	0.0206783230234948	1
+disease	Mycosis Fungoides	3	hsa-mir-155, hsa-mir-93, hsa-let-7d	30	0.00787745638990276	0.0206783230234948	1
+disease	Alzheimer Disease	5	hsa-mir-29a, hsa-mir-106b, hsa-mir-146a, hsa-mir-21, hsa-mir-9-2	16.6666666666667	0.0081303431689079	0.0211221286449978	1
+disease	Crohn Disease	4	hsa-mir-200b, hsa-mir-23a, hsa-mir-29a, hsa-mir-200c	20	0.00956021294198165	0.0245834047079528	1
+disease	Polycythemia Vera	3	hsa-mir-155, hsa-mir-21, hsa-mir-221	27.2727272727273	0.0105082801989329	0.0267483495972837	1
+disease	Tuberculosis, Pulmonary	5	hsa-mir-146a, hsa-mir-29a, hsa-mir-21, hsa-mir-155, hsa-mir-181b-1	15.625	0.0107897848762362	0.0271902578881152	1
+disease	Child Development Disorders, Pervasive	2	hsa-mir-106b, hsa-mir-23a	50	0.0110540240155599	0.027309941685501	1
+disease	Choriocarcinoma	2	hsa-mir-141, hsa-mir-145	50	0.0110540240155599	0.027309941685501	1
+disease	Medulloblastoma	8	hsa-mir-10b, hsa-mir-181b-1, hsa-mir-9-2, hsa-mir-21, hsa-mir-338, hsa-mir-143, hsa-mir-145, hsa-mir-146a	10.5263157894737	0.0133429623797467	0.0326449176669532	1
+disease	Astrocytoma	4	hsa-mir-181b-1, hsa-mir-21, hsa-mir-221, hsa-mir-23a	18.1818181818182	0.0135624096829075	0.0328627619239681	1
+disease	Neuroblastoma	6	hsa-mir-10b, hsa-mir-9-2, hsa-mir-106b, hsa-mir-93, hsa-mir-21, hsa-mir-145	12.7659574468085	0.0137847605493407	0.0330834253184176	1
+disease	Mesothelioma	5	hsa-mir-21, hsa-mir-29a, hsa-mir-143, hsa-mir-25, hsa-mir-106b	14.2857142857143	0.0158291605215048	0.037480487885051	1
+disease	Cardiomyopathy, Hypertrophic	4	hsa-mir-181b-1, hsa-mir-23a, hsa-mir-21, hsa-mir-9-2	17.3913043478261	0.0159143341416685	0.037480487885051	1
+disease	Myocardial Infarction	5	hsa-mir-21, hsa-mir-10b, hsa-mir-155, hsa-mir-29a, hsa-mir-106b	13.8888888888889	0.017813306338975	0.0403064376851397	1
+disease	Endomyocardial Fibrosis	2	hsa-mir-25, hsa-mir-29a	40	0.0179139723045065	0.0403064376851397	1
+disease	Cholesteatoma	2	hsa-mir-221, hsa-mir-21	40	0.0179139723045065	0.0403064376851397	1
+disease	Alopecia	2	hsa-mir-106b, hsa-mir-221	40	0.0179139723045065	0.0403064376851397	1
+disease	Fatty Liver, Non-Alcoholic	2	hsa-mir-21, hsa-mir-10b	40	0.0179139723045065	0.0403064376851397	1
+disease	Ischemia	3	hsa-mir-21, hsa-mir-23a, hsa-mir-155	21.4285714285714	0.0211713504999632	0.0472139851857587	1
+disease	Biliary Tract Neoplasms	3	hsa-mir-9-2, hsa-mir-145, hsa-let-7i	20	0.0256773265720467	0.0562794573802674	1
+disease	Cardiomyopathies	2	hsa-mir-21, hsa-mir-27a	33.3333333333333	0.0261297480694099	0.0562794573802674	1
+disease	Fibrosis	2	hsa-mir-21, hsa-mir-29a	33.3333333333333	0.0261297480694099	0.0562794573802674	1
+disease	Aortic Valve Stenosis	2	hsa-mir-141, hsa-mir-21	33.3333333333333	0.0261297480694099	0.0562794573802674	1
+disease	Lymphoma	6	hsa-mir-146a, hsa-mir-155, hsa-mir-200a, hsa-mir-200b, hsa-mir-200c, hsa-mir-21	10.7142857142857	0.0314010023729418	0.0670597677795028	1
+disease	Meningioma	2	hsa-mir-200a, hsa-mir-145	28.5714285714286	0.0355750175501798	0.0712933342038259	1
+disease	Trophoblasts	2	hsa-mir-205, hsa-mir-93	28.5714285714286	0.0355750175501798	0.0712933342038259	1
+disease	Kidney Diseases	2	hsa-mir-29a, hsa-mir-155	28.5714285714286	0.0355750175501798	0.0712933342038259	1
+disease	Inflammatory Bowel Diseases	2	hsa-mir-21, hsa-mir-155	28.5714285714286	0.0355750175501798	0.0712933342038259	1
+disease	Periodontitis	3	hsa-let-7c, hsa-mir-181b-1, hsa-mir-23a	17.6470588235294	0.0361300901549132	0.0712933342038259	1
+disease	Renal Insufficiency	1	hsa-mir-155	100	0.0449826989619377	0.0712933342038259	1
+disease	Focal Epithelial Hyperplasia	1	hsa-mir-21	100	0.0449826989619377	0.0712933342038259	1
+disease	Eczema	1	hsa-mir-146a	100	0.0449826989619377	0.0712933342038259	1
+disease	Hyperglycemia	1	hsa-mir-221	100	0.0449826989619377	0.0712933342038259	1
+disease	Carcinoma, Ductal, Breast	1	hsa-mir-21	100	0.0449826989619377	0.0712933342038259	1
+disease	Granulosa Cell Tumor	1	hsa-mir-21	100	0.0449826989619377	0.0712933342038259	1
+disease	Colorectal Neoplasms, Hereditary Nonpolyposis	1	hsa-mir-155	100	0.0449826989619377	0.0712933342038259	1
+disease	Francisella	1	hsa-mir-155	100	0.0449826989619377	0.0712933342038259	1
+disease	Chlamydia Infections	1	hsa-mir-146a	100	0.0449826989619377	0.0712933342038259	1
+disease	Fibroblasts	1	hsa-mir-155	100	0.0449826989619377	0.0712933342038259	1
+disease	Adenoma	1	hsa-mir-21	100	0.0449826989619377	0.0712933342038259	1
+disease	Endothelium, Vascular	1	hsa-mir-221	100	0.0449826989619377	0.0712933342038259	1
+disease	Neuroma, Acoustic	1	hsa-mir-21	100	0.0449826989619377	0.0712933342038259	1
+disease	Scleroderma, Localized	1	hsa-mir-29a	100	0.0449826989619377	0.0712933342038259	1
+disease	Cystic Fibrosis	1	hsa-mir-155	100	0.0449826989619377	0.0712933342038259	1
+disease	Diabetic Retinopathy	1	hsa-mir-200b	100	0.0449826989619377	0.0712933342038259	1
+disease	Intervertebral Disk	1	hsa-mir-155	100	0.0449826989619377	0.0712933342038259	1
+disease	Encephalomyelitis, Autoimmune, Experimental	1	hsa-mir-155	100	0.0449826989619377	0.0712933342038259	1
+disease	Gastritis, Atrophic	1	hsa-mir-155	100	0.0449826989619377	0.0712933342038259	1
+disease	Colitis	1	hsa-mir-155	100	0.0449826989619377	0.0712933342038259	1
+disease	Creutzfeldt-Jakob Syndrome	1	hsa-mir-146a	100	0.0449826989619377	0.0712933342038259	1
+disease	Gerstmann-Straussler-Scheinker Disease	1	hsa-mir-146a	100	0.0449826989619377	0.0712933342038259	1
+disease	Leprosy	1	hsa-mir-21	100	0.0449826989619377	0.0712933342038259	1
+disease	Hypopharyngeal Neoplasms	1	hsa-mir-21	100	0.0449826989619377	0.0712933342038259	1
+disease	Cataract	1	hsa-let-7b	100	0.0449826989619377	0.0712933342038259	1
+disease	Aortic Aneurysm, Abdominal	1	hsa-mir-21	100	0.0449826989619377	0.0712933342038259	1
+disease	Hypoxia-Ischemia, Brain	1	hsa-mir-145	100	0.0449826989619377	0.0712933342038259	1
+disease	Albuminuria	1	hsa-mir-21	100	0.0449826989619377	0.0712933342038259	1
+disease	Graft vs Host Disease	1	hsa-mir-155	100	0.0449826989619377	0.0712933342038259	1
+disease	Osteolysis	1	hsa-mir-21	100	0.0449826989619377	0.0712933342038259	1
+disease	Diabetes Complications	1	hsa-mir-155	100	0.0449826989619377	0.0712933342038259	1
+disease	Lung Diseases	1	hsa-mir-106b	100	0.0449826989619377	0.0712933342038259	1
+disease	Leukemia, lymphoblastic, Acute	1	hsa-mir-221	100	0.0449826989619377	0.0712933342038259	1
+disease	Ovary Syndrome	1	hsa-mir-93	100	0.0449826989619377	0.0712933342038259	1
+disease	Carcinoma, Oral	1	hsa-mir-27a	100	0.0449826989619377	0.0712933342038259	1
+disease	Osteosarcoma 	1	hsa-mir-21	100	0.0449826989619377	0.0712933342038259	1
+disease	Osteoarthritis	2	hsa-mir-146a, hsa-mir-155	25	0.0461313330323364	0.0717598513836344	1
+disease	Acute Coronary Syndrome	2	hsa-mir-146a, hsa-mir-155	25	0.0461313330323364	0.0717598513836344	1
+disease	Toxoplasmosis	2	hsa-mir-106b, hsa-mir-93	25	0.0461313330323364	0.0717598513836344	1
+disease	Diabetes Mellitus, Type 2	3	hsa-mir-146a, hsa-mir-21, hsa-mir-143	15.7894736842105	0.0484797562412678	0.0749502979926348	1

@@ -1,0 +1,17 @@
+pval.hypergeom.disease.node=
+disease.net.coverage.rate.edge=100
+disease.net.coverage.rate.node=100
+degree.image.path=output/disease_process/degree.png
+graph.nodes.no=19
+graph.edges.no=18
+graph.density=0.05
+graph.diameter=5
+graph.avg.path.length=2.098
+graph.transitivity=0
+tissue.hotspots=TP53
+degree.hotspots=TP53, hsa-mir-221
+closeness.hotspots=hsa-let-7d, PDGFA
+betweenness.hotspots=hsa-mir-221, TP53
+eigenvector.hotspots=TP53, hsa-mir-221
+common.hotspots=
+union.hotspots=TP53, hsa-mir-221, hsa-let-7d, PDGFA

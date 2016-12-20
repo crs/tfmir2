@@ -1,0 +1,42 @@
+immune system
+cell proliferation
+anti-cell proliferation
+Activation of caspases cascade
+Akt pathway
+Angiogenesis
+Apoptosis
+Bone regeneration
+Cardiogenesis
+Cell cycle related
+Cell differentiation
+Chemosensitivity of tumor cells
+Granulopoiesis
+HCV infection
+HIV latency
+Hormones regulation
+Human embryonic stem cell (hESC) regulation
+Immune response
+Inflammation
+Muscle development
+Folliculogenesis
+lipid metabolism
+brain development
+hematopoiesis
+adipocyte differentiation
+circadian clock
+smooth muscle cell fate
+carbohydrate metabolism
+cell death
+cell division
+cell fate determination
+cell motility
+chemotaxis
+cholesterol biosynthesis
+chromatin remodeling
+circadian rhythm
+DNA repair
+glucose metabolism
+heart development
+Epithelial-mesenchymal transition
+onco-miRNAs
+miRNA tumor suppressors

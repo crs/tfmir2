@@ -1,0 +1,16 @@
+{
+    "contents" : "###########################################\n#  - TFMir  Project                       #\n#  - TFMir  read config function          #\n#  - 2014-10-1                            #\n#  - Copyright: Mohamed Hamed             #\n###########################################\n\n#R programming environments:\n#- R studio IDE\n#- R version 2.12.0 (2010-10-15)\n#-Platform: x86_64-apple-darwin9.8.0/x86_64 (64-bit)\n#-locale:   [1] C/en_US.UTF-8/C/C/C/C\n\n#print(getwd())\n#setwd(\"/Library/WebServer/Documents/TFmiR/backend\")\nsetwd('../backend')\n## ==================================================\n## read the configuration file and get the parameters \n## ==================================================\n\nif(identical(speciesp,\"Human\"))\n  configfile=\"config.txt\"\nif(identical(speciesp,\"Mouse\"))\n  configfile=\"config_mouse.txt\"\n\n#configfile=readspecies\nconfig=read.table(as.character(configfile))\nkey=apply(config, 1, function(x) strsplit(x,\"=\")[[1]][1])\nvalue=apply(config, 1, function(x) strsplit(x,\"=\")[[1]][2])\nconfig=as.list(value)\nnames(config)=key\nconfig[\"transmir.file\"]\n\n\n## =====================================================\n## create the log r file and its connection\n## =====================================================\nlogfilename=\"/tmp/rlog.txt\"\nlogfilename=\"rlog.txt\"\nappend=T\n#cat(paste(\"=========================  RUNNING FOR THE FIRST TIME AT \", Sys.time()  ,\" ====================\",sep=\"\"),file=logfilename,sep=\"\\n\")\n\nwriteToLog=function(msg)\n{\n  msg=paste(\"At \",Sys.time(),\" : \",msg)\n  #cat(msg,file=logfilename,sep=\"\\n\",append=T)\n}\n\n\n",
+    "created" : 1478278283302.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1186161861",
+    "id" : "E2D53058",
+    "lastKnownWriteTime" : 1481043396,
+    "path" : "/Library/WebServer/Documents/TFmiR2/backend/readconfig.R",
+    "project_path" : "readconfig.R",
+    "properties" : {
+    },
+    "source_on_save" : false,
+    "type" : "r_source"
+}

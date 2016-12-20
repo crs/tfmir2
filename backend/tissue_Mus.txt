@@ -1,0 +1,26 @@
+Adrenal Gland
+ROSA)26Sor
+Bladder
+Cerebellum
+Central Nervous System
+Colon
+Cortex
+Duodenum
+Frontal Lobe
+Genital Adipose
+Heart
+Kidney
+Large Intestine
+Limb
+Liver
+Lung
+Mammary Gland
+Ovary
+Placenta
+Subcutaneous Adipose
+Small Intestine
+Spleen
+Stomach
+Testis
+Thymus
+Whole Brain

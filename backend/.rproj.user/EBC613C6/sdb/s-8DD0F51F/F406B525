@@ -1,0 +1,16 @@
+{
+    "contents" : "pval.hypergeom.disease.node=\ndisease.net.coverage.rate.edge=100\ndisease.net.coverage.rate.node=100\ndegree.image.path=output/disease_tissue/degree.png\ngraph.nodes.no=187\ngraph.edges.no=232\ngraph.density=0.007\ngraph.diameter=9\ngraph.avg.path.length=3.293\ngraph.transitivity=0.016\ntissue.hotspots=BAX, TP53, BID\ndegree.hotspots=TP53, hsa-mir-155, ESR1, AKT1, hsa-let-7b, TGFB1, hsa-mir-21, hsa-mir-146a, E2F3, hsa-mir-30a, hsa-mir-145, BAX, TERT, hsa-mir-221, hsa-mir-210, hsa-mir-143, hsa-let-7d, SPI1, MSH2\ncloseness.hotspots=hsa-mir-210, E2F3, hsa-mir-106b, AKT1, ASH2L, hsa-mir-22, hsa-mir-193b, BTF3, BCAS2, ATAD2, BMPR1A, ESR1, TGFB1, hsa-mir-21, hsa-mir-221, PDGFA, hsa-let-7d, PDLIM7, CREB1\nbetweenness.hotspots=TP53, hsa-mir-155, ESR1, hsa-mir-146a, SPI1, hsa-mir-21, TGFB1, BRCA2, hsa-mir-221, hsa-mir-145, E2F3, BAX, hsa-mir-25, PDGFA, hsa-let-7d, MSH2, USF2, hsa-mir-143, YBX1\neigenvector.hotspots=TP53, ESR1, MSH2, hsa-mir-155, hsa-mir-221, TERT, ASH2L, TRRAP, hsa-mir-200c, BACH1, hsa-mir-143, hsa-mir-145, BBC3, BAX, TGFB1, UBE2I, YBX1, hsa-mir-200b, hsa-mir-200a\ncommon.hotspots=ESR1, TGFB1, hsa-mir-221\nunion.hotspots=TP53, hsa-mir-155, ESR1, AKT1, hsa-let-7b, TGFB1, hsa-mir-21, hsa-mir-146a, E2F3, hsa-mir-30a, hsa-mir-145, BAX, TERT, hsa-mir-221, hsa-mir-210, hsa-mir-143, hsa-let-7d, SPI1, MSH2, hsa-mir-106b, ASH2L, hsa-mir-22, hsa-mir-193b, BTF3, BCAS2, ATAD2, BMPR1A, PDGFA, PDLIM7, CREB1, BRCA2, hsa-mir-25, USF2, YBX1, TRRAP, hsa-mir-200c, BACH1, BBC3, UBE2I, hsa-mir-200b, hsa-mir-200a\n",
+    "created" : 1480508650191.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2193933063",
+    "id" : "F406B525",
+    "lastKnownWriteTime" : 1480519119,
+    "path" : "/Library/WebServer/Documents/TFmiR/backend/output/disease_tissue/summary.txt",
+    "project_path" : "output/disease_tissue/summary.txt",
+    "properties" : {
+    },
+    "source_on_save" : false,
+    "type" : "text"
+}

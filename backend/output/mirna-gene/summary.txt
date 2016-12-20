@@ -1,0 +1,14 @@
+Category.of.Interactions=mirna-gene
+Evidence=Experimental
+Target.input.set=1262
+Regulator.input.set=121
+ORA.pval.cutoff=0.05
+Total.Targets.inDb=2906
+Total.Regulators.inDb=626
+Deregulated.targets.by.inputRegulator=1081
+Deregulated.targets.of.inputRegulator.and.in.input.targetlist.overlap=88
+no.of.resultant.interactions=108
+no.of.interactions.associated.with.input.disease=108
+venn.pval.hypergeom=2.80186707867907e-09
+venn.pval.simulation=0
+Venn.image.path=output/mirna-gene/venn.png

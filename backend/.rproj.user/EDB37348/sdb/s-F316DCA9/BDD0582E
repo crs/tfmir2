@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "###########################################\n#  - TFMir  Project                       #\n#  - TFMir  Demo test for the TFMIR script#\n#  - 2014-10-1                            #\n#  - Copyright: Mohamed Hamed             #\n###########################################\n#R programming environments:\n#- R studio IDE\n#- R version 2.12.0 (2010-10-15)\n#-Platform: x86_64-apple-darwin9.8.0/x86_64 (64-bit)\n#-locale:   [1] C/en_US.UTF-8/C/C/C/C\nsetwd(\"/Library/WebServer/Documents/TFmiR/backend\")\noptions(warn=1)\ntf.path=\"./Data/genes.bc.diff.txt\"\n#mirna.path=\"mirna.sample.txt\"\n#tf.path=\"\"\n#tf.path=\"genes.bc.diff.txt\"\nmirna.path=\"./Data/mirna.bc.diff.txt\"\n#tf.path=\"/Users/Maryam/Desktop/prostate_mouse.txt\"\n#tf.path=\"Mouse_diabetes.txt\"\n#tf.path=\"genes.bc.diff_mouse.txt\"\n#mirna.path=\"mirna.bc.diff_mouse.txt\"\n#mirna.path=\"\"\ntissue = \"Breast - Mammary Tissue\"\n#tissue=\"Testis\"\n#process=\"Cell differentiation\"\nprocesses = \"cell death:Cell differentiation\"\n#process = \"cell death\"\n#tissue=\"\"\n#mirna.path=\"\"\n#tissue = \"Testis\"\n#tissue=Thyroid\n#tf.path=\"genes.ad.diff.txt\"\n#mirna.path=\"mirna.ad.diff.txt\"\n\n\n\n#mirna.path=\"\"\npval.cutoff=0.05\n#disease=\"Melanoma\"\n#disease=\"Neoplasm\"\n#disease=\"halabessahbelzabadymolokhia\"\ndisease=\"Breast Neoplasms\"\n#disease=\"Prostate Cancer\"\n#disease=\"Diabetes Mellitus\"\n#disease=\"Polycystic Liver Disease\"\n#disease=\"alzheimer\"\n#disease=\"\"\n\noutput.path=\"output\"\nevidence=\"Experimental\"\n#evidence=\"Predicted\"\n#evidence=\"both\"\nenrich.pval = 0.5\n\nspecies=\"Human\"\n#species=\"Mouse\"\npp.cutoff = 0.8\n\nsource(\"TFMIR.R\")\n\n\nstart.time <- Sys.time()\nTFMir(tf.path,mirna.path,enrich.pval,pval.cutoff,pp.cutoff,evidence,species,disease,processes,tissue,output.path)\nend.time <- Sys.time()\ntime.taken.TFMir <- end.time - start.time\ntime.taken.TFMir\n\n###To find 3-node and 4-node motifs in the networks###########\nstart.time <- Sys.time()\nnet.path=\"./output/disease/res.txt\"\noutput.path=\"./output/disease\"\nExportMotifs(net.path,output.path,evidence,species)\nend.time <- Sys.time()\ntime.taken.TFMir <- end.time - start.time\ntime.taken.TFMir\n\n###To find just 4-node motifs##############\nstart.time <- Sys.time()\nnet.path=\"./output/disease.4node/res.txt\"\n#net.path=\"./output/process.4node/res.txt\"\nnet.path=\"./output/all.4node/res.txt\"\noutput.path=\"./output/disease.4node\"\nExport4NodeMotifs(net.path,output.path,evidence,species)\nend.time <- Sys.time()\ntime.taken.TFMir <- end.time - start.time\ntime.taken.TFMir\n",
+    "created" : 1478290612579.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "342663365",
+    "id" : "BDD0582E",
+    "lastKnownWriteTime" : 1479119436,
+    "last_content_update" : 1479119436589,
+    "path" : "/Library/WebServer/Documents/TFmiR/backend/Demo.R",
+    "project_path" : "Demo.R",
+    "properties" : {
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

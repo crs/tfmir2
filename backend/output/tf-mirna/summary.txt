@@ -1,0 +1,14 @@
+Category.of.Interactions=tf-mirna
+Evidence=Experimental
+Target.input.set=121
+Regulator.input.set=1262
+ORA.pval.cutoff=0.05
+Total.Targets.inDb=187
+Total.Regulators.inDb=198
+Deregulated.targets.by.inputRegulator=70
+Deregulated.targets.of.inputRegulator.and.in.input.targetlist.overlap=26
+no.of.resultant.interactions=43
+no.of.interactions.associated.with.input.disease=43
+venn.pval.hypergeom=8.18587097747812e-15
+venn.pval.simulation=0
+Venn.image.path=output/tf-mirna/venn.png

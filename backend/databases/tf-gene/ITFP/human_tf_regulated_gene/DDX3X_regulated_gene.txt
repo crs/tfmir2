@@ -1,0 +1,9 @@
+DDX3X	ACTR2	0.0539022	normal gene
+DDX3X	ANKHD1-EIF4EBP3	0.0443484	normal gene
+DDX3X	API5	0.046502	normal gene
+DDX3X	CAB39	0.048371	normal gene
+DDX3X	CANX	0.0518973	transcription factor
+DDX3X	CAPRIN1	0.0474973	normal gene
+DDX3X	CD164	0.04542	normal gene
+DDX3X	CDV3	0.0528059	normal gene
+DDX3X	CLI

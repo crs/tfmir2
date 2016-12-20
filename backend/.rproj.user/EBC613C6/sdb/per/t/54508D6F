@@ -1,0 +1,16 @@
+{
+    "contents" : "PMID20584335.file=databases/PMID20584335.txt\n\ntransmir.file=databases/tf-mirna/transmir_v1.2_tab.txt\nchipbase.file=databases/tf-mirna/chipbase.txt\n\nmiRNA.Targets.DBs.file=databases/mirna-gene/miRTargetsDB.xls\nmiRNA.Starbase.file=databases/mirna-gene/starBase.txt\n\npmmr.file=databases/mirna-mirna/pmmr.txt\n\ntransfac.file=databases/tf-gene/TRANSFAC/TRANSFAC.xls\nITFP.folder=databases/tf-gene/ITFP/human_tf_regulated_gene\noreganno.file=databases/tf-gene/oreganno.txt\nmsigdb.file=databases/tf-gene/msigdb-c3-tft-v3_0-symbols.gmt\ntred.file=databases/tf-gene/tred.gmt\n\n\nvenndiagram.width=400\nvenndiagram.hight=400\ndegreediagram.width=500\ndegreediagram.hight=500\nhotspot.percentage=10\npval.cutoffmirna.regulators_targets.fromTFS.inputlist=0.05\npval.cutoffgene.targets_regulators.fromMiRNA.inputlist=0.05\n\npval.cutoff.significant.TF.MIR.PAIRS=0.05\nNO_OF_Times_FOR_Network_Randomizations=100\nNO_OF_Times_FOR_Network_Randomizations_4Node=100\nNO_OF_random_permutations_for_functional_similarity=100\n\nfunsimilarity.diagram.width=600\nfunsimilarity.diagram.height=600\n\n\n\nGO.pkg=TopGO\nKEGG.pkg=Biomart\noutput.directory=output\nmirna.function.association.file=databases/hmdd/v1/mir_function.txt\nmirna.disease.association.file=databases/hmdd/v2/mir_disease.txt\nmirna.dsw.file=databases/hmdd/v2/mir_DSW.txt\ngene.disease.association.file=databases/disgenet/gene_disease.txt\nNO.of.simulation.for.overlap.significance=10000\nTotal.No.of.miRNA=1880\nTotal.No.of.genes=30000\n\ngene.tissue.association.file=databases/tissue_human/human_tissue-spec_genes_exact.txt\ngene.tissue.network.association.file=databases/tissue_human/gene_tissue.txt\nmirna.tissue.association.file=databases/hmdd/v2/mir_disease.txt\n\nmirna.process.association.file=databases/process_human/mirna_process.txt\ngene.process.association.file=databases/process_human/gene_process.txt\n\nmentha.file=databases/gene-gene/human_mentha.tsv\nstring.file=databases/gene-gene/human_string.tsv\n",
+    "created" : 1478689390877.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3625230245",
+    "id" : "54508D6F",
+    "lastKnownWriteTime" : 1478793890,
+    "path" : "/Library/WebServer/Documents/TFmiR/backend/config.txt",
+    "project_path" : "config.txt",
+    "properties" : {
+    },
+    "source_on_save" : false,
+    "type" : "text"
+}

@@ -1,0 +1,1708 @@
+gene	specific tissue
+1700006E09Rik	Testis
+4933427I04Rik	Testis
+Gm7568	Testis
+Pip5k1bos	Testis
+8030423F21Rik	Limb
+4930556J24Rik	Testis
+Gm9573	Genital Adipose
+Prph2	Testis
+Drd3	Colon
+4930571N24Rik	Testis
+4933402J07Rik	Testis
+Gm14154	Testis
+Gm12478	Testis
+Olfr975	Testis
+Gm14152	Testis
+Gm11657	Testis
+Gm15317	Placenta
+Gm11492	Testis
+Gm11491	Testis
+Mixl1	Placenta
+Speer4f1	Testis
+Trdv4	Bladder
+4933427E13Rik	Testis
+1700116B05Rik	Testis
+4933426K07Rik	Testis
+4930550L24Rik	Testis
+Kif16bos	Testis
+Gm15558	Thymus
+Trav5-1	Thymus
+Gm16208	Testis
+Slmapos2	Testis
+Gm4861	Genital Adipose
+Gm16976	Testis
+Gm4868	Testis
+Smok3b	Testis
+4930469K13Rik	Testis
+Zswim2	Testis
+Gm853	Kidney
+Tex13a	Testis
+Gm12305	Thymus
+Scpep1os	Testis
+1700047A11Rik	Testis
+Gm25777	Whole Brain
+4933406J08Rik	Testis
+4932414J04Rik	Testis
+1700120E14Rik	Testis
+Lrit1	Liver
+Gm12786	Testis
+Gm16153	Central Nervous System
+Il17f	Central Nervous System
+Gm16156	Spleen
+1700061J23Rik	Testis
+Speer4d	Testis
+Speer4e	Testis
+Gm16158	Testis
+Gm16159	Testis
+Speer4a	Testis
+Speer4b	Testis
+Speer4c	Testis
+Cma2	Small Intestine
+Trav3-4	Thymus
+Spanxn4	Testis
+Spint4	Genital Adipose
+Spint5	Genital Adipose
+4931429L15Rik	Testis
+Srrm3os	Testis
+Prkag2os1	Testis
+Gm1758	Testis
+Slc25a54	Testis
+Trav15-2-dv6-2	Thymus
+Parvaos	Bladder
+Nipsnap3a	Testis
+4930570N18Rik	Testis
+Tmem207	Kidney
+Ctag2	Testis
+Gm13324	Testis
+Iltifb	Cerebellum
+4930465M20Rik	Testis
+Nron	Thymus
+4921513I03Rik	Testis
+Pabpn1l	Ovary
+Gm16556	Liver
+Gm16554	Genital Adipose
+Gm16555	Testis
+4933412E24Rik	Testis
+Fgf20	Adrenal Gland
+Kdm6bos	Testis
+Avpr1b	Colon
+Dydc1	Testis
+Gm10220	Testis
+BC016548	Mammary Gland
+Gm12868	Bladder
+Gm17202	Testis
+Slco6c1	Testis
+Mmp1a	Placenta
+Mmp1b	Placenta
+Gm17206	Testis
+Gm12867	Bladder
+Gm14151	Testis
+Olfr303	Testis
+Olfr301	Testis
+Mxra8os	Testis
+Ush2a	Testis
+Egfros	Bladder
+4930562A09Rik	Testis
+Kbtbd8os	Testis
+1700031A10Rik	Testis
+Tex36	Testis
+Olfr524	Thymus
+Ccdc110	Testis
+4930469G21Rik	Testis
+Gm23134	Limb
+Ptx4	Limb
+D430001F17Rik	Colon
+Defb38	Genital Adipose
+Defb39	Genital Adipose
+Klk1b16	Testis
+1700026J12Rik	Testis
+Ghrhr	Genital Adipose
+Saxo1os	Testis
+C87414	Ovary
+Gm16080	Testis
+4921524L21Rik	Testis
+Gm14235	Liver
+Nme8	Testis
+Gm10000	Limb
+Gm14232	Testis
+Runx2os3	Testis
+Zfp286it	Testis
+Vsx1	Central Nervous System
+Poteg	Testis
+Gm23925	Central Nervous System
+Gm12888	Stomach
+4930488B22Rik	Testis
+4933404K08Rik	Testis
+Gm9817	Placenta
+Gm8369	Spleen
+Gm14781	Testis
+Lalba	Mammary Gland
+Gm8362	Testis
+Gm8817	Spleen
+4930589P08Rik	Testis
+BC048562	Testis
+4930442J19Rik	Testis
+Gm14161	Genital Adipose
+Ccdc169	Testis
+Nobox	Ovary
+Gm17727	Genital Adipose
+1700024B05Rik	Testis
+Gm23105	Whole Brain
+Cyp11b2	Adrenal Gland
+Gm6356	Testis
+Nudt12os	Testis
+4930594O21Rik	Testis
+4930524N10Rik	Testis
+4930517O19Rik	Testis
+1700057H21Rik	Testis
+Olfr1336	Testis
+Gm13848	Bladder
+Gm14010	Testis
+Gm14012	Testis
+Gm15540	Liver
+Tgm6	Testis
+Gm13923	Testis
+Vmn2r88	Testis
+Mageb4	Testis
+4933428C19Rik	Testis
+Hdgfl1	Testis
+2310079G19Rik	Colon
+4930519G04Rik	Testis
+Gm4871	Testis
+Gm12462	Testis
+Fbxw22	Bladder
+Tcrg-V1	Bladder
+Tcrg-V7	Large Intestine
+Tcrg-V4	Thymus
+1700013D24Rik	Testis
+Gm15775	Ovary
+Gm11844	Liver
+Gm11840	Testis
+Gm25981	Cerebellum
+Gm11842	Testis
+Tm4sf19	Testis
+Gm12316	Testis
+1700084M14Rik	Testis
+Gm11682	Testis
+1700123O12Rik	Testis
+Serpinb3b	Limb
+4933403O08Rik	Testis
+Lrrc75aos1	Testis
+Gm17146	Cerebellum
+AF366264	Testis
+Cela3a	Spleen
+Stpg2	Testis
+Gm13686	Testis
+1700092C10Rik	Testis
+Bloc1s6os	Testis
+Gm16090	Liver
+4932415D10Rik	Testis
+Gm16094	Bladder
+Gm732	Testis
+E330017A01Rik	Ovary
+Obox7	Ovary
+Obox5	Ovary
+Obox2	Ovary
+Obox1	Ovary
+Gm281	Lung
+BC061237	Testis
+Zfp457	Heart
+Nlrp4b	Ovary
+Nlrp4a	Ovary
+Nlrp4e	Testis
+4933421I07Rik	Testis
+1700123K08Rik	Testis
+4930593C16Rik	Testis
+Igkv8-16	Liver
+Igkv8-18	Spleen
+Gm17215	Testis
+1700128F08Rik	Testis
+Prss46	Testis
+Prss47	Testis
+Prss44	Testis
+Prss42	Testis
+Olfr315	Thymus
+Prss40	Testis
+Olfr317	Testis
+1600015I10Rik	Placenta
+Prss48	Testis
+Smok3a	Testis
+Tex19.2	Testis
+Nutm2	Testis
+Nutm1	Testis
+Rergl	Bladder
+4930558J22Rik	Testis
+Platr15	Placenta
+Mecomos	Stomach
+Gm24346	Central Nervous System
+Gm24613	Liver
+4930544M13Rik	Testis
+Gm24451	Central Nervous System
+Defb23	Genital Adipose
+4930522O17Rik	Testis
+Lce1g	Stomach
+Lce1e	Stomach
+Lgsn	Lung
+Fam170b	Testis
+Fam170a	Testis
+Lce1l	Stomach
+Lce1j	Stomach
+1700029P11Rik	Testis
+Lce1h	Stomach
+Lce1i	Stomach
+Als2cr11	Testis
+Nox3	Testis
+1700061E18Rik	Testis
+Tmco5b	Testis
+4930412L05Rik	Testis
+Gm14222	Testis
+Tex24	Testis
+1700067P10Rik	Testis
+Tex21	Testis
+4930515L19Rik	Testis
+Tex28	Testis
+Tex29	Testis
+Gm14820	Ovary
+Spata45	Testis
+4930429F24Rik	Testis
+1700018B08Rik	Testis
+4933405E24Rik	Testis
+Arl14epl	Testis
+Ccdc178	Testis
+Ccdc172	Testis
+Ccdc175	Testis
+1700046C09Rik	Testis
+Gm14950	Testis
+Defb9	Genital Adipose
+1700017G19Rik	Testis
+Defb4	Stomach
+Gm15579	Testis
+Mettl21e	Lung
+Gm14009	Liver
+Gm15755	Testis
+Gm15759	Bladder
+Cst11	Genital Adipose
+Gm15205	Testis
+Cst13	Testis
+Gm15200	Large Intestine
+4921511C20Rik	Testis
+Gm11213	Testis
+Gm13782	Limb
+Gm11217	Testis
+Mup6	Genital Adipose
+Gm14266	Testis
+4931413I07Rik	Testis
+Ppp3r2	Testis
+Mup1	Liver
+Svs4	Subcutaneous Adipose
+Svs2	Subcutaneous Adipose
+Lrcol1	Genital Adipose
+4930453H23Rik	Testis
+Gm19518	Testis
+Gm16311	Testis
+Krt42	Thymus
+4933423P22Rik	Testis
+1700007M16Rik	Testis
+Trdv1	Thymus
+Gm11697	Limb
+Trdv5	Thymus
+Gm11691	Testis
+Dnajc5g	Testis
+1700001J04Rik	Testis
+Gm15199	Bladder
+4930443O20Rik	Testis
+1700013H16Rik	Testis
+Krtap5-5	Small Intestine
+Usp26	Testis
+Cyp26c1	Central Nervous System
+C78197	Thymus
+Gm15990	Testis
+4930433N12Rik	Testis
+Gm16083	Central Nervous System
+Gm16086	Thymus
+Crnn	Limb
+Trbv4	Thymus
+Trbv3	Thymus
+Trbv2	Thymus
+Gm7347	Testis
+Gm13348	Testis
+4930527A07Rik	Testis
+Gm1979	Testis
+Tmem225	Testis
+4930579O11Rik	Testis
+Gm15507	Ovary
+Clec4b2	Liver
+Spesp1	Testis
+Gm7932	Kidney
+1700006A11Rik	Testis
+Kif2b	Testis
+Wfdc11	Genital Adipose
+Ces4a	Liver
+4930595D18Rik	Testis
+Sprr2h	Frontal Lobe
+Sprr2e	Stomach
+Prss54	Testis
+Rhox4g	Placenta
+Prss51	Testis
+Olfr325	Testis
+Calcoco2	Placenta
+Prss58	Testis
+Snord68	Placenta
+1700109G15Rik	Testis
+1700057H15Rik	Testis
+Cypt3	Testis
+4930449E01Rik	Testis
+4933406F09Rik	Testis
+4930579F01Rik	Testis
+1700015F17Rik	Testis
+Tlx1os	Testis
+Zc2hc1b	Testis
+E230015B07Rik	Genital Adipose
+Gm9947	Cortex
+Gm24339	Liver
+Pet2	Testis
+Cyp2j11	Kidney
+Gm21989	Placenta
+4931400O07Rik	Testis
+4930590J08Rik	Testis
+Defb18	Genital Adipose
+Defb14	Testis
+Defb15	Genital Adipose
+Olfr432	Spleen
+Gm4491	Cortex
+Defb12	Genital Adipose
+Defb13	Genital Adipose
+1700039E15Rik	Testis
+Gm11635	Testis
+1700104B16Rik	Testis
+Gm6729	Testis
+Trdv2-2	Thymus
+Gm15338	Cortex
+Acrv1	Testis
+4930463O16Rik	Testis
+2310044K18Rik	Testis
+Gm9837	Testis
+Gm14812	Testis
+Trim60	Ovary
+Banf2	Testis
+Izumo3	Testis
+Gm23346	Cerebellum
+Dynap	Ovary
+Rnase11	Genital Adipose
+Hist1h1t	Testis
+Krtap13	Colon
+4933413L06Rik	Testis
+Slc26a5	Placenta
+Sult2a5	Liver
+Sult2a3	Liver
+Trpd52l3	Testis
+Gm14100	Bladder
+Gm14104	Testis
+4933406J10Rik	Testis
+Gm11444	Testis
+Klrc3	Mammary Gland
+Gm15562	Cerebellum
+Gm15569	Testis
+Rfpl4	Ovary
+Smim23	Testis
+Gm13976	Testis
+1700016G14Rik	Testis
+Gm14617	Testis
+Gm15747	Testis
+Gm15966	Testis
+Gm12531	Testis
+Gm12532	Testis
+Loxhd1	Testis
+4930551L18Rik	Testis
+n-R5s160	Liver
+Best2	Colon
+4933428M09Rik	Testis
+Gm6086	Colon
+Rrh	Central Nervous System
+Gm884	Testis
+Bcas1os2	Testis
+1700010H22Rik	Testis
+4921511H03Rik	Testis
+Gm13807	Testis
+Cylc1	Testis
+Cylc2	Testis
+Gm12404	Testis
+Mageb18	Testis
+Gm16322	Testis
+Gm11537	Thymus
+1700030A11Rik	Testis
+4933407I08Rik	Testis
+A730013G03Rik	Limb
+Khdc1c	Placenta
+Khdc1b	Ovary
+1700010K23Rik	Testis
+4933409G03Rik	Testis
+Gm17120	Testis
+Ifi202b	Limb
+Cdrt4os1	Testis
+Cdrt4os2	Testis
+Olfr71	Lung
+4930442L01Rik	Testis
+Hormad1	Testis
+Gm25321	Placenta
+Ftmt	Testis
+Hrh4	Testis
+Gm13598	Testis
+Fam187a	Testis
+Prdm14	Placenta
+Gm13372	Liver
+1700017N19Rik	Testis
+Gm13575	Genital Adipose
+Gm3848	Testis
+4933427J07Rik	Testis
+Gm16059	Bladder
+Gm13322	Cortex
+4930557F10Rik	Testis
+Dmrtc1c2	Placenta
+Dmrtc1c1	Placenta
+C230066G23Rik	Central Nervous System
+Uts2	Cerebellum
+Gm15658	Large Intestine
+Syce1l	Testis
+Fgf6	Limb
+Gm10475	Testis
+Fgf4	Limb
+Gm10471	Testis
+Smco1	Heart
+Gm3443	Testis
+Ceacam15	Placenta
+Satl1	Testis
+4933435F18Rik	Testis
+Toporsl	Testis
+Gm20485	Ovary
+Gm20484	Testis
+Odam	Genital Adipose
+1700120B22Rik	Testis
+Pard3bos3	Liver
+1700061F12Rik	Testis
+Pard3bos1	Testis
+Plxna4os3	Testis
+9530002B09Rik	Testis
+Cts7	Placenta
+4930432L08Rik	Testis
+Olfr199	Testis
+Gm17677	Genital Adipose
+Psmb11	Thymus
+1700025D23Rik	Testis
+4933417A18Rik	Testis
+Lce3d	Stomach
+Lce3e	Stomach
+Lce3a	Stomach
+4930512M02Rik	Testis
+Lce3c	Stomach
+Gm10722	Whole Brain
+Gm24253	Placenta
+Spinkl	Genital Adipose
+Pdcl2	Testis
+4933400A11Rik	Testis
+Ugt2a2	Frontal Lobe
+Ugt2a1	Frontal Lobe
+Tex43	Testis
+Ssmem1	Testis
+Gm14809	Testis
+4930538E20Rik	Testis
+Gm14773	Testis
+1700121N20Rik	Testis
+1700023H06Rik	Testis
+Gm14372	Thymus
+Etv2	Testis
+Gm12962	Kidney
+Gm11523	Limb
+Mipepos	Testis
+4930597A21Rik	Spleen
+Cabp4	Spleen
+Gm14114	Whole Brain
+Gm11184	Testis
+Gm15512	Cerebellum
+Gm15511	Testis
+Gm22884	Cerebellum
+4931417E11Rik	Testis
+Gm13963	Large Intestine
+Gm13964	Testis
+Gm11232	Subcutaneous Adipose
+Gm15738	Testis
+Fam186a	Testis
+4930456L15Rik	Testis
+Gm12505	Testis
+Gm15735	Cerebellum
+Gm12506	Colon
+Gm14597	Testis
+Vmn2r7	Testis
+Magea2	Placenta
+Vmn2r2	Cerebellum
+Magea4	Testis
+C230038L03Rik	Testis
+1700121C08Rik	Testis
+Ccdc154	Testis
+Gm12434	Testis
+Brs3	Central Nervous System
+Gm12865	Testis
+Gm15350	Testis
+Gm15353	Placenta
+Krt28	Cerebellum
+Gm12347	Mammary Gland
+Gm12348	Testis
+Krt27	Placenta
+Krt24	Cerebellum
+Prop1	Ovary
+0610012D04Rik	Placenta
+Capza3	Testis
+Gm8267	Testis
+Gm6890	Testis
+4930513O06Rik	Testis
+Gm13103	Ovary
+4930441J16Rik	Testis
+Gm17114	Colon
+Smim9	Testis
+Gm17111	Testis
+Gm12763	Testis
+Mir675	Frontal Lobe
+Gm12766	Limb
+Antxrl	Testis
+4930522N08Rik	Testis
+Ccer1	Testis
+4930407I10Rik	Testis
+Trim30c	Liver
+Gm12295	Heart
+Agbl1	Mammary Gland
+Gm12299	Bladder
+Gm13270	Bladder
+4932431P20Rik	Testis
+Gm13589	Central Nervous System
+Abhd12b	Stomach
+Gm13584	Testis
+Dcdc2c	Testis
+4930544L04Rik	Testis
+4930471C06Rik	Testis
+Smc1b	Testis
+Actl10	Testis
+Gm16191	Adrenal Gland
+Pldi	Testis
+1700092E19Rik	Testis
+Tsga8	Testis
+Spag11a	Genital Adipose
+Gm6526	Testis
+Gm10912	Testis
+4921501E09Rik	Testis
+Pdzd9	Testis
+Fbxo43	Testis
+Gm5127	Central Nervous System
+4921522P10Rik	Testis
+Fhitos	Testis
+4931413K12Rik	Testis
+Cnbd1	Testis
+Gm9961	Ovary
+Enthd1	Testis
+4930589L23Rik	Testis
+Sel1l2	Testis
+A930009A15Rik	Frontal Lobe
+Gm5878	Testis
+Gm10735	Limb
+4930548G14Rik	Testis
+Gm11655	Testis
+1700061H18Rik	Testis
+4930527E20Rik	Testis
+Tigd4	Limb
+Mip	Limb
+Myh15	Testis
+Olfr701	Testis
+4930507D10Rik	Testis
+4930505K14Rik	Testis
+1700095J12Rik	Testis
+Vmn2r121	Testis
+Trav18	Thymus
+Trav19	Thymus
+Tbc1d21	Testis
+Gm24860	Central Nervous System
+Trav16	Thymus
+Gsdma3	Thymus
+Axdnd1	Testis
+Gm12977	Testis
+Gm12970	Testis
+Snord1b	Placenta
+Gm16334	Testis
+4930549C01Rik	Testis
+Taar5	Central Nervous System
+Dcpp3	Ovary
+Gm22761	Whole Brain
+1700015E13Rik	Testis
+Gm2381	Placenta
+Klra9	Bladder
+Klra8	Bladder
+Gm15509	Testis
+Klra5	Liver
+Lyzl1	Testis
+Fam71a	Testis
+Gm14635	Limb
+Tas2r135	Cerebellum
+Gm8180	Testis
+Hyal6	Testis
+Hyal5	Testis
+Gm11739	Testis
+1700001G01Rik	Testis
+Kir3dl2	Central Nervous System
+Igf1os	Subcutaneous Adipose
+4930533K18Rik	Testis
+Nell1os	Testis
+Cldn34d	Testis
+Cldn34a	Testis
+1700020N01Rik	Testis
+Gm14124	Placenta
+Gm13822	Thymus
+Gm15340	Thymus
+Gm15341	Testis
+Sh2d1b2	Placenta
+Rhox1	Placenta
+Gm15657	Large Intestine
+Tktl1	Testis
+Tktl2	Testis
+Gm13775	Liver
+4930516K23Rik	Testis
+Trp53tg5	Testis
+Gm12514	Placenta
+Glipr1l1	Testis
+Gm15230	Bladder
+Glipr1l2	Testis
+B230398E01Rik	Testis
+Lrit2	Liver
+Gm12519	Heart
+Cplx4	Testis
+Fam47c	Testis
+Sbpl	Thymus
+Gm17104	Central Nervous System
+Hsfy2	Testis
+Olfr54	Adrenal Gland
+Pde6h	Testis
+D030047H15Rik	Bladder
+1700066O22Rik	Testis
+Gm11958	Heart
+Dppa2	Placenta
+Dppa3	Ovary
+Triml2	Placenta
+Lrrc37a	Testis
+Gm17077	Cerebellum
+Kcnj1	Kidney
+Zdhhc11	Testis
+Piwil1	Testis
+Gm17079	Testis
+4930401O10Rik	Testis
+Gm16075	Cerebellum
+Gm13008	Liver
+Gm16079	Testis
+Gm16078	Kidney
+Snora75	Whole Brain
+Gm13001	Testis
+1700027A07Rik	Testis
+4930533B01Rik	Testis
+BC050972	Testis
+1700125H03Rik	Testis
+H2bfm	Testis
+Gm17252	Genital Adipose
+Izumo2	Testis
+4930401O12Rik	Testis
+7420426K07Rik	Ovary
+1700128E19Rik	Testis
+Spag17os	Cerebellum
+C130079G13Rik	Limb
+4930447F04Rik	Testis
+Gm5640	Placenta
+1700031F10Rik	Testis
+Gm5132	Testis
+Gm24123	Whole Brain
+Gm10634	Testis
+Gm24494	Placenta
+4930503E14Rik	Testis
+Noto	Ovary
+Gja8	Testis
+Gm17657	Testis
+Nckap5los	Testis
+Rhox10	Testis
+Rhox11	Testis
+1700021N21Rik	Testis
+Gm5862	Testis
+Gm9732	Testis
+Olfr666	Genital Adipose
+Gm16577	Testis
+Gm10706	Genital Adipose
+Mbd3l1	Testis
+4930433I11Rik	Testis
+4930483J18Rik	Testis
+4933414I15Rik	Testis
+Ube4bos2	Testis
+Ube4bos3	Testis
+Dusp21	Testis
+4933434M16Rik	Testis
+Cldn34b1	Testis
+Cldn34b2	Testis
+Cldn34b3	Testis
+Cldn34b4	Testis
+4930442H23Rik	Testis
+Erich6b	Testis
+1700058P15Rik	Testis
+Olfm5	Frontal Lobe
+4933411O13Rik	Testis
+4930407G08Rik	Testis
+Gm22154	Placenta
+Snord111	Whole Brain
+Gm13942	Testis
+Gm6117	Testis
+Gm13941	Testis
+Ighv6-7	Spleen
+Ifnl2	Adrenal Gland
+Gm15083	Cerebellum
+1700025C18Rik	Testis
+Gm25820	Central Nervous System
+Gm11725	Thymus
+Gm11722	Bladder
+Gm23553	Placenta
+Gm14139	Placenta
+4930596D02Rik	Testis
+Gm15669	Testis
+Gm12364	Testis
+Gm25694	Cerebellum
+Gm15880	Spleen
+Gm15391	Testis
+Gm12167	Heart
+Gm15398	Testis
+Gm11542	Cerebellum
+Gm17227	Testis
+Kcnk18	Ovary
+Gm8247	Frontal Lobe
+Plac8l1	Testis
+Prss23os	Testis
+Gm15247	Central Nervous System
+Timm8a2	Testis
+Gm16440	Central Nervous System
+1700019A02Rik	Testis
+Ssxb6	Testis
+Ssxb2	Testis
+AY512915	Ovary
+Gm16280	Testis
+Gm12708	Spleen
+Gm12440	Testis
+4930556L07Rik	Testis
+4930480G23Rik	Testis
+Gm13388	Placenta
+Pabpc6	Testis
+Samd7	Testis
+Gm13547	Testis
+Gm13016	Frontal Lobe
+Gm12018	Testis
+Gm15866	Bladder
+1700019E08Rik	Testis
+Fer1l5	Testis
+4930588K23Rik	Testis
+Rnu12	Cerebellum
+E130111B04Rik	Cerebellum
+1700025N21Rik	Testis
+Cd209e	Mammary Gland
+4933416E03Rik	Testis
+Gm436	Bladder
+4930542C12Rik	Testis
+4930448H16Rik	Testis
+Bsph2	Genital Adipose
+Gm7257	Placenta
+Bsph1	Genital Adipose
+Trbv23	Thymus
+Trbv20	Thymus
+Mir433	Limb
+Dnah14	Testis
+Ccdc70	Testis
+Actrt1	Testis
+Adam34	Testis
+Gm5105	Heart
+Adam30	Testis
+Gm10840	Testis
+Gm15890	Testis
+Adam39	Testis
+Trav21-dv12	Thymus
+Heatr4	Testis
+Saxo1	Testis
+Gm10629	Testis
+Heatr9	Testis
+1700034E13Rik	Testis
+Ptchd3	Testis
+4930551O13Rik	Testis
+Ankrd7	Testis
+Lyg1	Stomach
+Omt2b	Ovary
+Omt2a	Ovary
+Adgrg4	Kidney
+Ccdc7b	Testis
+Olfr279	Testis
+Ccdc7a	Testis
+Gm4907	Testis
+Olfr275	Testis
+4833427F10Rik	Bladder
+Nlrp9c	Ovary
+Mir320	Cortex
+4933406M09Rik	Testis
+Oog4	Ovary
+Oog3	Ovary
+Skint10	Thymus
+4921508M14Rik	Testis
+Crygb	Ovary
+Gm10710	Central Nervous System
+Gm7073	Testis
+4930548H24Rik	Testis
+Crygd	Central Nervous System
+Gm6811	Testis
+Tas2r137	Central Nervous System
+Gm23301	Placenta
+4930435E12Rik	Testis
+Spata31	Testis
+4930555F03Rik	Testis
+AU016765	Ovary
+Olfr127	Testis
+Olfr654	Testis
+Cep112os1	Testis
+Olfr128	Testis
+4930480E11Rik	Testis
+Rab11fip4os2	Testis
+Gm14920	Testis
+Krtap7-1	Whole Brain
+1700021F07Rik	Testis
+Gm26130	Liver
+4930465K10Rik	Testis
+Gm15522	Testis
+Gm15523	Spleen
+C87499	Ovary
+Olfr1196	Liver
+Olfr1197	Liver
+Ccdc42os	Testis
+Gm9877	Testis
+Scarna9	Placenta
+Fhad1os2	Cortex
+4931406B18Rik	Testis
+4933408N05Rik	Testis
+Tas2r119	Limb
+4930542C16Rik	Testis
+Cypt12	Testis
+Cypt15	Testis
+Olfr872	Testis
+Gm11714	Liver
+Olfr877	Adrenal Gland
+Gm15415	Testis
+Gm15412	Testis
+Fam90a1a	Mammary Gland
+Gm6040	Genital Adipose
+Gm15419	Mammary Gland
+Gm16054	Testis
+Gm11399	Central Nervous System
+Csta1	Limb
+4930486I03Rik	Testis
+DQ267102	Placenta
+Gm15677	Bladder
+Gm15674	Testis
+Bcas3os1	Lung
+Gm11579	Thymus
+Gm15894	Frontal Lobe
+Gm11374	Bladder
+Gm15389	Testis
+Gm8094	Cerebellum
+Pdha2	Testis
+Gm23634	Limb
+Gm15762	Testis
+Gm8257	Testis
+Dnajb7	Testis
+Pgr15l	Cerebellum
+Gm12576	Bladder
+Ms4a13	Testis
+Ccdc83	Testis
+Gm13154	Heart
+Gm13151	Central Nervous System
+4933402D24Rik	Testis
+Olfr32	Frontal Lobe
+9230106D20Rik	Genital Adipose
+1700011A15Rik	Testis
+Gm13715	Testis
+Serpinb13	Stomach
+Cypt2	Testis
+Gm13538	Testis
+Gm12000	Genital Adipose
+Gm13023	Ovary
+Gm16015	Testis
+Gm15875	Testis
+Klhl34	Heart
+Fscb	Testis
+Gm15873	Testis
+Usp9y	Testis
+E130304I02Rik	Cortex
+4930595M18Rik	Testis
+4921530L21Rik	Testis
+Gm13125	Ovary
+Prss21	Testis
+Gm13441	Testis
+Gm16120	Lung
+Serpinb1c	Placenta
+Gm136	Testis
+Trbv30	Thymus
+Foxd4	Limb
+Gm3404	Testis
+Adam25	Testis
+Adam24	Testis
+Adam20	Testis
+Gm5114	Testis
+Adam29	Testis
+Gm5111	Thymus
+CN725425	Testis
+5031410I06Rik	Testis
+4930586N03Rik	Testis
+Slc36a1os	Testis
+Gm16726	Testis
+Olfr467	Genital Adipose
+Lamp3	Lung
+Gm5800	Testis
+Slc12a1	Kidney
+Gpr82	Genital Adipose
+Gm14216	Testis
+9230109A22Rik	Genital Adipose
+Birc7	Cerebellum
+S100z	Genital Adipose
+1700060C20Rik	Testis
+Cnga1	Thymus
+Trim42	Testis
+Gm9915	Central Nervous System
+4921507L20Rik	Testis
+9230113P08Rik	Genital Adipose
+Gm9047	Testis
+D030018L15Rik	Ovary
+Gm5930	Testis
+Olfr1509	Testis
+Ifnk	Placenta
+Cldn17	Stomach
+Ppp1r3a	Heart
+4930451E10Rik	Testis
+BB287469	Liver
+Gm12927	Kidney
+Gm11418	Testis
+Gm11149	Testis
+Gm14426	Testis
+1700112K13Rik	Testis
+Crybb2	Placenta
+Rtp1	Cerebellum
+Gm26124	Cerebellum
+Hsd17b3	Testis
+Olfr1341	Genital Adipose
+Olfr1342	Lung
+D730045B01Rik	Bladder
+Snord35b	Limb
+4930483K19Rik	Testis
+1700071M16Rik	Testis
+4930557A04Rik	Testis
+Psg20	Placenta
+Pate4	Genital Adipose
+Gm15461	Testis
+4930402F06Rik	Testis
+Gm15469	Testis
+4933438A12Rik	Testis
+Gm13850	Testis
+Gm13853	Testis
+Gm7873	Testis
+Gm13856	Testis
+Gm15609	Cerebellum
+Abca14	Testis
+Abca15	Testis
+Abca16	Testis
+Gm11565	Testis
+Gm12148	Testis
+Mir5125	Limb
+Tcp10c	Testis
+Gm12493	Spleen
+Slc9c1	Testis
+Gm12496	Bladder
+Gm8229	Testis
+Gm8220	Testis
+Cd200r2	Colon
+Wdr64	Testis
+Gm12542	Heart
+Acpt	Testis
+Abhd16b	Testis
+AY512931	Testis
+Gm12720	Testis
+1810012K08Rik	Liver
+8030411F24Rik	Testis
+Olfr23	Testis
+Olfr24	Testis
+Olfr27	Testis
+Gm16263	Limb
+Samt4	Testis
+Fam122c	Testis
+Samt2	Testis
+Samt3	Testis
+1700023C21Rik	Testis
+Gm2245	Testis
+Btbd18	Testis
+Prl5a1	Placenta
+Gm13709	Testis
+Rapgef4os2	Bladder
+Snora43	Liver
+Snora41	Central Nervous System
+Gm13707	Lung
+Gm17023	Liver
+4930577H14Rik	Testis
+Gm16000	Testis
+1700042G15Rik	Testis
+Gm10619	Testis
+Gm5346	Testis
+4930515B02Rik	Testis
+Clhc1	Testis
+Gm16133	Limb
+Prss38	Testis
+Ccdc54	Testis
+Ces2h	Duodenum
+1700036O09Rik	Testis
+Rhox2c	Central Nervous System
+Rhox2b	Central Nervous System
+Gm5168	Testis
+Fthl17d	Testis
+Fthl17f	Testis
+Catsperb	Testis
+Cpvl	Testis
+1700003H04Rik	Testis
+1700057G04Rik	Testis
+Gm10392	Thymus
+9230020A06Rik	Genital Adipose
+Gm6455	Testis
+Gm17359	Testis
+Gm15628	Bladder
+4921517D22Rik	Testis
+Catsper1	Testis
+Wdr20rt	Testis
+Lcn10	Genital Adipose
+Lcn12	Genital Adipose
+Gm24044	Liver
+Tbpl2	Ovary
+Ighv15-2	Spleen
+1700012P22Rik	Testis
+Fgf2os	Limb
+Gm6588	Testis
+Gm6583	Testis
+Il1f8	Stomach
+Kank4os	Testis
+Trim52	Testis
+4930562D21Rik	Testis
+1700080O16Rik	Testis
+Gabrr1	Genital Adipose
+Gabrr3	Cerebellum
+Trav9n-1	Thymus
+B630019A10Rik	Thymus
+EU599041	Placenta
+Prr9	Testis
+Lrp8os1	Testis
+Fbxw16	Ovary
+Ppp2r2cos	Testis
+Prr23a1	Testis
+Fbxw19	Ovary
+Trav13n-4	Thymus
+4930584F24Rik	Testis
+4930583K01Rik	Testis
+Gm12930	Cortex
+1700095J07Rik	Testis
+4930526F13Rik	Testis
+Gm4985	Testis
+Krtap4-16	Small Intestine
+Gm13999	Testis
+Pnpla1os	Testis
+Gm9789	Testis
+Gm13997	Central Nervous System
+Gm9898	Lung
+Gm14250	Testis
+Gm11775	Testis
+4921509A06Rik	Testis
+B130011K05Rik	Limb
+Ankar	Testis
+1700092K14Rik	Testis
+Galntl5	Testis
+Gm15473	Bladder
+Gm15475	Lung
+Gm13869	Genital Adipose
+Gm8787	Central Nervous System
+Aym1	Testis
+Gm12150	Testis
+Gm11592	Testis
+Gm12159	Spleen
+4931408C20Rik	Testis
+1700092C17Rik	Testis
+Gm1698	Testis
+Apobec4	Testis
+Ugt2b37	Liver
+D1Pas1	Testis
+Als2cr11b	Testis
+Gm8232	Testis
+Gm11280	Testis
+Gm13609	Testis
+Olfr16	Liver
+Gm15107	Placenta
+Nxf2	Testis
+H2afb3	Testis
+Ssxa1	Testis
+Gm15290	Liver
+4930563I02Rik	Testis
+Gm8127	Cerebellum
+4933405L10Rik	Testis
+4933411G06Rik	Testis
+Gm16035	Genital Adipose
+Snora31	Central Nervous System
+Gm17039	Testis
+Hsf5	Testis
+1700013N06Rik	Testis
+Gm17035	Liver
+A530032D15Rik	Spleen
+Gm20420	Testis
+Gm1070	Placenta
+Gm15856	Thymus
+Gm5592	Testis
+Gm5591	Testis
+Gm15851	Genital Adipose
+A630091E08Rik	Thymus
+Speer3	Testis
+Speer2	Testis
+1700112J05Rik	Testis
+Trbv17	Thymus
+Ankrd53	Testis
+1700028N14Rik	Kidney
+Pebp4	Testis
+4930562F07Rik	Testis
+Gm16108	Testis
+Fbxo39	Testis
+Zfp345	Placenta
+4930402K13Rik	Testis
+Olfr697	Testis
+Gm597	Testis
+Gm595	Testis
+Teddm1b	Genital Adipose
+Gm5174	Testis
+Teddm1a	Genital Adipose
+Gm4792	Stomach
+1700054M17Rik	Testis
+Aurkc	Testis
+Gm17613	Testis
+9530036M11Rik	Bladder
+Gm20513	Spleen
+Gm3513	Kidney
+4933425L06Rik	Testis
+Prl8a6	Placenta
+Gm4181	Testis
+Otol1	Central Nervous System
+4930404I05Rik	Testis
+Sox5os1	Testis
+Gabra6	Cerebellum
+A830035A12Rik	Testis
+4930578I06Rik	Testis
+Pp2d1	Testis
+Otud6a	Testis
+Slco6d1	Testis
+Trim69	Testis
+Igkv4-81	Spleen
+C87977	Ovary
+BC049730	Testis
+Serpini2	Spleen
+Cts6	Placenta
+1700021L23Rik	Testis
+Gm5916	Genital Adipose
+Gm23999	Central Nervous System
+Olfr750	Lung
+1700125H20Rik	Testis
+Gm10188	Testis
+1700025F22Rik	Testis
+Gm6482	Cerebellum
+Csnka2ip	Testis
+Gm12909	Liver
+Olfr112	Testis
+Lrrc72	Testis
+4930440I19Rik	Testis
+Olfr1414	Genital Adipose
+Wfdc15a	Testis
+Gm14089	Testis
+Grip1os1	Testis
+Grip1os3	Ovary
+Myadml2os	Heart
+4930444E06Rik	Testis
+Gm14244	Testis
+Cfc1	Ovary
+Gm14064	Testis
+Trgv2	Thymus
+Gm4884	Testis
+Avpr2	Kidney
+Ambn	Limb
+Gm13872	Testis
+Olfr1250	Ovary
+Cyct	Testis
+Gm14401	Placenta
+Gm14409	Placenta
+Ptpn20	Testis
+Gm11588	Thymus
+1700008P02Rik	Testis
+Hmgb4os	Testis
+Gm25266	Whole Brain
+Gm6904	Bladder
+Gm11583	Central Nervous System
+Prss43	Testis
+Flg2	Mammary Gland
+Gm12665	Testis
+Gm1110	Genital Adipose
+AI481877	Testis
+Pramel3	Testis
+Gm15130	Testis
+1700045H11Rik	Testis
+Gm16240	Testis
+Cyp4f37	Testis
+Gm12580	Limb
+Snora2b	Whole Brain
+Gm12236	Subcutaneous Adipose
+Gm22643	Limb
+Gm5218	Liver
+4930555O08Rik	Testis
+Gm813	Ovary
+Gm11754	Kidney
+4921539E11Rik	Testis
+Gm16022	Testis
+Slc22a28	Kidney
+Gm13291	Testis
+Gm12052	Testis
+Mir1839	Central Nervous System
+Mir214	Placenta
+Prss1	Spleen
+Gm6812	Testis
+Gm1667	Lung
+Gm13619	Cerebellum
+4930591A17Rik	Testis
+Far1os	Testis
+Krt33b	Limb
+Gm10401	Central Nervous System
+4932412D23Rik	Testis
+Srrm4os	Liver
+Gm13479	Heart
+Gm16116	Liver
+Spink13	Genital Adipose
+Spink11	Genital Adipose
+Gm4763	Testis
+Gm13184	Testis
+4932429P05Rik	Testis
+4933424L21Rik	Testis
+4930470P17Rik	Testis
+1700071G01Rik	Testis
+Gm362	Testis
+Mc3r	Central Nervous System
+Gm3327	Testis
+Spata31d1a	Testis
+Spata31d1c	Testis
+Spata31d1d	Testis
+AW822073	Testis
+4930502E09Rik	Testis
+A530021J07Rik	Cortex
+Fsip2	Testis
+1700111E14Rik	Testis
+1700007P06Rik	Testis
+Olfr985	Placenta
+Doxl2	Placenta
+Gm10750	Testis
+4930522H14Rik	Testis
+Trim75	Ovary
+Tomm20l	Testis
+Hoxc13	Limb
+Hoxc12	Limb
+Zfy2	Testis
+4930412F09Rik	Testis
+4931431F19Rik	Testis
+Prl7c1	Placenta
+Gm3235	Heart
+4933436I01Rik	Testis
+Frem3	Genital Adipose
+Gm24888	Cortex
+Slc7a12	Kidney
+4930553M12Rik	Testis
+Sept14	Testis
+Gm12911	Testis
+Gm12916	Genital Adipose
+Lipi	Genital Adipose
+Gm10354	Testis
+Pmis2	Testis
+Lrrc69	Testis
+Lrrc63	Testis
+Olfr161	Testis
+Tmem132cos	Testis
+Gm8439	Genital Adipose
+Gm23455	Central Nervous System
+Gm23458	Central Nervous System
+Rxfp4	Lung
+Tpte	Testis
+4930583P06Rik	Testis
+Cryba1	Central Nervous System
+D5Ertd615e	Testis
+1700010K24Rik	Testis
+Olfr761	Testis
+A130023I24Rik	Thymus
+D830013O20Rik	Heart
+Btnl6	Large Intestine
+Gm15737	Bladder
+4933428G20Rik	Testis
+Npffr2	Frontal Lobe
+Gm15864	Testis
+Gm23240	Cerebellum
+4932411N23Rik	Testis
+Cyp2c50	Liver
+Chn1os1	Cortex
+Bpifa6	Testis
+Gm14471	Testis
+Mroh9	Testis
+Trav8-1	Thymus
+Spam1	Testis
+Cyp4a30b	Genital Adipose
+Gm25929	Whole Brain
+Vrtn	Ovary
+Spdye4b	Testis
+Spdye4c	Testis
+Spdye4a	Testis
+4930449I24Rik	Testis
+F630206G17Rik	Liver
+Pitpnm2os1	Testis
+Csf2	Lung
+4930404H24Rik	Testis
+Klri2	Spleen
+Gm16231	Testis
+Gm15124	Testis
+Gm11934	Central Nervous System
+Gm15908	Testis
+Gm11240	Testis
+Gm15904	Testis
+Gm22496	Cerebellum
+Gm12223	Testis
+Tex101	Testis
+Mgat4e	Testis
+Mgat4d	Testis
+Gm10176	Testis
+4930570D08Rik	Testis
+Cntrobos	Testis
+1700014D04Rik	Testis
+Gm5624	Testis
+Gm13063	Lung
+AY702103	Testis
+Gm13269	Placenta
+Gm16347	Testis
+Gm13266	Testis
+Gm11802	Testis
+Adam6a	Testis
+1700069B07Rik	Testis
+4930556N13Rik	Testis
+4930430A15Rik	Testis
+Fbxw13	Ovary
+Gm17180	Genital Adipose
+Dmrtc2	Testis
+Gm16160	Lung
+Gm5152	Testis
+Eddm3b	Genital Adipose
+Fbxw14	Ovary
+Ccdc27	Testis
+Ccdc34os	Testis
+Ccr1l1	Placenta
+Trbv26	Thymus
+Gm15643	Testis
+Gja10	Testis
+Gm3043	Whole Brain
+Kcnmb3	Testis
+Gm13084	Ovary
+Olfr224	Heart
+Xlr5c	Placenta
+4933416C03Rik	Testis
+Gm5797	Placenta
+1700010D01Rik	Testis
+Gm12853	Testis
+4931406G06Rik	Testis
+Snord80	Liver
+1700007B14Rik	Testis
+4930505O20Rik	Testis
+Gm20400	Kidney
+Gm20403	Spleen
+Hdhd1a	Testis
+Gm24893	Whole Brain
+Trav8d-2	Thymus
+1700099I09Rik	Testis
+Gm15906	Cerebellum
+Gm17416	Genital Adipose
+4921504E06Rik	Testis
+Fbxw21	Ovary
+Fbxw20	Ovary
+Clnk	Testis
+D430040D24Rik	Bladder
+Fbxw24	Ovary
+Crisp4	Genital Adipose
+C87198	Lung
+Vmn1r43	Testis
+1700113H08Rik	Testis
+Gm26167	Liver
+Ovch2	Genital Adipose
+Sox5it	Testis
+Hopxos	Cerebellum
+Myo3a	Colon
+Gm14262	Testis
+Aknaos	Testis
+Usp46os1	Testis
+Usp46os2	Testis
+Arl4aos	Testis
+Gm11748	Placenta
+Astl	Ovary
+1700031F05Rik	Testis
+4930453O03Rik	Testis
+1700080N15Rik	Testis
+Gm9513	Placenta
+1700028P15Rik	Testis
+Gm15632	Testis
+4930568D16Rik	Testis
+D930015M05Rik	Kidney
+9230110F15Rik	Genital Adipose
+Tcl1b2	Ovary
+Tcl1b3	Ovary
+Tcl1b1	Ovary
+Tcl1b4	Ovary
+Tcl1b5	Ovary
+Gm11634	Testis
+4930423M02Rik	Testis
+Ddi1	Testis
+Gm15486	Testis
+4930473A02Rik	Testis
+Gm12107	Testis
+Gm11639	Testis
+Myoz3	Stomach
+Magea10	Testis
+Luzp4	Placenta
+Kis2	Thymus
+Adam26a	Testis
+Adam26b	Testis
+Gm7945	Cerebellum
+Mir5130	Limb
+Gm16227	Testis
+Gm15156	Cerebellum
+Gm15938	Central Nervous System
+Bmp15	Ovary
+Tmprss11a	Bladder
+Gm12212	Cortex
+Gm15935	Testis
+Tmprss11f	Bladder
+Gm4846	Genital Adipose
+Spaca5	Testis
+Spaca7	Testis
+Gm4841	Bladder
+Slc22a19	Kidney
+4931403M11Rik	Testis
+Gm839	Ovary
+Gm12695	Testis
+Gm38505	Testis
+Gm12690	Testis
+Gm16599	Testis
+4930417O22Rik	Testis
+Gm13073	Liver
+Gm15802	Testis
+Gm13274	Testis
+Gm16350	Placenta
+Gm16351	Testis
+Gm12679	Liver
+Chil6	Bladder
+6030452D12Rik	Placenta
+1700049J03Rik	Testis
+4921509C19Rik	Testis
+Scml1	Testis
+4930579M01Rik	Testis
+Gm13267	Testis
+Rsf1os2	Testis
+Rsf1os1	Testis
+Gykl1	Testis
+4932414N04Rik	Testis
+4930566F21Rik	Testis
+4930528P14Rik	Testis
+1700069L16Rik	Testis
+Skint1	Thymus
+Skint3	Thymus
+Skint2	Thymus
+Skint4	Thymus
+BC053393	Placenta
+Gm5415	Testis
+4930544G11Rik	Testis
+Gm10518	Testis
+Olah	Testis
+Gk2	Testis
+Gm382	Testis
+Gm22422	Cerebellum
+Gm16764	Large Intestine
+Sry	Testis
+4930408O17Rik	Testis
+Iqcf6	Testis
+Gm16575	Thymus
+Gm17089	Testis
+Gm17088	Liver
+Olfr215	Testis
+Gm17080	Spleen
+Olfr212	Testis
+Adam6b	Testis
+Trav8n-2	Thymus
+Tmem190	Testis
+Snord99	Cortex
+1700018F24Rik	Testis
+Gm20416	Testis
+4930504O13Rik	Testis
+Tmprss12	Testis
+BC049702	Testis
+Gm10684	Cerebellum
+Olfr543	Genital Adipose
+Gm5941	Testis
+Cetn1	Testis
+Tex12	Testis
+Gm24371	Central Nervous System
+Gm20389	Testis
+Gm10339	Placenta
+Gm7168	Testis
+4930512B01Rik	Testis
+4930519D14Rik	Testis
+Oog2	Ovary
+4921528I07Rik	Testis
+Olfr1444	Testis
+Olfr1445	Testis
+Ube2dnl2	Testis
+Arrdc5	Testis
+Slc5a10	Kidney
+Ube2dnl1	Testis
+Gm9747	Central Nervous System
+Pth2	Testis
+Gm14210	Placenta
+Gm6760	Testis
+Stra8	Testis
+Slc13a2os	Thymus
+A230083N12Rik	Testis
+1700095A21Rik	Testis
+Cyp2c39	Liver
+Cyp2c38	Liver
+Gm13905	Testis
+Gm14459	Testis
+Gm14329	Testis
+Gm14147	Testis
+Gm14146	Testis
+Gm14145	Testis
+Ccdc105	Testis
+E130218I03Rik	Cerebellum
+Gm15492	Testis
+Mup18	Bladder
+Gm11482	Testis
+Adam2	Testis
+Ube2d2b	Testis
+4930406D18Rik	Testis
+4930556I23Rik	Testis
+Gm4922	Testis
+Dyrk4	Testis
+Zfp735	Testis
+Zscan5b	Testis
+Gm12204	Testis
+Gm12256	Thymus
+4930430E12Rik	Subcutaneous Adipose
+Gm16214	Spleen
+Gm16213	Liver
+Gm11267	Cerebellum
+Gm11269	Testis
+Arl13a	Testis
+Gm1527	Testis
+Efcab8	Testis
+1700011L22Rik	Testis
+Gm12681	Bladder
+B430319H21Rik	Bladder
+Krt71	Thymus
+Gm12064	Testis
+Mroh2b	Testis
+Gm11608	Testis
+Gm15813	Testis
+Gm13793	Testis
+Mir719	Liver
+Sox5os4	Liver
+4930529I22Rik	Testis
+Cldn34c4	Testis
+Cct8l1	Testis
+Sox5os3	Testis
+4932702P03Rik	Testis
+Gm5538	Testis
+Gm13427	Testis
+Gm16140	Ovary
+Gm16143	Colon
+4930579D09Rik	Testis
+9530026F06Rik	Whole Brain
+Gm17168	Testis
+4930405H06Rik	Testis
+Gm17167	Whole Brain
+Gm16277	Testis
+4930552N02Rik	Testis
+Klk1b1	Testis
+Pth	Thymus
+Smok2b	Testis
+Smok2a	Testis
+Pih1d3	Testis
+4921534H16Rik	Testis
+4930563M21Rik	Testis
+4933440M02Rik	Testis
+Slc25a41	Testis
+1700060J05Rik	Testis
+Cfap58	Testis
+Gm5622	Testis
+Gm10837	Cerebellum
+Gm24411	Whole Brain
+Tmem211	Ovary
+Mrgprx1	Central Nervous System
+Amy2a1	Liver
+Gm17300	Testis
+1700022I11Rik	Testis
+Gm16541	Testis
+Gm16540	Central Nervous System
+4933406G16Rik	Testis
+Gm16549	Testis
+4931409K22Rik	Testis
+4930451I11Rik	Testis
+Mageb5	Testis
+1700016D06Rik	Testis
+Gm10782	Limb
+Gm10787	Kidney
+Fam150a	Bladder
+Gm17232	Testis
+BC027072	Testis
+Gm20463	Central Nervous System
+1700020N15Rik	Testis
+Gm20465	Thymus
+Tsga13	Testis
+Atp6v1e2	Testis
+Gm3486	Testis
+Meikin	Testis
+4933427E11Rik	Testis
+4930545L23Rik	Testis
+Gm9990	Central Nervous System
+Gm9999	Testis
+4930558K02Rik	Testis
+Gm10655	Testis
+Gm10300	Bladder
+Gm10309	Testis
+1700021J08Rik	Testis
+Scn11a	Central Nervous System
+4930474H06Rik	Testis
+Lpcat2b	Testis
+Defb43	Genital Adipose
+4930564D02Rik	Testis
+Cpxcr1	Testis
+4932435O22Rik	Testis
+2900092C05Rik	Testis
+Gm13605	Testis
+1700007J10Rik	Testis
+Olfr19	Testis
+Gm9758	Testis
+Slfn5os	Testis
+Gm20539	Bladder
+4930444G20Rik	Testis
+Oosp3	Ovary
+Rbm46os	Testis
+Gm24966	Cerebellum
+Tmem52b	Kidney
+Speer4f2	Testis
+Tcp11x2	Testis
+Gm12951	Testis
+4931422A03Rik	Testis
+Gm12898	Testis

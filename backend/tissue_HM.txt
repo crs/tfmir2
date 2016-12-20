@@ -1,0 +1,53 @@
+Thyroid
+Testis
+Skin - Not Sun Exposed (Suprapubic)
+Esophagus - Muscularis
+Vagina
+Heart - Atrial Appendage
+Brain - Caudate (basal ganglia)
+Brain - Anterior cingulate cortex (BA24)
+Brain - Cerebellar Hemisphere
+Small Intestine - Terminal Ileum
+Breast - Mammary Tissue
+Cervix - Ectocervix
+Cervix - Endocervix
+Fallopian Tube
+Brain - Cerebellum
+Colon - Transverse
+Esophagus - Mucosa
+Bladder
+Brain - Putamen (basal ganglia)
+Artery - Coronary
+Liver
+Esophagus - Gastroesophageal Junction
+Brain - Hypothalamus
+Artery - Aorta
+Prostate
+Brain - Amygdala
+Pancreas
+Adipose - Subcutaneous
+Skin - Sun Exposed (Lower leg)
+Spleen
+Brain - Hippocampus
+Heart - Left Ventricle
+Brain - Cortex
+Artery - Tibial
+Brain - Spinal cord (cervical c-1)
+Uterus
+Brain - Nucleus accumbens (basal ganglia)
+Ovary
+Minor Salivary Gland
+Whole Blood
+Kidney - Cortex
+Stomach
+Nerve - Tibial
+Brain - Frontal Cortex (BA9)
+Adipose - Visceral (Omentum)
+Adrenal Gland
+Lung
+Cells - Transformed fibroblasts
+Muscle - Skeletal
+Colon - Sigmoid
+Pituitary
+Brain - Substantia nigra
+Cells - EBV-transformed lymphocytes

@@ -1,0 +1,5811 @@
+gene	specific tissue
+RP5-1068H6.1	Testis
+CTD-2588J6.2	Testis
+RP11-670E13.3	Small Intestine - Terminal Ileum
+GTF2IP3	Testis
+GTF2IP2	Testis
+RP11-71J4.2	Testis
+RP11-433M22.2	Testis
+RPL7AP57	Testis
+EMCN-IT3	Testis
+EMCN-IT1	Testis
+SLC6A6P1	Testis
+AC009120.8	Testis
+AC009120.4	Testis
+RP4-697P8.3	Testis
+RNF11B	Testis
+OR2H4P	Testis
+RP11-318C4.2	Testis
+RP11-327I22.5	Testis
+RP11-327I22.6	Testis
+AP000867.14	Testis
+RNU5B-1	Testis
+AC103563.2	Testis
+AC103563.3	Testis
+AC009499.1	Testis
+RP11-114J13.1	Testis
+RP11-40F6.1	Testis
+AC096582.8	Testis
+RP11-506K19.2	Testis
+RP11-146D12.5	Testis
+TRHR	Pituitary
+RP4-609E1.2	Testis
+RP11-196D18.1	Testis
+CA15P2	Testis
+RP11-196D18.2	Testis
+RP11-566K19.9	Testis
+RP11-528A10.2	Testis
+HRH4	Testis
+TEX28P1	Testis
+AC018462.2	Cells - EBV-transformed lymphocytes
+IQCF5-AS1	Testis
+AC007390.4	Testis
+RP11-190P13.2	Testis
+KCND3-IT1	Brain - Cerebellum	
+RPS4XP2	Testis
+RPS4XP3	Ovary
+RP5-1051D14.1	Testis
+RPS4XP4	Testis
+AC005008.2	Testis
+RP11-113D6.10	Testis
+RP11-113D6.9	Testis
+RP11-49K4.2	Testis
+RAD21L1	Testis
+SLC36A3	Testis
+PGDP1	Testis
+RP11-29H23.4	Testis
+CTD-2647E9.1	Testis
+RP11-1H15.2	Cells - Transformed fibroblasts
+ART1	Muscle - Skeletal
+HERC2P5	Testis
+NACAP1	Testis
+RP11-451H23.3	Testis
+RP11-451H23.2	Testis
+AP000473.6	Cervix - Endocervix
+RP11-793I11.1	Testis
+CTD-3116E22.6	Thyroid
+CTSLP6	Testis
+RP11-338O1.2	Testis
+RP11-841C19.3	Testis
+RP11-193H5.1	Testis
+RBMXL3	Testis
+RBMXL2	Testis
+RP11-287F9.2	Testis
+LINC01079	Pancreas
+FRG2	Brain - Cerebellum
+RP11-393N4.2	Testis
+LINC01072	Testis
+LINC01077	Cells - EBV-transformed lymphocytes
+LINC01076	Testis
+LINC01075	Testis
+LINC01074	Testis
+RP11-276H1.3	Testis
+RP11-276H1.2	Testis
+BRAFP1	Pituitary
+RP11-46A10.2	Testis
+RP11-223C24.2	Testis
+HNRNPFP1	Testis
+RP11-300J18.1	Testis
+OR7E122P	Testis
+RP11-366F6.2	Testis
+RP11-716D16.1	Testis
+RNU6-767P	Vagina
+RP11-6I2.4	Muscle - Skeletal
+HOMER2P1	Testis
+AP003900.6	Testis
+HOMER2P2	Testis
+RP11-300M6.1	Testis
+RP11-2N1.1	Testis
+RP11-702H23.4	Thyroid
+RP11-650J17.1	Testis
+SAGE1	Testis
+CYCTP	Testis
+LINC00308	Testis
+RP11-444D13.1	Testis
+CTC-458A3.1	Prostate
+LINC00303	Testis
+LINC00301	Testis
+LINC00307	Testis
+LINC00305	Testis
+RP11-488I20.9	Testis
+RPL7AP25	Testis
+RP11-128P17.3	Testis
+RP11-128P17.2	Testis
+RP11-488I20.3	Testis
+C4orf17	Testis
+RP11-128P17.4	Testis
+RP11-327O17.2	Testis
+RN7SL508P	Brain - Cerebellum
+BMPR1A	Brain - Cerebellum
+PDGFA	Brain - Cerebellum
+TGFB1	Brain - Cerebellum
+BMPR1A	Brain - Cerebellum
+AKT1	Brain - Cerebellum
+hsa-mir-22	Brain - Cerebellum
+hsa-mir-155	Brain - Cerebellum	
+HTR2A-AS1	Testis
+RP11-566H8.2	Testis
+RP11-753A21.2	Testis
+RP13-539F13.3	Testis
+RP11-580I1.1	Testis
+RNU6-1209P	Cervix - Ectocervix
+RP11-41O4.3	Testis
+RP11-269F21.2	Testis
+RP11-269F21.3	Testis
+RP11-271K11.5	Testis
+RP11-451N19.1	Testis
+OR1Q1	Cells - Transformed fibroblasts
+RP11-295G24.4	Testis
+RP11-392A23.5	Testis
+AC013470.6	Testis
+RP1-191L6.2	Testis
+RP4-631H13.4	Testis
+AC068858.1	Testis
+RP4-601K24.1	Testis
+MYCLP1	Testis
+RP11-255I10.2	Testis
+CTB-174D11.1	Testis
+RP11-946L20.4	Testis
+RP11-579O24.1	Brain - Cerebellar Hemisphere
+AGBL4-IT1	Testis
+GJA8	Testis
+RP5-1077H22.1	Testis
+RP5-1077H22.2	Testis
+H3F3BP1	Testis
+RP11-613F7.1	Testis
+RP11-288E14.2	Cells - EBV-transformed lymphocytes
+RP11-430L16.1	Testis
+FAM58DP	Testis
+RP11-266L9.1	Testis
+AC009232.2	Testis
+RP11-294L11.1	Testis
+CFHR2	Liver
+CFHR4	Liver
+CFHR5	Liver
+KRTAP2-3	Cells - Transformed fibroblasts
+AC011406.2	Testis
+RP11-776A13.3	Testis
+RP11-281N10.1	Testis
+RP11-332J15.3	Testis
+OR9A3P	Ovary
+RP11-502N13.2	Testis
+RP11-351I21.7	Brain - Cerebellum
+RP11-540E16.2	Testis
+RP11-542K23.10	Testis
+TSPY6P	Testis
+AC046130.1	Cells - EBV-transformed lymphocytes
+RP11-74M13.4	Ovary
+RP11-76C10.5	Testis
+CTCFL	Testis
+AC005394.1	Testis
+RP11-463D19.1	Testis
+VCX	Testis
+RP11-650K20.2	Testis
+LINC00901	Testis
+RP11-239L20.3	Testis
+TRMT112P4	Liver
+PRAMEF1	Testis
+PRAMEF2	Testis
+RP13-60M5.2	Testis
+AC010746.3	Testis
+RP11-39M21.1	Testis
+RP11-150D5.2	Testis
+RP11-357N13.1	Testis
+RP11-357N13.2	Testis
+NRBF2P2	Testis
+RP11-63E5.1	Testis
+AC125634.1	Testis
+RP11-302F12.3	Testis
+BRDT	Testis
+RP11-554D14.1	Testis
+RP11-680N20.1	Testis
+CTB-180A7.6	Testis
+CTB-180A7.3	Testis
+RNU1-134P	Esophagus - Mucosa
+CTB-180A7.8	Testis
+RP11-3B12.2	Testis
+AL603650.2	Testis
+OR10D3	Testis
+RP11-753B14.1	Liver
+RP11-648F7.1	Testis
+RNU1-65P	Testis
+RP11-468N14.5	Pancreas
+RP11-468N14.7	Pancreas
+RP11-468N14.6	Pancreas
+RP11-1028N23.3	Testis
+RP11-1028N23.2	Testis
+MYCBP	Testis
+RP11-716O23.2	Testis
+RP11-716O23.1	Testis
+AC002465.2	Testis
+AC125421.1	Testis
+RP11-123C21.2	Brain - Cerebellum
+C16orf78	Testis
+DMRTB1	Testis
+RP11-192H6.2	Testis
+RP11-415A20.1	Nerve - Tibial
+CTA-397C4.2	Pituitary
+AC007349.4	Pancreas
+RP11-10J18.3	Testis
+KIRREL3-AS1	Minor Salivary Gland
+RP11-378I13.1	Testis
+RP11-503C24.1	Testis
+TCEB1P29	Testis
+RP11-383M4.2	Testis
+RP11-383M4.6	Testis
+RP11-51L5.7	Testis
+CTC-338M12.2	Testis
+RP11-51L5.2	Testis
+CTC-360P9.4	Testis
+CTC-360P9.5	Testis
+CTC-360P9.2	Testis
+CTC-360P9.3	Testis
+CTC-360P9.1	Testis
+AC099342.1	Testis
+ST7-AS2	Testis
+RP11-336N8.1	Testis
+RN7SL569P	Testis
+LINC00626	Pituitary
+RP4-706G24.1	Testis
+RP11-434H14.1	Testis
+RP11-20P5.2	Testis
+RP11-66A2.1	Testis
+MIR663A	Testis
+RP11-128B16.3	Testis
+CTD-2561F5.1	Testis
+RP11-543D10.2	Testis
+AC084121.17	Testis
+SULT6B1	Testis
+AC004945.1	Brain - Cerebellum
+KRTAP19-3	Muscle - Skeletal
+LIPT1P1	Brain - Cerebellum
+PPIAL4D	Brain - Cerebellar Hemisphere
+RP1-102G20.5	Testis
+KRTAP19-8	Testis
+FER1L6-AS1	Testis
+RP11-442O18.1	Testis
+RP11-442O18.2	Testis
+SLC25A24P2	Testis
+RP11-553E24.2	Testis
+AC090505.5	Testis
+RP11-845M18.7	Testis
+RP11-317G22.2	Brain - Cerebellar Hemisphere
+RP11-810K23.6	Testis
+RP11-395P13.4	Testis
+RP11-12K11.2	Testis
+RP11-713C19.1	Testis
+MARK2P13	Skin - Not Sun Exposed (Suprapubic)
+KRT28	Testis
+SLCO1B1	Liver
+SLC9B1P3	Testis
+AC010086.1	Spleen
+RP11-56N19.5	Testis
+RPL37AP1	Testis
+AC096732.2	Testis
+RNA5SP21	Minor Salivary Gland
+AC144450.2	Minor Salivary Gland
+RP11-466A17.1	Testis
+RP11-536G4.2	Testis
+C20orf187	Testis
+RP11-498M5.2	Testis
+RP1-149L1.1	Testis
+BRWD1-AS1	Testis
+CCDC179	Testis
+RP1-152L7.8	Brain - Cerebellar Hemisphere
+RP5-837M10.1	Testis
+RP3-333H23.8	Testis
+FANK1-AS1	Testis
+CCDC172	Testis
+RP5-984P4.4	Pituitary
+RP11-61J19.2	Testis
+RP5-1011O1.2	Cells - EBV-transformed lymphocytes
+RP5-905H7.9	Testis
+RP5-905H7.7	Testis
+TUFMP1	Pituitary
+RP3-461P17.6	Testis
+BANF1P5	Testis
+RP11-446F3.2	Testis
+CTAGE11P	Testis
+RP11-255M2.1	Testis
+RP3-382I10.2	Testis
+AC084149.1	Brain - Nucleus accumbens (basal ganglia)
+HMGN2P13	Brain - Nucleus accumbens (basal ganglia)
+RP11-21G20.4	Testis
+HAUS1P1	Spleen
+RP11-21G20.3	Testis
+HAUS1P2	Prostate
+RP11-142G1.1	Testis
+RP11-372M18.1	Testis
+RNA5SP368	Minor Salivary Gland
+RP11-170M17.1	Testis
+GOLGA8S	Testis
+RP11-124O11.2	Testis
+AC108039.1	Testis
+RP11-124O11.1	Testis
+GS1-278J22.2	Testis
+AC005150.1	Testis
+CT45A1	Testis
+CT45A3	Testis
+CT45A2	Testis
+RP11-211C9.1	Testis
+CT45A4	Testis
+CT45A6	Testis
+RN7SL520P	Thyroid
+AC011193.1	Testis
+RNU6-143P	Brain - Cortex
+MIR632	Testis
+TULP3P1	Testis
+C3orf56	Testis
+HSFY1P1	Testis
+RP11-550H2.1	Testis
+RNVU1-18	Testis
+PRDM14	Testis
+PFN1P10	Testis
+RP11-25E2.1	Liver
+RP11-519M16.1	Testis
+RP11-644C3.1	Testis
+RP11-301N24.3	Pituitary
+RP11-80H8.3	Testis
+PHKA1-AS1	Testis
+CTD-2074D8.1	Testis
+RN7SL305P	Testis
+RP11-85B7.2	Minor Salivary Gland
+BTG4	Testis
+NMD3P2	Testis
+CTC-558O19.1	Testis
+RP11-109G23.3	Testis
+TUBB7P	Testis
+RP11-218I7.2	Testis
+CTD-3187F8.7	Testis
+AC009963.6	Testis
+CTD-3187F8.2	Testis
+RP11-742B18.1	Testis
+RP11-1124B17.1	Testis
+RP11-328K2.1	Testis
+EIF1AX-AS1	Skin - Not Sun Exposed (Suprapubic)
+CTC-513N18.6	Pancreas
+RP11-610J23.1	Testis
+RP11-416K24.1	Testis
+CTD-2571E19.1	Testis
+C15orf43	Testis
+PRKACG	Testis
+C20orf78	Testis
+RP4-544H6.2	Testis
+RP11-34D15.2	Testis
+RP5-1057J7.1	Testis
+ELK2BP	Testis
+RP5-1193P9.4	Testis
+MBL2	Liver
+SETP5	Spleen
+TCEB3B	Testis
+RP11-501C14.6	Testis
+RN7SL45P	Brain - Cerebellum
+RP11-501C14.5	Testis
+RP11-328C8.5	Testis
+AP000146.2	Testis
+AC000099.1	Testis
+TRIML1	Testis
+RP11-359H3.1	Heart - Atrial Appendage
+AC009263.2	Testis
+AC007740.1	Testis
+CTD-2176I21.2	Testis
+AL133481.1	Testis
+AC005772.2	Testis
+AC067945.3	Cells - EBV-transformed lymphocytes
+CTD-2265D6.2	Adipose - Subcutaneous
+RHBDF1P1	Testis
+FYTTD1P1	Liver
+C11orf34	Pituitary
+SEMG1	Prostate
+DAZL	Testis
+DAZ3	Testis
+DAZ2	Testis
+DAZ1	Testis
+RP11-552D8.1	Testis
+LINC00440	Brain - Frontal Cortex (BA9)
+AKAP4	Testis
+CAGE1	Testis
+AC012075.2	Testis
+LINC00446	Testis
+CITF22-49D8.1	Testis
+RP11-79P5.3	Testis
+RP5-991C6.4	Testis
+RP5-991C6.3	Lung
+RP5-991C6.2	Minor Salivary Gland
+KRT17P3	Testis
+RP5-1044H5.1	Testis
+CTD-2336H13.2	Testis
+CETN1	Testis
+RP11-321M21.1	Testis
+RP11-321M21.3	Testis
+VSX2	Testis
+AC018445.1	Brain - Spinal cord (cervical c-1)
+TXNDC12-AS1	Testis
+CTD-2375G15.1	Cells - EBV-transformed lymphocytes
+RPL27P12	Testis
+RP11-476H20.1	Testis
+RP11-452B18.2	Testis
+CTC-455F18.3	Testis
+OR4H6P	Testis
+RP5-1051H14.2	Testis
+RP11-671C19.2	Testis
+RP11-14K2.1	Testis
+RP11-540D4.3	Testis
+RP11-360D2.2	Ovary
+RP11-1129I3.1	Testis
+RP11-360D2.1	Testis
+LL22NC03-30E12.13	Testis
+LL22NC03-30E12.10	Testis
+LL22NC03-30E12.11	Testis
+RP11-433J20.2	Testis
+RP11-332H17.1	Testis
+CTD-2275D24.1	Testis
+CTD-2275D24.2	Testis
+CTD-2275D24.4	Testis
+CTC-218B8.3	Testis
+FAM230B	Testis
+RP11-139B1.1	Testis
+FAM230A	Testis
+CTB-60E11.11	Testis
+RNU4-23P	Pituitary
+AC004125.3	Testis
+CLYBL-AS2	Small Intestine - Terminal Ileum
+RP11-571L19.7	Testis
+NCOR1P1	Testis
+NCOR1P3	Testis
+CTD-2329C7.2	Testis
+RP11-420B22.2	Testis
+RP11-420B22.1	Testis
+AC011752.1	Testis
+TSPY8	Testis
+TSPY4	Testis
+TSPY3	Testis
+TSPY2	Testis
+TSPY1	Testis
+RP5-947P14.2	Testis
+RP5-947P14.1	Testis
+RP11-33G16.1	Testis
+RP11-103J17.2	Testis
+RP5-963E22.5	Testis
+RP11-103J17.1	Testis
+WASIR1	Ovary
+RP11-2F20.1	Testis
+MYF5	Muscle - Skeletal
+RP11-335E6.3	Testis
+AL160269.1	Testis
+AC105227.1	Adrenal Gland
+RP3-390M24.1	Cells - Transformed fibroblasts
+RP11-555H7.2	Testis
+RP11-181K12.2	Prostate
+RP11-169F17.1	Testis
+KRT8P43	Testis
+CTD-2139B15.4	Testis
+KRT8P41	Testis
+AC092610.12	Testis
+RP5-1107A17.2	Testis
+MMP20	Testis
+RP11-789F5.1	Testis
+AC026202.5	Testis
+RP11-61O1.2	Whole Blood
+RP1-56J10.8	Testis
+RP11-123O1.1	Testis
+RARRES2P8	Testis
+RARRES2P9	Testis
+RP11-458K10.2	Testis
+RARRES2P6	Testis
+RP11-479O16.1	Testis
+GACAT1	Testis
+RP11-475A13.2	Testis
+AC073869.19	Testis
+RNA5SP46	Liver
+TEX28	Testis
+HLA-DRB9	Cells - EBV-transformed lymphocytes
+TMCO5B	Testis
+TMCO5A	Testis
+RP11-2N5.2	Testis
+RP11-2N5.1	Testis
+RP11-1D12.1	Testis
+RP11-306K13.1	Brain - Cerebellum
+RP4-560B9.4	Testis
+SPZ1	Testis
+CTD-2281E23.1	Testis
+CTD-2281E23.2	Testis
+CTD-2526M8.2	Liver
+CTD-2526M8.3	Testis
+CTAGE13P	Testis
+RP11-323A7.1	Testis
+RP11-447H19.3	Pituitary
+HMGN2P32	Testis
+HMGN2P34	Testis
+RP11-506B6.6	Testis
+RNU1-88P	Testis
+RP11-17M15.4	Heart - Left Ventricle
+RP11-145H9.3	Testis
+RP11-17M15.2	Testis
+AC007395.4	Spleen
+MAGEA2B	Testis
+AC008278.3	Testis
+AC093822.1	Testis
+IRX1P1	Testis
+RP11-688I9.2	Testis
+LINC00690	Testis
+LINC00691	Testis
+AC103809.1	Spleen
+UBE2V2P1	Small Intestine - Terminal Ileum
+UBE2V2P3	Small Intestine - Terminal Ileum
+AC007395.3	Testis
+RP11-343D2.11	Testis
+HNRNPH1P3	Testis
+H2AFZP6	Testis
+RP11-955H22.3	Testis
+RP11-955H22.2	Testis
+RP11-955H22.1	Testis
+ADAM30	Testis
+RP11-955H22.4	Testis
+RP11-846C15.2	Testis
+CTC-340I23.2	Testis
+RP11-1137G4.4	Testis
+LINC00347	Testis
+LINC00345	Testis
+LINC00343	Testis
+FUNDC2P2	Testis
+COTL1P2	Testis
+RP11-325K19.2	Testis
+RPL37P4	Testis
+SYCP1	Testis
+RP11-171N4.2	Testis
+RP11-358N4.6	Testis
+ADAM3A	Testis
+SLC22A12	Kidney - Cortex
+RP11-306G20.1	Testis
+AC139712.2	Testis
+RCN1P1	Testis
+RP11-713M15.1	Testis
+CTD-2588J1.1	Testis
+CTD-2515H24.1	Testis
+OR2N1P	Testis
+RP11-1099M24.8	Testis
+SAMD11P1	Testis
+RP11-34H11.6	Testis
+PSMC1P11	Testis
+RP11-34H11.3	Testis
+C4orf51	Testis
+C3orf30	Testis
+CTC-321K16.4	Testis
+RP5-1096J16.1	Pituitary
+RP11-5N11.2	Testis
+AP006285.1	Liver
+RPL12P8	Cells - EBV-transformed lymphocytes
+PCGEM1	Prostate
+RPL12P3	Testis
+RN7SKP209	Pituitary
+RP11-364P2.2	Testis
+UCP1	Testis
+RNU5E-4P	Testis
+CTD-2024D23.1	Testis
+AP000620.1	Testis
+RP11-397C12.1	Testis
+AC004079.1	Testis
+ZNF99	Testis
+RAET1K	Testis
+RNF6P1	Testis
+RP11-421E14.2	Testis
+KRTAP1-1	Cells - Transformed fibroblasts
+CCDC70	Testis
+RP11-787B4.2	Cells - Transformed fibroblasts
+CCDC79	Testis
+RP11-889D3.2	Testis
+RP11-889D3.1	Testis
+AC011306.1	Testis
+RP11-16B9.1	Testis
+CTC-523E23.15	Testis
+RP4-704D23.1	Testis
+RFTN1P1	Testis
+SPATA31D2P	Testis
+KB-1639H6.2	Testis
+DNM1P17	Testis
+RP11-513G11.3	Liver
+MT-TA	Brain - Putamen (basal ganglia)
+RP11-129B9.2	Skin - Not Sun Exposed (Suprapubic)
+RP11-510I5.4	Testis
+RP11-78O9.1	Testis
+AC009508.1	Testis
+RP11-428L9.2	Testis
+RP11-550A5.2	Pituitary
+ZNF32-AS3	Testis
+ATP6V1G1P4	Testis
+LRRC37BP1	Testis
+LINC00596	Testis
+VN1R88P	Testis
+RP11-76E12.1	Testis
+LINC00598	Testis
+RP11-393K19.1	Testis
+RP11-598D14.1	Testis
+DSCR8	Testis
+DSCR4	Testis
+AC074091.1	Testis
+RP11-101E14.3	Liver
+RP11-244K5.6	Testis
+XX-2136C48.7	Testis
+CTC-265N9.1	Testis
+AC007422.1	Testis
+RP11-630D6.5	Spleen
+RN7SL102P	Testis
+UBE2E2-AS1	Testis
+RP11-536P6.3	Testis
+CRYGB	Testis
+CRYGC	Testis
+LNX1-AS1	Testis
+RP11-373D7.1	Testis
+RP11-104H15.7	Testis
+RP11-262K1.1	Testis
+RP1-146I3.1	Testis
+AC008079.9	Testis
+RP11-815I9.3	Testis
+RP11-712C7.1	Testis
+TAS2R38	Small Intestine - Terminal Ileum
+RP11-532L16.3	Spleen
+CTD-2538A21.1	Brain - Cerebellum
+SPDYE9P	Testis
+RP11-338H14.1	Testis
+RNU1-47P	Liver
+AC087499.10	Testis
+RP11-190J1.3	Testis
+CTD-2113L7.1	Testis
+RP11-897M7.1	Testis
+RP11-778J16.2	Cervix - Ectocervix
+RP11-141O11.1	Testis
+RP11-488I20.8	Testis
+SPDYE4	Testis
+AC005358.3	Testis
+CTD-2568A17.1	Testis
+RP1-81P11.1	Testis
+RP11-264F23.1	Testis
+RBMY1B	Testis
+TFAP2D	Brain - Amygdala
+RBMY1E	Testis
+CTD-2050I18.1	Testis
+RP11-14J7.6	Testis
+AC006037.2	Liver
+NPSR1	Brain - Hypothalamus
+CTC-312O10.2	Whole Blood
+RP11-313I2.7	Testis
+RP11-733C7.1	Testis
+RP11-313I2.2	Liver
+PCAT2	Testis
+PCAT4	Prostate
+RP11-56H2.2	Testis
+SLC25A39P2	Testis
+RP11-568G11.5	Cells - EBV-transformed lymphocytes
+RNU6-583P	Cells - EBV-transformed lymphocytes
+MUC22	Esophagus - Mucosa
+RP11-275O4.3	Testis
+RP11-139K4.2	Testis
+GAGE1	Testis
+RN7SL421P	Pancreas
+CTD-2001E22.1	Testis
+RP11-220D10.1	Testis
+KRT8P29	Brain - Cerebellum
+RP11-114H24.3	Testis
+GRXCR1	Testis
+RP11-114H24.4	Testis
+RP11-264E18.1	Testis
+RP11-436F21.1	Testis
+RP11-591L14.2	Testis
+BPIFA4P	Testis
+RP11-298H24.1	Testis
+RP3-462C17.1	Testis
+C7orf33	Testis
+RP11-505K9.3	Testis
+RP11-429J17.4	Testis
+AE000662.92	Testis
+U66059.29	Testis
+RP11-418I22.2	Testis
+GRM7-AS2	Testis
+GRM7-AS3	Testis
+RN7SL211P	Cells - EBV-transformed lymphocytes
+RP5-1198O20.5	Adrenal Gland
+RP11-61D1.2	Esophagus - Mucosa
+RNU2-60P	Testis
+RP11-609N14.1	Testis
+RP11-370I10.4	Testis
+AP000647.3	Testis
+RP11-498P14.4	Testis
+RP11-925D8.3	Whole Blood
+RP11-925D8.2	Whole Blood
+AP001891.1	Testis
+RP11-925D8.6	Whole Blood
+RP11-925D8.5	Whole Blood
+KB-1183D5.9	Testis
+RP11-730N24.1	Testis
+RP11-63K6.1	Skin - Not Sun Exposed (Suprapubic)
+RP11-63K6.7	Testis
+RP11-63K6.5	Testis
+H2BFWT	Testis
+RP11-701I24.3	Testis
+OR5V1	Testis
+RP11-233G1.4	Testis
+RNA5SP323	Cells - EBV-transformed lymphocytes
+SPERT	Testis
+ACTRT1	Testis
+ACTRT2	Testis
+RP11-165H23.1	Testis
+RP11-433J22.3	Kidney - Cortex
+RP11-368P15.1	Testis
+ADAM18	Testis
+RP11-941H19.1	Testis
+PPP1R2P2	Testis
+PPP1R2P5	Brain - Cerebellum
+PPP1R2P6	Testis
+LINC00364	Testis
+LINC00366	Testis
+LINC00362	Testis
+LINC00363	Testis
+RP11-129H15.4	Testis
+RP11-321E2.12	Testis
+RP11-321E2.13	Testis
+RP1-190J20.2	Testis
+RP11-744J10.3	Testis
+COX11P1	Testis
+AC004988.1	Lung
+FAM170B-AS1	Testis
+RP11-145A3.4	Skin - Sun Exposed (Lower leg)
+RP11-46E17.6	Testis
+KCNQ5-AS1	Testis
+RN7SL820P	Lung
+RP11-462P6.1	Testis
+RP11-145O15.2	Nerve - Tibial
+DUSP21	Testis
+RP11-698N11.2	Pituitary
+RP11-807H22.7	Spleen
+RP11-807H22.6	Spleen
+RP1-45I4.2	Testis
+AC019330.1	Colon - Transverse
+RP11-204E4.3	Testis
+RP11-109A6.2	Testis
+RPSAP4	Cells - EBV-transformed lymphocytes
+MACROD2-AS1	Testis
+KIRREL-IT1	Testis
+RP11-77M5.1	Testis
+RPSAP8	Cells - EBV-transformed lymphocytes
+RP11-370P15.2	Testis
+RP11-463M16.5	Testis
+AC073082.3	Testis
+MIR4263	Adrenal Gland
+AC012065.4	Adrenal Gland
+RP11-307F22.2	Testis
+RP11-397H6.1	Testis
+RP11-215E13.2	Testis
+RP11-405K6.1	Testis
+RP11-54D18.3	Testis
+AC004824.2	Whole Blood
+RP4-749H3.2	Testis
+SNORD91A	Ovary
+RP11-437L7.1	Pituitary
+VN1R53P	Breast - Mammary Tissue
+TP53	Breast - Mammary Tissue
+TGFB1	Breast - Mammary Tissue
+E2F3	Breast - Mammary Tissue
+CTD-2233C11.2	Testis
+AC025016.1	Testis
+LINC00572	Testis
+RPL13AP3	Testis
+CABP5	Whole Blood
+RP11-258B16.1	Testis
+RN7SL620P	Testis
+RP11-274K13.5	Testis
+AC007204.1	Thyroid
+AC020595.1	Testis
+RP11-10F11.2	Testis
+WBP11P1	Testis
+RP11-272D20.2	Testis
+RP11-417J1.1	Testis
+CAPNS1P1	Esophagus - Mucosa
+CTC-499B15.7	Testis
+RP11-138E16.1	Testis
+RP3-340N1.6	Testis
+RP11-165M1.3	Testis
+RP11-165M1.2	Testis
+IGKV2-18	Spleen
+AL360004.1	Colon - Sigmoid
+LINC00266-3	Testis
+RP11-438D8.2	Testis
+MRPL42P6	Ovary
+MRPL42P2	Spleen
+CTD-2350J17.1	Testis
+RP11-80H5.6	Testis
+MTND5P8	Testis
+OR5P1P	Skin - Not Sun Exposed (Suprapubic)
+RP11-379C10.1	Testis
+RP11-71H9.1	Testis
+RP11-420K14.7	Testis
+RP11-539E19.2	Testis
+AC004911.2	Testis
+RP4-813D12.2	Testis
+RP11-340E6.2	Testis
+RP11-1437A8.4	Testis
+RP11-1437A8.6	Testis
+ALOX15P2	Testis
+RBAKDN	Testis
+ARGFXP1	Fallopian Tube
+TUSC7	Testis
+RP11-330L19.2	Testis
+AC098973.2	Testis
+AC098973.1	Testis
+IZUMO2	Testis
+IZUMO3	Testis
+RP4-583K8.1	Testis
+OR51J1	Brain - Cerebellum
+AC104451.2	Testis
+RP11-667K14.5	Cells - EBV-transformed lymphocytes
+RIMBP3B	Testis
+CTD-2179L22.1	Brain - Spinal cord (cervical c-1)
+GAGE2D	Testis
+GAGE2E	Testis
+GAGE2A	Testis
+AC007091.1	Testis
+GAGE2C	Testis
+LPP-AS1	Testis
+MIR421	Brain - Cerebellum
+CTC-436K13.3	Testis
+RP5-1018K9.1	Kidney - Cortex
+RP1-37N7.2	Testis
+RPL36AP39	Testis
+C16orf97	Testis
+SNORA2B	Cells - EBV-transformed lymphocytes
+C16orf90	Testis
+D87024.1	Spleen
+RP11-242J7.1	Spleen
+CTD-2623N2.5	Testis
+NAV2-IT1	Cells - Transformed fibroblasts
+RP11-3G20.1	Testis
+RP11-3G20.2	Testis
+RP11-1134I14.2	Testis
+UNC93B2	Spleen
+UNC93B6	Spleen
+AC017074.1	Testis
+RP11-882G5.1	Muscle - Skeletal
+RP11-390D11.2	Testis
+RP11-71E19.5	Testis
+GOLGA6L16P	Testis
+AP000357.4	Testis
+RP11-386B13.3	Testis
+RP11-386B13.1	Testis
+RP11-402G3.4	Testis
+RP11-402G3.3	Testis
+RP11-807E13.2	Testis
+AC007563.4	Cervix - Endocervix
+RP11-491H19.1	Testis
+AC007563.1	Testis
+NDUFA5P10	Stomach
+RP11-2E17.2	Liver
+RP11-292B1.2	Testis
+RP11-5P4.1	Testis
+CTD-2116N24.1	Testis
+AC102948.2	Testis
+OR1D2	Testis
+CIAPIN1P	Testis
+CTB-78H18.1	Testis
+RP11-99H8.1	Testis
+CYorf17	Testis
+RP11-707O23.5	Testis
+CIB3	Testis
+CTC-254B4.1	Testis
+CTD-2235C13.2	Testis
+AC097713.4	Spleen
+AC097713.3	Minor Salivary Gland
+RN7SL217P	Brain - Nucleus accumbens (basal ganglia)
+RP11-531H8.1	Testis
+RP11-5P22.3	Testis
+RP11-492A10.1	Testis
+EPYC	Ovary
+TATDN2P1	Testis
+OR9H1P	Testis
+RP11-436I24.1	Testis
+RP11-406A9.2	Testis
+ACTL9	Testis
+ACTL8	Testis
+RP11-31I22.4	Testis
+RP11-31I22.1	Testis
+RP1-288M22.2	Testis
+RP11-353N14.1	Testis
+RP11-218M11.3	Testis
+ZNF733P	Testis
+AC011893.3	Cells - EBV-transformed lymphocytes
+CTD-2553L13.4	Testis
+RNU6-1110P	Testis
+CCT8L1P	Testis
+KRT18P55	Testis
+CTD-2072I24.1	Testis
+OR5H6	Testis
+RP5-1166F10.1	Testis
+NEK4P3	Testis
+TCP10	Testis
+RP11-404I7.1	Testis
+GPRC6A	Minor Salivary Gland
+RP11-744K17.8	Testis
+FAM170B	Testis
+FAM170A	Testis
+PAPPA-AS2	Prostate
+RP11-744K17.2	Testis
+AP001342.1	Testis
+RP11-9M16.3	Testis
+RP4-737A23.2	Testis
+IL21	Testis
+AC080008.1	Liver
+IL22	Testis
+RP11-279O17.2	Testis
+IL26	Spleen
+KIF2B	Testis
+LINC00382	Testis
+LINC00381	Testis
+RP11-266E6.3	Testis
+RP11-138B4.1	Testis
+RP3-461F17.2	Testis
+RP11-1112C15.2	Testis
+RP11-1112C15.1	Pituitary
+OR10AE3P	Testis
+H2BFS	Testis
+CTC-441N14.4	Testis
+CTC-441N14.1	Testis
+OR4N2	Testis
+OR4N4	Testis
+MIRLET7DHG	Testis
+PRDX3P4	Uterus
+RP1-172N19.1	Testis
+AC004009.3	Testis
+RP11-74C3.1	Testis
+RP11-3L10.1	Testis
+AC068134.6	Lung
+AC068134.5	Lung
+MPC1L	Testis
+RP11-326C3.4	Testis
+RP1-166H1.2	Testis
+AP000432.2	Testis
+OR2AI1P	Testis
+LINC00837	Testis
+LINC00838	Testis
+RP11-403N16.5	Testis
+RP11-403N16.2	Testis
+RP11-403N16.3	Testis
+RP11-405F3.5	Testis
+RP11-179A10.3	Testis
+RP11-30J20.1	Testis
+RP11-244N9.6	Testis
+AC090627.1	Pituitary
+RP1-121G13.2	Testis
+RNU1-105P	Testis
+POM121L7	Testis
+RP11-357K6.2	Testis
+CTD-2318H23.1	Testis
+RP11-588F10.1	Heart - Left Ventricle
+RP11-69C17.4	Testis
+RP11-69C17.2	Testis
+RP1-41P2.7	Testis
+RP11-299H22.6	Testis
+RP11-612B6.1	Testis
+RP11-219O3.2	Testis
+RP11-192C21.2	Testis
+RP5-892F13.2	Whole Blood
+OR10D1P	Pituitary
+CTD-2525I3.6	Testis
+RP11-805I24.1	Testis
+RP11-805I24.4	Testis
+GAPDHP38	Pituitary
+RP3-449H6.1	Testis
+GAPDHP37	Ovary
+AC116035.2	Testis
+AC007050.17	Testis
+RP11-124K4.1	Testis
+RP11-76E16.2	Cells - Transformed fibroblasts
+RP11-116D17.2	Testis
+RP11-324P9.1	Testis
+RP11-495K9.9	Testis
+KRTAP21-2	Testis
+HBBP1	Whole Blood
+RP11-79C6.3	Testis
+RP11-79C6.1	Pituitary
+RP11-60C6.5	Testis
+RP11-60C6.6	Testis
+RP4-747G18.5	Small Intestine - Terminal Ileum
+SPATA8-AS1	Testis
+SARS2	Testis
+GLYATL1P1	Prostate
+RP11-447B18.1	Testis
+RP11-459K23.2	Testis
+GUSBP6	Testis
+RP11-68L1.2	Testis
+RP11-321E2.4	Whole Blood
+RP11-321E2.5	Whole Blood
+AC107622.1	Testis
+RP11-450K4.1	Testis
+XX-CR54.1	Testis
+KRTAP17-1	Cells - EBV-transformed lymphocytes
+OR2C3	Testis
+OR2C1	Testis
+RPS15AP18	Brain - Cerebellum
+MRGPRG	Testis
+REG1P	Pancreas
+AC010243.1	Cells - EBV-transformed lymphocytes
+CTB-3M24.3	Testis
+RP11-346M5.6	Bladder
+OTX2-AS1	Brain - Substantia nigra
+RP11-181D18.4	Brain - Cerebellum
+RP11-351M16.1	Testis
+RP11-351M16.3	Testis
+RP11-613M5.1	Testis
+AC008267.1	Testis
+RP11-136B18.2	Testis
+RP11-613M10.9	Pancreas
+OR5BQ1P	Spleen
+HNRNPA3P2	Whole Blood
+OR7E105P	Testis
+RP11-242P2.2	Testis
+RP5-1139I1.1	Testis
+RN7SKP77	Testis
+RN7SKP75	Nerve - Tibial
+ACTBP9	Liver
+RP4-673D20.6	Testis
+OR9Q2	Testis
+GHc-602D8.2	Testis
+RP11-434D2.8	Testis
+RP11-407P2.1	Testis
+AC005019.3	Testis
+RNU6-1207P	Testis
+DPPA2	Testis
+DPPA3	Testis
+DPPA5	Testis
+LINC00448	Testis
+AC012501.2	Testis
+LINC00442	Testis
+LINC00445	Testis
+LINC00444	Testis
+RP11-60L3.2	Testis
+OR4K12P	Testis
+SPATA16	Testis
+SPATA19	Testis
+TMEM95	Testis
+RP11-372H2.1	Testis
+ACTN4P2	Testis
+MTNR1B	Testis
+TRIM42	Testis
+TRIM43	Testis
+TBPL2	Testis
+CCDC75P1	Testis
+RP1-127B20.4	Cervix - Endocervix
+RP11-335O4.1	Testis
+AC106900.6	Testis
+RP11-458K10.3	Testis
+AC004070.1	Testis
+AL022237.3	Testis
+RP11-598C10.1	Testis
+RP11-598C10.2	Testis
+RP11-257I14.1	Testis
+RN7SL357P	Testis
+UBDP1	Testis
+RP11-624A4.1	Testis
+NAV2-AS5	Testis
+RP5-1069C8.3	Testis
+RP5-1069C8.2	Testis
+AF178030.2	Testis
+RP11-317F20.2	Brain - Cerebellum
+GAGE12H	Testis
+GAGE12I	Testis
+GAGE12J	Testis
+GAGE12C	Testis
+PRB4	Testis
+GAGE12G	Testis
+U91328.2	Testis
+RP11-959I15.4	Testis
+MYL6P2	Testis
+RP11-68I3.7	Testis
+LACTBL1	Testis
+CDKN2AIPNLP2	Testis
+LALBA	Testis
+LNX1-AS2	Adrenal Gland
+RHOXF2	Testis
+RP11-501H19.2	Testis
+XXbac-BPGBPG34I8.1	Testis
+AC114808.3	Testis
+C2orf27B	Pancreas
+C7orf71	Testis
+RPL21P17	Testis
+RP11-167N24.5	Testis
+RP11-661G16.2	Testis
+AC093716.1	Testis
+AGBL1-AS1	Testis
+RP11-167H9.4	Testis
+POU4F2	Testis
+RP11-960B9.2	Testis
+RP4-739H11.3	Testis
+AC005616.2	Muscle - Skeletal
+RP11-348J12.2	Testis
+AC012594.1	Testis
+CTD-2384A14.2	Testis
+RP13-726E6.3	Pituitary
+RP11-803A13.1	Testis
+RNU6-430P	Testis
+FAM60BP	Cells - EBV-transformed lymphocytes
+RP11-396M11.1	Testis
+RP4-586O15.1	Testis
+PGBD4P5	Testis
+RP11-393K12.2	Testis
+MTND3P9	Whole Blood
+PWRN2	Testis
+DMP1	Testis
+AC091770.3	Testis
+VN2R10P	Testis
+LINC00633	Testis
+LINC00637	Testis
+LINC00635	Testis
+PRDX2P2	Testis
+RP11-23E10.2	Testis
+RP11-23E10.3	Testis
+RP11-23E10.5	Testis
+IGLVIV-66-1	Testis
+TBCAP1	Testis
+TBCAP2	Brain - Cerebellum
+RP11-706O15.5	Cervix - Ectocervix
+AC103881.1	Testis
+AL590708.1	Cervix - Endocervix
+AC092106.1	Testis
+RP11-745A24.2	Testis
+RP11-413G15.1	Testis
+RP11-15E18.2	Testis
+RP11-15E18.4	Testis
+RP11-717H13.1	Testis
+RP11-554D15.3	Cells - Transformed fibroblasts
+BTF3L4P4	Testis
+RP11-146E23.2	Testis
+AL121657.4	Esophagus - Mucosa
+RP11-58O15.1	Testis
+IGHVII-44-2	Testis
+AP001628.6	Testis
+CTD-2008N3.1	Testis
+PTCD2P2	Testis
+AP002856.5	Lung
+VDAC1P11	Bladder
+RP11-787D18.2	Testis
+LINC00851	Testis
+GUSBP8	Testis
+AC104695.4	Testis
+RP11-302F12.4	Brain - Cerebellum
+APOOP1	Testis
+RP11-476M19.1	Testis
+APOOP5	Testis
+RP11-476M19.3	Testis
+CXADRP3	Testis
+CXADRP2	Testis
+RP11-459D22.2	Stomach
+AC022498.1	Fallopian Tube
+SYNJ2-IT1	Testis
+PGBD4P8	Testis
+RP11-87E22.1	Testis
+PGBD4P1	Testis
+AC005357.1	Testis
+CEACAMP10	Testis
+RP11-392E22.1	Testis
+AC005786.5	Testis
+AC005786.3	Testis
+RP11-626A5.2	Testis
+C21orf91-OT1	Testis
+OR3A1	Testis
+OR3A3	Testis
+RN7SL314P	Breast - Mammary Tissue
+RP11-219C20.1	Testis
+RPL24P7	Testis
+TTLL8	Testis
+OR11K2P	Testis
+RP11-126O22.1	Testis
+CTC-527H23.2	Testis
+RN7SL793P	Cells - EBV-transformed lymphocytes
+MIR133B	Muscle - Skeletal
+RP11-1E3.1	Testis
+CTD-2050B12.1	Testis
+RP11-319E16.1	Testis
+CTD-2318B16.3	Testis
+CTD-2318B16.1	Testis
+RP11-115J23.1	Testis
+RP13-565O16.2	Testis
+RP11-480O10.1	Testis
+AP001258.5	Cells - EBV-transformed lymphocytes
+IGLV11-55	Testis
+IGLVIV-64	Testis
+RP11-77G23.5	Testis
+RP11-885B4.2	Testis
+RP11-379P1.4	Testis
+RP11-295P9.6	Testis
+PRSS29P	Testis
+RPL32P34	Bladder
+RP11-1028N23.4	Testis
+RP11-787P24.1	Testis
+RP11-17A4.4	Testis
+RP11-677I18.4	Testis
+RP11-468N14.3	Liver
+RP11-788H18.1	Testis
+VN1R64P	Testis
+RP11-861L17.3	Lung
+RP5-842K16.1	Testis
+CTD-2210P24.6	Testis
+INSL6	Testis
+RP11-100N20.1	Testis
+CTD-2210P24.2	Muscle - Skeletal
+CTD-2210P24.3	Testis
+OR1F12	Testis
+RP11-302I18.3	Testis
+AP000997.2	Testis
+RP11-561O23.7	Testis
+CTD-2081C10.1	Testis
+RP3-438O4.4	Testis
+MAGEB2	Testis
+MAGEB3	Testis
+MAGEB1	Testis
+MAGEB6	Testis
+AC079150.3	Testis
+MAGEB5	Testis
+CTD-2194D22.2	Testis
+RP11-109G10.2	Prostate
+AL391384.1	Cervix - Endocervix
+RP11-90C4.2	Testis
+RP11-90C4.3	Testis
+LINC00283	Testis
+AC005262.4	Esophagus - Mucosa
+ONECUT3	Testis
+RP11-13N12.1	Testis
+RP11-1036E20.7	Liver
+SLC25A1P4	Testis
+RP5-1066H13.4	Testis
+SLC25A1P1	Testis
+SLC25A1P2	Testis
+SLC25A1P3	Testis
+KRT18P25	Prostate
+RP5-905H7.10	Testis
+RP11-321A17.3	Testis
+RP11-812E19.14	Testis
+RP11-321A17.5	Testis
+TRIM60	Testis
+CNN2P6	Cells - EBV-transformed lymphocytes
+CNN2P3	Heart - Atrial Appendage
+GOLGA5P1	Whole Blood
+RP11-307O10.1	Testis
+C2orf83	Testis
+RP11-243A14.3	Testis
+RP11-243A14.2	Testis
+CNBD1	Testis
+RP5-1047A19.4	Testis
+OR52D1	Testis
+C13orf35	Testis
+RP5-1108M17.5	Pancreas
+AC104781.1	Testis
+RP11-763K15.1	Testis
+TRIM53CP	Testis
+RP11-140I24.1	Testis
+MAGEB6P1	Testis
+RP11-13G14.4	Testis
+PTCHD3P3	Testis
+CEACAM18	Small Intestine - Terminal Ileum
+RP3-477O4.5	Testis
+RP11-791M20.1	Spleen
+RP11-274B21.7	Testis
+SPATA31B1	Testis
+CTD-2318B16.2	Testis
+AP000936.4	Testis
+CTD-2280E9.1	Prostate
+RP11-434D11.4	Testis
+CTD-2021H9.2	Testis
+RN7SL871P	Testis
+CTD-2144E22.7	Testis
+CTD-2144E22.6	Testis
+CTD-2144E22.5	Testis
+RP11-1267H10.3	Liver
+C7orf55	Testis
+AL080274.1	Testis
+EFCAB14P1	Testis
+RP3-333B15.4	Testis
+RP11-168L7.3	Testis
+OR10J6P	Liver
+ZNF479	Testis
+MIR548I2	Ovary
+KRTAP3-3	Skin - Not Sun Exposed (Suprapubic)
+RNF17	Testis
+OR11M1P	Testis
+RP11-177C12.4	Uterus
+RP11-769N19.2	Testis
+RP11-503C24.3	Testis
+RBMY1HP	Testis
+RP11-179H18.7	Testis
+RP11-179H18.5	Brain - Cerebellar Hemisphere
+CCNJP1	Testis
+RP11-179H18.8	Testis
+RP11-439E19.1	Testis
+RNA5SP474	Brain - Spinal cord (cervical c-1)
+RNA5SP479	Cervix - Endocervix
+AC005162.4	Testis
+AC013727.2	Testis
+AC013727.1	Testis
+LINC00615	Testis
+LINC00616	Testis
+SDCCAG3P1	Testis
+RP11-110H1.8	Testis
+RP11-110H1.9	Testis
+RP11-1151B14.2	Liver
+RP5-1099E6.3	Testis
+CRYGEP	Ovary
+RP11-473A10.2	Testis
+RP5-850E9.3	Brain - Frontal Cortex (BA9)
+RP11-134E15.1	Testis
+RP11-1109M24.11	Testis
+RP11-1109M24.13	Testis
+RP11-1109M24.12	Testis
+RP11-1109M24.14	Testis
+RP11-1109M24.16	Testis
+AF064858.6	Liver
+PPP2R2B-IT1	Testis
+TPD52L3	Testis
+RP11-86L19.2	Testis
+SLIT2-IT1	Testis
+LINC00879	Testis
+RP11-683L23.2	Testis
+ATP11A-AS1	Testis
+RP11-21M7.2	Nerve - Tibial
+CTD-3194G12.1	Testis
+RP11-480G3.1	Testis
+R3HDM2P2	Testis
+RP11-515E23.2	Testis
+RP11-515E23.1	Testis
+ZFP42	Testis
+RP3-473B4.3	Adrenal Gland
+RPL29P32	Testis
+RPL29P33	Ovary
+RPL29P30	Testis
+OR5AK4P	Spleen
+RP11-77G23.2	Testis
+RP4-742N3.1	Testis
+AC015922.5	Testis
+AC018359.1	Testis
+AC018359.3	Testis
+RP11-560G2.1	Testis
+RP11-560G2.2	Testis
+AC114765.2	Esophagus - Mucosa
+ESRRAP2	Testis
+ESRRAP1	Testis
+RP11-142G7.2	Testis
+BMS1P19	Testis
+BMS1P16	Testis
+RP11-373E16.4	Cells - Transformed fibroblasts
+BMS1P13	Esophagus - Mucosa
+GAPDHP70	Nerve - Tibial
+DEFB135	Testis
+RP11-125P18.1	Testis
+RP4-604A21.1	Brain - Cerebellar Hemisphere
+MRPL37P1	Prostate
+AC128709.4	Testis
+RP11-257K9.3	Testis
+CTD-2147F2.2	Heart - Left Ventricle
+ADAMTS20	Testis
+RP11-473M14.3	Testis
+RP11-256L11.1	Testis
+AC010987.6	Pancreas
+AL589986.2	Testis
+SMPD4P2	Testis
+CTD-2118P12.1	Testis
+SLC25A31	Testis
+AC130710.1	Brain - Spinal cord (cervical c-1)
+snoZ185	Cells - Transformed fibroblasts
+AP005273.1	Testis
+RP4-764O22.2	Testis
+RP11-508N12.2	Testis
+RP11-328M4.3	Testis
+AC004535.2	Testis
+RP11-798K3.4	Cervix - Endocervix
+PLCXD2-AS1	Testis
+AC100848.1	Testis
+EEF1GP8	Testis
+EEF1GP3	Testis
+EEF1GP2	Testis
+EEF1GP7	Testis
+RP11-461F11.3	Testis
+RP11-552E10.1	Testis
+CTD-2587M23.1	Testis
+TRPC6P	Brain - Cerebellum
+LGALS14	Cells - EBV-transformed lymphocytes
+SMIM9	Testis
+RP5-1024G6.7	Testis
+ZNF725P	Testis
+RP1-3J17.3	Skin - Not Sun Exposed (Suprapubic)
+RP11-148E17.1	Testis
+AC010880.1	Testis
+RP11-956J14.2	Testis
+Z95704.1	Ovary
+RP11-597A11.1	Testis
+RP11-431M3.1	Testis
+OR6C2	Testis
+AC011718.2	Testis
+AP000361.2	Testis
+OCM2	Testis
+MKRN4P	Testis
+RNU1-138P	Heart - Atrial Appendage
+RPL35AP4	Testis
+OR13G1	Testis
+LINC00269	Pituitary
+TRIM64EP	Testis
+GNRHR2P1	Testis
+CTC-548H10.2	Testis
+CTD-2582D11.1	Testis
+RP11-474I11.8	Testis
+AC007463.2	Testis
+RP11-164N3.3	Testis
+RNA5SP132	Testis
+POM121L8P	Testis
+RP11-829H16.2	Testis
+AC109815.2	Testis
+AC009227.3	Brain - Cerebellum
+RP11-772C9.1	Liver
+RNU6-704P	Testis
+LINC00408	Testis
+PRPS1L1	Testis
+RP11-163M18.1	Testis
+RP11-45I20.1	Testis
+RP11-381I15.1	Testis
+RP4-717I23.2	Cells - EBV-transformed lymphocytes
+RP11-849F2.4	Testis
+RP11-603J24.4	Testis
+RPS10P18	Testis
+RPS10P16	Skin - Not Sun Exposed (Suprapubic)
+RP11-30L3.2	Testis
+PPP3R2	Testis
+PRNT	Testis
+RP11-524P6.1	Testis
+RP5-1185H19.2	Pituitary
+GSC2	Testis
+RP11-759A9.1	Testis
+RP11-520A21.1	Testis
+RP11-725M22.1	Testis
+RP1-27K12.2	Liver
+ZNF679	Testis
+CCR12P	Cells - EBV-transformed lymphocytes
+CYCSP32	Testis
+RP11-240A16.1	Testis
+AC018832.1	Testis
+AC068483.1	Testis
+AC107613.1	Testis
+ATXN3L	Testis
+RPL21P50	Testis
+RP11-550P17.5	Cells - Transformed fibroblasts
+RP1-230L10.1	Testis
+RBM22P3	Testis
+PRSS54	Testis
+RP11-360K13.1	Testis
+RP11-475D12.2	Testis
+RP11-475D12.1	Testis
+PRSS58	Testis
+LIN28A	Testis
+RP5-857K21.5	Testis
+RP11-281H11.1	Testis
+RP11-529P9.1	Testis
+RP11-91I20.1	Testis
+RP5-836J3.1	Liver
+RP11-216M21.7	Testis
+TOPAZ1	Testis
+RP11-571O6.1	Testis
+OR2J3	Testis
+RP11-109M19.1	Testis
+CTD-2066L21.2	Testis
+CTC-359M8.1	Testis
+CTD-2066L21.1	Testis
+AC023672.2	Kidney - Cortex
+RP11-190D6.2	Testis
+RP11-361D14.2	Testis
+RP3-446N13.1	Testis
+CTD-2349B8.1	Cervix - Endocervix
+RPS3AP2	Testis
+AC092566.1	Testis
+RP11-815J4.5	Pancreas
+RP11-815J4.7	Testis
+RGPD6	Testis
+RGPD4	Testis
+BPIFA3	Testis
+RP11-574M7.1	Testis
+CLSTN2-AS1	Testis
+SPP2	Liver
+RP11-227D13.2	Testis
+RP5-907D15.3	Minor Salivary Gland
+HMGB4	Testis
+RP11-507D14.4	Testis
+RP11-5A11.1	Brain - Cerebellum
+HYALP1	Testis
+RP11-1072C15.2	Testis
+RP11-1072C15.3	Testis
+SCP2D1	Testis
+KIF4B	Testis
+ACTL7B	Testis
+ACTL7A	Testis
+RP11-690J15.1	Testis
+BMP6P1	Testis
+RP11-319E12.1	Testis
+AC027319.1	Spleen
+EIF4EBP1P2	Testis
+NUPL1P1	Testis
+EIF4EBP1P1	Brain - Cerebellum
+RNU1-75P	Liver
+RP11-157B13.3	Testis
+RP11-157B13.7	Testis
+RP11-157B13.9	Testis
+RP11-157B13.8	Testis
+AC123023.1	Testis
+RP11-572C15.5	Testis
+RP11-44I10.6	Testis
+RP11-744I24.2	Testis
+DIO2-AS1	Testis
+RP11-685M7.5	Testis
+RP11-305A4.3	Testis
+GSTTP1	Testis
+GSTTP2	Testis
+CAP1P2	Testis
+BTF3P12	Testis
+RP11-359G22.2	Testis
+AC024028.1	Testis
+AC013472.3	Testis
+OR5AK3P	Spleen
+RP11-518I13.1	Testis
+AP003025.2	Testis
+RP11-499F3.1	Cervix - Endocervix
+RP3-380E11.2	Testis
+SP3P	Testis
+RP11-255G21.1	Testis
+SPANXN1	Testis
+RP11-390P2.2	Skin - Not Sun Exposed (Suprapubic)
+RN7SL310P	Testis
+DEFB119	Testis
+RP11-293N14.1	Testis
+C10orf55	Testis
+C10orf53	Testis
+RP11-388E23.2	Testis
+RP11-314P15.2	Brain - Frontal Cortex (BA9)
+OR8D1	Testis
+TMEM212	Testis
+AC104623.2	Testis
+PFN3	Testis
+RP11-136K7.3	Testis
+SCN10A	Testis
+RP11-690D19.1	Testis
+CTD-2055G21.1	Testis
+RP11-342A1.1	Testis
+CYP4F60P	Testis
+TPM3P7	Testis
+AC087163.3	Testis
+RP11-285A18.2	Testis
+hsa-mir-150	Spleen
+RP11-796I2.1	Testis
+LRRC37A9P	Testis
+RP1-102E24.9	Cervix - Ectocervix
+RP11-261C10.2	Testis
+AC116609.3	Testis
+AC116609.1	Testis
+RP11-439H9.1	Testis
+AC004899.3	Testis
+AC004053.1	Brain - Nucleus accumbens (basal ganglia)
+RP11-720D4.3	Testis
+RP1-152L7.3	Testis
+SNORD88A	Prostate
+NOTCH2P1	Testis
+CTD-2330J20.1	Whole Blood
+RP11-81H3.1	Testis
+XX-DJ76P10__A.2	Testis
+SNRPFP1	Cells - EBV-transformed lymphocytes
+GOLGA6L6	Testis
+GOLGA6L1	Testis
+GOLGA6L2	Testis
+MIR3943	Testis
+MIR3944	Small Intestine - Terminal Ileum
+CTD-2384B9.1	Testis
+VN1R35P	Testis
+RP11-36N20.1	Testis
+SPDYE7P	Testis
+LINC00242	Pituitary
+RP11-402P6.7	Testis
+RN7SL567P	Testis
+NRG1-IT3	Testis
+NRG1-IT1	Testis
+CTC-542B22.1	Testis
+TRBV6-8	Testis
+RP11-120C12.3	Esophagus - Mucosa
+KRT18P64	Testis
+OR51B4	Ovary
+TRBV6-7	Testis
+RP11-619I22.1	Spleen
+LINC00421	Testis
+ACSM4	Testis
+LINC00424	Testis
+NOS2P1	Testis
+C20orf173	Testis
+AC012494.1	Testis
+RP11-231L11.1	Testis
+RP11-711C17.2	Testis
+KCNMB3P1	Testis
+RP11-711C17.1	Testis
+RP11-1018N14.4	Testis
+RP11-1018N14.2	Testis
+RP11-1018N14.1	Testis
+CTD-2516F10.4	Testis
+CTC-782O7.1	Testis
+RP11-160H12.2	Testis
+IFITM8P	Testis
+RP1-155D22.2	Testis
+MROH2B	Testis
+RP11-92G19.2	Testis
+RP11-453E2.2	Testis
+XXbac-BPG248L24.13	Testis
+CTD-2313P7.1	Testis
+RP11-547D23.1	Testis
+PRLH	Heart - Atrial Appendage
+RP11-364P22.2	Testis
+ZNF192P2	Testis
+RP11-354H21.1	Testis
+RP11-354H21.2	Testis
+MOS	Testis
+AC099344.3	Testis
+RNU1-64P	Testis
+MS4A18	Testis
+RP11-38F22.1	Testis
+RP11-525K10.2	Ovary
+AC022311.1	Testis
+CTD-2579N5.3	Testis
+RP11-315J22.5	Testis
+MS4A13	Testis
+AC079988.3	Minor Salivary Gland
+RP1-17K7.2	Testis
+RP1-17K7.3	Testis
+RP1-17K7.1	Testis
+AC068610.5	Testis
+AC018693.6	Testis
+PDHA2	Testis
+RP11-469L4.1	Testis
+RPL12P33	Testis
+RPL12P37	Testis
+RPL12P38	Testis
+RP11-21G20.1	Testis
+RFPL4B	Testis
+RP11-704C2.1	Testis
+PLCH1-AS2	Testis
+EEF1A1P10	Testis
+RNA5SP435	Cervix - Endocervix
+RNA5SP434	Small Intestine - Terminal Ileum
+AC113618.1	Testis
+RP11-359P18.1	Testis
+RP11-722M1.1	Testis
+RP11-881L2.1	Skin - Not Sun Exposed (Suprapubic)
+LYPD4	Testis
+EIF4BP8	Testis
+CATSPER4	Testis
+EIF4BP2	Testis
+RP11-2A4.4	Testis
+RP11-400D2.3	Testis
+RP11-400D2.2	Testis
+RP11-103C3.2	Testis
+CATSPERD	Testis
+RP11-202G11.2	Testis
+LINC00658	Testis
+VN1R6P	Testis
+ABT1P1	Testis
+OR7E111P	Testis
+RP11-571I18.2	Testis
+AC011625.1	Artery - Aorta
+CTC-459F4.8	Testis
+CTC-459F4.7	Testis
+CTC-459F4.5	Testis
+RP11-278I4.2	Artery - Coronary
+RP11-452D2.2	Testis
+RP11-452D2.1	Testis
+RNU6-824P	Cervix - Endocervix
+PSG8	Testis
+RP11-310H4.6	Testis
+PSG5	Cells - Transformed fibroblasts
+PSG3	Testis
+PSG1	Cells - Transformed fibroblasts
+RNFT1P3	Testis
+CTD-2185K10.1	Testis
+RP11-389O22.5	Testis
+RP11-57C13.4	Testis
+RP11-57C13.5	Testis
+C5orf60	Testis
+RP11-340I6.5	Brain - Nucleus accumbens (basal ganglia)
+RP11-331K15.1	Brain - Hippocampus
+TRIM36-IT1	Testis
+TREML5P	Whole Blood
+AC005808.3	Testis
+AC073043.1	Testis
+RP11-675M1.2	Testis
+RP11-124N19.3	Kidney - Cortex
+FAM47B	Testis
+FAM47A	Testis
+AC008984.6	Spleen
+RP11-152H18.4	Testis
+RP11-383J24.2	Heart - Left Ventricle
+OR5B21	Testis
+RP5-1022P6.7	Testis
+RP11-734I18.1	Testis
+PKMP1	Testis
+RP11-1103G16.1	Testis
+RP11-352M15.1	Testis
+AC013437.6	Whole Blood
+AC063976.3	Testis
+RP11-232A1.2	Testis
+C8orf44-SGK3	Bladder
+HIST1H1T	Testis
+OR8B2	Testis
+OR8B3	Testis
+ETF1P1	Testis
+TTTY22	Testis
+HIST1H1A	Testis
+JRKL-AS1	Testis
+RP11-62C3.6	Testis
+RP11-143E21.1	Testis
+TMEM239	Testis
+AC007317.1	Testis
+RP11-408E5.6	Testis
+RP11-408E5.5	Testis
+RP11-408E5.4	Testis
+CTD-2533K21.4	Brain - Hippocampus
+LINC00588	Testis
+GNAT1	Testis
+RP11-103H7.2	Testis
+RP11-103H7.3	Testis
+AC099684.1	Testis
+RP1-93H18.6	Spleen
+RN7SL225P	Testis
+AP001442.2	Testis
+RP11-331H13.1	Testis
+FAM27L	Testis
+FAM149B1P1	Testis
+RP11-15M15.1	Testis
+RP11-35J1.1	Testis
+RP11-7F17.4	Testis
+RP11-2F9.4	Testis
+RP4-682C21.5	Testis
+DNM1P30	Brain - Caudate (basal ganglia)
+RP11-615J4.4	Thyroid
+RP11-615J4.3	Testis
+GSTO3P	Testis
+ATP5C1P1	Testis
+RP11-39K24.12	Testis
+RP11-39K24.13	Testis
+DBX1	Testis
+RP11-39K24.14	Testis
+RPS26P2	Testis
+ZNF286A	Testis
+RP11-351I21.11	Pituitary
+RP11-296E23.1	Muscle - Skeletal
+TMCO2	Testis
+RP11-534L6.3	Cells - EBV-transformed lymphocytes
+RP11-534L6.2	Cells - EBV-transformed lymphocytes
+RP11-534L6.5	Testis
+FREM2-AS1	Pancreas
+MIR144	Whole Blood
+IFNW1	Testis
+RP11-162D16.2	Testis
+CTD-2144E22.8	Testis
+AC020956.3	Testis
+MIR3960	Ovary
+RP11-133L19.1	Testis
+RP11-133L19.2	Testis
+RP11-855C21.1	Testis
+GOLGA8EP	Testis
+OR13C5	Pituitary
+LINC00229	Testis
+RP11-324L3.5	Testis
+OR13C2	Pituitary
+OR13C3	Testis
+RP11-489M13.1	Pituitary
+LINC00226	Testis
+LINC00221	Testis
+RP11-514F8.2	Testis
+RP11-402L5.1	Testis
+RP1-293L8.2	Artery - Tibial
+LRIT1	Testis
+KRT18P42	Testis
+KRT18P40	Testis
+CTD-2024I7.13	Testis
+KRT18P46	Testis
+RNA5SP174	Testis
+RP11-342D14.1	Testis
+POM121L4P	Testis
+RP11-45F15.2	Testis
+RP11-45F15.1	Testis
+TBC1D21	Testis
+RP11-465L8.1	Testis
+RNU1-2	Testis
+RNU6-339P	Liver
+RPL5P2	Testis
+GUCY2F	Testis
+RPL5P6	Testis
+RP11-180D21.3	Liver
+SLC9A3P3	Adrenal Gland
+C21orf54	Testis
+RSU1P2	Testis
+RP11-434I12.4	Testis
+CELF2-AS2	Testis
+AC073934.6	Testis
+RP11-80F22.2	Testis
+RP11-388N2.1	Prostate
+RP11-80F22.7	Testis
+RP11-80F22.6	Testis
+RP11-80F22.5	Testis
+RP11-80F22.4	Testis
+AC004870.4	Kidney - Cortex
+AC004870.3	Testis
+TPI1P3	Testis
+RN7SL412P	Testis
+RP1-116K23.1	Testis
+CCT8L2	Testis
+LINC00919	Testis
+RP11-848D3.5	Testis
+LINC00917	Testis
+FAM194B	Testis
+OR1AB1P	Testis
+AC079466.1	Pancreas
+AP003471.1	Liver
+AE000661.50	Spleen
+ZNF209P	Thyroid
+RP11-168L22.2	Testis
+RP11-260M19.1	Brain - Hypothalamus
+RP11-575B7.3	Testis
+RP11-127B16.1	Testis
+PES1P2	Testis
+PES1P1	Testis
+RP11-210G22.1	Testis
+MTCO2P3	Testis
+OR1N1	Testis
+LZTS1-AS1	Testis
+MIR1231	Artery - Aorta
+RP11-460H9.1	Testis
+RP11-415D17.4	Testis
+RP11-170L3.4	Whole Blood
+RP11-415D17.1	Fallopian Tube
+RN7SL386P	Pancreas
+NCR2	Cells - EBV-transformed lymphocytes
+OR2AT1P	Testis
+AC093698.4	Testis
+RP11-76E17.2	Testis
+AC079448.1	Esophagus - Mucosa
+RP1-96H9.5	Testis
+RP11-355I22.6	Testis
+ROPN1L-AS1	Testis
+CLCA3P	Esophagus - Mucosa
+RP11-37C7.2	Testis
+AC106874.1	Testis
+RP11-27G13.1	Testis
+RP11-40H20.4	Testis
+RP11-600L4.1	Testis
+RP11-168C9.1	Testis
+RP5-827L5.1	Testis
+RP11-323H21.3	Testis
+DYNLT3P1	Thyroid
+OR2AD1P	Testis
+RP11-313P18.1	Testis
+SNORD127	Uterus
+AC015977.5	Adrenal Gland
+HIGD2B	Testis
+RP11-497D6.3	Testis
+NOBOX	Testis
+IGLV2-34	Spleen
+RP11-542C10.1	Testis
+RP11-38C18.3	Testis
+CTD-2333K2.1	Testis
+RP11-168K9.1	Testis
+AC062020.2	Testis
+RP11-127H5.1	Testis
+AC096559.2	Testis
+PGCP1	Testis
+RP11-234B24.5	Testis
+RP11-404L6.2	Testis
+RP11-49O14.3	Testis
+AC130709.1	Testis
+RP11-650J17.2	Testis
+PSMB11	Testis
+RP11-20J15.2	Cells - EBV-transformed lymphocytes
+RPS6P20	Testis
+RPS6P21	Testis
+RNU6-12P	Thyroid
+RP11-1000B6.2	Testis
+ANKRD30BP3	Testis
+ANKRD30BP2	Testis
+NEK2P4	Testis
+INS-IGF2	Liver
+hsa-mir-7515	Testis
+HNRNPA1P40	Thyroid
+GTSCR1	Testis
+CTB-31C7.3	Testis
+RP11-174G17	Testis
+RP11-708H21.1	Colon - Transverse
+AC011753.6	Testis
+RP11-962G15.1	Testis
+RP11-411H5.1	Testis
+RP11-592N21.2	Testis
+MIR663B	Testis
+RP11-66A2.2	Testis
+RP4-777D9.2	Testis
+RP11-260O18.1	Testis
+GS1-179L18.1	Testis
+SUN5	Testis
+RP11-476K15.1	Testis
+SLC25A5P6	Testis
+RP11-656G20.1	Stomach
+RP11-692C24.2	Testis
+RP11-347D21.4	Testis
+RP11-347D21.1	Testis
+RP11-347D21.2	Testis
+RP11-605F20.1	Testis
+HIST1H3F	Cells - EBV-transformed lymphocytes
+AC004063.1	Testis
+HIST1H3I	Cells - EBV-transformed lymphocytes
+RP11-149F8.3	Testis
+CTC-471C19.2	Testis
+RP11-1007I13.4	Testis
+RP11-155I9.1	Testis
+RP11-831A10.2	Testis
+AC140481.2	Testis
+AC140481.3	Testis
+CTD-2195M15.3	Testis
+AC140481.4	Testis
+RP11-324C10.1	Testis
+AC159540.3	Testis
+RP5-936J12.1	Testis
+AC064872.1	Testis
+CTD-3110P2.2	Liver
+RNU2-70P	Pancreas
+RP11-61O1.1	Testis
+RP11-325I22.1	Testis
+EEF1A1P34	Testis
+EEF1A1P37	Testis
+HMGB1P37	Brain - Frontal Cortex (BA9)
+FGF7P2	Testis
+RP11-543A18.1	Testis
+RP11-705O24.1	Testis
+RP11-705O24.3	Testis
+RP11-705O24.2	Testis
+RP11-308N19.3	Testis
+RP13-192B19.2	Testis
+MTND5P14	Testis
+MTND5P12	Brain - Cerebellar Hemisphere
+VN1R31P	Testis
+RP11-284P20.3	Heart - Left Ventricle
+CTD-2090I13.1	Testis
+CTD-2090I13.3	Testis
+RP11-740P5.3	Testis
+RP11-740P5.2	Testis
+AC009506.2	Cervix - Endocervix
+CTC-523E23.14	Testis
+RP11-626I20.3	Testis
+RP11-401F2.4	Testis
+AC107399.2	Testis
+RPL17P3	Thyroid
+CTC-218H9.1	Testis
+RP5-1006K12.1	Testis
+CTD-2323K18.3	Testis
+RP11-338L18.1	Testis
+RP11-804A23.1	Testis
+HSPA8P14	Spleen
+LINC00200	Testis
+LINC00207	Testis
+RP11-344A5.1	Testis
+LINC00208	Testis
+RP11-83C7.2	Cells - EBV-transformed lymphocytes
+RP11-25L5.2	Testis
+RP11-733D4.1	Testis
+FTH1P6	Testis
+RP11-514A9.1	Testis
+MIR7-3	Pituitary
+RP11-201E8.1	Testis
+RP11-711D18.2	Testis
+OR7E99P	Nerve - Tibial
+RNA5SP195	Brain - Cerebellum
+AC144525.1	Cells - Transformed fibroblasts
+RP11-687M24.7	Testis
+CTB-7E3.1	Testis
+FAM183CP	Testis
+RNU6-250P	Testis
+RP11-451O13.1	Testis
+RP1-251M9.3	Lung
+RP11-762H8.3	Testis
+ZIM3	Testis
+RP11-241K18.2	Testis
+RP11-941H19.3	Testis
+TNR-IT1	Testis
+RPL23AP51	Testis
+TEX36	Testis
+RP11-346I3.4	Testis
+AC009518.4	Testis
+XXyac-YX60D10.1	Testis
+AC009518.2	Testis
+AC009518.8	Testis
+RP11-378I6.2	Testis
+C12orf80	Testis
+IL5	Testis
+RPL7P26	Muscle - Skeletal
+MIR219-1	Testis
+RP11-565A3.1	Testis
+IL9	Nerve - Tibial
+RP1-249H1.2	Testis
+BIRC8	Testis
+RP11-1053O12.1	Cervix - Endocervix
+LINC00971	Testis
+LINC00973	Cells - Transformed fibroblasts
+RP11-24D15.1	Testis
+RP11-632K5.3	Testis
+SERPINH1P1	Cells - EBV-transformed lymphocytes
+AC013449.1	Cervix - Endocervix
+RP11-288C17.1	Testis
+NUTM2F	Testis
+NT5C1B	Testis
+AC108051.1	Testis
+OR14J1	Testis
+AC108051.3	Testis
+AC108051.2	Testis
+OR7E19P	Testis
+AC032027.1	Artery - Tibial
+RPS15AP6	Testis
+RP11-433P17.1	Testis
+RP11-353N14.3	Cells - EBV-transformed lymphocytes
+CYCSP55	Testis
+CTD-3007L5.1	Testis
+POM121L14P	Testis
+AC108868.6	Testis
+AC079163.1	Testis
+AC008271.1	Testis
+OR6A2	Testis
+CTC-559E9.9	Testis
+AC106706.1	Testis
+RP11-157N3.1	Cells - EBV-transformed lymphocytes
+CTC-559E9.2	Testis
+RP13-379O24.2	Muscle - Skeletal
+RP11-299H22.1	Testis
+RP4-715N11.2	Testis
+RP11-299H22.4	Testis
+RP11-435I10.5	Testis
+RP11-706J10.1	Cells - Transformed fibroblasts
+CTC-261N6.1	Testis
+HSPA9P1	Testis
+OR11J2P	Testis
+RP11-286M16.1	Testis
+RP11-259F16.3	Testis
+AC104634.2	Testis
+RP11-266O8.1	Testis
+OTUD6A	Testis
+RP11-691H4.4	Testis
+CTA-397H3.3	Testis
+MYADML	Testis
+LL0XNC01-221F2.2	Testis
+HLA-P	Testis
+COX6B1P2	Prostate
+PLAC1	Testis
+GOLGA8DP	Testis
+PSMD12P	Testis
+LOC124685	Testis
+PRSS38	Testis
+RP11-567C20.3	Testis
+RP11-461K13.1	Testis
+HIST1H2BA	Testis
+RP11-426J5.2	Testis
+RP11-168P8.3	Testis
+RP11-168P8.5	Testis
+RP11-481G8.2	Testis
+RN7SL165P	Bladder
+AC084082.3	Testis
+RP11-647P12.1	Testis
+RP11-647P12.2	Colon - Transverse
+RP11-544A12.5	Spleen
+RP11-260A9.6	Pituitary
+RP11-260A9.4	Pituitary
+RP11-411G7.2	Testis
+DCAF8L1	Testis
+DCAF8L2	Testis
+RP11-364B6.1	Testis
+RP11-501E14.1	Testis
+DAP3P1	Testis
+OR2B8P	Testis
+RP11-803D5.4	Thyroid
+SORCS3-AS1	Testis
+MKI67IPP6	Cells - EBV-transformed lymphocytes
+MKI67IPP3	Testis
+RP11-503L19.1	Testis
+RP11-58O9.1	Testis
+TMPOP1	Testis
+LINC00293	Testis
+AC092635.1	Prostate
+CTD-2246P4.1	Testis
+XXbac-BPG308J9.3	Testis
+LINC00560	Testis
+RP11-511B23.3	Adrenal Gland
+LINC00566	Testis
+LINC00567	Testis
+LINC00564	Testis
+HNRNPA1P61	Testis
+RP11-571F15.3	Cells - EBV-transformed lymphocytes
+RP11-78A18.2	Testis
+DPYD-AS2	Testis
+RP11-109E10.1	Testis
+RP11-557H15.5	Testis
+CST12P	Testis
+SIRPAP1	Testis
+PGAM5P1	Testis
+RP1-45N11.1	Testis
+RP11-327F22.5	Testis
+RP3-399L15.1	Testis
+RP3-399L15.2	Testis
+RP11-274J16.5	Testis
+RP11-145M4.1	Cells - EBV-transformed lymphocytes
+GS1-204I12.1	Testis
+RP11-535N6.2	Thyroid
+RBMY2EP	Testis
+RP11-359E8.5	Testis
+RP11-488L1.1	Testis
+SOCS5P3	Testis
+RP11-138H10.2	Brain - Nucleus accumbens (basal ganglia)
+FTH1P14	Testis
+FTH1P18	Testis
+RP11-21B23.3	Testis
+RN7SL187P	Minor Salivary Gland
+AL132796.1	Testis
+RNU6-776P	Pancreas
+GPC5-AS2	Testis
+BOD1L2	Testis
+OR2W1	Testis
+RP1-111C20.3	Adrenal Gland
+CTD-2140G10.1	Testis
+RP11-362L22.1	Pituitary
+RP11-384C12.1	Liver
+RP11-430L3.1	Testis
+RP11-31A20.1	Small Intestine - Terminal Ileum
+CTD-2258A20.3	Testis
+RP11-512N21.3	Testis
+AC117372.1	Cells - EBV-transformed lymphocytes
+RNU6-799P	Testis
+RN7SL851P	Skin - Not Sun Exposed (Suprapubic)
+AC078899.4	Thyroid
+RP1-300G12.2	Cells - EBV-transformed lymphocytes
+HMGB1P13	Brain - Spinal cord (cervical c-1)
+HMGB1P11	Ovary
+HMGB1P16	Pituitary
+RP1-313L4.4	Testis
+MYH16	Testis
+RP11-184C23.4	Testis
+RPL21P111	Testis
+RP11-744O11.2	Minor Salivary Gland
+TP53TG3B	Testis
+TP53TG3C	Testis
+RP11-153F1.1	Testis
+PPP1R11P1	Testis
+DNM1P34	Testis
+DNM1P32	Testis
+PIP5K1P1	Testis
+PIP5K1P2	Testis
+RP11-866E20.3	Testis
+RP11-73G16.1	Testis
+RP11-73G16.3	Testis
+RP11-599B13.8	Pituitary
+RP3-404K8.2	Pituitary
+RP11-599B13.3	Testis
+AC006028.11	Testis
+RNU2-16P	Testis
+RN7SKP11	Cells - Transformed fibroblasts
+RP11-159H3.1	Testis
+ACTBL2	Testis
+LINC00485	Testis
+RP11-358H18.2	Testis
+CTD-3194G12.2	Testis
+TCP10L2	Testis
+PRED57	Testis
+PRED58	Testis
+RP11-1217F2.15	Testis
+POTEF	Testis
+POTED	Testis
+POTEC	Testis
+POTEB	Testis
+POTEA	Testis
+NUP210P1	Testis
+RP11-640N20.1	Testis
+RP11-640N20.5	Testis
+RP11-640N20.6	Testis
+RP11-45D17.1	Testis
+DNAJB8-AS1	Testis
+RN7SL186P	Pancreas
+ARSH	Esophagus - Mucosa
+RP11-19G24.1	Prostate
+MAGED4B	Pituitary
+RP11-70J12.1	Testis
+RN7SL416P	Testis
+AC016682.1	Testis
+AL450226.2	Testis
+RP11-25I15.2	Testis
+RP11-462B18.1	Testis
+RP11-973N13.2	Testis
+RP11-973N13.5	Testis
+PHF5CP	Thyroid
+TRBV23OR9-2	Testis
+RP11-341A22.2	Testis
+ENOX1-AS2	Brain - Hypothalamus
+DNAJC19P1	Brain - Cerebellum
+HSPA8P8	Testis
+XXbac-BPG34I8.3	Testis
+RN7SL146P	Cells - EBV-transformed lymphocytes
+RP11-317N6.1	Brain - Spinal cord (cervical c-1)
+HSPA8P7	Testis
+C10orf120	Testis
+MARK2P6	Testis
+RP11-613F22.7	Testis
+RP11-480G7.2	Testis
+SPTLC1P2	Testis
+SPTLC1P5	Testis
+SPTLC1P4	Testis
+RP11-2C7.1	Testis
+U95743.1	Testis
+RP3-445O10.1	Testis
+RP11-197N18.7	Testis
+RP11-254I22.1	Testis
+RN7SL80P	Spleen
+RP11-275I14.2	Testis
+IGLVI-42	Testis
+RP11-1191J2.4	Testis
+RP11-358D17.1	Fallopian Tube
+MT1B	Liver
+RP5-843L14.1	Testis
+MIR33B	Adrenal Gland
+RPS7P5	Testis
+AP005135.2	Testis
+RP11-96C21.1	Testis
+ZNF20	Testis
+RP11-353N4.7	Testis
+XXyac-YM21GA2.6	Testis
+HIST1H2BPS3	Testis
+HIST1H2BPS2	Testis
+HIST1H2BPS1	Testis
+RP4-601P9.1	Testis
+RP11-399F2.2	Testis
+RP11-12M5.4	Testis
+RP11-162K11.4	Testis
+RP3-403L10.3	Testis
+TSPY11P	Testis
+RP11-133K1.6	Testis
+OR1J4	Cells - Transformed fibroblasts
+RP11-133K1.2	Testis
+OR1J1	Testis
+RP11-133K1.1	Testis
+RP11-697H9.3	Testis
+CTC-479C5.6	Testis
+EGFLAM-AS4	Testis
+EGFLAM-AS2	Testis
+RP11-426L16.9	Testis
+RPL13AP	Brain - Caudate (basal ganglia)
+AC007131.2	Testis
+AC107057.2	Testis
+RP4-726N1.2	Testis
+AC015922.6	Testis
+ARHGEF3-AS1	Testis
+RP11-375A5.1	Brain - Substantia nigra
+RP11-245C17.2	Lung
+CTD-2530H12.1	Testis
+RN7SKP253	Testis
+CTD-2530H12.7	Testis
+RP11-1144P22.1	Pituitary
+RN7SKP259	Pancreas
+RP11-33B1.3	Pituitary
+RP11-340A13.1	Testis
+RP3-495K2.3	Testis
+CTD-2135D7.4	Testis
+RP3-495K2.1	Testis
+RP11-756G12.1	Testis
+RPL5P32	Testis
+RP11-561N12.2	Testis
+RP11-561N12.1	Testis
+C17orf98	Testis
+RNU6-796P	Liver
+AC104801.1	Testis
+RP1-91G5.3	Testis
+AP000281.2	Testis
+RP11-359M6.1	Lung
+RP11-304C12.3	Testis
+RP11-359M6.2	Lung
+CUBNP3	Testis
+CUBNP1	Testis
+AC006150.1	Testis
+KIAA0125P2	Testis
+RP11-28O3.1	Testis
+CTD-2128A3.3	Testis
+RP11-392O18.2	Cells - EBV-transformed lymphocytes
+RP11-804F13.1	Testis
+RP11-666I19.2	Testis
+CTD-2342I9.1	Testis
+RP11-522M21.2	Testis
+SPATA31D4	Testis
+XXbac-BPGBPG24O18.1	Testis
+SPATA31D1	Testis
+RP11-516A11.1	Prostate
+RP11-180I4.2	Testis
+IGSF11-AS1	Testis
+BACE2-IT1	Esophagus - Mucosa
+RP1-72A23.1	Testis
+RP1-158P9.1	Testis
+EIF2B5-IT1	Ovary
+AC091150.1	Testis
+RP11-1082L8.2	Testis
+RP11-1082L8.1	Testis
+RP11-299P2.1	Cells - EBV-transformed lymphocytes
+AC010677.5	Testis
+LINC00544	Testis
+AP000946.2	Testis
+AC104389.28	Testis
+CTA-351J1.1	Testis
+RPL9P28	Colon - Transverse
+ZAN	Testis
+RP11-63B19.1	Testis
+LINC00682	Colon - Sigmoid
+RP11-362I1.1	Testis
+RP11-804L24.2	Testis
+RP11-627G18.4	Testis
+AL158151.2	Testis
+AC005160.3	Testis
+AP001062.9	Testis
+OR5G1P	Spleen
+AC019084.7	Testis
+ACTBP11	Esophagus - Mucosa
+AC021021.2	Testis
+RP11-157D23.1	Testis
+AC021021.1	Testis
+RP11-843B15.3	Nerve - Tibial
+RP11-183I6.2	Testis
+AC007948.1	Testis
+ARHGAP22-IT1	Testis
+AP000593.6	Testis
+AP000593.5	Testis
+RP1-43O17.2	Skin - Sun Exposed (Lower leg)
+RP3-412A9.15	Testis
+TGIF1P1	Skin - Not Sun Exposed (Suprapubic)
+RP11-89B16.2	Brain - Cerebellar Hemisphere
+RPSAP56	Testis
+RP11-124B13.1	Testis
+RP11-749H20.4	Testis
+CTD-2151A2.1	Testis
+RP11-676F20.1	Testis
+RP11-676F20.2	Testis
+CTC-493L21.1	Testis
+CHIAP2	Lung
+RP11-403A21.3	Testis
+OR8G3P	Testis
+CTC-535M15.2	Pituitary
+AC113607.3	Testis
+SUB1P2	Testis
+RP11-655H13.2	Testis
+AP004550.1	Kidney - Cortex
+RP11-435M3.2	Testis
+RN7SL845P	Testis
+RP11-78J21.4	Testis
+RP11-80K6.2	Testis
+SMEK3P	Testis
+RP11-552C15.1	Testis
+RP5-1185K9.1	Testis
+AC016700.2	Testis
+AC016700.6	Cells - EBV-transformed lymphocytes
+RP11-483A20.3	Testis
+RP11-624L4.2	Testis
+MIR5091	Bladder
+RP11-23J9.3	Testis
+RP11-516J2.1	Kidney - Cortex
+RP11-381N20.2	Testis
+RP5-828K20.2	Testis
+RP11-32K4.1	Brain - Frontal Cortex (BA9)
+RPL21P131	Testis
+RP11-454K7.1	Testis
+RP11-366O20.5	Testis
+CTB-191D16.1	Testis
+AC019185.4	Testis
+DNM1P50	Testis
+RNA5SP221	Cells - EBV-transformed lymphocytes
+AC034198.7	Testis
+LINC00710	Testis
+RP11-887P2.6	Liver
+TBL1YP1	Testis
+RP11-31H15.2	Testis
+RP11-474B12.1	Testis
+AP001625.5	Testis
+RP11-402L6.1	Brain - Amygdala
+RP11-805F19.1	Brain - Nucleus accumbens (basal ganglia)
+RP11-686D16.1	Testis
+RP11-265D19.6	Testis
+RP4-613A2.1	Testis
+AC118653.2	Testis
+LARGE-IT1	Testis
+CTC-264O10.2	Testis
+RP11-329J18.3	Testis
+RP11-161I2.1	Cells - Transformed fibroblasts
+RP4-656G21.1	Testis
+AC006003.3	Testis
+RPL30P11	Testis
+RP11-80F22.15	Testis
+RP11-80F22.14	Testis
+RP11-80F22.10	Testis
+RP3-468B3.4	Testis
+RP3-468B3.2	Testis
+RP11-20D14.4	Testis
+C12orf40	Testis
+RP11-359K18.3	Testis
+CTD-2033D24.1	Testis
+RNU6-844P	Minor Salivary Gland
+RP11-109L13.5	Testis
+LINC01005	Testis
+PATE4	Testis
+PATE3	Testis
+RP11-264E20.1	Heart - Left Ventricle
+LRRC37A12P	Pituitary
+OR51A9P	Testis
+RP11-642M2.1	Testis
+RP11-463J10.2	Testis
+RP11-463J10.4	Testis
+RP11-589F5.3	Testis
+RP11-157L3.6	Testis
+RP11-157L3.4	Testis
+RP11-157L3.2	Testis
+RP11-157L3.1	Colon - Sigmoid
+RP11-989E6.8	Testis
+RP11-124G5.3	Testis
+MIR1302-11	Testis
+RP11-666A8.11	Nerve - Tibial
+RP11-723G8.2	Testis
+RP13-297E16.5	Cells - EBV-transformed lymphocytes
+RP1-140J1.4	Ovary
+OFCC1	Testis
+RP11-359D24.1	Testis
+TCEB2P3	Colon - Sigmoid
+TCEB2P2	Testis
+RP11-432M8.17	Testis
+RP11-546M21.6	Testis
+AL138935.1	Testis
+RP5-1007G16.1	Testis
+RP5-930J4.2	Testis
+RP11-112H10.6	Testis
+RP11-809N8.5	Heart - Left Ventricle
+AC012414.1	Testis
+MIR1257	Ovary
+RP5-855F14.2	Testis
+RPL31P57	Testis
+XXbac-B33L19.3	Testis
+AC111186.1	Liver
+PBOV1	Brain - Cerebellum
+IGLVI-63	Spleen
+AC092933.3	Testis
+HSP90AB2P	Testis
+RP11-810P12.5	Testis
+AF165138.7	Pituitary
+ARL2BPP3	Testis
+RP11-810P12.1	Pancreas
+RP11-355E10.1	Testis
+DSCAM-AS1	Prostate
+RP11-593F5.2	Testis
+PRSS48	Testis
+AC005740.4	Testis
+RP11-162D9.3	Testis
+MTND4P29	Testis
+GLT6D1	Testis
+RP5-1027O15.1	Testis
+AC079807.1	Testis
+RP4-662A9.2	Testis
+RP11-393B14.2	Testis
+IQCA1P1	Testis
+AC016909.1	Testis
+CTC-339D2.1	Testis
+NIP7P2	Testis
+OR8B10P	Testis
+OOEP-AS1	Testis
+RP11-481C4.1	Testis
+RP11-310P5.1	Testis
+RP11-123C5.5	Testis
+RN7SKP274	Testis
+RPL5P14	Testis
+RN7SL337P	Cells - EBV-transformed lymphocytes
+BCRP5	Testis
+C17orf74	Testis
+BCRP6	Testis
+HMGN1P36	Cells - EBV-transformed lymphocytes
+HMGN1P37	Spleen
+AC074367.1	Brain - Cerebellum
+RP11-522N14.2	Testis
+ZPBP	Testis
+RP3-466I7.1	Testis
+RP11-769N22.1	Testis
+OR5AK2	Spleen
+RN7SL161P	Testis
+RP11-554E23.2	Testis
+RP11-554E23.3	Testis
+AC006076.1	Testis
+MKNK2P1	Testis
+RP11-414C16.1	Pituitary
+RP11-479J7.1	Testis
+FOXP1-IT1	Testis
+PLS1-AS1	Testis
+EIF4A1P1	Spleen
+RP4-784A16.4	Testis
+RP11-1O10.1	Testis
+OR2B4P	Testis
+RP11-101E19.7	Testis
+AC092619.1	Testis
+QRSL1P3	Cervix - Endocervix
+RP11-101E19.8	Testis
+AC010745.3	Testis
+AC010745.2	Testis
+RN7SKP87	Testis
+RN7SKP86	Brain - Cerebellum
+RN7SKP84	Testis
+IFNL1	Spleen
+IFNL2	Testis
+IFNL3	Testis
+RP11-110L15.2	Minor Salivary Gland
+AL161452.1	Testis
+RP11-566K11.4	Testis
+RP11-419L4.1	Testis
+RNU6-1266P	Testis
+RP11-348H3.5	Cells - EBV-transformed lymphocytes
+LINC00529	Testis
+RP11-366L20.4	Testis
+CTD-2552K11.2	Testis
+RP11-366L20.3	Cells - Transformed fibroblasts
+RP11-163G10.4	Testis
+RNU6-36P	Testis
+RP11-662J14.1	Testis
+ANHX	Testis
+RP11-662J14.2	Testis
+MIR548AA1	Cells - EBV-transformed lymphocytes
+RPL23AP83	Cervix - Endocervix
+RP11-322D14.1	Spleen
+RP11-419M24.1	Testis
+RP11-419M24.6	Testis
+RP11-419M24.4	Testis
+RP11-236P13.1	Testis
+AC010091.4	Testis
+RP11-242O24.3	Testis
+RP11-856M7.4	Testis
+RP11-856M7.1	Testis
+U51244.2	Testis
+CHCHD4P2	Testis
+RP11-472K22.1	Testis
+HNRNPA1P22	Nerve - Tibial
+WFDC10A	Testis
+HNRNPA1P26	Colon - Transverse
+RP1-302D9.1	Testis
+RP1-302D9.2	Testis
+RP11-420J11.2	Testis
+OR14A16	Testis
+SRGAP3-AS1	Testis
+RP11-322I2.1	Testis
+RP11-684B21.1	Testis
+RP11-344H11.5	Pituitary
+RP11-554K11.2	Testis
+HBZP1	Testis
+RP11-576N17.3	Testis
+LDHAL6CP	Testis
+RP11-751A18.1	Adrenal Gland
+RP11-231G15.3	Testis
+FMO8P	Bladder
+CTA-503F6.2	Ovary
+RP11-112L6.2	Testis
+RP4-591L5.1	Testis
+FNTAL1	Brain - Spinal cord (cervical c-1)
+RP11-618M23.1	Testis
+CTD-2507G9.1	Adipose - Subcutaneous
+RP11-618M23.4	Testis
+AC005042.3	Testis
+APOL5	Testis
+CTC-539A10.7	Testis
+DDX11L8	Testis
+DDX11L1	Testis
+DDX11L5	Testis
+GS1-251I9.2	Testis
+AC006050.2	Testis
+FAM92A1P2	Testis
+RP11-717I24.1	Testis
+RP11-219G17.4	Spleen
+RP11-335K5.2	Testis
+RP11-114H21.2	Cells - Transformed fibroblasts
+RP11-174O3.1	Testis
+RP11-100L22.3	Testis
+OACYLP	Prostate
+RNU4-53P	Minor Salivary Gland
+KCNA10	Testis
+RPS23P10	Whole Blood
+RP11-478K7.2	Testis
+AC005488.11	Testis
+RANBP20P	Testis
+GCM2	Testis
+RP11-202G18.1	Testis
+AF015720.3	Testis
+ATP5J2-PTCD1	Testis
+AC009505.4	Testis
+RP11-473E2.2	Testis
+RP11-179A16.2	Testis
+SLC9B1P4	Testis
+RP5-827O9.1	Testis
+RP11-430A19.2	Uterus
+RP11-617I14.1	Testis
+TPM4P1	Testis
+RP11-78F17.1	Testis
+BASP1P1	Kidney - Cortex
+AC002519.6	Testis
+RP11-346J10.1	Testis
+RP11-78F17.3	Testis
+RP11-117D22.1	Testis
+CTB-39G8.2	Lung
+TMED7	Testis
+SNORA70G	Skin - Not Sun Exposed (Suprapubic)
+RN7SKP106	Pituitary
+RN7SKP108	Testis
+LINC01022	Testis
+RPL17P46	Testis
+LINC01029	Testis
+RPL17P42	Cervix - Endocervix
+RP11-527D15.1	Testis
+PIWIL3	Testis
+PCCA-AS1	Testis
+AC074008.1	Testis
+AC079613.1	Testis
+CYP2G2P	Testis
+RP11-108B14.5	Testis
+RP11-1007G5.2	Testis
+RP1-253B10.1	Testis
+AP005901.1	Testis
+RP11-455J15.1	Testis
+RP11-158A14.1	Testis
+AC104777.2	Testis
+AC104777.3	Testis
+RN7SL142P	Testis
+TAAR3	Liver
+RP11-351O2.2	Stomach
+PHBP7	Testis
+RP11-425D10.1	Testis
+RP11-320A16.1	Testis
+RP11-631F7.2	Testis
+IGHV3-32	Testis
+IGHV3-38	Testis
+CTD-2046I8.1	Testis
+RP11-556I14.1	Kidney - Cortex
+RP11-30P6.1	Testis
+GABARAPL3	Testis
+TRBV12-1	Pancreas
+RP11-863N1.4	Testis
+RP11-404K5.4	Testis
+RP11-202I11.2	Testis
+RP11-460B17.3	Testis
+NPM1P31	Testis
+EEF1A1P4	Cells - EBV-transformed lymphocytes
+EEF1A1P1	Testis
+RP11-536N17.1	Testis
+AC010096.1	Testis
+AC010096.2	Testis
+RP11-621L6.2	Heart - Atrial Appendage
+AC000111.3	Pancreas
+AC000111.6	Pancreas
+AC000111.5	Pancreas
+RP1-257A15.1	Testis
+RP11-483H20.6	Testis
+RP11-857B24.1	Testis
+NPAP1P3	Testis
+NPAP1P2	Testis
+RP11-809H16.4	Testis
+NPAP1P4	Testis
+NPAP1P6	Testis
+CTD-2291D10.1	Testis
+RP5-968D22.3	Liver
+RP11-526D8.7	Testis
+CTD-2060C23.1	Testis
+RP11-454C18.2	Testis
+AC012370.3	Testis
+RP11-561B11.1	Esophagus - Mucosa
+RNU2-46P	Brain - Cerebellum
+XKR3	Testis
+RP11-53B5.1	Testis
+RP11-168K11.3	Testis
+CCER1	Testis
+RP11-329E24.6	Testis
+RP4-614N24.1	Testis
+RP11-452N4.1	Testis
+RP1-97G4.1	Testis
+AC017104.4	Testis
+AC017104.2	Testis
+HMGN1P17	Kidney - Cortex
+HMGN1P15	Brain - Cerebellum
+RP11-70F11.2	Testis
+DIAPH3-AS2	Testis
+RP11-25H11.1	Testis
+MRPS11P1	Testis
+OR4Q1P	Testis
+RP11-159H10.1	Cells - EBV-transformed lymphocytes
+RP11-652G5.1	Testis
+RP11-208K4.1	Kidney - Cortex
+RP11-794M8.1	Testis
+CTD-2586B10.1	Testis
+SLC25A51P1	Testis
+SULT1C3	Small Intestine - Terminal Ileum
+RP11-148B18.1	Testis
+AC090018.1	Testis
+RP11-414H23.3	Whole Blood
+AC010525.2	Testis
+VN1R25P	Testis
+TFDP3	Testis
+RP11-243E13.2	Testis
+RN7SL513P	Adrenal Gland
+RP11-274M17.3	Testis
+RP11-634B7.5	Testis
+RP11-634B7.4	Testis
+AC126365.1	Testis
+RP11-521E5.1	Testis
+RP11-510M2.1	Testis
+RP11-394B5.2	Testis
+TRBV7-7	Testis
+RPL13P	Testis
+LINC00508	Testis
+FXYD6P2	Testis
+LINC00052	Pituitary
+LINC00502	Testis
+RNU6-967P	Spleen
+RP11-34N19.1	Testis
+NANOGNB	Testis
+MIR3907	Thyroid
+RP11-543E8.2	Testis
+RP6-99M1.1	Testis
+RP11-118H17.1	Testis
+RP11-719K4.7	Testis
+IGLV3-6	Spleen
+CALR3	Testis
+PRELID1P3	Brain - Cerebellum
+RP11-1109M24.9	Testis
+RP11-1109M24.8	Testis
+RP11-1109M24.5	Testis
+RP11-1109M24.7	Testis
+ATP5F1P7	Testis
+C8A	Liver
+RP5-991O23.1	Testis
+RP11-678G14.5	Testis
+RN7SL394P	Brain - Cerebellar Hemisphere
+UCN2	Nerve - Tibial
+C1orf185	Testis
+RP11-268I9.3	Testis
+OR51H1P	Testis
+ABCB10P1	Testis
+RP11-543H12.1	Testis
+RP11-285M22.1	Testis
+RP11-103B5.2	Testis
+RP4-753D4.2	Testis
+RP11-245M24.1	Cells - Transformed fibroblasts
+RP11-495P10.5	Testis
+RP11-495P10.4	Testis
+CLDN25	Pituitary
+RP11-236J17.3	Testis
+RP3-355L5.3	Muscle - Skeletal
+RP11-449J1.1	Testis
+ZNF716	Testis
+RP11-321E8.1	Testis
+RP11-321E8.4	Testis
+CTB-26E19.1	Testis
+ASB17	Testis
+RP11-139J15.5	Testis
+RP11-874G11.1	Testis
+AC022153.1	Testis
+OR8G7P	Testis
+C18orf63	Testis
+RP11-779O18.1	Testis
+RP11-63E16.1	Testis
+RP11-262A12.1	Testis
+RP11-753B7.2	Whole Blood
+RP11-307P5.1	Testis
+RP11-307P5.2	Testis
+CTD-2236F14.1	Testis
+RP11-466G12.3	Testis
+RP11-89K22.1	Testis
+CT64	Testis
+AC019068.2	Artery - Tibial
+CT60	Testis
+AC005304.1	Testis
+AC114814.3	Testis
+OR2T3	Cells - EBV-transformed lymphocytes
+RP11-121L11.2	Testis
+RP11-121L11.3	Testis
+CTA-384D8.31	Kidney - Cortex
+RP11-673P17.4	Testis
+RP11-31L22.3	Testis
+OR2U2P	Testis
+ZBTB20-AS3	Testis
+RPS12P2	Cervix - Endocervix
+CTD-3239E11.2	Testis
+CTD-2008P7.6	Testis
+CTD-2008P7.5	Testis
+AC010733.4	Testis
+RP11-375O18.2	Testis
+RP11-233E12.1	Testis
+RP11-562F9.1	Testis
+AC010492.4	Spleen
+RP3-503A6.2	Testis
+RNA5SP260	Spleen
+PRICKLE2-AS2	Testis
+KRT128P	Skin - Sun Exposed (Lower leg)
+RP11-461O14.3	Brain - Cortex
+RP1-153P14.5	Cells - EBV-transformed lymphocytes
+AP000350.7	Testis
+RP1-153P14.3	Cells - EBV-transformed lymphocytes
+RP11-297L17.4	Testis
+RP1-153P14.8	Cells - EBV-transformed lymphocytes
+RP11-297L17.3	Testis
+RP11-433A10.2	Testis
+CCDC105	Testis
+RP11-202K23.1	Testis
+RP11-434D2.10	Testis
+RP11-434D2.12	Testis
+RP11-760L24.1	Testis
+HNRNPKP4	Cells - EBV-transformed lymphocytes
+RP11-259P1.1	Testis
+CHRNA9	Skin - Sun Exposed (Lower leg)
+RP11-95I16.2	Lung
+RP11-143N13.1	Liver
+PLAC1L	Testis
+RP11-272B17.1	Testis
+RP11-521D12.2	Testis
+RP11-945A11.1	Testis
+RP11-945A11.2	Testis
+LINC01046	Testis
+LINC01044	Testis
+RP11-423H2.5	Testis
+CASC17	Testis
+LINC01043	Testis
+LINC01040	Testis
+RP11-659O3.1	Testis
+LINC01049	Testis
+CD46P1	Spleen
+RP11-386I8.6	Testis
+MYO16-AS2	Testis
+RP11-713N11.5	Cells - EBV-transformed lymphocytes
+RP11-1197K16.2	Testis
+RP11-1042B17.2	Pituitary
+RP11-94B19.4	Testis
+RP11-94B19.5	Testis
+RP11-94B19.7	Testis
+RP11-94B19.1	Testis
+RP11-94B19.2	Testis
+RP11-94B19.3	Testis
+RP11-293M10.2	Testis
+CTD-3046C4.1	Testis
+RP11-293M10.4	Testis
+PCED1CP	Testis
+RP11-98L5.2	Adrenal Gland
+CTC-505O3.2	Liver
+AC107070.1	Testis
+LINC00311	Muscle - Skeletal
+XXbac-BPG181B23.4	Testis
+C3orf84	Testis
+FTMT	Testis
+RP11-152L7.2	Testis
+MRGPRG-AS1	Testis
+RP11-123O10.3	Testis
+VRTN	Testis
+RP11-93O17.2	Testis
+RP11-93O17.1	Testis
+AC072061.2	Testis
+NPM1P50	Testis
+NPM1P52	Testis
+RP11-102N12.2	Testis
+RP11-905K4.1	Testis
+OSBPL10-AS1	Testis
+RP5-1042K10.10	Testis
+RP11-1007O24.3	Testis
+RP11-293E1.1	Testis
+RP11-293E1.2	Testis
+RP11-963H4.5	Testis
+RP11-408E1.1	Testis
+CTA-398F10.1	Testis
+AC093627.11	Adrenal Gland
+RP11-158I9.7	Testis
+CTD-2189E23.2	Cervix - Endocervix
+PABPC1P2	Testis
+CTD-2568P8.1	Testis
+CTD-2034I4.2	Testis
+AC090505.4	Testis
+AC090505.6	Testis
+AC090505.1	Testis
+RP11-123G9.1	Testis
+RP11-93K22.1	Testis
+RP11-49L2.1	Testis
+SSMEM1	Testis
+AC004112.4	Testis
+AC004112.7	Testis
+RN7SL587P	Whole Blood
+RP11-876F14.1	Testis
+OR2H1	Testis
+RP11-26N15.2	Testis
+CTC-457E21.9	Testis
+CTC-457E21.4	Testis
+CTC-457E21.6	Testis
+RP11-164C12.1	Testis
+CTC-457E21.3	Testis
+RP11-164C12.2	Testis
+AC004941.3	Testis
+RP4-564O4.1	Testis
+AC015923.1	Testis
+AC068542.1	Testis
+RP11-1360M22.2	Testis
+AC006552.1	Spleen
+XXbac-BCX196D17.5	Testis
+FAM71E2	Testis
+AC083864.3	Testis
+RP11-286N3.1	Testis
+RP11-286N3.2	Testis
+AC092839.3	Testis
+RP11-748C4.1	Testis
+CTA-85E5.7	Testis
+RP11-1C1.5	Testis
+RP11-354K1.2	Adrenal Gland
+AC073135.3	Testis
+RP11-244B22.6	Testis
+RP11-244B22.7	Testis
+RP11-244B22.5	Testis
+RP11-244B22.3	Testis
+RP11-563D10.1	Liver
+RP11-98C1.2	Testis
+RP11-98C1.1	Testis
+GS1-124K5.7	Testis
+RP11-440K22.1	Pituitary
+RPS26P55	Cervix - Endocervix
+DDX39BP1	Cervix - Ectocervix
+RP11-308K2.1	Testis
+AP003774.5	Testis
+TUBBP8	Testis
+RNY3P7	Esophagus - Mucosa
+AC073628.1	Testis
+RP13-539J13.1	Testis
+hsa-mir-3180-4	Testis
+LINC00692	Testis
+TRIM60P16	Testis
+RP11-434E6.2	Testis
+AP005530.1	Testis
+CTC-421K24.1	Nerve - Tibial
+OR5AC4P	Testis
+RNU6-423P	Cells - EBV-transformed lymphocytes
+AL035610.2	Esophagus - Muscularis
+RP11-48F14.2	Cells - EBV-transformed lymphocytes
+RP11-640A1.3	Testis
+DEFA11P	Small Intestine - Terminal Ileum
+RP11-280K24.1	Testis
+CTD-2015H6.1	Testis
+RP11-280K24.4	Testis
+AC060834.3	Testis
+RP11-406D1.2	Testis
+RP11-778J15.1	Testis
+RN7SL121P	Spleen
+HIGD1AP17	Testis
+CTC-276P9.2	Testis
+CTC-276P9.3	Testis
+RP11-248I9.2	Testis
+RP11-379P15.1	Testis
+RP11-455B2.9	Testis
+CTD-3214H19.4	Testis
+AL672294.1	Testis
+RP11-65N13.8	Testis
+RP11-1084E5.1	Adipose - Subcutaneous
+ARHGAP26-AS1	Testis
+RP11-429H9.4	Testis
+ESX1	Testis
+RP11-492L8.2	Testis
+RP11-120E13.1	Testis
+RP11-410D17.2	Testis
+RP11-412H8.2	Minor Salivary Gland
+RP11-444J21.2	Testis
+RP11-533E19.2	Testis
+CTC-453G23.4	Testis
+C1DP4	Brain - Cerebellar Hemisphere
+RP11-360P21.2	Testis
+MIR1179	Pituitary
+MDGA2	Testis
+AC099552.4	Cells - EBV-transformed lymphocytes
+AC099552.2	Testis
+GS1-122H1.1	Testis
+GS1-122H1.2	Testis
+RP11-958J22.3	Testis
+RP11-626H12.3	Testis
+ARHGAP26-IT1	Testis
+CTC-379B2.4	Muscle - Skeletal
+CT49	Testis
+AC098872.3	Testis
+RP11-27M9.1	Testis
+RP11-315L6.1	Testis
+NPIPB1P	Testis
+RP11-347H15.4	Testis
+RP11-347H15.5	Testis
+RP11-347H15.2	Testis
+AC004051.2	Testis
+RP11-974F13.5	Testis
+AP000648.6	Testis
+EIF4A1P6	Testis
+RP11-101O21.1	Testis
+EIF4A1P9	Testis
+KRT18P1	Testis
+CTD-2534I21.9	Testis
+RP3-437C15.2	Testis
+RP11-445N18.3	Testis
+RP11-445N18.7	Testis
+LRRC3C	Testis
+RP11-706F1.1	Testis
+USP24P1	Testis
+CTA-342B11.2	Testis
+OSBPL9P4	Testis
+CTA-342B11.1	Testis
+RP11-146I2.1	Testis
+RP11-311B14.1	Cervix - Ectocervix
+RP11-279F6.3	Prostate
+RP11-482E14.2	Testis
+RP11-482E14.1	Testis
+PPIAP13	Muscle - Skeletal
+LRRC30	Muscle - Skeletal
+RP11-474C8.3	Testis
+RP11-474C8.5	Testis
+RP11-700H13.1	Testis
+RP1-168P16.3	Testis
+RP11-403P13.1	Heart - Atrial Appendage
+RP1-168P16.1	Testis
+RP11-477N12.3	Testis
+RP1-296L11.1	Testis
+RP11-24P14.1	Testis
+OR6S1	Cells - EBV-transformed lymphocytes
+RP11-244B22.14	Testis
+AL591704.7	Testis
+RP11-113E21.1	Testis
+RP11-649A18.4	Cells - EBV-transformed lymphocytes
+RN7SKP146	Testis
+MIR4526	Testis
+MAGEA10	Testis
+LINC01069	Testis
+CTB-167G5.5	Bladder
+LINC01065	Testis
+LINC01066	Testis
+RNU6-1022P	Pancreas
+RP1-37J18.2	Testis
+RP5-1046G13.2	Brain - Cerebellum
+RP1-37J18.1	Testis
+RP11-670N15.1	Testis
+MOXD2P	Testis
+KIAA1024L	Brain - Hypothalamus
+AC007364.1	Testis
+CTD-2143L24.1	Testis
+RP11-436A7.1	Testis
+AC025811.2	Pancreas
+RNU6ATAC38P	Testis
+RP11-6N13.4	Testis
+RP11-6N13.1	Testis
+RP11-326K13.2	Testis
+PRDM7	Testis
+RP3-343K2.4	Testis
+RP11-53L24.1	Testis
+STPG2-AS1	Testis
+AP000470.2	Testis
+RP11-171N4.3	Testis
+RP11-505C13.1	Testis
+RP11-59J16.1	Testis
+RP11-59J16.2	Testis
+RP11-78A19.2	Testis
+CTAGE16P	Testis
+AL033381.1	Testis
+RPS6P8	Testis
+RP11-323I1.1	Testis
+RP11-665I14.1	Testis
+ZNF734P	Testis
+RP1-172B20.6	Testis
+LINC00331	Testis
+RPL7AP34	Liver
+C3orf65	Testis
+AC069394.1	Testis
+CTD-2316B1.2	Brain - Cerebellum
+ADAD1	Testis
+RP11-180I22.2	Testis
+AL645859.1	Fallopian Tube
+RP11-307P22.1	Cells - EBV-transformed lymphocytes
+AC108448.3	Nerve - Tibial
+RP1-177A13.1	Brain - Nucleus accumbens (basal ganglia)
+CTD-2572N17.1	Testis
+RP11-466A19.3	Testis
+SLC6A21P	Testis
+KB-1930G5.3	Testis
+CTC-295J13.3	Cervix - Endocervix
+MBD3L3	Testis
+XXbac-BPG254F23.7	Testis
+KB-1930G5.4	Prostate
+ZNF385D-AS1	Testis
+ZNF385D-AS2	Testis
+RP11-589C21.5	Testis
+RP11-589C21.1	Testis
+C15orf32	Testis
+RP11-14D22.1	Testis
+RP11-608O21.1	Testis
+RP11-323D18.5	Cells - EBV-transformed lymphocytes
+RP11-181B11.2	Pituitary
+FBXO47	Testis
+AC005281.1	Testis
+RP11-430G17.1	Testis
+RP11-474I11.7	Testis
+AC069277.2	Testis
+SNORD11	Cells - EBV-transformed lymphocytes
+SNORD13	Cells - EBV-transformed lymphocytes
+OR8K2P	Testis
+AL161645.1	Esophagus - Mucosa
+RP3-430A16.1	Testis
+RP11-1O2.1	Testis
+OR2J2	Testis
+RP5-1059H15.1	Testis
+RP11-529H20.3	Testis
+RP11-150L8.4	Testis
+RP11-356K23.2	Testis
+RP11-10K17.6	Testis
+LACRT	Skin - Sun Exposed (Lower leg)
+MEP1AP2	Testis
+AL157902.3	Testis
+RP11-242F11.2	Testis
+ZNF861P	Testis
+CTC-429P9.4	Testis
+ELK2AP	Testis
+RP5-1049G16.4	Skin - Not Sun Exposed (Suprapubic)
+AC007952.5	Cervix - Endocervix
+RP1-68D18.3	Testis
+AC074389.5	Testis
+PGA5	Stomach
+MXRA5P1	Thyroid
+FAM154A	Testis
+VCX3A	Testis
+RP11-642C5.1	Cervix - Endocervix
+RP11-556E13.1	Brain - Spinal cord (cervical c-1)
+PMCHL1	Testis
+DPPA3P3	Nerve - Tibial
+DPPA3P2	Testis
+RP11-501M7.1	Testis
+FAM71B	Testis
+FAM71C	Testis
+PSMC1P10	Testis
+RP11-205K6.1	Testis
+RP11-47K11.2	Testis
+RP11-69A21.2	Testis
+CTD-3187F8.12	Testis
+CTD-3187F8.11	Testis
+BTBD7P1	Testis
+AP000221.1	Cells - EBV-transformed lymphocytes
+SPATA31D5P	Testis
+RP11-350A1.2	Testis
+CSTL1	Testis
+RP11-340I6.3	Testis
+CCL3L3	Cells - EBV-transformed lymphocytes
+AC012456.3	Testis
+AC107072.2	Esophagus - Mucosa
+CTD-2207A17.1	Testis
+AC008154.4	Testis
+AP000235.2	Testis
+RP11-20A20.2	Testis
+RP5-905N1.2	Testis
+RP11-11K13.1	Testis
+PTH	Stomach
+AC007078.4	Testis
+RPL9P5	Pituitary
+RP11-16B13.1	Testis
+AC096649.3	Testis
+RP11-48F14.1	Testis
+RNU1-1	Testis
+IMPDH1P4	Testis
+TMPRSS12	Testis
+RP11-164H5.1	Testis
+RP3-453P22.2	Testis
+SNORA71	Testis
+ANKRD20A2	Testis
+CTD-2583P5.1	Testis
+RP11-299A16.1	Cells - EBV-transformed lymphocytes
+RP11-351O1.4	Brain - Cerebellum
+RP11-351O1.3	Brain - Cerebellum
+CRIP1P4	Testis
+FOXR1	Testis
+FOXR2	Testis
+OR11A1	Testis
+RN7SL250P	Cervix - Endocervix
+OPN5	Testis
+RP11-153N17.1	Testis
+RP11-149A7.2	Testis
+RP4-651E10.3	Esophagus - Mucosa
+RP11-282K24.2	Testis
+TMEM30C	Testis
+CACNA1C-AS4	Testis
+AC023347.1	Testis
+RP11-953B20.2	Testis
+LRRC37A13P	Testis
+LYZL6	Testis
+RP11-179B15.2	Skin - Not Sun Exposed (Suprapubic)
+RP11-376O6.2	Testis
+LYZL1	Testis
+LYZL2	Testis
+RP11-108M9.2	Testis
+NUP210L	Testis
+AC073869.20	Testis
+TEX33	Testis
+TEX37	Testis
+LL22NC03-23C6.13	Testis
+TEX35	Testis
+U66059.58	Testis
+CTB-91J4.3	Testis
+SSXP9	Testis
+AC067968.3	Testis
+AC112198.1	Kidney - Cortex
+CICP8	Testis
+AP001425.14	Testis
+CLIC1P1	Testis
+RP11-24J23.2	Testis
+RP11-394G3.2	Testis
+SHCBP1L	Testis
+RP11-782C8.6	Ovary
+RP11-785H20.1	Testis
+RP11-405L18.2	Cells - Transformed fibroblasts
+RBMX2P5	Testis
+TIMM8BP2	Heart - Left Ventricle
+CTD-2297D10.1	Kidney - Cortex
+CTC-420A11.2	Prostate
+AC087073.1	Testis
+ZCCHC13	Testis
+AP000290.7	Testis
+RP11-63A2.2	Testis
+KB-1299A7.2	Testis
+MTND1P11	Testis
+MTND1P13	Testis
+MTND1P12	Minor Salivary Gland
+CCDC140	Brain - Cerebellum
+MTND1P19	Brain - Cerebellum
+CDRT8	Testis
+HNRNPA3P16	Testis
+RP11-161I10.1	Testis
+GS1-39E22.1	Testis
+RP11-138E9.2	Testis
+CTD-2168K21.1	Testis
+RP11-96A1.5	Testis
+RP11-249L21.4	Cervix - Endocervix
+RPS16P9	Testis
+MTUS2-AS2	Pituitary
+RP11-272D12.1	Testis
+LINC01087	Testis
+UFL1-AS1	Testis
+RP11-98J9.1	Testis
+RP11-98J9.2	Testis
+RP11-98J9.3	Testis
+RP11-96J19.4	Adipose - Subcutaneous
+RPS7P7	Thyroid
+RP11-844G16.1	Testis
+HMGN2P27	Testis
+CTD-2154B17.1	Testis
+RP4-598G3.1	Testis
+TDGF1P6	Kidney - Cortex
+TDGF1P2	Testis
+RP11-382N13.2	Testis
+RP11-382N13.6	Testis
+RP11-161D15.2	Testis
+RP11-96B5.4	Testis
+LINC00687	Testis
+RP11-798K23.1	Testis
+RP11-798K23.3	Testis
+AC003092.2	Pituitary
+C17orf112	Testis
+AC006014.10	Testis
+RP11-436P7.1	Testis
+RP11-513O17.3	Testis
+RNU6-372P	Adrenal Gland
+IGLV1-62	Spleen
+CTAGE10P	Testis
+LINC00355	Testis
+LINC00351	Testis
+LINC00350	Testis
+RP11-451G4.1	Testis
+LINC00358	Testis
+RP11-553K8.5	Testis
+GUSBP10	Testis
+GUSBP12	Testis
+TRAPPC2P2	Testis
+CTD-2333M24.1	Testis
+FMR1NB	Testis
+RP11-703G6.1	Testis
+OR5H5P	Testis
+AC005863.2	Testis
+AC005863.1	Minor Salivary Gland
+AC012506.1	Testis
+AC012506.3	Testis
+AC012506.4	Testis
+XXbac-B33L19.4	Testis
+RP11-48B3.2	Liver
+AP000431.2	Testis
+SLC22A25	Liver
+RN7SL523P	Testis
+RP11-753D20.1	Testis
+AC093074.1	Testis
+CTC-448F2.3	Testis
+CTD-2374C24.1	Testis
+GS1-594A7.5	Testis
+RFKP1	Brain - Cerebellum
+CTC-529L17.2	Cells - Transformed fibroblasts
+NMNAT1P1	Thyroid
+AC006004.1	Testis
+RP11-173E2.1	Testis
+RP11-432A8.2	Testis
+RP11-756P10.5	Testis
+RP11-756P10.4	Testis
+RP11-756P10.2	Testis
+RP11-812E19.3	Testis
+MAGEA6	Testis
+LL22NC03-86D4.1	Testis
+AC018742.1	Testis
+RP11-756K15.2	Testis
+RP11-813N20.3	Kidney - Cortex
+RP11-813N20.1	Liver
+RP11-436H11.1	Testis
+RP11-436H11.2	Testis
+RP11-760D2.10	Testis
+RP11-760D2.11	Testis
+RP11-760D2.12	Testis
+RDH8	Testis
+RP11-736E3.1	Kidney - Cortex
+CTD-2284O10.3	Cervix - Endocervix
+TRBVB	Testis
+RP11-624J12.1	Testis
+C9orf153	Testis
+AC022816.2	Liver
+RNA5-8SP3	Pancreas
+RP11-13A1.3	Brain - Anterior cingulate cortex (BA24)
+MIR4751	Liver
+SUCLA2P1	Testis
+TGM7	Testis
+OR2D2	Testis
+RP11-146E13.3	Testis
+RP11-162J8.2	Testis
+FOXI3	Testis
+RP11-290K4.2	Testis
+RP11-1299A16.1	Testis
+RP11-465K16.1	Testis
+RP11-284A20.1	Testis
+OR5AC2	Testis
+RP13-444H2.1	Testis
+RP11-413P11.1	Testis
+ELSPBP1	Testis
+RP11-52J3.3	Testis
+AC015849.12	Testis
+AC013402.4	Testis
+AC013402.5	Testis
+RPS4XP21	Testis
+AC013402.3	Testis
+AC005301.8	Testis
+RP11-254A17.1	Testis
+RP11-480I12.10	Testis
+DKFZP434O1614	Testis
+RP11-88H10.3	Esophagus - Mucosa
+CTB-11I22.1	Testis
+RP11-397J20.1	Testis
+RP11-194G10.3	Testis
+RN7SL678P	Testis
+CCL1	Testis
+RP11-265N6.4	Testis
+CTD-2009A10.1	Brain - Nucleus accumbens (basal ganglia)
+TBC1D3P1-DHX40P1	Testis
+RP11-63A11.1	Kidney - Cortex
+RP11-209A2.1	Testis
+RP11-459O1.2	Whole Blood
+CTD-2545H1.1	Testis
+OR2AG2	Testis
+RP5-884M6.1	Testis
+RP11-342M1.7	Testis
+RP11-244H18.4	Testis
+PPP1R14BP5	Cervix - Endocervix
+PPP1R14BP2	Testis
+RP11-26M5.2	Testis
+AC100802.3	Testis
+RP11-451B8.1	Pituitary
+CDC27P1	Testis
+RPS26P11	Cells - EBV-transformed lymphocytes
+OR10G4	Pancreas
+OR10G3	Pituitary
+RPL7AP7	Testis
+AL050302.1	Testis
+AC097532.2	Testis
+RP11-109P6.2	Testis
+RP11-359J6.1	Testis
+DNAJB8	Testis
+RP11-20G6.2	Testis
+AC007014.1	Testis
+RP11-730K11.1	Cells - EBV-transformed lymphocytes
+ZNF807	Testis
+CTC-457E21.10	Testis
+RP11-451L19.1	Testis
+TSEN2P1	Testis
+PAWRP1	Testis
+RP4-640H8.2	Testis
+RP11-343C2.10	Adrenal Gland
+RP11-39H13.1	Testis
+RP11-22M7.2	Testis
+PMCHL2	Testis
+RPL36AP48	Testis
+CTD-2006O16.2	Testis
+RP11-393J16.4	Testis
+RP11-628E19.2	Testis
+RP11-445P17.6	Liver
+GJA10	Testis
+RN7SL555P	Testis
+LL22NC03-24A12.8	Spleen
+SLC9A9-AS1	Testis
+RP11-357H3.1	Testis
+RP11-134D3.1	Testis
+KRT8P32	Stomach
+KRT8P31	Brain - Cerebellum
+RP11-713M6.2	Testis
+RP11-77A13.1	Lung
+RP11-23I7.1	Testis
+RP11-1338A24.1	Testis
+RP11-15K2.2	Lung
+CACNA1C-IT1	Testis
+CACNA1C-IT3	Testis
+RP1-102K2.6	Testis
+RP5-1027G4.3	Testis
+RN7SL278P	Artery - Aorta
+RP11-467N20.1	Testis
+RP11-467N20.5	Testis
+AC011998.1	Testis
+LRRC72	Testis
+RN7SL352P	Testis
+RNA5SP71	Testis
+ZAR1L	Testis
+PWWP2AP1	Testis
+RP11-459F6.1	Testis
+AC073150.6	Testis
+OR2AS1P	Cells - EBV-transformed lymphocytes
+RP11-443G13.2	Testis
+OR5AO1P	Spleen
+AC138472.6	Testis
+AC138472.4	Adrenal Gland
+CTD-2363C16.1	Testis
+RP11-10J5.1	Testis
+RP11-361A21.1	Cells - EBV-transformed lymphocytes
+VN1R40P	Testis
+RP11-543N12.1	Testis
+RP11-468I15.1	Testis
+RP11-369E15.2	Testis
+RPL13P2	Testis
+OR7E158P	Brain - Frontal Cortex (BA9)
+RP11-597K23.2	Testis
+AP000474.1	Testis
+RP11-122M14.3	Testis
+RP11-64D24.4	Testis
+RP3-470L22.1	Testis
+RP11-374M1.3	Testis
+RP11-347L18.1	Testis
+RP11-666A1.4	Testis
+AC008132.1	Testis
+RP5-1092A11.2	Cells - EBV-transformed lymphocytes
+SEPHS2P1	Testis
+RP11-384J4.1	Testis
+RP11-384J4.2	Testis
+MTND6P5	Testis
+RP11-239E10.3	Esophagus - Mucosa
+LINC00112	Testis
+SIGLEC20P	Testis
+CTD-2643K12.2	Testis
+HMGN3P1	Testis
+MIR662	Brain - Cortex
+GOLGA8UP	Testis
+RP11-203E8.1	Small Intestine - Terminal Ileum
+LINC00379	Kidney - Cortex
+LINC00378	Testis
+RP11-241G9.3	Thyroid
+LINC00376	Testis
+LINC00375	Testis
+ASNSP5	Cervix - Ectocervix
+ASNSP4	Testis
+ASNSP1	Testis
+RP11-6D1.3	Testis
+RP11-665C16.1	Testis
+RP11-768G7.2	Testis
+RP11-768G7.3	Testis
+RP11-665C16.8	Testis
+RP11-550F7.1	Whole Blood
+KRTAP8-1	Testis
+GDF2	Liver
+RP11-862G15.1	Testis
+RP11-179A16.1	Testis
+RSL24D1P2	Ovary
+RP11-85I21.1	Testis
+RP11-64J4.2	Testis
+RP11-739N10.1	Testis
+RP11-645N11.3	Testis
+RP11-703C10.1	Testis
+CSH2	Testis
+CSH1	Pituitary
+AC007431.1	Testis
+RP11-421N8.2	Testis
+C3orf22	Testis
+MED15P4	Testis
+MED15P3	Testis
+MED15P1	Testis
+MED15P8	Testis
+SSX4	Testis
+SSX5	Testis
+SSX2	Testis
+SSX3	Testis
+SSX1	Testis
+SSX8	Testis
+SSX9	Testis
+RP11-67M9.1	Testis
+MROH9	Testis
+RPS2P6	Testis
+MS4A5	Testis
+RP11-308B16.2	Testis
+DNTT	Testis
+NEFLP1	Spleen
+NDFIP2-AS1	Testis
+RP11-96C23.10	Heart - Atrial Appendage
+RP11-174G17.2	Testis
+AC006455.1	Testis
+OR8B12	Testis
+RP11-60H5.1	Testis
+RP11-529E10.7	Testis
+AL162151.4	Testis
+CTC-523E23.9	Testis
+RP11-439A17.10	Whole Blood
+RP11-7C6.1	Testis
+AP000770.1	Testis
+CTC-523E23.6	Testis
+CTC-523E23.5	Testis
+RP11-449I17.5	Fallopian Tube
+RP11-299D14.2	Testis
+NARG2P2	Testis
+RP11-147G16.1	Cells - EBV-transformed lymphocytes
+SDR16C6P	Testis
+IGKV7-3	Spleen
+CCDC63	Testis
+RP11-358M3.1	Testis
+AF064860.5	Pancreas
+DDX6P1	Testis
+RP11-177F15.1	Testis
+SLC35A1	Testis
+NXF4	Testis
+RP11-16E23.3	Brain - Cerebellum
+RNA5SP507	Small Intestine - Terminal Ileum
+AIG1P1	Cervix - Ectocervix
+AC007403.3	Pancreas
+AC007403.1	Testis
+RP11-540O11.7	Testis
+XXyac-YR29IB3.1	Testis
+OR2F1	Testis
+OR2F2	Testis
+RP11-474D1.2	Testis
+RP11-474D1.4	Brain - Cerebellum
+ATP5LP7	Stomach
+CTC-229L21.1	Testis
+AC002115.9	Testis
+AC078925.1	Testis
+RP11-413E1.4	Testis
+CTD-2061E9.1	Testis
+CHEK2P2	Testis
+RP11-1B20.1	Testis
+RP5-1027O11.1	Brain - Anterior cingulate cortex (BA24)
+CTB-73N10.1	Testis
+GEMIN8P2	Testis
+CTC-303L1.1	Pituitary
+RP11-324J13.2	Testis
+OR10A3	Skin - Sun Exposed (Lower leg)
+RP11-114F10.2	Artery - Aorta
+OR10A4	Testis
+RN7SL127P	Nerve - Tibial
+MIR27A	Skin - Not Sun Exposed (Suprapubic)
+RPL5P18	Pituitary
+XXbac-BPG308K3.6	Testis
+RP4-595K12.2	Testis
+AC068831.12	Pancreas
+RP11-826N14.1	Testis
+CTB-193M12.1	Testis
+SNORA38	Testis
+RP11-746M1.8	Testis
+RP11-276H19.4	Testis
+RP11-247C2.1	Testis
+CTD-2227I18.1	Testis
+KCNAB1-AS2	Testis
+AL022344.5	Testis
+GAGE13	Testis
+CTD-2231E14.5	Fallopian Tube
+CTD-2231E14.4	Testis
+AL022344.2	Testis
+RP11-47P18.2	Testis
+IGHV1-12	Spleen
+IGHV1-17	Spleen
+RP11-47P18.1	Testis
+ANP32BP3	Testis
+RP11-248J23.5	Testis
+RP4-676J13.2	Testis
+ANP32D	Testis
+RP11-476F14.1	Testis
+RP11-509J21.2	Testis
+RP5-1052M9.4	Testis
+AC068042.1	Testis
+RP11-125N22.4	Testis
+RP11-627D16.1	Artery - Aorta
+RPL36AP29	Testis
+PRR23C	Testis
+PRR23B	Testis
+RP11-39K24.2	Testis
+RP11-39K24.4	Testis
+AC233263.1	Esophagus - Mucosa
+RP11-507M3.1	Testis
+RP11-344G13.1	Testis
+IQCJ	Testis
+CTD-2651C21.3	Cells - Transformed fibroblasts
+CTD-2576F9.2	Testis
+RP11-26P13.2	Cells - Transformed fibroblasts
+TUBB8P8	Testis
+GPR119	Pancreas
+RP11-673E11.2	Testis
+MMP13	Pituitary
+RNU4-48P	Brain - Cerebellum
+RP11-238I10.1	Heart - Atrial Appendage
+COX7B2	Testis
+RUVBL1-AS1	Testis
+AC009237.10	Thyroid
+AC009237.16	Thyroid
+RP11-540K16.1	Cells - EBV-transformed lymphocytes
+RP11-72I2.1	Testis
+RNU6-1079P	Prostate
+KCNK18	Brain - Nucleus accumbens (basal ganglia)
+RP11-96G10.1	Testis
+RP11-548L20.1	Liver
+RP5-1049N15.2	Pituitary
+RPL10P1	Spleen
+RP11-100M12.1	Testis
+RP11-699F16.2	Testis
+RP11-558O12.1	Testis
+RP11-30K9.1	Testis
+AC018804.3	Prostate
+RP11-424I19.1	Testis
+RP11-383C5.3	Testis
+RP11-115D7.3	Testis
+HMGN2P7	Brain - Cerebellar Hemisphere
+OR7E156P	Testis
+RP11-760D2.1	Testis
+RP11-613D13.4	Testis
+RP11-760D2.7	Testis
+RP11-760D2.4	Testis
+RP11-760D2.5	Testis
+RP11-424D14.1	Testis
+THOC7-AS1	Ovary
+AC007795.1	Testis
+RP5-951N9.1	Testis
+RP4-705F19.1	Testis
+RP11-642E20.5	Pituitary
+OR5BH1P	Pituitary
+AL445989.1	Testis
+RP11-360O19.4	Testis
+RP11-360O19.5	Prostate
+RP11-184B22.2	Testis
+AF277315.13	Testis
+ARPC3P5	Muscle - Skeletal
+C1orf65	Testis
+OR7E33P	Testis
+RP11-196G18.21	Whole Blood
+KNOP1P1	Testis
+CRISP1	Testis
+AC090696.2	Testis
+RP11-606D9.1	Testis
+DRAXINP1	Testis
+IL31	Testis
+MIR645	Cervix - Ectocervix
+GPR50-AS1	Pituitary
+LINC00392	Testis
+LINC00395	Testis
+LINC00399	Testis
+RP11-317J19.1	Testis
+AC061975.7	Testis
+AC073331.2	Testis
+RNU2-37P	Fallopian Tube
+RBMY1F	Testis
+RP11-297H3.3	Testis
+RP11-678G15.2	Thyroid
+UBBP2	Testis
+MCCD1	Kidney - Cortex
+RP11-531A21.3	Cells - EBV-transformed lymphocytes
+RP11-531A21.2	Cells - EBV-transformed lymphocytes
+RP11-678B3.3	Testis
+OR52L2P	Testis
+AP005019.4	Thyroid
+CSF2	Lung
+AC017002.4	Testis
+AC013269.5	Testis
+GAPDHP24	Testis
+AC013269.1	Testis
+GAPDHP20	Pituitary
+AC138783.11	Testis
+RP11-444A22.1	Testis
+RP11-501O2.5	Testis
+RP11-501O2.3	Testis
+RP11-501O2.1	Testis
+RP4-745K6.1	Testis
+TPRKBP2	Whole Blood
+RP11-467L13.4	Colon - Transverse
+DDX53	Testis
+RP11-722P11.4	Testis
+ZNF101P2	Brain - Cerebellum
+AC019055.1	Testis
+RP11-254F7.1	Liver
+CNGA2	Testis
+SNORD77	Testis
+RP11-97E7.2	Testis
+MIR3180-1	Testis
+RP11-818C3.1	Testis
+RP11-702L6.4	Testis
+RP11-315I14.2	Testis
+RP11-211G3.3	Testis
+RP11-216P16.6	Testis
+RP11-216P16.4	Testis
+RP11-96D24.1	Testis
+RP11-567N4.2	Pituitary
+AC105342.1	Testis
+RP11-646J21.7	Testis
+RP11-646J21.6	Testis
+RP11-646J21.5	Testis
+RP11-646J21.4	Testis
+RP11-646J21.3	Testis
+RP11-646J21.2	Testis
+MTND1P4	Testis
+RP5-1053E7.3	Testis
+AC002480.2	Testis
+AC009305.1	Testis
+RP11-309H21.2	Testis
+RP11-316M21.9	Testis
+RP11-27P7.1	Testis
+CTD-2320J21.1	Testis
+RP11-552I14.1	Testis
+CTA-714B7.5	Testis
+RP11-461L18.1	Testis
+MRPS10P1	Testis
+RP11-506O24.2	Uterus
+AL353997.3	Testis
+AC006227.1	Thyroid
+RP11-702F3.4	Testis
+RP11-63A1.2	Testis
+OR7E83P	Thyroid
+RP11-326N17.1	Testis
+RP11-313E19.2	Testis
+RP11-191N8.2	Testis
+DGAT2L7P	Small Intestine - Terminal Ileum
+TBC1D3P5	Testis
+TBC1D3P4	Testis
+TBC1D3P1	Testis
+MRPS36P2	Testis
+RP11-63B13.1	Testis
+AC078842.4	Testis
+RP11-225N10.1	Testis
+RP11-456H18.1	Testis
+RP11-588G21.2	Testis
+RP11-1060J15.7	Testis
+RP11-32B5.2	Testis
+RNU6-1132P	Testis
+RP11-753N8.1	Testis
+RP11-272J7.4	Testis
+RP11-392B6.1	Testis
+RN7SKP44	Pituitary
+RN7SL129P	Artery - Aorta
+RP11-978I15.10	Testis
+TRBV5-3	Testis
+RP11-5N19.3	Skin - Not Sun Exposed (Suprapubic)
+AC020915.2	Testis
+RP11-342D11.3	Whole Blood
+MIR519A2	Testis
+TRERNA1	Testis
+RP11-358M11.3	Testis
+RP11-358M11.4	Testis
+RP11-91H12.3	Testis
+RP11-91H12.4	Pituitary
+RP11-535C7.1	Testis
+OR7E104P	Testis
+OR51I1	Testis
+RP11-135A1.3	Testis
+RP11-465I4.3	Testis
+RP11-35O7.1	Testis
+RP11-282C5.1	Testis
+RP11-506H20.2	Cervix - Endocervix
+RP11-255A11.2	Testis
+WI2-2373I1.2	Testis
+RP11-264C15.2	Testis
+RPS2P1	Testis
+CTD-2057J6.1	Testis
+RP1-209B5.2	Adrenal Gland
+AC112721.1	Cells - Transformed fibroblasts
+AC112721.2	Cells - Transformed fibroblasts
+RP11-56L13.7	Testis
+CTD-2010I22.2	Testis
+RP11-159D23.2	Testis
+AC003664.1	Testis
+PCDH9-AS4	Testis
+PCDH9-AS2	Liver
+PCDH9-AS3	Testis
+RP11-408J6.1	Testis
+AC008834.1	Testis
+CTD-2542C24.8	Testis
+CTD-2542C24.7	Testis
+RP11-362K2.2	Testis
+AC006372.4	Testis
+AC006372.1	Testis
+RPL29P7	Testis
+RPL29P3	Testis
+RN7SL78P	Testis
+OR1E1	Testis
+PSMA2P2	Testis
+AB019440.50	Testis
+RN7SL356P	Heart - Atrial Appendage
+HIST1H2APS1	Testis
+RP13-228J13.10	Brain - Cerebellum
+RP11-16L9.2	Testis
+RP11-105C20.2	Testis
+RPL31P12	Brain - Cerebellar Hemisphere
+CSAG4	Testis
+RP11-203H2.1	Testis
+AC016710.1	Testis
+RP1-34L19.1	Testis
+RP11-747D18.1	Colon - Transverse
+RP11-65D24.2	Testis
+RP11-65D24.1	Testis
+AC110792.1	Skin - Not Sun Exposed (Suprapubic)
+TGIF2LY	Testis
+TGIF2LX	Testis
+RP11-386G21.1	Testis
+RP11-386G21.2	Testis
+RP11-555K12.2	Whole Blood
+GPX6	Testis
+RN7SL753P	Cells - EBV-transformed lymphocytes
+RP11-30G8.1	Thyroid
+RP11-30G8.2	Testis
+RP11-363J17.1	Testis
+RP11-466F5.6	Testis
+RP11-183G22.1	Testis
+TRAV34	Whole Blood
+ISPD-AS1	Testis
+SLC25A3P1	Testis
+RP11-415K20.1	Pituitary
+RP11-202D1.2	Testis
+RP11-202D1.3	Testis
+RP11-409K20.6	Brain - Cerebellum
+OR7D1P	Testis
+AC017053.1	Testis
+RP1-154K9.2	Kidney - Cortex
+RP11-738G5.1	Testis
+RP11-66B24.5	Kidney - Cortex
+RP11-553E24.3	Testis
+CTD-2296D1.4	Testis
+CTD-2296D1.5	Testis
+CTD-2296D1.3	Testis
+CTD-2296D1.1	Testis
+KRT26	Testis
+KRT25	Testis
+RP11-127O4.2	Testis
+AF224669.3	Cells - EBV-transformed lymphocytes
+RNU1-83P	Testis
+RP4-806M20.3	Cells - EBV-transformed lymphocytes
+RP4-654H19.2	Testis
+OR5AK1P	Spleen
+AC092168.3	Testis
+AC092168.4	Testis
+CTD-2383I20.1	Testis
+RP11-653G8.2	Testis
+AC113167.1	Testis
+RP11-114M1.2	Skin - Sun Exposed (Lower leg)
+RP11-1078H9.6	Testis
+RP11-1078H9.1	Testis
+AC092675.4	Pituitary
+ODF3	Testis
+RP11-344L13.2	Testis
+OR7E31P	Testis
+LINC00841	Testis
+AC011290.4	Testis
+ATP2B2-IT1	Testis
+ATP2B2-IT2	Testis
+RP11-61G23.1	Testis
+USF1P1	Testis
+RP11-412H9.2	Testis
+OR4M2	Testis
+OR4M1	Testis
+RP11-293F5.8	Testis
+RP11-251P6.1	Testis
+RP11-305P14.1	Testis
+AC090286.4	Kidney - Cortex
+MTND2P6	Testis
+FAM177A1P1	Testis
+RP11-561C5.7	Cervix - Endocervix
+CGB5	Testis
+CGB1	Testis
+CGB2	Testis
+RP11-35D5.1	Testis
+CLEC6A	Whole Blood
+RN7SL543P	Skin - Sun Exposed (Lower leg)
+RP11-749H17.2	Testis
+RP11-385M4.1	Testis
+RP11-385M4.3	Testis
+GAPDHP48	Testis
+GAPDHP45	Testis
+AL928742.1	Small Intestine - Terminal Ileum
+RN7SL823P	Prostate
+RP11-508N22.9	Testis
+RP11-508N22.8	Testis
+IGLVIV-59	Testis
+RP11-434O22.2	Testis
+RP5-1085F17.4	Testis
+RP11-90H3.2	Testis
+RP13-653N12.1	Testis
+RP13-653N12.2	Testis
+BHLHE23	Testis
+RP11-689E3.2	Testis
+RP11-3L23.2	Testis
+GS1-600G8.4	Testis
+GS1-600G8.3	Testis
+RP11-301A5.2	Ovary
+ZIK1P1	Testis
+RP11-304M2.6	Testis
+RP11-304M2.3	Testis
+U91324.1	Liver
+AC007250.4	Testis
+RP11-284G10.1	Testis
+RP11-354I13.2	Testis
+RP11-527H14.6	Testis
+RP11-527H14.1	Spleen
+AC024619.2	Testis
+RN7SL22P	Testis
+OSTCP6	Brain - Cerebellum
+OSTCP2	Pituitary
+SNX18P27	Testis
+RP11-4F22.2	Testis
+NAALADL2-AS2	Cells - EBV-transformed lymphocytes
+NAALADL2-AS3	Testis
+NAALADL2-AS1	Testis
+RP4-675G8.2	Testis
+RP11-321C24.1	Testis
+GS1-542M4.4	Testis
+OR7D2	Testis
+RP11-879F14.1	Testis
+OR7D4	Testis
+RP1-90L14.1	Artery - Coronary
+RP11-420K14.8	Testis
+CTD-2023M8.1	Cells - EBV-transformed lymphocytes
+RP11-1277H1.3	Testis
+SRGAP3-AS3	Testis
+IGLVIVOR22-2	Testis
+IGLVIVOR22-1	Cells - EBV-transformed lymphocytes
+OR9N1P	Testis
+CTC-305H11.1	Testis
+RP11-318C2.1	Testis
+RN7SKP68	Testis
+RP11-242C24.2	Brain - Cerebellum
+AP000351.13	Testis
+OR51B5	Testis
+RNU6-96P	Testis
+SEPT7P8	Whole Blood
+AC007365.1	Testis
+AGGF1P4	Testis
+AC068718.1	Testis
+RPL10P14	Testis
+AC073094.4	Testis
+HNRNPCL1	Testis
+OR7E106P	Testis
+RP3-347M6.1	Testis
+RP11-420O16.2	Testis
+RP11-420O16.1	Testis
+RP11-669M16.1	Spleen
+RP11-381P6.1	Testis
+AC011518.1	Testis
+RP11-368M16.9	Testis
+RP11-368M16.8	Testis
+RP11-368M16.5	Testis
+RP11-368M16.4	Testis
+RP11-368M16.7	Testis
+RP11-368M16.6	Testis
+RP11-368M16.3	Testis
+LINC00459	Testis
+RP11-235G24.1	Testis
+HES3	Testis
+RP11-442J17.3	Testis
+LINC00454	Testis
+C1orf143	Testis
+CTA-276F8.2	Testis
+RPL31P28	Testis
+RP11-291L22.4	Testis
+RP11-434D2.2	Testis
+RP11-434D2.3	Testis
+WDR52-AS1	Testis
+TRIM51	Testis
+RP11-112N19.1	Testis
+ANKRD44-IT1	Testis
+RP11-552M14.1	Testis
+CTB-186H2.2	Liver
+FAM205CP	Testis
+ATP5EP1	Pancreas
+IL17F	Testis
+RP11-541P9.3	Testis
+HMGB1P42	Testis
+CTD-2593A12.4	Testis
+CTD-2593A12.2	Testis
+RP11-159F24.2	Testis
+CTD-2384A14.1	Testis
+RP11-152C17.1	Testis
+RP11-301G19.1	Testis
+F9	Liver
+TAF1L	Testis
+RP11-390N6.1	Small Intestine - Terminal Ileum
+AC002306.1	Thyroid
+OR14A2	Testis
+RP1-90G24.8	Testis
+RP1-117P20.3	Testis
+ZNF645	Testis
+RP11-677N16.1	Brain - Cerebellum
+RP1-213J1P__B.1	Muscle - Skeletal
+CTC-304I17.4	Testis
+CTC-304I17.3	Testis
+RP5-859D4.3	Testis
+RP11-73B2.7	Testis
+RP11-73B2.4	Testis
+RP11-73B2.2	Testis
+HIST1H3PS1	Cells - EBV-transformed lymphocytes
+RP11-305B6.1	Testis
+AC011516.1	Testis
+C7orf66	Testis
+RP1-77H15.1	Testis
+RP3-410C9.2	Testis
+RP11-142J21.1	Testis
+ATP8A2P3	Testis
+CTA-392C11.2	Testis
+AC005042.5	Skin - Not Sun Exposed (Suprapubic)
+CTD-2510F5.2	Testis
+RP11-618M23.2	Testis
+KB-1205A7.1	Testis
+RP11-799P8.1	Testis
+ZNF705G	Testis
+ZNF705D	Testis
+ZNF705B	Testis
+ZNF705A	Testis
+CYP2A7P1	Liver
+RP3-380B8.4	Brain - Spinal cord (cervical c-1)
+RP11-15B24.3	Testis
+RP11-15B24.1	Testis
+RP11-15B24.5	Testis
+RP11-15B24.4	Testis
+RP11-654D12.2	Testis
+RP11-654D12.3	Testis
+RN7SL214P	Testis
+RP11-99L13.1	Testis
+RP11-380D15.3	Adrenal Gland
+AC018643.4	Testis
+PPP1R12BP1	Testis
+RP11-430H10.2	Testis
+RP11-160C18.4	Testis
+RP4-550H1.5	Testis
+RP4-550H1.4	Testis
+RP11-685A21.1	Testis
+CTC-524C5.5	Testis
+LINC00608	Testis
+CTD-2014E2.6	Testis
+CTD-2014E2.5	Testis
+CTD-2014E2.2	Testis
+RP11-883G14.4	Liver
+RP11-321F6.1	Lung
+RP11-240M16.1	Cells - EBV-transformed lymphocytes
+RP11-991C1.2	Testis
+RP11-991C1.1	Muscle - Skeletal
+RP11-983C2.2	Testis
+RP11-983C2.3	Testis
+RN7SL664P	Testis
+RP11-383D22.1	Brain - Spinal cord (cervical c-1)
+DGAT2L6	Skin - Not Sun Exposed (Suprapubic)
+RP11-281J9.1	Brain - Cerebellum
+TRIM49C	Testis
+AC012457.2	Testis
+AC003973.4	Testis
+AC003973.5	Testis
+RP11-264K23.1	Testis
+CTD-2532D12.4	Spleen
+CTD-2532D12.5	Testis
+HTN3	Pituitary
+RP1-290I10.5	Testis
+HTN1	Minor Salivary Gland
+RP1-290I10.3	Testis
+RP11-977P2.1	Nerve - Tibial
+RP11-227H15.7	Testis
+RP11-513N24.1	Lung
+NLRP5	Testis
+NLRP4	Testis
+HNRNPA1P2	Testis
+RNU2-33P	Small Intestine - Terminal Ileum
+RP11-1217F2.9	Testis
+LINC00868	Testis
+RP11-370K11.1	Testis
+RP11-1217F2.3	Testis
+RP11-1217F2.1	Testis
+RP11-609L3.1	Testis
+RP11-603B24.6	Testis
+RP11-174O3.3	Testis
+CDH23-AS1	Testis
+BX276092.2	Testis
+AC111155.1	Testis
+RP11-90K6.1	Testis
+RP1-232N11.2	Testis
+RN7SL862P	Lung
+RP11-715G15.1	Testis
+NLRP13	Testis
+RN7SL532P	Uterus
+RP11-410C4.4	Testis
+BTBD9-AS1	Testis
+RP11-375B1.2	Brain - Cerebellum
+CTC-209H22.3	Testis
+RP3-510L9.1	Testis
+RP11-685F15.1	Liver
+TMEM247	Testis
+RP3-425P12.2	Testis
+RP3-425P12.5	Pituitary
+RP11-403B2.5	Testis
+CTD-3105H18.7	Kidney - Cortex
+RP11-1E22.1	Testis
+RP3-400B16.3	Testis
+RP3-400B16.2	Testis
+AC093850.1	Testis
+GAPDHP61	Testis
+AP002387.1	Testis
+DEFB125	Testis
+DEFB123	Testis
+DEFB122	Testis
+DEFB121	Testis
+CTD-2632K10.1	Testis
+AC011366.3	Testis
+APOC2	Liver
+RP11-346D6.4	Testis
+SLC35G3	Testis
+OR8G5	Testis
+UBE2DNL	Testis
+OR8G1	Testis
+CTD-2007A10.1	Testis
+RP11-363N22.2	Testis
+RP11-627D16.2	Artery - Aorta
+RPL34P17	Spleen
+FAM90A27P	Testis
+RP11-340A13.2	Testis
+RP11-1136G4.1	Testis
+RP11-570K4.1	Testis
+LOC732538	Testis
+RP11-313C4.1	Testis
+RP11-44N11.1	Testis
+RP11-90E9.1	Cells - EBV-transformed lymphocytes
+EBLN1	Testis
+PAGE2	Testis
+PAGE3	Testis
+SPDYE2B	Testis
+PAGE1	Testis
+CTC-454I21.3	Testis
+CTC-297N7.7	Muscle - Skeletal
+OR7E87P	Brain - Nucleus accumbens (basal ganglia)
+RP11-673F18.1	Testis
+PGK2	Testis
+BSN-AS1	Testis
+RP11-806J6.1	Testis
+RP11-565A3.2	Testis
+RP11-223P11.3	Testis
+RP11-344J7.2	Testis
+GRAMD4P1	Testis
+RN7SKP7	Testis
+GRAMD4P8	Testis
+RP11-814E24.1	Testis
+RP11-814E24.3	Testis
+RP11-198M11.2	Testis
+CTD-2561J22.1	Brain - Cerebellum
+RP11-568J23.6	Testis
+RP11-158D2.2	Testis
+MAGEC1	Testis
+MAGEC2	Testis
+AC087499.7	Testis
+AC087499.5	Testis
+AC087499.9	Testis
+AC010423.1	Testis
+RP11-724M22.1	Brain - Cerebellum
+RP11-697B24.1	Testis
+RP11-422J15.1	Testis
+OR13D1	Testis
+RP11-74K19.1	Testis
+MCCD1P1	Ovary
+MCCD1P2	Testis
+IGKV2D-26	Spleen
+RP11-225H22.5	Testis
+AL355390.1	Testis
+VN1R10P	Testis
+MIR212	Pituitary
+RNA5SP123	Nerve - Tibial
+LINC00470	Testis
+RP11-457I16.4	Testis
+AC139143.2	Testis
+LINC00474	Testis
+C1orf167	Testis
+LINC00477	Testis
+AC010146.1	Testis
+RP11-490C5.1	Testis
+TCEA1P1	Testis
+MIR208A	Heart - Atrial Appendage
+AC124997.1	Testis
+KB-7G2.8	Testis
+RP11-472K22.2	Testis
+C2orf78	Testis
+RPL7L1P5	Brain - Cerebellum
+RP11-815N9.2	Testis
+PCDH8P1	Testis
+MS4A10	Small Intestine - Terminal Ileum
+RP11-576E20.1	Testis
+AL133249.1	Testis
+AC073257.1	Testis
+NCOA7-AS1	Stomach
+RP11-1070N10.4	Testis
+RP11-1070N10.5	Testis
+RP11-1070N10.7	Testis
+RP11-654C22.2	Testis
+RNU4-8P	Thyroid
+RP11-100F15.1	Testis
+RP11-100F15.2	Testis
+PPP1R2P9	Testis
+RP11-785F11.1	Testis
+PASD1	Testis
+RP11-141A19.2	Testis
+RP11-805L22.3	Testis
+RP11-365O10.1	Cells - EBV-transformed lymphocytes
+GFRAL	Adipose - Subcutaneous
+AC010761.14	Testis
+RP1-90K10.4	Testis
+OR6M3P	Testis
+DNAJA1P5	Testis
+DNAJA1P6	Testis
+AP001607.1	Testis
+RP11-10C8.2	Testis
+RP11-301H24.3	Testis
+RP11-794M8.2	Liver
+FANCD2OS	Testis
+CTD-2037L6.2	Testis
+CCDC148-AS1	Testis
+OR52N3P	Nerve - Tibial
+RP11-700E23.2	Testis
+RP11-700E23.1	Testis
+MIR4436A	Testis
+RPL31P53	Testis
+RP11-648M2.1	Testis
+RP11-549K20.1	Testis
+XIRP2-AS1	Testis
+RNU6-1055P	Testis
+MARCKSL1P2	Testis
+RP11-497K21.1	Testis
+RP11-132J14.3	Cells - EBV-transformed lymphocytes
+RP11-473M10.3	Testis
+CTD-2161F6.2	Testis
+CTD-2161F6.3	Testis
+CTD-2161F6.1	Testis
+ASZ1	Testis
+RP11-91J3.2	Testis
+AC008703.1	Testis
+RNA5SP462	Testis
+RP11-26L16.1	Testis
+AP003068.6	Testis
+RP3-337D23.3	Testis
+RN7SL706P	Minor Salivary Gland
+DCAF4L2	Testis
+RP11-268G12.1	Testis
+AC007128.1	Testis
+RP11-19P22.7	Testis
+RP11-19P22.5	Testis
+RP11-265N7.2	Testis
+LINC00661	Testis
+PNLIPP1	Pancreas
+MIR5707	Testis
+RP11-14O19.1	Testis
+NPVF	Brain - Hypothalamus
+CTD-2247C11.2	Testis
+CTD-2247C11.1	Testis
+CTD-2247C11.5	Kidney - Cortex
+CTD-2247C11.4	Testis
+HMGB3P18	Testis
+ATP6V1E1P1	Testis
+IGLV7-35	Testis
+RNU1-74P	Testis
+RP11-419C19.2	Testis
+RP11-49G10.3	Testis
+AC114755.3	Testis
+AC114755.2	Testis
+RP11-55L3.1	Testis
+RP11-78H24.1	Testis
+RP11-181F12.1	Testis
+RP11-510M2.6	Testis
+RP11-510M2.4	Testis
+RP11-281P11.1	Cells - EBV-transformed lymphocytes
+LINC00083	Testis
+RP11-285M22.2	Testis
+RP11-285M22.3	Testis
+RP4-734C18.1	Testis
+SSU72P8	Testis
+OR2A42	Thyroid
+C8orf74	Testis
+RP11-329A14.2	Pituitary
+LINC00880	Pituitary
+OR10Y1P	Cells - Transformed fibroblasts
+RP3-393K13.1	Testis
+RP11-406A20.1	Testis
+AC027269.2	Testis
+FABP5P10	Testis
+RP11-541H12.1	Testis
+TSGA13	Testis
+SPATA8	Testis
+C5orf50	Testis
+HIST1H4F	Testis
+RP11-648K4.2	Testis
+RP11-46O21.2	Testis
+ABCC5-AS1	Pituitary
+RP11-160N1.9	Testis
+RP11-160N1.8	Testis
+RP11-134G8.2	Muscle - Skeletal
+CTA-360L10.1	Testis
+RP11-754N21.1	Testis
+CCT4P1	Testis
+PCNAP1	Testis
+FAM205B	Testis
+RP3-437I16.1	Testis
+FAM205A	Testis
+RP11-500K19.1	Testis
+FGF12-AS1	Testis
+RP11-6B19.2	Testis
+RP11-587H10.1	Testis
+IGKV2OR2-2	Spleen
+Z98044.1	Cervix - Ectocervix
+RP11-244B22.11	Testis
+RP11-244B22.12	Testis
+RP11-244B22.13	Testis
+VPREB1	Testis
+RP11-774D14.1	Testis
+CTD-2125J1.1	Testis
+RP4-781L3.1	Brain - Spinal cord (cervical c-1)
+IGLVV-58	Testis
+RP11-167P23.2	Testis
+TNRC18P2	Testis
+TNRC18P3	Testis
+CTC-503K11.2	Testis
+RP11-863K10.2	Testis
+RP11-586L23.1	Testis
+RP11-166A12.1	Testis
+WI2-925H4.1	Testis
+RP1-142F18.2	Testis
+AC074389.7	Testis
+AC074389.6	Testis
+AL590325.1	Testis
+RP11-619L12.1	Testis
+RP11-619L12.4	Testis
+CTD-2206N4.2	Testis
+RP11-274H24.1	Testis
+AC008691.1	Testis
+VN1R34P	Testis
+OR7E85P	Thyroid
+RP11-932O9.4	Testis
+RP11-741G21.1	Testis
+RNU6-97P	Cervix - Endocervix
+GVINP2	Spleen
+AP000475.2	Testis
+NR1H5P	Testis
+RP11-64I17.1	Testis
+CTC-565M22.1	Testis
+CYP4F36P	Liver
+RP11-493L12.5	Spleen
+MAGEA9	Testis
+MAGEA3	Testis
+MAGEA1	Testis
+OR6B1	Testis
+MAGEA4	Testis
+TEX13B	Testis
+TEX13A	Testis
+RP11-632K20.6	Testis
+RP1-300I2.2	Testis
+LINC00272	Testis
+CA5AP1	Testis
+PCGF7P	Testis
+RP11-400G3.3	Small Intestine - Terminal Ileum
+RPS19P1	Testis
+AC108078.1	Liver
+KRT18P18	Testis
+TMEM212-IT1	Testis
+RP11-795H16.3	Testis
+RP11-321L2.2	Testis
+KRT18P13	Thyroid
+KRT18P17	Testis
+RNA5SP146	Testis
+VN1R69P	Testis
+LINC00415	Testis
+AC068489.1	Testis
+LINC00411	Testis
+IGHVIII-76-1	Ovary
+RP11-575G13.2	Nerve - Tibial
+AC005324.7	Testis
+CTD-2213F21.3	Testis
+CTD-2213F21.4	Testis
+C2orf53	Testis
+RP3-431P23.2	Minor Salivary Gland
+C2orf57	Testis
+AL137224.1	Minor Salivary Gland
+RP11-341G23.2	Spleen
+RP11-245A18.1	Testis
+AL133168.3	Cells - EBV-transformed lymphocytes
+RP11-2A4.3	Testis
+RP4-639J15.2	Testis
+RP4-639J15.1	Testis
+hsa-mir-490	Testis
+DHX40P1	Testis
+RP11-555F9.2	Testis
+GOLGA8F	Testis
+PIN1P1	Testis
+RP11-79E3.2	Testis
+RP11-268P4.4	Testis
+PMS2P10	Testis
+RP11-268P4.2	Testis
+OR1C1	Testis
+RP11-552O4.1	Testis
+RP11-526K17.2	Brain - Cerebellum
+SLC9A3P2	Testis
+AC073869.8	Testis
+AC073869.7	Testis
+RP3-348I23.2	Testis
+RP1-266L20.4	Testis
+RP4-669B10.3	Testis
+RPL21P43	Pituitary
+RPL21P42	Nerve - Tibial
+RPL21P41	Testis
+RPL21P40	Spleen
+RP11-492O8.1	Testis
+RP11-80B9.4	Testis
+FCF1P1	Testis
+FCF1P6	Testis
+IGKV2OR22-4	Testis
+CYLC1	Testis
+CYLC2	Testis
+CTD-2382H12.1	Testis
+CTD-2200P10.1	Testis
+RP13-266I11.1	Testis
+RP1-127L4.10	Testis
+MIR1295A	Liver
+RP11-395C17.1	Testis
+RP11-412B14.1	Testis
+IGHV1OR15-6	Testis
+TOMM22P5	Testis
+LINC00644	Testis
+RP11-407A16.3	Testis
+KB-1592A4.14	Testis
+SSR1P1	Thyroid
+RP11-407A16.7	Testis
+WASF3-AS1	Testis
+RP11-123H22.1	Testis
+AC068535.4	Brain - Spinal cord (cervical c-1)
+OR1D3P	Testis
+RP11-121J20.1	Testis
+PAPOLB	Testis
+AY269186.2	Testis
+AY269186.1	Testis
+RP11-215E13.1	Testis
+RP11-561C5.1	Testis
+RP11-432J9.6	Testis
+RP11-302K17.3	Thyroid
+GOLGA8CP	Testis
+AC040162.1	Skin - Not Sun Exposed (Suprapubic)
+RP4-553F4.2	Testis
+AC104777.4	Testis
+LA16c-352F10.1	Testis
+RP11-476B13.2	Testis
+NPM1P38	Testis
+TXNDC8	Testis
+AP001187.11	Testis
+TXNDC2	Testis
+RP11-280G9.1	Testis
+MYLKP1	Pancreas
+FAM46D	Testis
+WDR64	Testis
+RP5-1173I20.1	Testis
+NDUFAF4P1	Cells - EBV-transformed lymphocytes
+CTB-158E9.2	Colon - Sigmoid
+CTB-158E9.1	Colon - Sigmoid
+AC002463.3	Testis
+RP11-300A12.2	Testis
+RP11-459O16.1	Brain - Hypothalamus
+RP11-95L3.2	Testis
+RP4-612C19.1	Bladder
+RP11-1057B8.2	Testis
+AC009365.3	Testis
+AC009365.4	Testis
+RNU4-36P	Testis
+AC092117.1	Esophagus - Mucosa
+RP5-872K7.7	Testis
+RP11-14P20.1	Testis
+RP11-672F9.1	Testis
+RP11-159D12.10	Testis
+RP11-185P18.2	Testis
+RP5-1056L3.1	Testis
+RP11-453M23.1	Cervix - Ectocervix
+RP11-402L1.11	Testis
+RP11-180P8.2	Testis
+BRD7P5	Testis
+MIR135A2	Thyroid
+CDC20B	Testis
+TNP2	Testis
+RP11-522B15.5	Testis
+NANOS2	Testis
+TPRX1P1	Testis
+RP11-141A19.1	Testis
+MAP2K1P1	Testis
+C10orf40	Testis
+RP11-775H9.3	Testis
+RP11-775H9.2	Testis
+RBBP8P1	Testis
+RP13-612N21.1	Testis
+MSNP1	Cells - EBV-transformed lymphocytes
+RN7SL438P	Brain - Cerebellum
+TMEM202	Testis
+SLC6A18	Kidney - Cortex
+RP11-322L20.1	Testis
+OR2L1P	Testis
+GALP	Testis
+RP5-1106E3.1	Testis
+AC064874.1	Testis
+AC105461.1	Testis
+RP11-752L20.5	Testis
+RP11-196P2.1	Testis
+RP13-210D15.4	Testis
+SCARNA11	Testis
+RP11-101K23.1	Testis
+RP11-24P4.1	Testis
+RP11-329B9.1	Testis
+RP11-12A16.3	Fallopian Tube
+RP11-227F8.2	Testis
+OR2AK2	Testis
+RP11-787D11.1	Thyroid
+DEFB4B	Esophagus - Mucosa
+CTD-2243E23.1	Testis
+RN7SL28P	Testis
+AC023115.4	Adrenal Gland
+RP11-319G9.5	Testis
+RP11-51M18.1	Testis
+CTB-49A3.5	Testis
+CTD-2254N19.1	Testis
+KRTAP13-4	Adipose - Subcutaneous
+KRTAP13-1	Testis
+KRTAP13-2	Colon - Transverse
+USP12-AS1	Testis
+RPS18P6	Testis
+WFDC11	Testis
+RPL27AP5	Testis
+MACROD2-IT1	Testis
+RP11-382A20.4	Muscle - Skeletal
+FAM26D	Testis
+AC004920.3	Testis
+AC004692.5	Testis
+AC004692.4	Testis
+C6orf10	Testis
+RP11-96P7.1	Testis
+RP11-58G13.1	Testis
+AL133245.2	Spleen
+RP11-266N13.2	Testis
+CTD-2004A9.1	Kidney - Cortex
+RNU1-73P	Pituitary
+RP11-29B9.1	Testis
+RP11-29B9.2	Testis
+CYP2A13	Testis
+RP11-677O4.2	Testis
+RP11-677O4.3	Testis
+RP11-677O4.4	Testis
+RP11-677O4.7	Testis
+RNA5SP163	Liver
+OR51A7	Testis
+ADAM6	Testis
+RP11-44D19.1	Testis
+ADAM5	Testis
+ADAM2	Testis
+LINC00430	Testis
+LINC00433	Testis
+NKX1-1	Testis
+SPO11	Testis
+RP1-309H15.2	Testis
+RP11-212E8.1	Testis
+RP11-94P11.4	Testis
+RP11-138H8.3	Testis
+RP11-46H11.2	Testis
+AC019129.2	Testis
+AP000641.1	Brain - Cerebellum
+OR52P1P	Cells - EBV-transformed lymphocytes
+RP11-317J10.4	Testis
+RP11-404K5.2	Testis
+RP11-114H7.2	Testis
+IL22RA2	Skin - Not Sun Exposed (Suprapubic)
+CCR8	Cells - EBV-transformed lymphocytes
+OR52A4	Testis
+LINC00929	Testis
+GOLGA6C	Testis
+GOLGA6B	Testis
+LINC00927	Testis
+RP11-72K17.1	Testis
+CTD-2050E21.2	Testis
+HMGB3P20	Testis
+IQCF6	Testis
+IQCF5	Testis
+IQCF2	Testis
+IQCF3	Testis
+RP11-62C7.2	Testis
+RP11-332M4.1	Testis
+Z99756.1	Spleen
+RP11-122L4.1	Testis
+XX-FW80269A6.1	Testis
+AC009961.5	Cells - EBV-transformed lymphocytes
+RP11-84O12.4	Testis
+RP11-84O12.3	Testis
+AC074019.1	Testis
+FSCB	Testis
+AC010729.3	Testis
+RP11-804M7.1	Testis
+RP4-799G3.2	Testis
+AC090952.5	Testis
+AC002076.10	Ovary
+CTD-2277K2.1	Testis
+CTD-2340D6.2	Testis
+OR11J5P	Testis
+RP11-67K19.3	Testis
+PRM3	Testis
+CTD-2354A18.1	Testis
+CTD-2194L12.2	Testis
+CTD-2194L12.3	Testis
+COX7BP1	Testis
+AC007327.5	Testis
+CCDC58P3	Pancreas
+HIST1H2AJ	Cells - EBV-transformed lymphocytes
+HIST1H2AA	Testis
+RP5-837I24.6	Testis
+RPL12P29	Testis
+RP5-837I24.2	Testis
+RP11-384E22.1	Cells - EBV-transformed lymphocytes
+RP11-183E24.2	Testis
+RP11-183E24.1	Testis
+SNORD8	Cervix - Endocervix
+CPXCR1	Testis
+RP11-143I21.1	Pituitary
+AL137798.1	Testis
+OR11H3P	Testis
+RP11-542P2.1	Testis
+AC025280.1	Cervix - Endocervix
+RP11-867G2.6	Testis
+RP11-867G2.5	Testis
+CTD-2544M6.1	Testis
+CTD-2544M6.2	Testis
+RP11-481A12.2	Prostate
+RP11-792A8.1	Testis
+TACC1P1	Testis
+PHKG1P4	Testis
+AC104131.1	Testis
+PHKG1P1	Testis
+RP11-156P1.2	Testis
+RP11-148I19.1	Testis
+RP11-134J21.1	Testis
+AP000282.3	Testis
+RP1-15D23.2	Lung
+NLGN1-AS1	Testis
+FDPSP8	Testis
+AC009158.1	Testis
+RP4-604G5.3	Prostate
+RP1-292B18.4	Testis
+AC005522.6	Testis
+AC005522.7	Testis
+CTC-344H19.6	Testis
+RP11-160N1.10	Testis
+RN7SL768P	Pancreas
+RNASE11	Testis
+RP11-292D4.1	Testis
+AL121901.1	Testis
+CTB-30L5.1	Testis
+CTB-138E5.1	Testis
+AC136604.1	Testis
+RP11-429E11.3	Spleen
+RP11-56I23.1	Testis
+C9orf57	Testis
+SPATA31A1	Testis
+SPATA31A2	Testis
+SPATA31A7	Testis
+SPATA31A6	Testis
+RP11-586K12.11	Testis
+RP11-586K12.13	Testis
+RP11-642E20.3	Pituitary
+CXorf51B	Testis
+SNX18P8	Testis
+SNX18P4	Testis
+SNX18P2	Testis
+PPP1R2P10	Testis
+RP1-245M18.2	Whole Blood
+RP3-522P13.3	Testis
+RP11-58B2.1	Testis
+AC093381.2	Testis
+RP11-486O13.4	Testis
+RP11-486O13.3	Testis
+SPAM1	Testis
+RP11-410N8.4	Testis
+RP11-16N2.1	Testis
+RP11-313F23.2	Testis
+RP11-313F23.3	Testis
+GOLGA6D	Testis
+CTAG2	Testis
+MIR133BHG	Muscle - Skeletal
+RP11-521C10.1	Prostate
+RP11-603K19.1	Skin - Sun Exposed (Lower leg)
+RP11-45K10.2	Testis
+FTHL17	Testis
+EDNRB-AS1	Testis
+SAMSN1-AS1	Testis
+FAM74A1	Testis
+AC010974.3	Testis
+RP11-249C24.11	Liver
+RP11-317P15.3	Testis
+RNU6-748P	Cervix - Endocervix
+CTB-181F24.1	Testis
+RP11-401E5.2	Pituitary
+RP11-520D19.1	Testis
+RP11-478H13.4	Testis
+RP1-166H4.2	Testis
+RP11-630C16.1	Testis
+OR10P1	Heart - Atrial Appendage
+GPC5-IT1	Testis
+TTTY16	Testis
+PSMB3P2	Testis
+TTTY12	Testis
+TTTY13	Testis
+TTTY18	Testis
+TTTY19	Testis
+OR8A1	Testis
+AC006373.1	Testis
+RP11-404O13.5	Testis
+RP11-404O13.4	Testis
+CTD-2201E9.1	Testis
+CTD-2201E9.4	Artery - Aorta
+TMEM225	Testis
+RP11-502H18.2	Testis
+AC114776.3	Testis
+AC114776.1	Cells - EBV-transformed lymphocytes
+AP001604.3	Spleen
+RP11-511H9.4	Testis
+AC008940.1	Thyroid
+AC017048.1	Testis
+AC017048.2	Bladder
+POU1F1	Pituitary
+RNU6-1061P	Pituitary
+RNU1-14P	Kidney - Cortex
+RP1-171K16.5	Testis
+RP11-895M11.2	Testis
+CTB-23I7.1	Testis
+CTD-2244C20.2	Testis
+CYP11B2	Adrenal Gland
+RNU6-856P	Brain - Cerebellar Hemisphere
+CTD-3131K8.1	Pituitary
+CTD-3096P4.1	Testis
+RP11-36D19.8	Testis
+RP11-889L3.4	Testis
+RP11-395N6.4	Pituitary
+RP11-366H4.3	Testis
+RP11-366H4.1	Testis
+HMGB1P45	Testis
+RP5-1022P6.4	Testis
+SSX2B	Testis
+RP11-783L4.1	Testis
+SLC2A7	Testis
+DDR1-AS1	Testis
+RP11-428L21.2	Testis
+RP11-428L21.1	Testis
+CTB-175P5.2	Testis
+RP5-1004I9.1	Testis
+MIR3972	Bladder
+FAM24A	Testis
+OR6F1	Testis
+AC007557.1	Testis
+AC007557.2	Testis
+AC007557.4	Testis
+RP11-548M13.1	Testis
+RP11-123M21.1	Testis
+AMELX	Testis
+CTD-2091N23.1	Nerve - Tibial
+RP11-350G8.3	Cells - EBV-transformed lymphocytes
+AC009313.1	Testis
+AC003989.3	Testis
+RNU6-725P	Testis
+RP11-736I10.1	Testis
+RP11-164D18.2	Testis
+AC005008.3	Testis
+RP11-190I17.4	Testis
+RNA5SP183	Testis
+RP11-572C21.1	Testis
+CTC-232P5.3	Testis
+RP11-379J5.5	Testis
+RP11-342M3.1	Testis
+RP11-342M3.2	Testis
+RP11-134N1.2	Spleen
+RP11-219A15.4	Testis
+AC092660.1	Testis
+CTC-347C20.1	Testis
+RP11-566H8.1	Testis
+RFPL3	Testis
+RP11-261B23.1	Testis
+OR7E18P	Testis
+AC114813.1	Testis
+AC011747.6	Spleen
+RP11-385E5.5	Testis
+CTD-2003D5.1	Cells - EBV-transformed lymphocytes
+DNAJB1P1	Testis
+AC114752.1	Testis
+AP002954.6	Testis
+LINC00904	Testis
+LINC00905	Testis
+LINC00907	Liver
+RP11-171A24.2	Testis
+RP11-8L2.1	Testis
+RP11-70F11.7	Testis
+RP11-336A10.7	Testis
+SNORD57	Cells - EBV-transformed lymphocytes
+RP11-394A14.4	Testis
+RP1-149C7.1	Testis
+RP11-394A14.2	Testis
+RP11-503G7.2	Testis
+RP11-566H8.3	Testis
+RP11-154H12.2	Testis
+RPS2P41	Cervix - Endocervix
+RPS2P45	Testis
+CYCSP41	Testis
+RP11-22D3.2	Testis
+PTGER4P3	Spleen
+RP11-563N12.2	Testis
+AP000275.64	Testis
+RP11-443F16.1	Nerve - Tibial
+SEPT2P1	Cells - Transformed fibroblasts
+RP11-343K8.3	Testis
+LDHAL6EP	Pancreas
+RP11-10A14.7	Testis
+CTD-2526L21.2	Testis
+OR10J9P	Testis
+RP11-567M16.5	Testis
+RP11-567M16.3	Testis
+RP11-79P5.7	Testis
+RP11-1140I5.1	Brain - Cerebellum
+RP11-815J21.3	Testis
+TRBV8-2	Testis
+CTD-2529O21.1	Testis
+RP11-445J14.1	Testis
+SLCO6A1	Testis
+RBMY1A1	Testis
+RP11-505O17.1	Testis
+RP11-1030E3.1	Testis
+OR4N1P	Testis
+RNA5SP404	Liver
+RP11-351A20.2	Testis
+RN7SL241P	Testis
+RP11-2C15.1	Testis
+PRAMEF11	Testis
+AL359195.1	Testis
+RP11-120D5.1	Cells - EBV-transformed lymphocytes
+RP11-180M15.4	Testis
+AC007251.2	Testis
+VENTXP5	Brain - Amygdala
+CTC-451A6.5	Testis
+CTC-451A6.4	Testis
+RP11-662M24.1	Testis
+MCHR2-AS1	Testis
+KRTAP4-1	Colon - Transverse
+RP11-94H18.2	Testis
+RP11-403D15.2	Testis
+NBPF5P	Testis
+RP11-359E19.1	Testis
+GUCY2GP	Testis
+RP11-765K14.1	Testis
+NDUFB1P1	Testis
+AP001465.5	Testis
+RP11-95P13.2	Adipose - Subcutaneous
+RP3-359N14.2	Testis
+CD200R1L	Testis
+RP11-196O2.1	Testis
+DUXA	Testis
+RPS20P1	Pancreas
+TSPY7P	Testis
+RP5-1004I9.2	Testis
+RP5-1010E17.2	Testis
+RP5-1010E17.1	Testis
+SPATA31C2	Testis
+RP11-204C23.1	Testis
+RP5-1121H13.3	Testis
+CST9L	Testis
+KRT85	Testis
+AHCYP4	Testis
+TPRX1	Testis
+AL031768.1	Pituitary
+CST13P	Testis
+RP11-543C4.3	Testis
+CYP2C58P	Liver
+FEM1AP3	Testis
+RP11-273B19.2	Testis
+RP11-273B19.1	Testis
+SPACA1	Testis
+MLIP-AS1	Testis
+CDK2AP2P3	Spleen
+ZNHIT1P1	Testis
+AC079779.7	Testis
+AC079779.5	Testis
+RN7SL497P	Testis
+LINC00575	Testis
+AC009477.7	Testis
+HNRNPA1P52	Whole Blood
+RNU6-951P	Cervix - Endocervix
+RP5-828H9.1	Testis
+NDUFA9P1	Prostate
+RP11-556N4.1	Testis
+RP11-415I12.3	Cells - EBV-transformed lymphocytes
+RP11-2O17.2	Testis
+RP11-307I14.3	Muscle - Skeletal
+RP13-81N3.2	Testis
+GAGE2B	Testis
+RPL7P4	Testis
+AKAP16BP	Testis
+OR7E24	Testis
+RP11-112J1.2	Testis
+AC018737.3	Testis
+AC005077.5	Testis
+RP5-850O15.3	Testis
+RP4-726F1.1	Testis
+DSCR4-IT1	Testis
+RP11-58O3.2	Testis
+RP11-295D22.1	Testis
+RP11-407G23.1	Testis
+AC008281.1	Testis
+LA16c-429E7.1	Brain - Frontal Cortex (BA9)
+POM121L2	Testis
+RP11-619F23.2	Testis
+RXFP3	Brain - Hypothalamus
+ACCSL	Testis
+H2AFB2	Testis
+FTH1P27	Testis
+AC007790.4	Pancreas
+RP4-723E3.1	Testis
+AC008278.2	Testis
+RNASE8	Minor Salivary Gland
+OR5H8P	Cells - EBV-transformed lymphocytes
+RP11-484D4.3	Testis
+SMIM21	Testis
+SNRPGP5	Testis
+CTD-3028N15.1	Testis
+RP11-445O3.2	Testis
+CCDC83	Testis
+AC096655.2	Testis
+SIGLECL1	Testis
+AC025278.1	Testis
+HSD3BP1	Adrenal Gland
+CTC-551A13.2	Testis
+CTC-551A13.1	Testis
+RP11-108K3.3	Testis
+RP11-108K3.1	Testis
+RP11-424E7.3	Testis
+AC005703.3	Testis
+AC005703.2	Heart - Left Ventricle
+ZNF849P	Testis
+RP11-84A1.3	Testis
+RP11-432N13.3	Testis
+RP11-432N13.4	Testis
+RP11-709D24.5	Testis
+HMGB1P27	Liver
+RN7SL846P	Brain - Cerebellum
+RP13-577H12.3	Testis
+RP5-845O24.8	Testis
+FGF6	Muscle - Skeletal
+RPL21P103	Testis
+RPL21P107	Testis
+RP11-220C2.1	Pituitary
+RP11-344P13.3	Liver
+RPS17P11	Testis
+RPS17P15	Testis
+RP11-218E15.1	Testis
+RP11-560A15.3	Testis
+RP11-560A15.4	Testis
+RP11-45L9.1	Testis
+AF127577.12	Testis
+AMY1A	Pancreas
+RP11-761B3.1	Testis
+AMY1B	Pancreas
+AC114783.1	Testis
+DNM1P28	Testis
+RP11-351C8.1	Testis
+OR5AZ1P	Testis
+RP1-74B13.2	Testis
+CKBP1	Testis
+RNU1-51P	Cervix - Endocervix
+RP11-899L11.3	Testis
+RP11-899L11.1	Testis
+RP11-501O2.4	Testis
+RP11-685B13.2	Testis
+RP11-666E17.1	Testis
+AC092625.1	Testis
+APOBEC3AP1	Testis
+RP11-221E20.4	Testis
+RP11-221E20.5	Testis
+AC008592.7	Testis
+VN1R32P	Testis
+RP11-1292F20.1	Testis
+RP11-373I8.1	Pituitary
+TPTE2P2	Testis
+TPTE2P4	Testis
+NXPE2P1	Testis
+FKBP4P1	Testis
+MAGEB18	Testis
+RP11-349E4.1	Testis
+MAGEB10	Testis
+MAGEB16	Testis
+PARP4P2	Testis
+BMP15	Testis
+RP11-416O18.1	Testis
+RPL36P20	Testis
+POM121L3P	Testis
+C12orf74	Cells - EBV-transformed lymphocytes
+C12orf77	Cells - EBV-transformed lymphocytes
+RP11-62G11.2	Testis
+RP11-625L16.1	Testis
+CTC-281M20.3	Testis
+RP11-157I4.4	Testis
+RP11-434H6.2	Spleen
+RNU1-120P	Skin - Not Sun Exposed (Suprapubic)
+CTA-929C8.7	Testis
+CTA-929C8.6	Testis
+CTA-929C8.5	Adipose - Visceral (Omentum)
+ANKRD60	Testis
+OR7E21P	Testis
+RP11-622A1.1	Liver
+RP11-1152H15.1	Testis
+OR14K1	Testis
+MIR130B	Cells - EBV-transformed lymphocytes
+CPSF4L	Testis
+RP11-47G4.2	Testis
+RP11-157E14.1	Testis
+RP11-669N7.3	Testis
+RP11-669N7.2	Testis
+CTAGE1	Testis
+CTAGE6	Testis
+AC079354.2	Testis
+AC079354.3	Testis
+GIP	Testis
+RP13-150K15.1	Testis
+KB-1047C11.2	Testis
+KB-1047C11.1	Testis
+PP13004	Testis
+RNU5E-1	Testis
+ANKRD62P1	Testis
+GS1-18A18.2	Testis
+CXorf64	Heart - Atrial Appendage
+CXorf66	Testis
+CTD-2021A8.3	Testis
+AC010095.7	Testis
+BPIFB6	Minor Salivary Gland
+IGKV3OR2-268	Spleen
+RN7SL269P	Brain - Cerebellum
+DCAF13P1	Testis
+LARGE-AS1	Testis
+RP11-89C3.2	Testis
+RP11-775G23.1	Testis
+RP5-1030M6.3	Testis
+MAGI2-AS2	Testis
+RP11-24M17.5	Testis
+RP1-177I10.1	Testis
+RN7SL334P	Pituitary
+RP11-124N3.3	Testis
+RP11-124N3.2	Testis
+C4BPAP2	Testis
+RP11-292E2.2	Testis
+RP11-267A15.3	Testis
+RP11-145B3.2	Pituitary
+AL590763.5	Testis
+AC004878.3	Testis
+RP11-18F14.1	Testis
+SNORD70	Cells - EBV-transformed lymphocytes
+RP11-335F8.2	Testis
+RP11-293A10.3	Testis
+RP11-702B10.1	Testis
+RP11-23D5.1	Testis
+RP11-577G20.2	Testis
+RP11-577G20.1	Testis
+SAR1P1	Testis
+SPEM1	Testis
+RP11-333A23.2	Testis
+ZSCAN5D	Testis
+ZSCAN5C	Testis
+RN7SKP221	Testis
+RP11-25H12.1	Testis
+RP6-186E3.1	Testis
+RP11-384P7.5	Testis
+RP11-201M22.1	Testis
+ATP5F1P3	Testis
+RP5-1022J11.2	Testis
+CRPP1	Liver
+RP11-65L19.4	Testis
+DBIP2	Testis
+RP4-610C12.1	Testis
+RP11-809N15.3	Testis
+RP11-96K14.1	Testis
+RP11-588P7.2	Testis
+RP11-588P7.1	Testis
+MIR4783	Liver
+RP11-875H7.2	Testis
+MAGI1-AS1	Testis
+RP11-20L19.1	Testis
+HINT1P1	Testis
+C1orf180	Testis
+RP11-366M4.13	Testis
+SPATA31E1	Testis
+RP11-366M4.14	Testis
+RP11-536P16.2	Testis
+RP11-59O6.3	Testis
+CLRN2	Testis
+ATP6V0CP2	Bladder
+AC015977.6	Adrenal Gland
+RP11-189E14.5	Testis
+RP11-189E14.3	Testis
+RP11-159K7.1	Cells - EBV-transformed lymphocytes
+CTC-525D6.5	Testis
+RP11-807E13.3	Liver
+RP11-538D16.3	Testis
+GMCL1P1	Testis
+RPL6P9	Testis
+CHRNG	Muscle - Skeletal
+LINC00559	Testis
+LINC00558	Testis
+LINC00557	Testis
+YRDCP2	Cervix - Ectocervix
+LINC00554	Testis
+CENPIP1	Testis
+FAM99A	Liver
+PGAM1P4	Brain - Anterior cingulate cortex (BA24)
+RP11-526P6.1	Testis
+OR9A2	Brain - Spinal cord (cervical c-1)
+RP11-105N14.3	Testis
+USP29	Testis
+USP26	Testis
+RP11-277J6.3	Testis
+RP11-557J10.3	Testis
+BCRP4	Testis
+CTD-2323K18.2	Cervix - Ectocervix
+RP11-314N14.1	Testis
+TOX4P1	Testis
+BCRP9	Testis
+PARP1P1	Testis
+RP11-100L22.4	Testis
+RP11-613H2.1	Testis
+RPL23AP50	Cervix - Endocervix
+RP11-100L22.2	Testis
+CTD-2520I13.1	Testis
+RP11-372E1.4	Liver
+RP1-65J11.5	Testis
+AC079467.1	Muscle - Skeletal
+OR14L1P	Testis
+RP11-292D4.2	Testis
+CTC-439O9.3	Testis
+RP11-480D4.4	Testis
+RP11-556O15.1	Testis
+RP11-1084I9.2	Pituitary
+RP11-489M13.3	Pituitary
+RP11-574O16.1	Testis
+RP1-298M8.1	Testis
+RPS23P9	Whole Blood
+RP11-648C16.1	Testis
+RP11-219J21.1	Testis
+OR8G2P	Testis
+VN1R2	Testis
+RP11-317M11.1	Kidney - Cortex
+KRBOX1-AS1	Testis
+VN1R4	Testis
+VN1R5	Testis
+AC098824.6	Testis
+WI2-89927D4.1	Cervix - Endocervix
+RP11-158I23.1	Testis
+AC078899.3	Thyroid
+AC078899.5	Thyroid
+DSCR10	Testis
+RP3-416J7.5	Testis
+RP11-326I19.3	Testis
+RBMY2FP	Testis
+IGHV3OR16-10	Testis
+RP3-322L4.2	Testis
+RP11-99H20.1	Testis
+RP11-548K12.2	Testis
+RP11-548K12.1	Testis
+RP11-548K12.7	Testis
+RP11-548K12.6	Testis
+RP11-548K12.4	Testis
+RP11-118N24.2	Testis
+AC013436.6	Testis
+POTEB2	Testis
+KB-1183D5.13	Testis
+MYH4	Muscle - Skeletal
+AP000345.2	Testis
+RP11-396N11.1	Testis
+AC092664.1	Testis
+RP11-1033H12.1	Testis
+RP11-28O3.2	Testis
+MORC1-AS1	Testis
+AC079781.1	Testis
+RPL21P129	Testis
+RPL21P126	Testis
+RPL21P122	Testis
+RP11-92B11.4	Testis
+RP11-178F10.2	Testis
+CTA-249B10.1	Testis
+RP11-221N13.4	Cells - Transformed fibroblasts
+ISCA2P1	Pituitary
+AC025287.1	Testis
+RN7SL645P	Testis
+RP11-232C2.3	Testis
+RP11-232C2.2	Testis
+RP13-766D20.1	Testis
+RP11-209M4.1	Testis
+CTD-2076M15.1	Testis
+RP11-219B17.2	Testis
+RP11-252E2.2	Liver
+PLSCR5-AS1	Testis
+AC008694.3	Testis
+RP11-547C13.1	Testis
+RP1-297M16.2	Testis
+IGLCOR22-2	Testis
+CASC6	Brain - Hippocampus
+LINC00498	Testis
+RP13-582L3.4	Testis
+RP11-655M14.14	Nerve - Tibial
+LINC00491	Testis
+RP11-420L9.4	Testis
+CTA-714B7.4	Testis
+EIF5AP4	Testis
+EIF5AP2	Cells - EBV-transformed lymphocytes
+RP11-24I21.1	Testis
+RP11-631M21.6	Testis
+POM121L1P	Testis
+AC011196.3	Testis
+RP11-755B10.3	Testis
+C12orf50	Testis
+LINC01019	Testis
+RP11-124I4.2	Testis
+LINC01015	Testis
+AC108456.1	Cervix - Endocervix
+ZNF317P1	Testis
+LINC00945	Testis
+FOXP1-AS1	Testis
+RP11-322N21.2	Testis
+RP11-364B14.1	Testis
+OR7E23P	Testis
+RPL18P13	Testis
+SCARNA1	Cells - EBV-transformed lymphocytes
+RP11-14K3.3	Testis
+RP11-14K3.2	Testis
+RP11-14K3.4	Testis
+RP11-14K3.7	Kidney - Cortex
+POM121L12	Testis
+CR769776.3	Testis
+SIAH1P1	Testis
+AC010967.3	Testis
+FAM224B	Testis
+FAM224A	Testis
+RP11-654G14.1	Testis
+RP11-318K15.2	Whole Blood
+RP11-227D2.3	Testis
+RP11-65D17.1	Testis
+CTD-2299I21.1	Liver
+GK2	Testis
+CTD-2291D10.2	Testis
+RP11-406O16.1	Testis
+CTD-2134P3.2	Testis
+CTD-2134P3.1	Testis
+RP4-694A7.4	Testis
+RP11-141M1.1	Testis
+RP11-295G12.1	Testis
+SPANXN5	Testis
+SPANXN4	Testis
+RP11-14I17.1	Cervix - Endocervix
+SPANXN3	Testis
+SPANXN2	Testis
+CTC-512J14.1	Testis
+CTC-512J14.7	Testis
+RP11-412P11.1	Testis
+RP11-773H22.1	Testis
+RPS20P31	Spleen
+IGHV3-47	Testis
+RP11-60A8.2	Testis
+RSU1P1	Testis
+RP11-463I20.2	Testis
+FGF21	Liver
+ERVWE2	Testis
+RP4-799P18.4	Testis
+XAGE5	Testis
+RP4-799P18.3	Testis
+AC011286.1	Esophagus - Mucosa
+KRT8P5	Testis
+SPANXD	Testis
+SPANXC	Testis
+OR1K1	Testis
+RP11-469N6.2	Testis
+RP11-159M11.2	Testis
+AC008063.3	Cells - Transformed fibroblasts
+AC009411.1	Testis
+AC009411.2	Testis
+RP11-432M24.4	Testis
+C5orf17	Testis
+RP11-439I14.2	Testis
+RP1-40E16.2	Testis
+TSPY10	Testis
+RP11-302L19.1	Testis
+RP11-19J5.2	Testis
+AC004869.3	Testis
+AC004869.2	Testis
+VTRNA1-3	Cells - EBV-transformed lymphocytes
+VTRNA1-1	Testis
+AL121578.7	Testis
+OR6D1P	Testis
+RN7SL762P	Brain - Cerebellum
+OR13Z1P	Testis
+RPL34P33	Testis
+PSAT1P2	Ovary
+VN1R28P	Testis
+RN7SKP240	Ovary
+NBPF22P	Testis
+RNU6ATAC	Testis
+AC008122.1	Testis
+RPL5P24	Testis
+RP11-161I6.2	Testis
+ADAM21P1	Testis
+RP4-591N18.2	Testis
+AC016751.2	Testis
+AC016751.3	Testis
+RP5-862K6.4	Testis
+CTD-2522E6.4	Brain - Cerebellum
+RP11-83M16.2	Nerve - Tibial
+FAM9A	Testis
+AC007879.6	Kidney - Cortex
+AC133106.2	Testis
+RN7SKP187	Brain - Amygdala
+GYG1P1	Testis
+RP11-1259L22.2	Liver
+ARGFX	Testis
+GRK7	Testis
+DNM3-IT1	Testis
+RNU1-94P	Testis
+RP11-320N7.1	Cells - EBV-transformed lymphocytes
+RP11-576M8.2	Testis
+CTD-2269E23.3	Testis
+AC016903.2	Testis
+RP11-320N21.2	Cells - EBV-transformed lymphocytes
+RPF2P1	Testis
+RP13-262C2.3	Testis
+RP11-343P9.1	Testis
+OR3D1P	Testis
+RP11-397E7.2	Testis
+RNU6-495P	Ovary
+LINC00534	Brain - Nucleus accumbens (basal ganglia)
+LINC00536	Testis
+AC007161.5	Testis
+TBC1D3P2	Testis
+RP11-848D3.4	Testis
+RP11-77C3.3	Testis
+RPL9P18	Testis
+RP11-1112J20.2	Testis
+RP11-1112J20.1	Testis
+RPL9P16	Cervix - Endocervix
+RP13-379L11.2	Testis
+RP13-379L11.1	Prostate
+RP11-755E23.3	Testis
+RPL23AP76	Testis
+RPL23AP77	Testis
+SOHLH2	Testis
+RP11-115J16.1	Liver
+RP11-115J16.2	Testis
+RP11-115J16.3	Testis
+RP11-813F20.1	Liver
+RP11-813F20.4	Testis
+RP11-444P10.1	Testis
+RP11-814M22.2	Testis
+RN7SL671P	Testis
+RP11-317O24.1	Testis
+AC096570.1	Testis
+SLC6A10P	Testis
+RP11-379J13.2	Testis
+TUBBP9	Testis
+RP1-65P5.1	Testis
+RNU6-644P	Fallopian Tube
+RP11-715I4.1	Brain - Cerebellum
+CTD-2376I20.1	Cells - EBV-transformed lymphocytes
+AC093323.1	Bladder
+TOP3BP1	Cervix - Endocervix
+RP11-342M21.2	Testis
+LA16c-444G7.1	Ovary
+LCE3A	Testis
+RP11-846F4.11	Testis
+RP11-162N7.1	Testis
+RP11-137L10.5	Thyroid
+RP11-744K17.9	Testis
+RP4-788L20.3	Thyroid
+RP11-361A21.3	Cells - EBV-transformed lymphocytes
+AC023469.1	Testis
+GS1-24F4.3	Testis
+OR56A1	Testis
+CTC-349C3.2	Testis
+RP11-375D13.4	Testis
+RP11-375D13.2	Testis
+UBQLN3	Testis
+AC018696.4	Esophagus - Mucosa
+AC018696.5	Brain - Cerebellum
+AC023481.1	Testis
+MIR4688	Brain - Cortex
+RP11-22P4.2	Testis
+CTA-292E10.7	Cervix - Endocervix
+AC006967.1	Testis
+SSX4B	Testis
+TMEM256P1	Brain - Cerebellum
+RP11-341G5.2	Testis
+RP11-341G5.1	Testis
+NREP-AS1	Testis
+RP11-557J10.5	Testis
+RP11-578F21.4	Testis
+RP11-686G23.2	Testis
+RP11-328D5.1	Testis
+RNA5SP258	Testis
+RP11-232D9.3	Testis
+RP11-745L13.2	Testis
+RNA5SP252	Testis
+MIR1302-2	Testis
+MIR1302-3	Testis
+LINC00708	Testis
+LINC00705	Testis
+LINC00703	Testis
+LINC00700	Testis
+LINC00701	Testis
+RP11-715C4.1	Testis
+U82670.4	Lung
+RP11-626P14.1	Kidney - Cortex
+IFNA13	Cells - EBV-transformed lymphocytes
+CTD-2071N1.1	Testis
+RP11-169N13.4	Testis
+RP13-580B18.1	Testis
+RP11-437F6.1	Testis
+VCX2	Testis
+RP11-184E9.1	Testis
+LL22NC03-88E1.17	Spleen
+RP11-778H2.1	Testis
+RP11-478H13.3	Testis
+RNU6-614P	Testis
+LINC01039	Testis
+LINC01038	Testis
+LINC01037	Prostate
+LINC01032	Testis
+OR7E25P	Testis
+CTA-357J21.1	Brain - Cerebellar Hemisphere
+AC073218.3	Testis
+AC073218.1	Testis
+UGT2B28	Bladder
+RP11-118K6.2	Prostate
+RP11-75N6.3	Testis
+GPX5	Testis
+SLC22A2	Kidney - Cortex
+AC073115.6	Testis
+RNU1-124P	Vagina
+SLC22A8	Kidney - Cortex
+PRDM9	Testis
+EFCAB3	Testis
+AC005538.5	Prostate
+KB-1460A1.2	Testis
+RP11-270M14.4	Testis
+MIR127	Brain - Hypothalamus
+AC108056.1	Testis
+RP11-46B11.2	Kidney - Cortex
+RP11-893F2.15	Cervix - Ectocervix
+CCNYL3	Testis
+RPS20P10	Testis
+SOCS2P2	Testis
+CXorf27	Testis
+OR51A6P	Testis
+RP11-617D20.2	Ovary
+MIR3689B	Testis
+RP11-226L15.1	Small Intestine - Terminal Ileum
+RP11-767C1.1	Testis
+CTD-2007L18.5	Pituitary
+RP11-452D21.2	Testis
+RP11-452D21.1	Testis
+NPM1P29	Testis
+MIR1236	Liver
+NPM1P21	Testis
+RP11-809F4.2	Heart - Atrial Appendage
+RP11-809F4.3	Testis
+CLLU1	Cells - EBV-transformed lymphocytes
+TEDDM1P1	Testis
+RP11-6F2.3	Testis
+HECW1-IT1	Testis
+MTND4P14	Testis
+PRKRIRP2	Brain - Cerebellum
+RP11-542G1.2	Pituitary
+PRKRIRP5	Testis
+RP11-114O8.1	Testis
+SAA3P	Testis
+RP13-16H11.2	Testis
+RP11-232L2.2	Kidney - Cortex
+RP11-125M16.1	Testis
+RP11-1E1.2	Testis
+CTD-2313J23.1	Testis
+PPP1R26P1	Testis
+RP4-718N17.2	Prostate
+AK4P4	Spleen
+AC013444.1	Testis
+RN7SKP264	Testis
+RN7SKP265	Testis
+RP11-529E15.1	Testis
+HDAC1P1	Testis
+SNORA38B	Ovary
+KCNU1	Testis
+H2BFM	Testis
+OR2B7P	Testis
+RP11-472G21.2	Testis
+PLCB1-IT1	Testis
+AC006380.3	Testis
+HMGN1P26	Testis
+CYP2T3P	Testis
+RP1-228P16.5	Testis
+RP1-228P16.4	Testis
+RP1-228P16.3	Testis
+SPCS2P1	Testis
+RP11-556O9.3	Testis
+RP11-556O9.2	Testis
+HSPD1P16	Adipose - Subcutaneous
+AC098828.2	Testis
+HSPD1P10	Testis
+RP11-276M12.1	Testis
+RP11-612A1.1	Testis
+MAGEA11	Testis
+RNU1-96P	Testis
+RP11-379I19.1	Testis
+RP11-379I19.2	Testis
+RP11-379I19.3	Testis
+RP11-587H10.2	Testis
+MORF4L2P1	Testis
+RAG2	Thyroid
+RP11-548K12.12	Testis
+RP11-548K12.11	Testis
+RP11-548K12.10	Testis
+RP11-799O21.2	Testis
+RP11-144G16.1	Testis
+AC121251.1	Spleen
+RP11-366M4.8	Cells - EBV-transformed lymphocytes
+LINC00517	Cells - Transformed fibroblasts
+RP11-366M4.6	Testis
+S100A7A	Testis
+RP11-351N4.4	Testis
+RP4-760C5.5	Testis
+RP11-237D3.1	Testis
+IGLC4	Spleen
+RP6-114E22.1	Testis
+RP11-503L23.1	Testis
+ITIH4	Liver
+AC096554.1	Testis
+AC006539.4	Thyroid
+CST8	Testis
+RP11-475C16.2	Testis
+RP1-90J20.2	Testis
+CT47B1	Testis
+IGHVII-51-2	Testis
+AC062032.1	Testis
+ANKRD26P3	Testis
+SNRPD2P2	Testis
+RP11-227F19.2	Testis
+UQCRBP2	Testis
+RP11-15F12.3	Testis
+RP11-325N19.3	Testis
+HNRNPA1P34	Testis
+RP11-871F6.3	Testis
+RP11-383C6.2	Testis
+RP11-33N16.2	Testis
+TTC39DP	Testis
+AC012322.1	Testis
+RP11-522B15.7	Testis
+HNRNPA1P38	Testis
+RPS24P12	Testis
+RP11-118E18.4	Testis
+KRT43P	Skin - Sun Exposed (Lower leg)
+AC004744.3	Testis
+RP11-575I8.1	Testis
+RP11-120A1.1	Testis
+CTD-2138O14.1	Testis
+ZNF723	Testis
+ZNF729	Testis
+RP11-543B16.3	Testis
+AC007680.2	Testis
+MIR431	Brain - Hypothalamus
+AC007312.3	Testis
+XXbac-B476C20.17	Muscle - Skeletal
+LRRC37A14P	Testis
+RP11-159D8.1	Testis
+CTD-3118D11.3	Testis
+RP11-314N2.2	Kidney - Cortex
+AP000289.6	Testis
+RP5-928E24.2	Testis
+RP11-737F9.2	Testis
+RP11-168E17.1	Testis
+RP11-544D21.2	Testis
+CCNB1IP1P2	Testis
+AC010907.2	Testis
+AP001340.1	Cells - EBV-transformed lymphocytes
+CTD-2613O8.1	Testis
+CFL1P2	Testis
+CFL1P8	Testis
+RGSL1	Testis
+RP3-448I9.1	Testis
+RP3-448I9.2	Testis
+KRTAP20-2	Testis
+KRTAP20-4	Testis
+AC019109.1	Testis
+RNU4-74P	Testis
+LRTM1	Spleen
+RP11-506N2.1	Testis
+RP11-132N15.1	Adrenal Gland
+RP11-69H14.6	Testis
+PNMAL2	Testis
+RNY1P2	Brain - Cerebellum
+RP11-386I14.3	Cells - Transformed fibroblasts
+PPIAP26	Thyroid
+PPIAP25	Testis
+RP1-151B14.9	Cells - EBV-transformed lymphocytes
+AP1B1P2	Testis
+RP11-483E23.2	Testis
+RP11-483E23.7	Testis
+RP11-142L1.1	Testis
+C14orf177	Testis
+RP11-241F15.10	Testis
+TMEM212-AS1	Testis
+MKRN9P	Testis
+RP11-690C23.4	Testis
+RP11-690C23.2	Testis
+RP11-14H3.3	Testis
+RP11-316I3.2	Adrenal Gland
+NF1P8	Testis
+NF1P2	Testis
+NF1P3	Testis
+NF1P4	Testis
+OR2U1P	Testis
+NF1P6	Testis
+SPACA5	Testis
+SPACA7	Testis
+bP-21201H5.1	Testis
+FRG2C	Testis
+RP11-517B11.6	Prostate
+RP11-555J4.3	Testis
+RP11-555J4.4	Testis
+RN7SL114P	Small Intestine - Terminal Ileum
+RP11-167N24.4	Testis
+RP11-749H17.1	Testis
+RP11-178L8.5	Testis
+RP11-400N13.1	Testis
+RP11-501J20.2	Testis
+RN7SKP113	Testis
+RP11-770E5.2	Testis
+RP11-982M15.5	Nerve - Tibial
+RN7SKP114	Testis
+RN7SKP118	Testis
+AC018442.1	Skin - Sun Exposed (Lower leg)
+RP11-165H4.2	Testis
+RP11-399E6.2	Testis
+AC026150.6	Testis
+LINC01052	Testis
+RNU6-375P	Cervix - Endocervix
+LINC01059	Adrenal Gland
+AC010878.3	Whole Blood
+RP11-226F19.1	Testis
+CTD-2251F13.1	Cells - Transformed fibroblasts
+RP4-781K5.9	Skin - Sun Exposed (Lower leg)
+RP11-133L14.2	Testis
+CTD-3023L14.1	Testis
+CTD-3023L14.2	Testis
+CTD-3023L14.3	Testis
+SPATA31D3	Testis
+RP11-296I10.5	Adrenal Gland
+RP11-318I4.1	Testis
+CT47A12	Testis
+AL365331.2	Testis
+C9orf135-AS1	Testis
+DYDC1	Testis
+RP11-735B13.2	Testis
+RP11-226P1.2	Testis
+RP11-226P1.3	Testis
+RP11-3P22.2	Testis
+GS1-279B7.1	Testis
+RP11-1E11.1	Testis
+AL355388.1	Ovary
+RPS27P15	Cervix - Ectocervix
+RP11-185E12.2	Testis
+RP5-1125A11.4	Testis
+RP11-263E1.1	Testis
+RP11-794P6.1	Testis
+AC005029.1	Testis
+RP4-778K6.1	Testis
+NPM1P47	Pituitary
+NPM1P46	Cells - EBV-transformed lymphocytes
+RP11-453A12.1	Testis
+AC136896.2	Testis
+AC136896.1	Testis
+AC096669.1	Thyroid
+SNORD116-1	Testis
+RP11-849F2.10	Testis
+SNORD116-2	Testis
+RP11-609L23.1	Testis
+RP11-27G24.3	Ovary
+AC004485.3	Kidney - Cortex
+RP11-64B16.5	Testis
+RP11-2L4.1	Testis
+RN7SL301P	Spleen
+RP11-267M23.7	Testis
+AIPL1	Testis
+RP11-669B18.1	Testis
+RP11-353M9.1	Prostate
+OR56A3	Testis
+LL22NC03-63E9.3	Testis
+RP11-65J21.1	Testis
+RP11-83A16.1	Testis
+AP000439.5	Testis
+FAM58BP	Testis
+RP11-500M8.4	Testis
+AC006014.8	Testis
+RP11-44L9.2	Testis
+RP11-810B23.1	Pancreas
+AP000354.2	Testis
+RP11-307C19.3	Testis
+GPC6-AS1	Testis
+RP11-318G21.4	Testis
+RP11-1079H9.1	Testis
+AC091969.1	Spleen
+CTC-543D15.1	Testis
+DDX11L16	Testis
+RP11-517A5.6	Testis
+RP11-517A5.7	Thyroid
+RHOXF2B	Testis
+C11orf71	Cervix - Endocervix
+RP11-219B4.6	Testis
+C11orf72	Testis
+RP11-152O14.4	Testis
+SPATS1	Testis
+CST11	Testis
+AC005229.5	Testis
+RP1-29G21.1	Testis
+RP11-33E24.3	Testis
+RP11-275I4.2	Cells - EBV-transformed lymphocytes
+RP1-206D15.3	Testis
+RP11-88I21.1	Testis
+TUBAP	Testis
+RP11-203B7.1	Testis
+RP11-645C24.4	Testis
+RP11-339F13.2	Testis
+AC020910.1	Testis
+AC012462.3	Testis
+AC007003.1	Testis
+RP11-61G19.1	Cells - EBV-transformed lymphocytes
+RP11-147C23.1	Testis
+RP11-382M14.1	Testis
+RP11-625H11.2	Testis
+RP11-625H11.1	Testis
+AC114812.9	Liver
+CTD-2046J7.1	Uterus
+AC073465.1	Testis
+RP11-20I23.6	Cervix - Endocervix
+RP11-115F18.1	Testis
+RP11-277K23.1	Testis
+IGKV1D-43	Spleen
+LUZP4	Testis
+GPC6-AS2	Testis
+OR10J1	Testis
+ZNRF2P3	Pituitary
+AC009229.5	Nerve - Tibial
+AC018890.4	Testis
+RP11-152O14.1	Testis
+C8orf87	Testis
+C1orf195	Testis
+RP11-114N19.5	Thyroid
+H1FOO	Testis
+RP11-114N19.2	Thyroid
+RP11-158I3.3	Testis
+SLC7A13	Testis
+RP11-40G16.1	Testis
+RP11-526P5.1	Testis
+RP11-526P5.2	Testis

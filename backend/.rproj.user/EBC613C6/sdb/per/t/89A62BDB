@@ -1,0 +1,16 @@
+{
+    "contents" : "source(\"prepare_gene-gene_DB.R\")\nif(identical(speciesp,\"Human\")){\n  load(\"./Data/databases_human.RDATA\")\n  names(gene.gene.db)=c(\"category\",\"regulator\",\"target\",\"evidence\",\"source\")\n  dbs.all=rbind(dbs.all,gene.gene.db)\n  save(dbs.all,tf.mirna.db,mirna.gene.db,tf.gene.db,mirna.mirna.db,gene.gene.db,regNet,file=\"databases2_TFmiR_human.RDATA\")\n}\nif(identical(speciesp,\"Mouse\")){\n  load(\"./Data/databases_mouse.RDATA\")\n  names(gene.gene.db)=c(\"category\",\"regulator\",\"target\",\"evidence\",\"source\")\n  dbs.all=rbind(dbs.all,gene.gene.db)\n  save(dbs.all,tf.mirna.db,mirna.gene.db,tf.gene.db,gene.gene.db,regNet,file=\"databases2_TFmiR_mouse.RDATA\")\n}",
+    "created" : 1481279033675.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "4185490275",
+    "id" : "89A62BDB",
+    "lastKnownWriteTime" : 1481279057,
+    "path" : "/Library/WebServer/Documents/TFmiR2/backend/Database_construct.R",
+    "project_path" : "Database_construct.R",
+    "properties" : {
+    },
+    "source_on_save" : false,
+    "type" : "r_source"
+}

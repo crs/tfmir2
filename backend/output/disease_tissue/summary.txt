@@ -1,0 +1,17 @@
+pval.hypergeom.disease.node=
+disease.net.coverage.rate.edge=100
+disease.net.coverage.rate.node=100
+degree.image.path=output/disease_tissue/degree.png
+graph.nodes.no=151
+graph.edges.no=182
+graph.density=0.008
+graph.diameter=9
+graph.avg.path.length=3.347
+graph.transitivity=0.013
+tissue.hotspots=BAX, TP53
+degree.hotspots=TP53, hsa-mir-155, hsa-let-7b, TGFB1, ESR1, hsa-mir-21, hsa-mir-146a, E2F3, hsa-mir-30a, hsa-mir-145, hsa-mir-221, hsa-mir-210, hsa-mir-143, hsa-let-7d, SPI1, JAG1
+closeness.hotspots=hsa-mir-210, E2F3, hsa-mir-106b, AKT1, hsa-mir-22, hsa-mir-193b, BMPR1A, TGFB1, ESR1, hsa-mir-21, hsa-mir-221, PDGFA, hsa-let-7d, hsa-mir-30d, hsa-mir-25, PSME3
+betweenness.hotspots=TP53, hsa-mir-155, ESR1, TGFB1, hsa-mir-21, hsa-mir-221, hsa-mir-146a, E2F3, SPI1, PDGFA, hsa-mir-25, hsa-let-7d, hsa-mir-145, BRCA2, hsa-let-7b, JAG1
+eigenvector.hotspots=TP53, hsa-mir-155, ESR1, TGFB1, hsa-mir-221, MSH2, hsa-mir-143, hsa-mir-200c, hsa-mir-145, TERT, hsa-mir-21, hsa-mir-200a, hsa-mir-200b, BBC3, UBE2I, TP53BP2
+common.hotspots=TGFB1, ESR1, hsa-mir-21, hsa-mir-221
+union.hotspots=TP53, hsa-mir-155, hsa-let-7b, TGFB1, ESR1, hsa-mir-21, hsa-mir-146a, E2F3, hsa-mir-30a, hsa-mir-145, hsa-mir-221, hsa-mir-210, hsa-mir-143, hsa-let-7d, SPI1, JAG1, hsa-mir-106b, AKT1, hsa-mir-22, hsa-mir-193b, BMPR1A, PDGFA, hsa-mir-30d, hsa-mir-25, PSME3, BRCA2, MSH2, hsa-mir-200c, TERT, hsa-mir-200a, hsa-mir-200b, BBC3, UBE2I, TP53BP2

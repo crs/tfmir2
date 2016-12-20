@@ -1,0 +1,14 @@
+Category.of.Interactions=gene-gene
+Evidence=Experimental
+Target.input.set=1262
+Regulator.input.set=1262
+ORA.pval.cutoff=0.05
+Total.Targets.inDb=1675
+Total.Regulators.inDb=1629
+Deregulated.targets.by.inputRegulator=365
+Deregulated.targets.of.inputRegulator.and.in.input.targetlist.overlap=53
+no.of.resultant.interactions=75
+no.of.interactions.associated.with.input.disease=15
+venn.pval.hypergeom=3.64591576691438e-15
+venn.pval.simulation=0
+Venn.image.path=output/gene-gene/venn.png

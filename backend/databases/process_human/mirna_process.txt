@@ -1,0 +1,961 @@
+mirna	specific process
+hsa-mir-17	immune system
+hsa-mir-18a	immune system
+hsa-mir-19a	immune system
+hsa-mir-19b	immune system
+hsa-mir-20a	immune system
+hsa-mir-92a	immune system
+hsa-mir-150	immune system
+hsa-mir-155	immune system
+hsa-mir-146	immune system
+hsa-mir-181	immune system
+hsa-mir-223	immune system
+hsa-mir-106a	immune system
+hsa-mir-18b	immune system
+hsa-mir-20b	immune system
+hsa-mir-363	immune system
+hsa-mir-106b	immune system
+hsa-mir-25	immune system
+hsa-mir-93	immune system
+hsa-mir-17	cell proliferation
+hsa-mir-18a	cell proliferation
+hsa-mir-19a	cell proliferation
+hsa-mir-19b	cell proliferation
+hsa-mir-20a	cell proliferation
+hsa-mir-92a	cell proliferation
+hsa-let-7a	anti-cell proliferation
+hsa-let-7b	anti-cell proliferation
+hsa-let-7c	anti-cell proliferation
+hsa-let-7d	anti-cell proliferation
+hsa-let-7e	anti-cell proliferation
+hsa-let-7f	anti-cell proliferation
+hsa-mir-98	anti-cell proliferation
+hsa-let-7g	anti-cell proliferation
+hsa-let-7i	anti-cell proliferation
+hsa-mir-15a	anti-cell proliferation
+hsa-mir-16	anti-cell proliferation
+hsa-mir-155	Activation of caspases cascade
+hsa-mir-144	Activation of caspases cascade
+hsa-let-7c	Activation of caspases cascade
+hsa-mir-10a	Activation of caspases cascade
+hsa-mir-193	Activation of caspases cascade
+hsa-mir-150	Activation of caspases cascade
+hsa-mir-141	Akt pathway
+hsa-mir-17	Akt pathway
+hsa-mir-184	Akt pathway
+hsa-mir-18a	Akt pathway
+hsa-mir-19	Akt pathway
+hsa-mir-196a	Akt pathway
+hsa-mir-19a	Akt pathway
+hsa-mir-19b	Akt pathway
+hsa-mir-205	Akt pathway
+hsa-mir-20a	Akt pathway
+hsa-mir-214	Akt pathway
+hsa-mir-221	Akt pathway
+hsa-mir-222	Akt pathway
+hsa-mir-26a	Akt pathway
+hsa-mir-331	Akt pathway
+hsa-mir-7	Akt pathway
+hsa-mir-92a	Akt pathway
+hsa-let-7b	Angiogenesis
+hsa-let-7f	Angiogenesis
+hsa-mir-122	Angiogenesis
+hsa-mir-126	Angiogenesis
+hsa-mir-130a	Angiogenesis
+hsa-mir-150	Angiogenesis
+hsa-mir-15a	Angiogenesis
+hsa-mir-16	Angiogenesis
+hsa-mir-17	Angiogenesis
+hsa-mir-184	Angiogenesis
+hsa-mir-18a	Angiogenesis
+hsa-mir-19a	Angiogenesis
+hsa-mir-19b	Angiogenesis
+hsa-mir-205	Angiogenesis
+hsa-mir-20a	Angiogenesis
+hsa-mir-21	Angiogenesis
+hsa-mir-221	Angiogenesis
+hsa-mir-222	Angiogenesis
+hsa-mir-27b	Angiogenesis
+hsa-mir-296	Angiogenesis
+hsa-mir-320	Angiogenesis
+hsa-mir-34a	Angiogenesis
+hsa-mir-378	Angiogenesis
+hsa-mir-92a	Angiogenesis
+hsa-let-7c	Apoptosis
+hsa-let-7g	Apoptosis
+hsa-mir-10a	Apoptosis
+hsa-mir-138	Apoptosis
+hsa-mir-144	Apoptosis
+hsa-mir-146a	Apoptosis
+hsa-mir-148a	Apoptosis
+hsa-mir-150	Apoptosis
+hsa-mir-155	Apoptosis
+hsa-mir-15a	Apoptosis
+hsa-mir-15b	Apoptosis
+hsa-mir-16	Apoptosis
+hsa-mir-17	Apoptosis
+hsa-mir-181a	Apoptosis
+hsa-mir-182	Apoptosis
+hsa-mir-18a	Apoptosis
+hsa-mir-19	Apoptosis
+hsa-mir-193	Apoptosis
+hsa-mir-195	Apoptosis
+hsa-mir-19a	Apoptosis
+hsa-mir-19b	Apoptosis
+hsa-mir-204	Apoptosis
+hsa-mir-20a	Apoptosis
+hsa-mir-21	Apoptosis
+hsa-mir-210	Apoptosis
+hsa-mir-216	Apoptosis
+hsa-mir-221	Apoptosis
+hsa-mir-222	Apoptosis
+hsa-mir-26a	Apoptosis
+hsa-mir-27a	Apoptosis
+hsa-mir-29a	Apoptosis
+hsa-mir-29b	Apoptosis
+hsa-mir-29c	Apoptosis
+hsa-mir-34a	Apoptosis
+hsa-mir-34b	Apoptosis
+hsa-mir-34c	Apoptosis
+hsa-mir-372	Apoptosis
+hsa-mir-449a	Apoptosis
+hsa-mir-449b	Apoptosis
+hsa-mir-494	Apoptosis
+hsa-mir-7	Apoptosis
+hsa-mir-92a	Apoptosis
+hsa-mir-96	Apoptosis
+hsa-mir-9a	Apoptosis
+hsa-let-7b	Bone regeneration
+hsa-let-7d	Bone regeneration
+hsa-mir-1	Bone regeneration
+hsa-mir-128a	Bone regeneration
+hsa-mir-130b	Bone regeneration
+hsa-mir-143	Bone regeneration
+hsa-mir-148b	Bone regeneration
+hsa-mir-152	Bone regeneration
+hsa-mir-153	Bone regeneration
+hsa-mir-155	Bone regeneration
+hsa-mir-17	Bone regeneration
+hsa-mir-18b	Bone regeneration
+hsa-mir-196	Bone regeneration
+hsa-mir-19a	Bone regeneration
+hsa-mir-20b	Bone regeneration
+hsa-mir-210	Bone regeneration
+hsa-mir-22	Bone regeneration
+hsa-mir-221	Bone regeneration
+hsa-mir-222	Bone regeneration
+hsa-mir-23b	Bone regeneration
+hsa-mir-24	Bone regeneration
+hsa-mir-32	Bone regeneration
+hsa-mir-337	Bone regeneration
+hsa-mir-34c	Bone regeneration
+hsa-mir-367	Bone regeneration
+hsa-mir-368	Bone regeneration
+hsa-mir-377	Bone regeneration
+hsa-mir-422b	Bone regeneration
+hsa-mir-424	Bone regeneration
+hsa-mir-515	Bone regeneration
+hsa-mir-520d	Bone regeneration
+hsa-mir-7b	Bone regeneration
+hsa-mir-92	Bone regeneration
+hsa-mir-93	Bone regeneration
+hsa-mir-1	Cardiogenesis
+hsa-mir-133a	Cardiogenesis
+hsa-mir-132	Cardiogenesis
+hsa-let-7a	Cell cycle related
+hsa-let-7b	Cell cycle related
+hsa-let-7g	Cell cycle related
+hsa-mir-1	Cell cycle related
+hsa-mir-107	Cell cycle related
+hsa-mir-122	Cell cycle related
+hsa-mir-124	Cell cycle related
+hsa-mir-124a	Cell cycle related
+hsa-mir-125b	Cell cycle related
+hsa-mir-138	Cell cycle related
+hsa-mir-140	Cell cycle related
+hsa-mir-141	Cell cycle related
+hsa-mir-143	Cell cycle related
+hsa-mir-145	Cell cycle related
+hsa-mir-145	Cell cycle related
+hsa-mir-15	Cell cycle related
+hsa-mir-150	Cell cycle related
+hsa-mir-155	Cell cycle related
+hsa-mir-15a	Cell cycle related
+hsa-mir-15b	Cell cycle related
+hsa-mir-16	Cell cycle related
+hsa-mir-17	Cell cycle related
+hsa-mir-182	Cell cycle related
+hsa-mir-185	Cell cycle related
+hsa-mir-18a	Cell cycle related
+hsa-mir-195	Cell cycle related
+hsa-mir-196a	Cell cycle related
+hsa-mir-19a	Cell cycle related
+hsa-mir-19b	Cell cycle related
+hsa-mir-200b	Cell cycle related
+hsa-mir-200c	Cell cycle related
+hsa-mir-205	Cell cycle related
+hsa-mir-206	Cell cycle related
+hsa-mir-20a	Cell cycle related
+hsa-mir-21	Cell cycle related
+hsa-mir-210	Cell cycle related
+hsa-mir-221	Cell cycle related
+hsa-mir-222	Cell cycle related
+hsa-mir-223	Cell cycle related
+hsa-mir-24	Cell cycle related
+hsa-mir-27a	Cell cycle related
+hsa-mir-27b	Cell cycle related
+hsa-mir-29b	Cell cycle related
+hsa-mir-31	Cell cycle related
+hsa-mir-320	Cell cycle related
+hsa-mir-331	Cell cycle related
+hsa-mir-33b	Cell cycle related
+hsa-mir-34	Cell cycle related
+hsa-mir-34a	Cell cycle related
+hsa-mir-34b	Cell cycle related
+hsa-mir-34c	Cell cycle related
+hsa-mir-372	Cell cycle related
+hsa-mir-372	Cell cycle related
+hsa-mir-373	Cell cycle related
+hsa-mir-376b	Cell cycle related
+hsa-mir-424	Cell cycle related
+hsa-mir-449	Cell cycle related
+hsa-mir-449a	Cell cycle related
+hsa-mir-449b	Cell cycle related
+hsa-mir-494	Cell cycle related
+hsa-mir-499	Cell cycle related
+hsa-mir-503	Cell cycle related
+hsa-mir-9	Cell cycle related
+hsa-mir-92	Cell cycle related
+hsa-mir-92a	Cell cycle related
+hsa-mir-92b	Cell cycle related
+hsa-mir-96	Cell cycle related
+hsa-mir-98	Cell cycle related
+hsa-mir-1	Cell differentiation
+hsa-mir-124a	Cell differentiation
+hsa-mir-127	Cell differentiation
+hsa-mir-143	Cell differentiation
+hsa-mir-145	Cell differentiation
+hsa-mir-150	Cell differentiation
+hsa-mir-155	Cell differentiation
+hsa-mir-15a	Cell differentiation
+hsa-mir-16	Cell differentiation
+hsa-mir-18	Cell differentiation
+hsa-mir-194	Cell differentiation
+hsa-mir-206	Cell differentiation
+hsa-mir-210	Cell differentiation
+hsa-mir-222	Cell differentiation
+hsa-mir-34a	Cell differentiation
+hsa-mir-424	Cell differentiation
+hsa-mir-503	Cell differentiation
+hsa-let-7	Cell proliferation
+hsa-let-7c	Cell proliferation
+hsa-let-7d	Cell proliferation
+hsa-mir-124	Cell proliferation
+hsa-mir-125b	Cell proliferation
+hsa-mir-130a	Cell proliferation
+hsa-mir-140	Cell proliferation
+hsa-mir-143	Cell proliferation
+hsa-mir-145	Cell proliferation
+hsa-mir-150	Cell proliferation
+hsa-mir-15a	Cell proliferation
+hsa-mir-15b	Cell proliferation
+hsa-mir-16	Cell proliferation
+hsa-mir-206	Cell proliferation
+hsa-mir-21	Cell proliferation
+hsa-mir-221	Cell proliferation
+hsa-mir-222	Cell proliferation
+hsa-mir-24	Cell proliferation
+hsa-mir-27b	Cell proliferation
+hsa-mir-29b	Cell proliferation
+hsa-mir-34b	Cell proliferation
+hsa-mir-34c	Cell proliferation
+hsa-mir-373	Cell proliferation
+hsa-mir-449a	Cell proliferation
+hsa-mir-449b	Cell proliferation
+hsa-mir-451	Cell proliferation
+hsa-mir-9	Cell proliferation
+hsa-mir-92	Cell proliferation
+hsa-mir-16	Chemosensitivity of tumor cells
+hsa-mir-21	Chemosensitivity of tumor cells
+hsa-mir-140	Chemosensitivity of tumor cells
+hsa-mir-27a	Chemosensitivity of tumor cells
+hsa-let-7a	Granulopoiesis
+hsa-mir-15a	Granulopoiesis
+hsa-mir-15b	Granulopoiesis
+hsa-let-7d	Granulopoiesis
+hsa-let-7c	Granulopoiesis
+hsa-mir-223	Granulopoiesis
+hsa-mir-155	Granulopoiesis
+hsa-mir-17	Granulopoiesis
+hsa-mir-223	Granulopoiesis
+hsa-mir-196b	Granulopoiesis
+hsa-mir-21	Granulopoiesis
+hsa-mir-24	HCV infection
+hsa-mir-149	HCV infection
+hsa-mir-638	HCV infection
+hsa-mir-1181	HCV infection
+hsa-mir-122	HCV infection
+hsa-mir-223	HCV infection
+hsa-mir-10	HIV latency
+hsa-mir-106b	HIV latency
+hsa-mir-125b	HIV latency
+hsa-mir-126	HIV latency
+hsa-mir-127	HIV latency
+hsa-mir-128a	HIV latency
+hsa-mir-143	HIV latency
+hsa-mir149	HIV latency
+hsa-mir-155	HIV latency
+hsa-mir-17	HIV latency
+hsa-mir-18a	HIV latency
+hsa-mir-198	HIV latency
+hsa-mir-19a	HIV latency
+hsa-mir-19b	HIV latency
+hsa-mir-20a	HIV latency
+hsa-mir-223	HIV latency
+hsa-mir-25	HIV latency
+hsa-mir-29a	HIV latency
+hsa-mir-92a	HIV latency
+hsa-mir-93	HIV latency
+hsa-mir-N367	HIV latency
+hsa-let-7a	Hormones regulation
+hsa-mir-1	Hormones regulation
+hsa-mir-101	Hormones regulation
+hsa-mir-106a	Hormones regulation
+hsa-mir-106b	Hormones regulation
+hsa-mir-107	Hormones regulation
+hsa-mir-124a	Hormones regulation
+hsa-mir-126	Hormones regulation
+hsa-mir-128a	Hormones regulation
+hsa-mir-128b	Hormones regulation
+hsa-mir-132	Hormones regulation
+hsa-mir-133a	Hormones regulation
+hsa-mir-133b	Hormones regulation
+hsa-mir-135a	Hormones regulation
+hsa-mir-135b	Hormones regulation
+hsa-mir-139	Hormones regulation
+hsa-mir-146a	Hormones regulation
+hsa-mir-150	Hormones regulation
+hsa-mir-15a	Hormones regulation
+hsa-mir-16	Hormones regulation
+hsa-mir-17	Hormones regulation
+hsa-mir-18	Hormones regulation
+hsa-mir-18a	Hormones regulation
+hsa-mir-18b	Hormones regulation
+hsa-mir-199	Hormones regulation
+hsa-mir-19a	Hormones regulation
+hsa-mir-19b	Hormones regulation
+hsa-mir-206	Hormones regulation
+hsa-mir-208a	Hormones regulation
+hsa-mir-208b	Hormones regulation
+hsa-mir-20a	Hormones regulation
+hsa-mir-20b	Hormones regulation
+hsa-mir-21	Hormones regulation
+hsa-mir-212	Hormones regulation
+hsa-mir-22	Hormones regulation
+hsa-mir-221	Hormones regulation
+hsa-mir-222	Hormones regulation
+hsa-mir-223	Hormones regulation
+hsa-mir-23a	Hormones regulation
+hsa-mir-23b	Hormones regulation
+hsa-mir-24	Hormones regulation
+hsa-mir-25	Hormones regulation
+hsa-mir-27a	Hormones regulation
+hsa-mir-27b	Hormones regulation
+hsa-mir-296	Hormones regulation
+hsa-mir-29a	Hormones regulation
+hsa-mir-29b	Hormones regulation
+hsa-mir-29c	Hormones regulation
+hsa-mir-30d	Hormones regulation
+hsa-mir-34	Hormones regulation
+hsa-mir-346	Hormones regulation
+hsa-mir-363	Hormones regulation
+hsa-mir-375	Hormones regulation
+hsa-mir-449	Hormones regulation
+hsa-mir-484	Hormones regulation
+hsa-mir-499	Hormones regulation
+hsa-mir-690	Hormones regulation
+hsa-mir-7	Hormones regulation
+hsa-mir-9	Hormones regulation
+hsa-mir-92a	Hormones regulation
+hsa-mir-93	Hormones regulation
+hsa-mir-98	Hormones regulation
+hsa-mir-106a	Human embryonic stem cell (hESC) regulation
+hsa-mir-106b	Human embryonic stem cell (hESC) regulation
+hsa-mir-10a	Human embryonic stem cell (hESC) regulation
+hsa-mir-122	Human embryonic stem cell (hESC) regulation
+hsa-mir-124a	Human embryonic stem cell (hESC) regulation
+hsa-mir-125a	Human embryonic stem cell (hESC) regulation
+hsa-mir-125b	Human embryonic stem cell (hESC) regulation
+hsa-mir-126	Human embryonic stem cell (hESC) regulation
+hsa-mir-128	Human embryonic stem cell (hESC) regulation
+hsa-mir-132	Human embryonic stem cell (hESC) regulation
+hsa-mir-133	Human embryonic stem cell (hESC) regulation
+hsa-mir-134	Human embryonic stem cell (hESC) regulation
+hsa-mir-135b	Human embryonic stem cell (hESC) regulation
+hsa-mir-137	Human embryonic stem cell (hESC) regulation
+hsa-mir-141	Human embryonic stem cell (hESC) regulation
+hsa-mir-142	Human embryonic stem cell (hESC) regulation
+hsa-mir-143	Human embryonic stem cell (hESC) regulation
+hsa-mir-144	Human embryonic stem cell (hESC) regulation
+hsa-mir-145	Human embryonic stem cell (hESC) regulation
+hsa-mir-146a	Human embryonic stem cell (hESC) regulation
+hsa-mir-146b	Human embryonic stem cell (hESC) regulation
+hsa-mir-148a	Human embryonic stem cell (hESC) regulation
+hsa-mir-148b	Human embryonic stem cell (hESC) regulation
+hsa-mir-150	Human embryonic stem cell (hESC) regulation
+hsa-mir-155	Human embryonic stem cell (hESC) regulation
+hsa-mir-15b	Human embryonic stem cell (hESC) regulation
+hsa-mir-17	Human embryonic stem cell (hESC) regulation
+hsa-mir-181a	Human embryonic stem cell (hESC) regulation
+hsa-mir-182	Human embryonic stem cell (hESC) regulation
+hsa-mir-192	Human embryonic stem cell (hESC) regulation
+hsa-mir-195	Human embryonic stem cell (hESC) regulation
+hsa-mir-196a	Human embryonic stem cell (hESC) regulation
+hsa-mir-199a	Human embryonic stem cell (hESC) regulation
+hsa-mir-199b	Human embryonic stem cell (hESC) regulation
+hsa-mir-200	Human embryonic stem cell (hESC) regulation
+hsa-mir-200c	Human embryonic stem cell (hESC) regulation
+hsa-mir-203	Human embryonic stem cell (hESC) regulation
+hsa-mir-20a	Human embryonic stem cell (hESC) regulation
+hsa-mir-21	Human embryonic stem cell (hESC) regulation
+hsa-mir-210	Human embryonic stem cell (hESC) regulation
+hsa-mir-214	Human embryonic stem cell (hESC) regulation
+hsa-mir-218	Human embryonic stem cell (hESC) regulation
+hsa-mir-221	Human embryonic stem cell (hESC) regulation
+hsa-mir-222	Human embryonic stem cell (hESC) regulation
+hsa-mir-223	Human embryonic stem cell (hESC) regulation
+hsa-mir-24	Human embryonic stem cell (hESC) regulation
+hsa-mir-25	Human embryonic stem cell (hESC) regulation
+hsa-mir-26a	Human embryonic stem cell (hESC) regulation
+hsa-mir-26b	Human embryonic stem cell (hESC) regulation
+hsa-mir-278	Human embryonic stem cell (hESC) regulation
+hsa-mir-27a	Human embryonic stem cell (hESC) regulation
+hsa-mir-290	Human embryonic stem cell (hESC) regulation
+hsa-mir-291	Human embryonic stem cell (hESC) regulation
+hsa-mir-294	Human embryonic stem cell (hESC) regulation
+hsa-mir-295	Human embryonic stem cell (hESC) regulation
+hsa-mir-296	Human embryonic stem cell (hESC) regulation
+hsa-mir-302a	Human embryonic stem cell (hESC) regulation
+hsa-mir-302b	Human embryonic stem cell (hESC) regulation
+hsa-mir-302c	Human embryonic stem cell (hESC) regulation
+hsa-mir-302d	Human embryonic stem cell (hESC) regulation
+hsa-mir-309	Human embryonic stem cell (hESC) regulation
+hsa-mir-30b	Human embryonic stem cell (hESC) regulation
+hsa-mir-30c	Human embryonic stem cell (hESC) regulation
+hsa-mir-31	Human embryonic stem cell (hESC) regulation
+hsa-mir-322	Human embryonic stem cell (hESC) regulation
+hsa-mir-323	Human embryonic stem cell (hESC) regulation
+hsa-mir-326	Human embryonic stem cell (hESC) regulation
+hsa-mir-34	Human embryonic stem cell (hESC) regulation
+hsa-mir-346	Human embryonic stem cell (hESC) regulation
+hsa-mir-34a	Human embryonic stem cell (hESC) regulation
+hsa-mir-367	Human embryonic stem cell (hESC) regulation
+hsa-mir-369	Human embryonic stem cell (hESC) regulation
+hsa-mir-371	Human embryonic stem cell (hESC) regulation
+hsa-mir-372	Human embryonic stem cell (hESC) regulation
+hsa-mir-373	Human embryonic stem cell (hESC) regulation
+hsa-mir-379	Human embryonic stem cell (hESC) regulation
+hsa-mir-427	Human embryonic stem cell (hESC) regulation
+hsa-mir-429	Human embryonic stem cell (hESC) regulation
+hsa-mir-430	Human embryonic stem cell (hESC) regulation
+hsa-mir-451	Human embryonic stem cell (hESC) regulation
+hsa-mir-470	Human embryonic stem cell (hESC) regulation
+hsa-mir-486	Human embryonic stem cell (hESC) regulation
+hsa-mir-489	Human embryonic stem cell (hESC) regulation
+hsa-mir-9	Human embryonic stem cell (hESC) regulation
+hsa-mir-93	Human embryonic stem cell (hESC) regulation
+hsa-let-7g	Immune response
+hsa-let-7i	Immune response
+hsa-mir-100	Immune response
+hsa-mir-101	Immune response
+hsa-mir-105	Immune response
+hsa-mir-125b	Immune response
+hsa-mir-126	Immune response
+hsa-mir-132	Immune response
+hsa-mir-140	Immune response
+hsa-mir-143	Immune response
+hsa-mir-146a	Immune response
+hsa-mir-146b	Immune response
+hsa-mir-147	Immune response
+hsa-mir-150	Immune response
+hsa-mir-155	Immune response
+hsa-mir-15a	Immune response
+hsa-mir-16	Immune response
+hsa-mir-17	Immune response
+hsa-mir-181	Immune response
+hsa-mir-181a	Immune response
+hsa-mir-186	Immune response
+hsa-mir-188	Immune response
+hsa-mir-18a	Immune response
+hsa-mir-192	Immune response
+hsa-mir-196	Immune response
+hsa-mir-199	Immune response
+hsa-mir-19a	Immune response
+hsa-mir-19b	Immune response
+hsa-mir-203	Immune response
+hsa-mir-20a	Immune response
+hsa-mir-21	Immune response
+hsa-mir-223	Immune response
+hsa-mir-25	Immune response
+hsa-mir-27b	Immune response
+hsa-mir-31	Immune response
+hsa-mir-320	Immune response
+hsa-mir-328	Immune response
+hsa-mir-342	Immune response
+hsa-mir-370	Immune response
+hsa-mir-424	Immune response
+hsa-mir-449b	Immune response
+hsa-mir-500	Immune response
+hsa-mir-590	Immune response
+hsa-mir-710	Immune response
+hsa-mir-9	Immune response
+hsa-mir-92a	Immune response
+hsa-mir-98	Immune response
+hsa-mir-103	Immune response
+hsa-let-7g	Inflammation
+hsa-mir-1	Inflammation
+hsa-mir-100	Inflammation
+hsa-mir-105	Inflammation
+hsa-mir-1224	Inflammation
+hsa-mir-125b	Inflammation
+hsa-mir-126	Inflammation
+hsa-mir-132	Inflammation
+hsa-mir-133a	Inflammation
+hsa-mir-140	Inflammation
+hsa-mir-143	Inflammation
+hsa-mir-146a	Inflammation
+hsa-mir-146b	Inflammation
+hsa-mir-147	Inflammation
+hsa-mir-150	Inflammation
+hsa-mir-155	Inflammation
+hsa-mir-17	Inflammation
+hsa-mir-181a	Inflammation
+hsa-mir-182	Inflammation
+hsa-mir-183	Inflammation
+hsa-mir-188	Inflammation
+hsa-mir-192	Inflammation
+hsa-mir-196	Inflammation
+hsa-mir-199	Inflammation
+hsa-mir-199a	Inflammation
+hsa-mir-203	Inflammation
+hsa-mir-21	Inflammation
+hsa-mir-223	Inflammation
+hsa-mir-25	Inflammation
+hsa-mir-27b	Inflammation
+hsa-mir-31	Inflammation
+hsa-mir-320	Inflammation
+hsa-mir-328	Inflammation
+hsa-mir-342	Inflammation
+hsa-mir-370	Inflammation
+hsa-mir-449b	Inflammation
+hsa-mir-500	Inflammation
+hsa-mir-705	Inflammation
+hsa-mir-710	Inflammation
+hsa-mir-9	Inflammation
+hsa-mir-98	Inflammation
+hsa-mir-1	Muscle development
+hsa-mir-24	Muscle development
+hsa-mir-206	Muscle development
+hsa-mir-222	Muscle development
+hsa-mir-221	Muscle development
+hsa-mir-124	Muscle development
+hsa-mir-499	Muscle development
+hsa-mir-23a	Muscle development
+hsa-mir-208b	Muscle development
+hsa-mir-133a	Muscle development
+hsa-mir-133b	Muscle development
+hsa-mir-143	Folliculogenesis
+hsa-let-7a	Folliculogenesis
+hsa-mir-125b	Folliculogenesis
+hsa-let-7b	Folliculogenesis
+hsa-let-7c	Folliculogenesis
+hsa-mir-21	Folliculogenesis
+hsa-mir-15b	Folliculogenesis
+hsa-mir-122	lipid metabolism
+hsa-mir-33a	lipid metabolism
+hsa-mir-33b	lipid metabolism
+hsa-mir-370	lipid metabolism
+hsa-mir-375	lipid metabolism
+hsa-mir-335	lipid metabolism
+hsa-mir-378	lipid metabolism
+hsa-mir-27a	lipid metabolism
+hsa-mir-27b	lipid metabolism
+hsa-mir-125a	lipid metabolism
+hsa-mir-103	lipid metabolism
+hsa-mir-196a	lipid metabolism
+hsa-mir-196b	lipid metabolism
+hsa-mir-296	lipid metabolism
+hsa-mir-98	lipid metabolism
+hsa-mir-143	lipid metabolism
+hsa-mir-107	lipid metabolism
+hsa-mir-34a	lipid metabolism
+hsa-mir-181d	lipid metabolism
+hsa-mir-10b	lipid metabolism
+hsa-mir-103	brain development
+hsa-mir-124a	brain development
+hsa-mir-124b	brain development
+hsa-mir-135	brain development
+hsa-mir-323	brain development
+hsa-mir-156	brain development
+hsa-mir-218	brain development
+hsa-mir-326	brain development
+hsa-mir-329	brain development
+hsa-mir-344	brain development
+hsa-mir-192	brain development
+hsa-mir-17	brain development
+hsa-mir-18a	brain development
+hsa-mir-29c	brain development
+hsa-mir-106a	brain development
+hsa-mir-106b	brain development
+hsa-mir-135a	brain development
+hsa-mir-221	brain development
+hsa-mir-222	brain development
+hsa-mir-134	brain development
+hsa-mir-184	brain development
+hsa-mir-9	brain development
+hsa-mir-20a	brain development
+hsa-mir-128	brain development
+hsa-mir-133b	brain development
+hsa-mir-103	hematopoiesis
+hsa-mir-143	hematopoiesis
+hsa-mir-145	hematopoiesis
+hsa-mir-378	hematopoiesis
+hsa-mir-146a	hematopoiesis
+hsa-mir-126	hematopoiesis
+hsa-mir-125b	hematopoiesis
+hsa-mir-223	hematopoiesis
+hsa-mir-142	hematopoiesis
+hsa-mir-1	hematopoiesis
+hsa-mir-133a	hematopoiesis
+hsa-mir-34a	hematopoiesis
+hsa-mir-196a	hematopoiesis
+hsa-mir-196b	hematopoiesis
+hsa-mir-221	hematopoiesis
+hsa-mir-222	hematopoiesis
+hsa-mir-17	hematopoiesis
+hsa-mir-18a	hematopoiesis
+hsa-mir-19a	hematopoiesis
+hsa-mir-19b	hematopoiesis
+hsa-mir-20a	hematopoiesis
+hsa-mir-92a	hematopoiesis
+hsa-mir-155	hematopoiesis
+hsa-mir-150	hematopoiesis
+hsa-mir-181a	hematopoiesis
+hsa-mir-15a	hematopoiesis
+hsa-mir-29c	hematopoiesis
+hsa-mir-302	hematopoiesis
+hsa-mir-98	hematopoiesis
+hsa-mir-29a	hematopoiesis
+hsa-let-7a	hematopoiesis
+hsa-mir-103	adipocyte differentiation
+hsa-mir-143	adipocyte differentiation
+hsa-mir-375	adipocyte differentiation
+hsa-mir-130a	adipocyte differentiation
+hsa-mir-221	adipocyte differentiation
+hsa-mir-222	adipocyte differentiation
+hsa-mir-448	adipocyte differentiation
+hsa-mir-378	adipocyte differentiation
+hsa-mir-27a	adipocyte differentiation
+hsa-mir-27b	adipocyte differentiation
+hsa-mir-204	adipocyte differentiation
+hsa-mir-211	adipocyte differentiation
+hsa-let-7a	adipocyte differentiation
+hsa-let-7b	adipocyte differentiation
+hsa-let-7c	adipocyte differentiation
+hsa-let-7d	adipocyte differentiation
+hsa-let-7e	adipocyte differentiation
+hsa-let-7f	adipocyte differentiation
+hsa-let-7g	adipocyte differentiation
+hsa-let-7h	adipocyte differentiation
+hsa-let-7i	adipocyte differentiation
+hsa-mir-17	adipocyte differentiation
+hsa-mir-18a	adipocyte differentiation
+hsa-mir-19a	adipocyte differentiation
+hsa-mir-19b	adipocyte differentiation
+hsa-mir-20a	adipocyte differentiation
+hsa-mir-92a	adipocyte differentiation
+hsa-mir-132	circadian clock
+hsa-mir-219	circadian clock
+hsa-mir-182	circadian clock
+hsa-mir-183	circadian clock
+hsa-mir-96	circadian clock
+hsa-mir-122	circadian clock
+hsa-mir-192	circadian clock
+hsa-mir-194	circadian clock
+hsa-mir-191	circadian clock
+hsa-mir-181d	circadian clock
+hsa-mir-143	smooth muscle cell fate
+hsa-mir-145	smooth muscle cell fate
+hsa-mir-122	carbohydrate metabolism
+hsa-mir-451	carbohydrate metabolism
+hsa-mir-27	carbohydrate metabolism
+hsa-mir-200a	carbohydrate metabolism
+hsa-mir-200b	carbohydrate metabolism
+hsa-mir-429	carbohydrate metabolism
+hsa-mir-21	carbohydrate metabolism
+hsa-mir-16	cell death
+hsa-mir-184	cell death
+hsa-mir-205	cell death
+hsa-mir-125b	cell death
+hsa-mir-129	cell death
+hsa-mir-1	cell death
+hsa-mir-206	cell death
+hsa-mir-513	cell death
+hsa-mir-7	cell death
+hsa-mir-143	cell death
+hsa-mir-145	cell death
+hsa-mir-155	cell death
+hsa-mir-1226	cell death
+hsa-mir-130b	cell death
+hsa-mir-146a	cell death
+hsa-mir-14	cell death
+hsa-mir-212	cell death
+hsa-mir-380	cell death
+hsa-mir-497	cell death
+hsa-mir-494	cell death
+hsa-mir-21	cell death
+hsa-mir-181b	cell death
+hsa-mir-34a	cell death
+hsa-mir-182	cell death
+hsa-mir-183	cell death
+hsa-mir-128	cell death
+hsa-mir-630	cell death
+hsa-mir-221	cell death
+hsa-mir-222	cell death
+hsa-mir-210	cell death
+hsa-mir-203	cell death
+hsa-mir-10b	cell death
+hsa-mir-23b	cell death
+hsa-mir-885	cell death
+hsa-mir-181a	cell death
+hsa-mir-886	cell death
+hsa-let-7a	cell death
+hsa-let-7b	cell death
+hsa-let-7c	cell death
+hsa-let-7d	cell death
+hsa-let-7e	cell death
+hsa-let-7f	cell death
+hsa-let-7g	cell death
+hsa-let-7h	cell death
+hsa-let-7i	cell death
+hsa-mir-98	cell death
+hsa-mir-376c	cell death
+hsa-mir-17	cell death
+hsa-mir-18a	cell death
+hsa-mir-19a	cell death
+hsa-mir-19b	cell death
+hsa-mir-20a	cell death
+hsa-mir-92a	cell death
+hsa-mir-25	cell death
+hsa-mir-30d	cell death
+hsa-mir-15a	cell division
+hsa-mir-107	cell division
+hsa-mir-124	cell division
+hsa-mir-519	cell division
+hsa-mir-16	cell division
+hsa-mir-34a	cell division
+hsa-mir-106b	cell division
+hsa-let-7a	cell division
+hsa-let-7b	cell division
+hsa-let-7c	cell division
+hsa-let-7d	cell division
+hsa-let-7e	cell division
+hsa-let-7f	cell division
+hsa-let-7g	cell division
+hsa-let-7h	cell division
+hsa-let-7i	cell division
+hsa-mir-27a	cell division
+hsa-mir-302a	cell fate determination
+hsa-mir-302b	cell fate determination
+hsa-mir-302c	cell fate determination
+hsa-mir-302d	cell fate determination
+hsa-mir-302e	cell fate determination
+hsa-mir-302f	cell fate determination
+hsa-let-7a	cell fate determination
+hsa-let-7b	cell fate determination
+hsa-let-7c	cell fate determination
+hsa-let-7d	cell fate determination
+hsa-let-7e	cell fate determination
+hsa-let-7f	cell fate determination
+hsa-let-7g	cell fate determination
+hsa-let-7h	cell fate determination
+hsa-let-7i	cell fate determination
+hsa-mir-150	cell fate determination
+hsa-mir-155	cell fate determination
+hsa-mir-183	cell fate determination
+hsa-mir-96	cell fate determination
+hsa-mir-182	cell fate determination
+hsa-mir-495	cell fate determination
+hsa-mir-218	cell fate determination
+hsa-mir-34	cell fate determination
+hsa-mir-9	cell fate determination
+hsa-mir-273	cell fate determination
+hsa-mir-125	cell fate determination
+hsa-mir-205	cell motility
+hsa-mir-488	cell motility
+hsa-mir-151	cell motility
+hsa-mir-10b	cell motility
+hsa-mir-206	cell motility
+hsa-mir-21	cell motility
+hsa-mir-584	cell motility
+hsa-mir-31	cell motility
+hsa-mir-145	cell motility
+hsa-mir-9	cell motility
+hsa-mir-200a	cell motility
+hsa-mir-222	cell motility
+hsa-mir-128	cell motility
+hsa-mir-143	cell motility
+hsa-mir-21	cell motility
+hsa-mir-886	chemotaxis
+hsa-mir-210	chemotaxis
+hsa-mir-122	cholesterol biosynthesis
+hsa-mir-33	cholesterol biosynthesis
+hsa-mir-21	chromatin remodeling
+hsa-mir-199a	chromatin remodeling
+hsa-mir-132	chromatin remodeling
+hsa-mir-31	chromatin remodeling
+hsa-mir-512	chromatin remodeling
+hsa-mir-223	chromatin remodeling
+hsa-mir-16	circadian rhythm
+hsa-mir-122	circadian rhythm
+hsa-mir-192	circadian rhythm
+hsa-mir-194	circadian rhythm
+hsa-mir-26a	circadian rhythm
+hsa-mir-181d	circadian rhythm
+hsa-mir-191	circadian rhythm
+hsa-mir-182	circadian rhythm
+hsa-mir-183	circadian rhythm
+hsa-mir-96	circadian rhythm
+hsa-mir-219	circadian rhythm
+hsa-mir-182	DNA repair
+hsa-mir-291a	DNA repair
+hsa-mir-101	DNA repair
+hsa-mir-155	DNA repair
+hsa-mir-34a	DNA repair
+hsa-mir-34c	DNA repair
+hsa-mir-210	DNA repair
+hsa-mir-373	DNA repair
+hsa-mir-24	DNA repair
+hsa-mir-521	DNA repair
+hsa-mir-34a	glucose metabolism
+hsa-mir-223	glucose metabolism
+hsa-mir-23a	glucose metabolism
+hsa-mir-23b	glucose metabolism
+hsa-mir-375	glucose metabolism
+hsa-mir-124a	glucose metabolism
+hsa-mir-1	heart development
+hsa-mir-133a	heart development
+hsa-mir-133b	heart development
+hsa-mir-27b	heart development
+hsa-mir-208	heart development
+hsa-mir-499	heart development
+hsa-mir-21	heart development
+hsa-mir-200a	Epithelial-mesenchymal transition
+hsa-mir-200b	Epithelial-mesenchymal transition
+hsa-mir-200c	Epithelial-mesenchymal transition
+hsa-mir-141	Epithelial-mesenchymal transition
+hsa-mir-203	Epithelial-mesenchymal transition
+hsa-mir-137	Epithelial-mesenchymal transition
+hsa-mir-429	Epithelial-mesenchymal transition
+hsa-let-7a	Epithelial-mesenchymal transition
+hsa-mir-144	Epithelial-mesenchymal transition
+hsa-mir-205	Epithelial-mesenchymal transition
+hsa-mir-23b	Epithelial-mesenchymal transition
+hsa-mir-29c	Epithelial-mesenchymal transition
+hsa-mir-370	Epithelial-mesenchymal transition
+hsa-mir-155	Epithelial-mesenchymal transition
+hsa-mir-369	Epithelial-mesenchymal transition
+hsa-mir-450	Epithelial-mesenchymal transition
+hsa-mir-542	Epithelial-mesenchymal transition
+hsa-mir-30a	Epithelial-mesenchymal transition
+hsa-mir-30b	Epithelial-mesenchymal transition
+hsa-mir-30c	Epithelial-mesenchymal transition
+hsa-mir-30d	Epithelial-mesenchymal transition
+hsa-mir-30e	Epithelial-mesenchymal transition
+hsa-mir-1915	Epithelial-mesenchymal transition
+hsa-mir-1909	Epithelial-mesenchymal transition
+hsa-mir-194	Epithelial-mesenchymal transition
+hsa-mir-21	Epithelial-mesenchymal transition
+hsa-mir-31	Epithelial-mesenchymal transition
+hsa-mir-448	Epithelial-mesenchymal transition
+hsa-mir-382	Epithelial-mesenchymal transition
+hsa-mir-103	Epithelial-mesenchymal transition
+hsa-mir-107	Epithelial-mesenchymal transition
+hsa-mir-661	Epithelial-mesenchymal transition
+hsa-mir-221	Epithelial-mesenchymal transition
+hsa-mir-192	Epithelial-mesenchymal transition
+hsa-mir-215	Epithelial-mesenchymal transition
+hsa-mir-125a	Epithelial-mesenchymal transition
+hsa-let-7b	Epithelial-mesenchymal transition
+hsa-let-7c	Epithelial-mesenchymal transition
+hsa-let-7d	Epithelial-mesenchymal transition
+hsa-let-7e	Epithelial-mesenchymal transition
+hsa-mir-29a	Epithelial-mesenchymal transition
+hsa-mir-106a	onco-miRNAs
+hsa-mir-106b	onco-miRNAs
+hsa-mir-107	onco-miRNAs
+hsa-mir-146a	onco-miRNAs
+hsa-mir-146b	onco-miRNAs
+hsa-mir-155	onco-miRNAs
+hsa-mir-17	onco-miRNAs
+hsa-mir-18a	onco-miRNAs
+hsa-mir-191	onco-miRNAs
+hsa-mir-19a	onco-miRNAs
+hsa-mir-19b	onco-miRNAs
+hsa-mir-20a	onco-miRNAs
+hsa-mir-21	onco-miRNAs
+hsa-mir-210	onco-miRNAs
+hsa-mir-214	onco-miRNAs
+hsa-mir-221	onco-miRNAs
+hsa-mir-222	onco-miRNAs
+hsa-mir-223	onco-miRNAs
+hsa-mir-24	onco-miRNAs
+hsa-mir-372	onco-miRNAs
+hsa-mir-373	onco-miRNAs
+hsa-mir-92a	onco-miRNAs
+hsa-mir-93	onco-miRNAs
+hsa-mir-150	onco-miRNAs
+hsa-mir-18b	onco-miRNAs
+hsa-mir-194	onco-miRNAs
+hsa-mir-196a	onco-miRNAs
+hsa-mir-203	onco-miRNAs
+hsa-mir-20b	onco-miRNAs
+hsa-mir-224	onco-miRNAs
+hsa-mir-27a	onco-miRNAs
+hsa-mir-101	miRNA tumor suppressors
+hsa-mir-1	miRNA tumor suppressors
+hsa-mir-122	miRNA tumor suppressors
+hsa-mir-126	miRNA tumor suppressors
+hsa-mir-141	miRNA tumor suppressors
+hsa-mir-200a	miRNA tumor suppressors
+hsa-mir-200b	miRNA tumor suppressors
+hsa-mir-200c	miRNA tumor suppressors
+hsa-mir-451	miRNA tumor suppressors
+hsa-let-7a	miRNA tumor suppressors
+hsa-let-7b	miRNA tumor suppressors
+hsa-let-7c	miRNA tumor suppressors
+hsa-let-7d	miRNA tumor suppressors
+hsa-let-7e	miRNA tumor suppressors
+hsa-let-7f	miRNA tumor suppressors
+hsa-let-7g	miRNA tumor suppressors
+hsa-let-7i	miRNA tumor suppressors
+hsa-mir-124	miRNA tumor suppressors
+hsa-mir-125a	miRNA tumor suppressors
+hsa-mir-125b	miRNA tumor suppressors
+hsa-mir-127	miRNA tumor suppressors
+hsa-mir-143	miRNA tumor suppressors
+hsa-mir-145	miRNA tumor suppressors
+hsa-mir-15a	miRNA tumor suppressors
+hsa-mir-16	miRNA tumor suppressors
+hsa-mir-181a	miRNA tumor suppressors
+hsa-mir-181b	miRNA tumor suppressors
+hsa-mir-181c	miRNA tumor suppressors
+hsa-mir-195	miRNA tumor suppressors
+hsa-mir-26a	miRNA tumor suppressors
+hsa-mir-26b	miRNA tumor suppressors
+hsa-mir-29a	miRNA tumor suppressors
+hsa-mir-29c	miRNA tumor suppressors
+hsa-mir-34a	miRNA tumor suppressors
+hsa-mir-34b	miRNA tumor suppressors
+hsa-mir-34c	miRNA tumor suppressors
+hsa-mir-98	miRNA tumor suppressors
