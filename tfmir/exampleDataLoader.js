@@ -87,6 +87,17 @@ function loadExampleData() {
 	$('#function').val("cell proliferation");
 	$('#evidence').val("Experimental");
 	$('#species').val("Human");
+	$('#enrich_pvalue').val("0.05")
+	$('#ppIcut').val("0.8")
 
+
+	docCookies.setItem('evidence', 'Experimental');
+	docCookies.setItem('species', 'Human');
+	docCookies.setItem('randomization.method', 'conserved');
+	docCookies.setItem('disease', 'Breast Neoplasms');
+	docCookies.setItem('tissue', 'Breast - Mammary Tissue');
+	docCookies.setItem('function', 'cell proliferation');
+	docCookies.setItem('enrich_pvalue', '0.05');
+	docCookies.setItem('ppIcut', '0.8');
 	log("Example files for breast cancer have been loaded into your session. Check your p-Value and experimental evidence and click the processing button to start analysis.")
 }
