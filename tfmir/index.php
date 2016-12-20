@@ -217,7 +217,7 @@ $_SESSION['LAST_ACTIVITY'] = time();
 						</tr>
 						<tr>
 							<td class="desc">PPI threshold</td>
-							<td><input class="chosen_border" title="Enter a treshold between 0 and 1" name="ppIcut" type="text" size="6" value="<?php echo checkInput('orapvalue','0.8');?>" onchange="if (checkRange(0.0,1.0)) setCookie(this);"></td>
+							<td><input class="chosen_border" title="Enter a treshold between 0 and 1" name="ppIcut" type="text" size="6" value="<?php echo checkInput('ppIcut','0.8');?>" onchange="if (checkRange(0.0,1.0)) setCookie(this);"></td>
 							<td class="random">
 								Randomization Method
 							</td>
