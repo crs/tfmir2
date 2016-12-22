@@ -159,7 +159,7 @@ $_SESSION['LAST_ACTIVITY'] = time();
 							</td>
 						<!-- done by Maryam -->
 						
-							<td class="desc">ORA p-palue treshold </td>
+							<td class="desc">ORA p-palue threshold </td>
 							<td><input class="chosen_border" title="Sets p-value threshold for GO enrichment calculations. Enter a value between 0 and 1." name="orapvalue" type="text" size="6" value="<?php echo checkInput('orapvalue','0.05');?>" onchange="if (checkRange(0.0,1.0)) setCookie(this);"></td>
 							
 						</tr>
