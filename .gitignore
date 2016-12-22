@@ -1,5 +1,6 @@
 .DS_Store
 .AppleDouble
+.project
 tfmir/tfmir2.tar.gz
 tfmir/uploads/*/
 backend/Data/databases_mouse.RDATA
