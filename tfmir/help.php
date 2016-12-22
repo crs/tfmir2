@@ -5,7 +5,7 @@
 <html>
 
 <head>
-<title>TFmiR Help</title>
+<title>TFmiR 2.0 Help</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <link rel="stylesheet" href="faq.css">
@@ -23,7 +23,7 @@
 		<ol><li>For a list of up- and downregulated (1) mRNAs and (2) miRNAs from a differential analysis, 
 		TFmiR builds a co-regulatory network based on parameters set (3).</li>
 		<li>Database retrieval of predicted and experimentally validated interactions, based on confidence level</li>
-		<li>Generate general and disease, tissue, process, disease & process, tissue & process and disease & tissue specific co-regulatory networks</li>
+		<li>Generate complete, disease-, tissue-, process-, disease & process-, tissue & process- and disease & tissue-specific co-regulatory networks</li>
 		</ol>
 	</div>
 	</li>
@@ -34,8 +34,8 @@
 		<ol> 
 		<li> a list of mRNA identifiers with an indicator for their up- or downregulation (-1/1)</li>
 		<li> (optional) a list of miRNA identifiers with an indicator for their up- or downregulation (-1/1)</li>
-		<li> parameters that determine the enrichment p-value (mRNA/miRNA), p-value treshold for the overrepresentation analysis, the associated disease, the associated process, the associated tissue 
-		 , the confidence level (experimentally validated and/or predicted interactions), PPI threshold and randomization method for detection of motifs.</li>
+		<li> parameters that determine the enrichment p-value (mRNA/miRNA), p-value treshold for the overrepresentation analysis, the associated disease, 
+		the associated process, the associated tissue, the confidence level (experimentally validated and/or predicted interactions), PPI/GGI threshold and randomization method for detection of motifs.</li>
 		</ol>
 	</div>
 	</li>
