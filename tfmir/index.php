@@ -134,7 +134,7 @@ $_SESSION['LAST_ACTIVITY'] = time();
 						<tr>
 							<td class="desc">Enrichment p-value<br /> (mRNA/miRNA)</td>
 							<td>
-								<input class="chosen_border" title="Enter a treshold between 0 and 1" name="enrich_pvalue" type="text" size="6" value="<?php echo checkInput('orapvalue','0.05');?>" onchange="if (checkRange(0.0,1.0)) setCookie(this);">
+								<input class="chosen_border" title="Sets p-value for miRNA-target enrichment calculations. Enter a value between 0 and 1." name="enrich_pvalue" type="text" size="6" value="<?php echo checkInput('enrich_pvalue','0.05');?>" onchange="if (checkRange(0.0,1.0)) setCookie(this);">
 							</td>
 							<!--
 							<td class="desc">
@@ -152,21 +152,21 @@ $_SESSION['LAST_ACTIVITY'] = time();
 						<tr>
 							<td class="desc">Species</td>
 							<td>
-								<select class="chosen_border" id="species" name="species" title="Choose species; either human or mouse" onchange="setCookie(this);updateTotal();">
+								<select class="chosen_border" id="species" name="species" title="Sets species." onchange="setCookie(this);updateTotal();">
 									<option <?php echo checkOption('species','Human') ?> value="Human" >Human</option>
 									<option <?php echo checkOption('species','Mouse') ?> value="Mouse">Mouse</option>
 								</select>
 							</td>
 						<!-- done by Maryam -->
 						
-							<td class="desc">ORA p-Value treshold </td>
-							<td><input class="chosen_border" title="Enter a treshold between 0 and 1" name="orapvalue" type="text" size="6" value="<?php echo checkInput('orapvalue','0.05');?>" onchange="if (checkRange(0.0,1.0)) setCookie(this);"></td>
+							<td class="desc">ORA p-palue treshold </td>
+							<td><input class="chosen_border" title="Sets p-value threshold for GO enrichment calculations. Enter a value between 0 and 1." name="orapvalue" type="text" size="6" value="<?php echo checkInput('orapvalue','0.05');?>" onchange="if (checkRange(0.0,1.0)) setCookie(this);"></td>
 							
 						</tr>
 						<tr>
 							<td class="desc">Related disease</td>
 							<td>
-								<select class="chosen_border" style="width:400px;" title="Choose a disease; use search field to narrow options" id="disease" name="disease" onchange="setCookie(this);">
+								<select class="chosen_border" style="width:400px;" title="Prunes the networks according to a specific disease. Use the search field to narrow the options." id="disease" name="disease" onchange="setCookie(this);">
 								<option <?php echo checkOption('disease', ''); ?> value="">No disease</option>
 									<?php 
 									include_once('diseaseFunctions.php');
@@ -180,7 +180,7 @@ $_SESSION['LAST_ACTIVITY'] = time();
 							</td>
 							<td class="desc">Related process</td>
 							<td>
-								<select   class="chosen_border" style="width:400px;height:100px;" title="Choose a process; use search field to narrow options" id="function"  name="function[]" onchange="setCookie(this);" multiple="multiple">
+								<select   class="chosen_border" style="width:400px;height:100px;" title="Prunes the networks according to one or multiple process annotations." id="function"  name="function[]" onchange="setCookie(this);" multiple="multiple">
 								 <option <?php echo checkOption('function', ''); ?> value="">No function</option>
 									<?php 
 									include_once('processFunctions.php');
@@ -193,7 +193,7 @@ $_SESSION['LAST_ACTIVITY'] = time();
 						<tr>
 							<td class="desc">Related tissue</td>
 							<td>
-								<select class="chosen_border" style="width:400px;" title="Choose a tissue; use search field to narrow options" id="tissue" name="tissue" onchange="setCookie(this);">
+								<select class="chosen_border" style="width:400px;" title="Prunes the networks according to a specific tissue." id="tissue" name="tissue" onchange="setCookie(this);">
 								<option <?php echo checkOption('tissue', ''); ?> value="">No tissue</option>
 									<?php 
 									include_once('tissueFunctions.php');
@@ -216,8 +216,8 @@ $_SESSION['LAST_ACTIVITY'] = time();
 							</td>
 						</tr>
 						<tr>
-							<td class="desc">PPI threshold</td>
-							<td><input class="chosen_border" id="ppIcut" title="Enter a treshold between 0 and 1" name="ppIcut" type="text" size="6" value="<?php echo checkInput('ppIcut','0.8');?>" onchange="if (checkRange(0.0,1.0)) setCookie(this);"></td>
+							<td class="desc">Protein-Protein/Gene-Gene interaction cutoff</td>
+							<td><input class="chosen_border" id="ppIcut" title="Sets a reliability cutoff for the protein-protein/gene-gene interactions included. Enter a value between 0 and 1." name="ppIcut" type="text" size="6" value="<?php echo checkInput('ppIcut','0.8');?>" onchange="if (checkRange(0.0,1.0)) setCookie(this);"></td>
 							<td class="desc"> <!-- random? -->
 								Randomization Method
 							</td>
@@ -258,37 +258,37 @@ $_SESSION['LAST_ACTIVITY'] = time();
 						</div> -->
 						
 						<div id='disease' title="Click to explore the disease specific interaction network" class="diseaseButton resultButton inactive floating">
-							<h3>Disease specific network</h3>
+							<h3>Disease-specific network</h3>
 							<img class="interactionResultButton" src="img/all.png" alt="Disease specific interaction network" />
 							<!-- <h4>Combined results</h4> -->
 						</div>
 						
 						<div id='disease_process' title="Click to explore the disease_process specific interaction network" class="disease_processButton resultButton inactive floating">
-							<h3>Disease & Process specific network</h3>
+							<h3>Disease & Process-specific network</h3>
 							<img class="interactionResultButton" src="img/all.png" alt="Disease Process specific interaction network" />
 							<!-- <h4>Combined results</h4> -->
 						</div>
 						
 						<div id='process' title="Click to explore the process specific interaction network" class="functionButton resultButton inactive floating">
-							<h3>Process specific network</h3>
+							<h3>Process-specific network</h3>
 							<img class="interactionResultButton" src="img/all.png" alt="Process specific interaction network" />
 							<!-- <h4>Combined results</h4> -->
 						</div>
 						
 						<div id='tissue_process' title="Click to explore the disease_process specific interaction network" class="tissue_processButton resultButton inactive floating">
-							<h3>Tissue & Process specific network</h3>
+							<h3>Tissue & Process-specific network</h3>
 							<img class="interactionResultButton" src="img/all.png" alt="Tissue Process specific interaction network" />
 							<!-- <h4>Combined results</h4> -->
 						</div>
 						
 						<div id='tissue' title="Click to explore the tissue specific interaction network" class="tissueButton resultButton inactive floating">
-							<h3>Tissue specific network</h3>
+							<h3>Tissue-specific network</h3>
 							<img class="interactionResultButton" src="img/all.png" alt="Tissue specific interaction network" />
 							<!-- <h4>Combined results</h4> -->
 						</div>
 						
 						<div id='disease_tissue' title="Click to explore the disease_tissue specific interaction network" class="disease_tissueButton resultButton inactive floating">
-							<h3>Disease & Tissue specific network</h3>
+							<h3>Disease & Tissue-specific network</h3>
 							<img class="interactionResultButton" src="img/all.png" alt="Disease Tissue specific interaction network" />
 							<!-- <h4>Combined results</h4> -->
 						</div>
