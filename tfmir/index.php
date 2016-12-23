@@ -132,9 +132,9 @@ $_SESSION['LAST_ACTIVITY'] = time();
 					<table>
 						<!-- done by Maryam -->
 						<tr>
-							<td class="desc">Enrichment p-value<br /> (mRNA/miRNA)</td>
+							<td class="desc">miRNA-target enrichment p-value threshold<br /> (mRNA/miRNA)</td>
 							<td>
-								<input class="chosen_border" title="Sets p-value for miRNA-target enrichment calculations. Enter a value between 0 and 1." name="enrich_pvalue" type="text" size="6" value="<?php echo checkInput('enrich_pvalue','0.05');?>" onchange="if (checkRange(0.0,1.0)) setCookie(this);">
+								<input class="chosen_border" title="Sets p-value threshold for miRNA-target enrichment calculations. Enter a value between 0 and 1." name="enrich_pvalue" type="text" size="6" value="<?php echo checkInput('enrich_pvalue','0.05');?>" onchange="if (checkRange(0.0,1.0)) setCookie(this);">
 							</td>
 							<!--
 							<td class="desc">
@@ -159,7 +159,7 @@ $_SESSION['LAST_ACTIVITY'] = time();
 							</td>
 						<!-- done by Maryam -->
 						
-							<td class="desc">ORA p-palue threshold </td>
+							<td class="desc">ORA p-value threshold </td>
 							<td><input class="chosen_border" title="Sets p-value threshold for GO enrichment calculations. Enter a value between 0 and 1." name="orapvalue" type="text" size="6" value="<?php echo checkInput('orapvalue','0.05');?>" onchange="if (checkRange(0.0,1.0)) setCookie(this);"></td>
 							
 						</tr>
