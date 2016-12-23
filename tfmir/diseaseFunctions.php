@@ -1,7 +1,15 @@
 <?php
 
 
-function getDiseaseOptions($filename) {
+function getDiseaseOptions($species) {
+  
+  if ($species == "Mus") {
+    $filename = "../backend/disease_Mus.txt";
+  }
+  
+  if ($species == "HM") {
+    $filename = "../backend/disease_HM.txt";
+  }
   
   $f = fopen($filename, 'r');
   $pb = '';

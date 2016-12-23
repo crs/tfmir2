@@ -2,7 +2,17 @@
 <?php
 
 
-function getTissueOptions($filename) {
+function getTissueOptions($tissue) {
+
+    
+  if ($tissue == "Mus") {
+    $filename = "../backend/tissue_Mus.txt";
+  }
+  
+  if ($tissue == "HM") {
+    $filename = "../backend/tissue_HM.txt";
+  }
+  
 
 	$f = fopen($filename, 'r');
 	$pb = '';

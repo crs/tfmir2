@@ -55,16 +55,16 @@ $_SESSION['LAST_ACTIVITY'] = time();
 		function updateTotal() {
 			var e = document.getElementById("species");
 			var strUser = e.options[e.selectedIndex].value;
-			var DiseaseList = "../backend/disease_HM.txt";
-			var TissueList = "../backend/tissue_HM.txt";
+			var DiseaseList;
+			var TissueList; 
 			if(strUser === "Mouse"){
-				DiseaseList = "../backend/disease_Mus.txt";
-				TissueList = "../backend/tissue_Mus.txt";
+				DiseaseList = "Mus";
+				TissueList = "Mus";
 				window.location.href = "index.php?w1=" + DiseaseList + "&w2=" + TissueList;
 			}
 			else{
-				DiseaseList = "../backend/disease_HM.txt";
-				TissueList = "../backend/tissue_HM.txt";
+				DiseaseList = "HM";
+				TissueList = "HM";
 				window.location.href = "index.php?w1=" + DiseaseList + "&w2=" + TissueList;
 			} 
 			
@@ -170,7 +170,7 @@ $_SESSION['LAST_ACTIVITY'] = time();
 								<option <?php echo checkOption('disease', ''); ?> value="">No disease</option>
 									<?php 
 									include_once('diseaseFunctions.php');
-									$D = "../backend/disease_HM.txt";
+									$D = "HM";
 									if (isset($_GET["w1"]))
 										$D = $_GET["w1"];
 									echo getDiseaseOptions($D);
@@ -197,7 +197,7 @@ $_SESSION['LAST_ACTIVITY'] = time();
 								<option <?php echo checkOption('tissue', ''); ?> value="">No tissue</option>
 									<?php 
 									include_once('tissueFunctions.php');
-									$T = "../backend/tissue_HM.txt";
+									$T = "HM";
 									if (isset($_GET["w2"]))
 										$T = $_GET["w2"];
 									echo getTissueOptions($T);
