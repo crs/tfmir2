@@ -87,7 +87,7 @@ $_SESSION['LAST_ACTIVITY'] = time();
 				<div class="heading">Step 1: Input selection 
 				<?php 
 					if (!file_exists('./uploads/'.session_id())) {
-						?><div class="exampleDataButton"><a href="#" onclick="loadExampleData(); return false;" class="starburst4" title="Load an example dataset for a functionality demonstration"><span><span><span><span><br />Load example data</span></span></span></span></a>
+						?><div class="exampleDataButton"><a href="#" onclick="loadExampleData(); location.reload(); return false;" class="starburst4" title="Load an example dataset for a functionality demonstration"><span><span><span><span><br />Load example data</span></span></span></span></a>
 						</div><?php
 					} else {
 						?>
