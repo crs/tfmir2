@@ -502,15 +502,15 @@ function msieversion() {
 }
 
 function eraseCookie(name) {
-    docCookies.setItem(name,"");
+    docCookies.setItem(name,"",-1);
 }
 
 function clearSession() {
 	if (confirm('This will remove all generated results. Are you sure?')) {
 		console.log('delete');
-		var cookies = document.cookie.split(";");
+		var cookies = docCookies.keys();
 		for (var i = 0; i < cookies.length; i++)
-  			eraseCookie(cookies[i].split("=")[0]);
+  			docCookies.removeItem(cookies[i]);
 		$.get('deleteSession.php', function(data) {
 			log('Deleted');
 			location.reload();
