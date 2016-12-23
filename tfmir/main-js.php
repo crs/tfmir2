@@ -67,7 +67,7 @@ var docCookies = {
 
 function initCookie(target, value) {
 	if (!docCookies.hasItem(target)) {
-		log("Initialize cookie " + target + " with " + value);
+		console.log("Initialize cookie " + target + " with " + value);
 		docCookies.setItem(target,value);
 	} else {
 		console.log(target + " cookie already set to " + value);
