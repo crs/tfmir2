@@ -132,7 +132,7 @@ $_SESSION['LAST_ACTIVITY'] = time();
 					<table>
 						<!-- done by Maryam -->
 						<tr>
-							<td class="desc">miRNA-target enrichment p-value threshold<br /> (mRNA/miRNA)</td>
+							<td class="desc">miRNA-target enrichment p-value threshold</td>
 							<td>
 								<input class="chosen_border" title="Sets p-value threshold for miRNA-target enrichment calculations. Enter a value between 0 and 1." name="enrich_pvalue" type="text" size="6" value="<?php echo checkInput('enrich_pvalue','0.05');?>" onchange="if (checkRange(0.0,1.0)) setCookie(this);">
 							</td>
