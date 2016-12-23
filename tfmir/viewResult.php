@@ -37,11 +37,11 @@ $tabs = getTabFor($_REQUEST['dataset']);
 <div id="pageframe">
 	<div id="tabs-nested-left" class="tabs">
 		<ul class="ui-tabs-nav">
+			<li class="ui-state-active ui-state-default ui-corner-top ui-tabs-anchor"><a class="ui-tabs-anchor" href="viewResult.php?dataset=all">Complete<img class="sidebarimgLrg" src="./img/all.png" alt="Show complete interaction network" /></a></li>
 			<li class="ui-state-active ui-state-default ui-corner-top ui-tabs-anchor"><a class="ui-tabs-anchor" href="viewResult.php?dataset=disease">Disease<img class="sidebarimgLrg" src="./img/all.png" alt="Show disease-specific interaction network"/></a></li> 
 			<li class="ui-state-active ui-state-default ui-corner-top ui-tabs-anchor"><a class="ui-tabs-anchor" href="viewResult.php?dataset=process">Process<img class="sidebarimgLrg" src="./img/all.png" alt="Show process-specific interaction network" /></a></li> 
 			<li class="ui-state-active ui-state-default ui-corner-top ui-tabs-anchor"><a class="ui-tabs-anchor" href="viewResult.php?dataset=disease_process">Disease-Process<img class="sidebarimgLrg" src="./img/all.png" alt="Show disease-process-specific interaction network" /></a></li>
 			<li class="ui-state-active ui-state-default ui-corner-top ui-tabs-anchor"><a class="ui-tabs-anchor" href="viewResult.php?dataset=tissue">Tissue<img class="sidebarimgLrg" src="./img/all.png" alt="Show tissue interaction network" /></a></li> 
-			<li class="ui-state-active ui-state-default ui-corner-top ui-tabs-anchor"><a class="ui-tabs-anchor" href="viewResult.php?dataset=all">Complete<img class="sidebarimgLrg" src="./img/all.png" alt="Show complete interaction network" /></a></li>
 			<li class="ui-state-active ui-state-default ui-corner-top ui-tabs-anchor"><a class="ui-tabs-anchor" href="viewResult.php?dataset=tissue_process">Tissue-Process<img class="sidebarimgLrg" src="./img/all.png" alt="Show tissue-process-specific interaction network" /></a></li>
 			<li class="ui-state-active ui-state-default ui-corner-top ui-tabs-anchor"><a class="ui-tabs-anchor" href="viewResult.php?dataset=disease_tissue">Disease-Tissue<img class="sidebarimgLrg" src="./img/all.png" alt="Show disease-tissue-specific interaction network" /></a></li>
 			<hr />
