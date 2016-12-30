@@ -352,7 +352,7 @@ function uploadFile(formId) {
   		document.getElementById('processingButton').onclick = function () {
   			startProcessing(); checkResults(); return false;};
   		$('#processingButton').attr('title',"Ready! Click to start processing.");
-  		log('mRNA received, ready to start processing');
+  		log(formId + ' received, ready to start processing');
   	}	
   });
   
@@ -365,11 +365,12 @@ function uploadFile(formId) {
   xhr.send(fd);
 	document.getElementById(formId + '-filename').value = xhr.filename;
 	
-	console.log("FormData filename: " + fd.filename + "ID: " + "#current_" + formId);
+	console.log("FormData filename: " + fd.filename + " ID: " + "#current_" + formId);
 	//log(document.getElementById(formId + '-filename').value);
 	if (formId === 'mRNAfileToUpload') {
 		log('mRNA')
 	}
+  console.log(xhr);
 }
 
 function uploadProgress(evt) {
@@ -398,6 +399,7 @@ function uploadFailed(evt) {
 
 function uploadCanceled(evt) {
   alert("The upload has been canceled by the user or the browser dropped the connection.");
+	console.log(evt);
 	log(evt.target.response);
 	document.getElementById('meter').style.visibility='hidden';
 	console.log(this.status);

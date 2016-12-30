@@ -35,4 +35,3 @@ if(move_uploaded_file($_FILES['uploadedfile']['tmp_name'], $target_path)) {
 
 
 ?>
-</html>

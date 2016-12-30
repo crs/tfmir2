@@ -1,9 +1,20 @@
+function wait(ms){
+   var start = new Date().getTime();
+   var end = start;
+   console.log("Waiting");
+   while(end < start + ms) {
+     end = new Date().getTime();
+  }
+   console.log("Continue");
+}
+
 function loadExampleData() {
 	console.log('Mimic sample data upload');
 	$('#mirnaDemo').attr('value', true);
 	$('#mrnaDemo').attr('value', true);
 
 	uploadFile('miRNA');
+	wait(1500);
 	uploadFile('mRNA');	
 
 	$('#mirnaDemo').attr('value', false);
