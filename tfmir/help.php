@@ -322,6 +322,8 @@ etc...
 	</tr>
 	
 </table>
+	<div class="q">Which databases are incorporated into TFmiR2 for mouse?</div>
+	<div class="a">These databases are used:<br />
 <table>
 	<tr>
 		<td>
