@@ -58,9 +58,8 @@ etc...
 	the dataset automatically.
 	</div>
 	</li>
-	<li>
-	<div class="q">Which databases are incorporated into TFmiR for human?</div>
-	<div class="a">These databases are used:<br />
+<div class="q">Which databases are incorporated into TFmiR for human?</div>
+<div class="a">These databases are used:<br />
 <!-- <img src="img/dbtable.png" alt="table of used databases"> -->
 <table>
 	<tr>
@@ -521,7 +520,8 @@ etc...
 	</tr>
 	
 </table>
-(P) means predicted interactions and (E) means experimentally validated interactions.
+(P) means
+predicted interactions and (E) means experimentally validated interactions.
 	</div>
 	</li>
 	<li>
