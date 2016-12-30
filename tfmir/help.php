@@ -418,7 +418,6 @@ etc...
 	</tr>
 	<tr>
 	<td></td>
-		<td>
 		<td><a title="Open database webpage" target="blank" href="http://deepbase.sysu.edu.cn/chipbase/">
 			ChipBase
 			</a> (P)
