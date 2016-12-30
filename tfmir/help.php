@@ -419,10 +419,10 @@ etc...
 	<tr>
 	<td></td>
 		<td>
-		<a title="Download dataset as published at BMC (.doc)" target="blank" href="http://www.biomedcentral.com/content/supplementary/1752-0509-4-90-s1.doc">
-			Chipbase
+		<td><a title="Open database webpage" target="blank" href="http://deepbase.sysu.edu.cn/chipbase/">
+			ChipBase
 			</a> (P)
-			<a title="Qiu, C., Wang, J., Yao, P., Wang, E. and Cui, Q. (2010) microRNA evolution in a human transcription factor and microRNA regulatory network. BMC systems biology, 4, 90" href="http://www.biomedcentral.com/1752-0509/4/90">[6]</a>
+			<a title="Yang, J.-H., Li, J.-H., Jiang, S., Zhou, H. and Qu, L.-H. (2013) ChIPBase: a database for decoding the transcriptional regulation of long non-coding RNA and microRNA genes from ChIP-Seq data. Nucleic acids research, 41, D177-D187" href="http://nar.oxfordjournals.org/content/41/D1/D177">[6]</a>
 		</td>
 		<td>
 			63
