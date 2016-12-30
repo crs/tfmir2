@@ -322,8 +322,202 @@ etc...
 	</tr>
 	
 </table>
-(P) means
-predicted interactions and (E) means experimentally validated interactions.
+<table>
+	<tr>
+		<td>
+			Interaction
+		</td>
+		<td>
+			Databases
+			(P/E) *
+		</td>
+		<td>
+			Genes
+		</td>
+		<td>
+			miRNAs
+		</td>
+		<td>
+			Regulatory
+			links
+		</td>
+		<td>
+			Version
+			/frozen date
+		</td>
+	</tr>
+	<tr>
+		<td>
+			TF &#8594; gene
+		</td>
+		<td>
+			<a title="Open database webpage" target="blank" href="http://www.oreganno.org/">
+			OregAnno
+			</a> (E)
+			<a title="Griffith, O.L., Montgomery, S.B., Bernier, B., Chu, B., Kasaian, K., Aerts, S., Mahony, S., Sleumer, M.C., Bilenky, M. and Haeussler, M. (2008) ORegAnno: an open-access community-driven resource for regulatory annotation. Nucleic acids research, 36, D107-D113" href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2239002/">[2]</a>
+		</td>
+		<td>
+			169
+		</td>
+		<td>
+			--
+		</td>
+		<td>
+			182
+		</td>
+		<td>
+			--
+		</td>
+	</tr>
+	<tr>
+	<td></td>
+		<td><a title="Open database webpage" target="blank" href="">
+			ITFB (P) 
+			</a>
+			<a title="">[12]</a>
+		</td>
+		<td>
+			5118
+		</td>
+		<td>
+			--
+		</td>
+		<td>
+			34679
+		</td>
+		<td>
+			--<a
+			></a>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			TF &#8594; miRNA
+		</td>
+		<td>
+		<a title="Open database webpage" target="blank" href="http://cmbi.bjmu.edu.cn/transmir">
+			TransmiR
+			</a> (E)
+			<a title="Wang, J., Lu, M., Qiu, C. and Cui, Q. (2010) TransmiR: a transcription factor–microRNA regulation database. Nucleic acids research, 38, D119-D122" href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2808874/">[4]</a>
+		</td>
+		<td>
+			27
+		</td>
+		<td>
+			34
+		</td>
+		<td>
+			45
+		</td>
+		<td>
+			--
+		</td>
+	</tr>
+	<tr>
+	<td></td>
+		<td>
+		<a title="Download dataset as published at BMC (.doc)" target="blank" href="http://www.biomedcentral.com/content/supplementary/1752-0509-4-90-s1.doc">
+			Chipbase
+			</a> (P)
+			<a title="Qiu, C., Wang, J., Yao, P., Wang, E. and Cui, Q. (2010) microRNA evolution in a human transcription factor and microRNA regulatory network. BMC systems biology, 4, 90" href="http://www.biomedcentral.com/1752-0509/4/90">[6]</a>
+		</td>
+		<td>
+			63
+		</td>
+		<td>
+			623
+		</td>
+		<td>
+			5764
+		</td>
+		<td>
+			--
+		</td>
+	</tr>
+	
+	<tr>
+		<td>
+			miRNA &#8594; gene
+		</td>
+		<td><a title="Open database webpage" target="blank" href="http://miRTarBase.mbc.nctu.edu.tw/">
+			miRTarBase
+			</a> (E)
+			<a title="Hsu, S.-D., Lin, F.-M., Wu, W.-Y., Liang, C., Huang, W.-C., Chan, W.-L., Tsai, W.-T., Chen, G.-Z., Lee, C.-J. and Chiu, C.-M. (2010) miRTarBase: a database curates experimentally validated microRNA–target interactions. Nucleic acids research, gkq1107" href="http://www.ncbi.nlm.nih.gov/pubmed/21071411">[7]</a>
+		</td>
+		<td>
+			3
+		</td>
+		<td>
+			4
+		</td>
+		<td>
+			4
+		</td>
+		<td>
+			--
+		</td>
+	</tr>
+	<tr>
+	<td></td>
+		<td><a title="Open database webpage" target="blank" href="http://diana.imis.athena-innovation.gr/DianaTools/index.php?r=tarbase/index">
+			TarBase
+			</a> (E)
+			<a title="Sethupathy, P., Corda, B. and Hatzigeorgiou, A.G. (2006) TarBase: A comprehensive database of experimentally supported animal microRNA targets. Rna, 12, 192-197" href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1370898/">[8]</a>
+		</td>
+		<td>
+			83
+		</td>
+		<td>
+			44
+		</td>
+		<td>
+			122
+		</td>
+		<td>
+			--
+		</td>
+	</tr>
+	<tr><td></td>
+		<td><a title="Open database webpage" target="blank" href="http://www.hsls.pitt.edu/obrc/index.php?page=URL1237998207">
+			miRecords
+			</a> (E)
+			<a title="Xiao, F., Zuo, Z., Cai, G., Kang, S., Gao, X. and Li, T. (2009) miRecords: an integrated resource for microRNA–target interactions. Nucleic acids research, 37, D105-D110" href="http://nar.oxfordjournals.org/content/37/suppl_1/D105.abstract">[9]</a>
+		</td>
+		<td>
+			265
+		</td>
+		<td>
+			145
+		</td>
+		<td>
+			384
+		</td>
+		<td>
+			--
+		</td>
+	</tr>
+	<tr><td></td>
+		<td><a title="Open database webpage" target="blank" href="http://starbase.sysu.edu.cn/">
+			starBase
+			</a> (P)
+			<a title="Yang, J.-H., Li, J.-H., Shao, P., Zhou, H., Chen, Y.-Q. and Qu, L.-H. (2011) starBase: a database for exploring microRNA–mRNA interaction maps from Argonaute CLIP-Seq and Degradome-Seq data. Nucleic acids research, 39, D202-D209" href="http://www.ncbi.nlm.nih.gov/pubmed/21037263">[10]</a>
+		</td>
+		<td>
+			1096
+		</td>
+		<td>
+			289
+		</td>
+		<td>
+			10865
+		</td>
+		<td>
+			--
+		</td>
+	</tr>
+	
+</table>
+(P) means predicted interactions and (E) means experimentally validated interactions.
 	</div>
 	</li>
 	<li>
