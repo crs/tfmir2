@@ -217,10 +217,12 @@ all.res.disease.tissue=all.res[(all.res$is_regulator_in_disease==TRUE & all.res$
   all.res.process.tissue.specific = list()
   all.res.tissue.process.tissue.specific = list()
   all.res.disease.process.tissue.specific = list()
+  all.res.disease.tissue.tissue.specific = list()
   tissue.specific.gene = list()
   tissue.specific.gene = getTissue_specificGenes(tissue)
-  names(tissue.specific.gene) = "regulator"
+  
   if(dim(tissue.specific.gene)[1] > 0){
+    names(tissue.specific.gene) = "regulator"
     all.res.tissue.specific = union(intersect(all.res$regulator,tissue.specific.gene$regulator),intersect(all.res$target,tissue.specific.gene$regulator))
     all.res.disease.tissue.specific = union(intersect(all.res.disease$regulator,tissue.specific.gene$regulator),intersect(all.res.disease$target,tissue.specific.gene$regulator))
     all.res.normal.tissue.specific = union(intersect(all.res.tissue$regulator,tissue.specific.gene$regulator),intersect(all.res.tissue$target,tissue.specific.gene$regulator))
